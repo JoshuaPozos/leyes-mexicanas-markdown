@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LDCMPME.pdf",
     "dof_publication": "DOF30/12/2002",
     "last_reform": "DOF 20/10/2023",
-    "captured_at": "2026-04-10T00:51:38.260181+00:00"
+    "captured_at": "2026-06-12T02:14:17.584133+00:00"
   },
   "preamble": [
     {
@@ -121,8 +121,46 @@
               "text": "MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público y publicada en el Diario Oficial de la Federación, partiendo de la siguiente:"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Estratificación por Número de Trabajadores",
+                "",
+                "",
+                ""
+              ],
+              "rows": [
+                [
+                  "Sector/Tamaño",
+                  "Industria",
+                  "Comercio",
+                  "Servicios"
+                ],
+                [
+                  "Micro",
+                  "0-10",
+                  "0-10",
+                  "0-10"
+                ],
+                [
+                  "Pequeña",
+                  "11-50",
+                  "11-30",
+                  "11-50"
+                ],
+                [
+                  "Mediana",
+                  "51-250",
+                  "31-100",
+                  "51-100"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 2
+            },
+            {
               "type": "paragraph",
-              "text": "Estratificación por Número de Trabajadores Sector/Tamaño Industria Comercio Servicios Micro 0-10 0-10 0-10 Pequeña 11-50 11-30 11-50 Mediana 51-250 31-100 51-100 Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y de bienes culturales, así como prestadores de servicios turísticos y culturales;"
+              "text": "Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y de bienes culturales, así como prestadores de servicios turísticos y culturales;"
             },
             {
               "type": "reform_note",

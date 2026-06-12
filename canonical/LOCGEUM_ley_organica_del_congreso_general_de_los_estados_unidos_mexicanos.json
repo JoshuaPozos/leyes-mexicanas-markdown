@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LOCGEUM.pdf",
     "dof_publication": "DOF03/09/1999",
     "last_reform": "DOF 07/07/2025",
-    "captured_at": "2026-04-10T01:43:20.474792+00:00"
+    "captured_at": "2026-06-12T02:35:18.487379+00:00"
   },
   "preamble": [
     {
@@ -4054,8 +4054,192 @@
           "text": "Los asuntos a cargo de las comisiones ordinarias y especiales vigentes, así como de los comités se distribuirán de la siguiente forma:"
         },
         {
-          "type": "paragraph",
-          "text": "COMISIONES VIGENTES NUEVAS COMISIONES O COMITES Asuntos de la Frontera Sur Gobernación, Población y Seguridad Pública Asuntos Fronterizos Gobernación y Puntos Constitucionales Población y Desarrollo Protección Civil Radio, Televisión y Cinematografía Seguridad Pública Gobernación y Puntos Constitucionales Puntos Constitucionales y Sistema Federal (iniciativas de reforma constitucional) Fortalecimiento del Federalismo Fortalecimiento Municipal Derechos Humanos Justicia y Derechos Humanos Justicia Relaciones Exteriores Relaciones Exteriores Defensa Nacional Defensa Nacional Marina Marina Hacienda y Crédito Público Hacienda y Crédito Público Desarrollo Regional y Apoyo a la Producción Presupuesto y Cuenta Pública Programación, Presupuesto y Cuenta Pública Asentamientos Humanos y Obras Públicas Desarrollo Social y Vivienda Desarrollo Social Vivienda Asuntos Hidráulicos Medio Ambiente, Recursos Naturales y Pesca Bosques y Selvas Ecología y Medio Ambiente Pesca Energéticos Energía Artesanías Comercio y Fomento Industrial Comercio Patrimonio y Fomento Industrial Agricultura Agricultura, Ganadería y Desarrollo Rural Ganadería Comunicaciones y Transportes Comunicaciones y Transportes Ciencia y Tecnología Educación Pública, Cultura y Ciencia y Tecnología Corrección de Estilo Cultura Deporte Educación Pensionados y Jubilados Salud y Seguridad Social Salud Seguridad Social Trabajo y Previsión Social Trabajo y Previsión Social Reforma Agraria Reforma Agraria Turismo Turismo Estudios Legislativos Reglamentos y Prácticas Parlamentarias Reglamentos y Prácticas Parlamentarias Distrito Federal Distrito Federal Asuntos Indígenas Asuntos Indígenas Equidad y Género Equidad y Género Atención y Apoyo a Discapacitados Atención a Grupos Vulnerables Asuntos de la Juventud Participación Ciudadana Fomento Cooperativo Fomento Cooperativo y Economía Social Distribución y Manejo de Bienes de Consumo y Servicios Vigilancia de la Contaduría Mayor de Hacienda Vigilancia de la Contaduría Mayor de Hacienda Comisión Información, Gestoría y Quejas Comité de Información, Gestoría y Quejas COMITES VIGENTES ORGANO O AREA QUE ASUME SUS TAREAS Administración Junta de Coordinación Política Asuntos Editoriales Coordinación de Comunicación Social Asuntos Internacionales Comisión de Relaciones Exteriores Biblioteca e Informática Servicios de Bibliotecas Comunicación Social Coordinación de Comunicación Social Instituto de investigaciones Legislativas Centro de Estudios de Derecho e Investigaciones Parlamentarias"
+          "type": "table",
+          "title": null,
+          "headers": [
+            "COMISIONES VIGENTES",
+            "NUEVAS COMISIONES O COMITES"
+          ],
+          "rows": [
+            [
+              "Asuntos de la Frontera Sur Asuntos Fronterizos Gobernación y Puntos Constitucionales Población y Desarrollo Protección Civil Radio, Televisión y Cinematografía Seguridad Pública",
+              "Gobernación, Población y Seguridad Pública"
+            ],
+            [
+              "Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional) Fortalecimiento del Federalismo Fortalecimiento Municipal",
+              "Puntos Constitucionales y Sistema Federal"
+            ]
+          ],
+          "source_method": "text",
+          "source_page": 62
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "Derechos Humanos Justicia",
+            "Justicia y Derechos Humanos"
+          ],
+          "rows": [
+            [
+              "Relaciones Exteriores",
+              "Relaciones Exteriores"
+            ],
+            [
+              "Defensa Nacional",
+              "Defensa Nacional"
+            ],
+            [
+              "Marina",
+              "Marina"
+            ],
+            [
+              "Hacienda y Crédito Público",
+              "Hacienda y Crédito Público"
+            ],
+            [
+              "Desarrollo Regional y Apoyo a la Producción Programación, Presupuesto y Cuenta Pública",
+              "Presupuesto y Cuenta Pública"
+            ],
+            [
+              "Asentamientos Humanos y Obras Públicas Desarrollo Social Vivienda",
+              "Desarrollo Social y Vivienda"
+            ],
+            [
+              "Asuntos Hidráulicos Bosques y Selvas Ecología y Medio Ambiente Pesca",
+              "Medio Ambiente, Recursos Naturales y Pesca"
+            ],
+            [
+              "Energéticos",
+              "Energía"
+            ],
+            [
+              "Artesanías Comercio Patrimonio y Fomento Industrial",
+              "Comercio y Fomento Industrial"
+            ],
+            [
+              "Agricultura Ganadería",
+              "Agricultura, Ganadería y Desarrollo Rural"
+            ],
+            [
+              "Comunicaciones y Transportes",
+              "Comunicaciones y Transportes"
+            ],
+            [
+              "Ciencia y Tecnología Corrección de Estilo Cultura Deporte",
+              "Educación Pública, Cultura y Ciencia y Tecnología"
+            ]
+          ],
+          "source_method": "text",
+          "source_page": 63
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "Educación",
+            ""
+          ],
+          "rows": [
+            [
+              "Pensionados y Jubilados Salud Seguridad Social",
+              "Salud y Seguridad Social"
+            ],
+            [
+              "Trabajo y Previsión Social",
+              "Trabajo y Previsión Social"
+            ],
+            [
+              "Reforma Agraria",
+              "Reforma Agraria"
+            ],
+            [
+              "Turismo",
+              "Turismo"
+            ],
+            [
+              "Estudios Legislativos Reglamentos y Prácticas Parlamentarias",
+              "Reglamentos y Prácticas Parlamentarias"
+            ],
+            [
+              "Distrito Federal",
+              "Distrito Federal"
+            ],
+            [
+              "Asuntos Indígenas",
+              "Asuntos Indígenas"
+            ],
+            [
+              "Equidad y Género",
+              "Equidad y Género"
+            ],
+            [
+              "Atención y Apoyo a Discapacitados Asuntos de la Juventud Participación Ciudadana",
+              "Atención a Grupos Vulnerables"
+            ],
+            [
+              "Fomento Cooperativo Distribución y Manejo de Bienes de Consumo y Servicios",
+              "Fomento Cooperativo y Economía Social"
+            ],
+            [
+              "Vigilancia de la Contaduría Mayor de Hacienda",
+              "Vigilancia de la Contaduría Mayor de Hacienda"
+            ],
+            [
+              "Comisión Información, Gestoría y Quejas",
+              "Comité de Información, Gestoría y Quejas"
+            ]
+          ],
+          "source_method": "text",
+          "source_page": 64
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "COMITES VIGENTES",
+            "ORGANO O AREA QUE ASUME SUS TAREAS"
+          ],
+          "rows": [
+            [
+              "Administración",
+              "Junta de Coordinación Política"
+            ],
+            [
+              "Asuntos Editoriales",
+              "Coordinación de Comunicación Social"
+            ],
+            [
+              "Asuntos Internacionales",
+              "Comisión de Relaciones Exteriores"
+            ],
+            [
+              "Biblioteca e Informática",
+              "Servicios de Bibliotecas"
+            ],
+            [
+              "Comunicación Social",
+              "Coordinación de Comunicación Social"
+            ]
+          ],
+          "source_method": "text",
+          "source_page": 64
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "Instituto de investigaciones Legislativas",
+              "Centro de Estudios de Derecho e Investigaciones Parlamentarias"
+            ]
+          ],
+          "source_method": "text",
+          "source_page": 65
         },
         {
           "type": "inciso",
@@ -6702,8 +6886,52 @@
               "text": "Los asuntos a cargo de las Comisiones Ordinarias que se extinguen o fusionan, se distribuirán de la siguiente forma:"
             },
             {
-              "type": "paragraph",
-              "text": "Comisiones Ordinarias que se extinguen o Nuevas Comisiones Ordinarias fusionan Agricultura y Sistemas de Riego Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria Desarrollo Rural Reforma Agraria Agua Potable y Saneamiento Recursos Hidráulicos, Agua Potable y Saneamiento Recursos Hidráulicos Cambio Climático Medio Ambiente, Sustentabilidad, Cambio Climático y Recursos Naturales Medio Ambiente y Recursos Naturales Ciudad de México Gobernación y Población Competitividad Economía, Comercio y Competitividad Economía Comunicaciones Comunicaciones y Transportes Transportes Desarrollo Metropolitano Desarrollo Metropolitano, Urbano, Ordenamiento Territorial y Movilidad Desarrollo Urbano y Ordenamiento Territorial Desarrollo Municipal Federalismo y Desarrollo Municipal Fortalecimiento al Federalismo Gobernación Gobernación y Población Población"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Comisiones Ordinarias que se extinguen o fusionan",
+                "Nuevas Comisiones Ordinarias"
+              ],
+              "rows": [
+                [
+                  "Agricultura y Sistemas de Riego Desarrollo Rural Reforma Agraria",
+                  "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria"
+                ],
+                [
+                  "Agua Potable y Saneamiento Recursos Hidráulicos",
+                  "Recursos Hidráulicos, Agua Potable y Saneamiento"
+                ],
+                [
+                  "Cambio Climático Medio Ambiente y Recursos Naturales",
+                  "Medio Ambiente, Sustentabilidad, Cambio Climático y Recursos Naturales"
+                ],
+                [
+                  "Ciudad de México",
+                  "Gobernación y Población"
+                ],
+                [
+                  "Competitividad Economía",
+                  "Economía, Comercio y Competitividad"
+                ],
+                [
+                  "Comunicaciones Transportes",
+                  "Comunicaciones y Transportes"
+                ],
+                [
+                  "Desarrollo Metropolitano Desarrollo Urbano y Ordenamiento Territorial",
+                  "Desarrollo Metropolitano, Urbano, Ordenamiento Territorial y Movilidad"
+                ],
+                [
+                  "Desarrollo Municipal Fortalecimiento al Federalismo",
+                  "Federalismo y Desarrollo Municipal"
+                ],
+                [
+                  "Gobernación Población",
+                  "Gobernación y Población"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 109
             },
             {
               "type": "inciso",

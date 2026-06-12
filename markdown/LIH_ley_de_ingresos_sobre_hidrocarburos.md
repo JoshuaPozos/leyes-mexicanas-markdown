@@ -282,9 +282,11 @@ Lo dispuesto en los artículos 23 y 24 de la presente Ley no será aplicable a l
 ### Artículo 23
 .- Los Contratos preverán el pago mensual a favor del Estado Mexicano de la Cuota Contractual para la Fase Exploratoria, por la parte del Área Contractual que no se encuentre en la fase de producción, de conformidad con las siguientes cuotas:
 
-I. Durante los primeros 60 meses de vigencia del 1,150 pesos por kilómetro cuadrado Contrato
+| I. Durante los primeros 60 meses de vigencia del Contrato | 1,150 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia del Contrato y en adelante | 2,750 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia del Contrato y 2,750 pesos por kilómetro cuadrado en adelante Los valores para las cuotas mensuales contempladas en este artículo se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior.
+Los valores para las cuotas mensuales contempladas en este artículo se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior.
 
 ### Artículo 24
 .- Los Contratos preverán Contraprestaciones cada Periodo denominadas Regalías, a favor del Estado Mexicano. El monto de las Regalías se determinará para cada tipo de Hidrocarburo mediante la aplicación de la tasa correspondiente, determinada de conformidad con las fracciones I a III de este artículo, al Valor Contractual del Petróleo, al Valor Contractual del Gas Natural y al Valor Contractual de los Condensados, de acuerdo a lo siguiente:
@@ -832,10 +834,24 @@ V. Sin perjuicio de lo dispuesto en las fracciones anteriores, durante el ejerci
 VI. La Cámara de Diputados realizará las previsiones presupuestales necesarias para el cumplimiento de lo dispuesto en la Ley de Ingresos sobre Hidrocarburos.
 
 VII. Para los efectos de las fracciones I y II del artículo 41 y los incisos a) y b) de la fracción I del artículo 42 de la Ley de Ingresos sobre Hidrocarburos, en lugar de aplicar los porcentajes contenidos en dichos preceptos, durante los ejercicios fiscales 2015 al 2018 se aplicarán los siguientes porcentajes:
-Ejercicio Fiscal Porcentaje 2015 10.600% 2016 11.075% 2017 11.550% 2018 12.025%
+
+| Ejercicio Fiscal | Porcentaje |
+| --- | --- |
+| 2015 | 10.600% |
+| 2016 | 11.075% |
+| 2017 | 11.550% |
+| 2018 | 12.025% |
+
 
 VIII. Para los efectos de los artículos 39 y 42 de la Ley de Ingresos sobre Hidrocarburos, en lugar de aplicar la tasa contenida en el citado artículo 39, durante los ejercicios fiscales 2015 al 2018 se aplicarán las siguientes tasas:
-Ejercicio Fiscal Tasa 2015 70.00% 2016 68.75% 2017 67.50% 2018 66.25%
+
+| Ejercicio Fiscal | Tasa |
+| --- | --- |
+| 2015 | 70.00% |
+| 2016 | 68.75% |
+| 2017 | 67.50% |
+| 2018 | 66.25% |
+
 
 IX. El Gobierno Federal deberá, a través de la banca de desarrollo, establecer vehículos o mecanismos de financiamiento, incluyendo fondos, fideicomisos y/o sociedades, pudiendo contar con la participación del sector privado, que permitan a cualquier persona física o moral, invertir recursos para financiar las actividades de reconocimiento, exploración, extracción, transporte, almacenamiento, comercialización, distribución y actividades conexas relacionadas con la industria de hidrocarburos que se realicen en los términos previstos en la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos. Asimismo, el Gobierno Federal podrá establecer mecanismos o instrumentos financieros para asegurar la estabilidad y certeza de los elementos económicos de los actos a que se refiere esta ley.
 El vehículo financiero especializado del Estado Mexicano a que se refiere el artículo 16 de la Ley de Hidrocarburos podrá recibir recursos de los vehículos o mecanismos de financiamiento que se establezcan conforme a lo dispuesto en el párrafo primero de esta fracción. Lo anterior, sin perjuicio de otros recursos que se aprueben para los mismos fines en el Presupuesto de Egresos de la Federación y de las demás fuentes de financiamiento previstas en la Constitución y demás disposiciones jurídicas aplicables.
@@ -861,9 +877,10 @@ I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Dere
 ### Artículo 45
 .- ....................................................................................................................................
 
-I. Durante los primeros 60 meses de 1,175.42 pesos por kilómetro vigencia de la Asignación cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,175.42 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 2,810.78 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia de la 2,810.78 pesos por kilómetro Asignación y en adelante cuadrado
 
 ### Artículo 55
 .- ....................................................................................................................................
@@ -892,9 +909,11 @@ I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Dere
 ### Artículo 45
 .- ....................................................................................................................................
 
-I. Durante los primeros 60 meses de vigencia de la 1,214.21 pesos por kilómetro cuadrado Asignación
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,214.21 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 2,903.54 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia de la Asignación 2,903.54 pesos por kilómetro cuadrado y en adelante ..........................................................................................................................................................
+..........................................................................................................................................................
 
 ### Artículo 55
 .- ....................................................................................................................................
@@ -911,9 +930,11 @@ I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Dere
 ### Artículo 45
 .- ....................................................................................................................................
 
-I. Durante los primeros 60 meses de vigencia de la 1,355.82 pesos por kilómetro cuadrado Asignación
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,355.82 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,242.17 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia de la Asignación 3,242.17 pesos por kilómetro cuadrado y en adelante ..........................................................................................................................................................
+..........................................................................................................................................................
 
 ### Artículo 55
 .- ....................................................................................................................................
@@ -943,9 +964,11 @@ I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Dere
 ### Artículo 45
 .- ....................................................................................................................................
 
-I. Durante los primeros 60 meses de vigencia de la 1,396.09 pesos por kilómetro cuadrado Asignación
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,396.09 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,338.46 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia de la Asignación 3,338.46 pesos por kilómetro cuadrado y en adelante ..........................................................................................................................................................
+..........................................................................................................................................................
 
 ### Artículo 55
 .- ....................................................................................................................................
@@ -963,9 +986,11 @@ I. Conforme a la regla 10.19., se dan a conocer las cuotas actualizadas del Dere
 ### Artículo 45
 .-...........................................................
 
-I. Durante los primeros 60 meses de vigencia 1,442.57 pesos por kilómetro cuadrado de la Asignación
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,442.57 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,449.63 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia de la 3,449.63 pesos por kilómetro cuadrado Asignación y en adelante ...............................................................................................
+...............................................................................................
 
 ### Artículo 55
 .-..................................................................................
@@ -983,9 +1008,11 @@ I. Conforme a la regla 10.19., se dan a conocer las cuotas actualizadas del Dere
 ### Artículo 45
 .-...........................................................
 
-I. Durante los primeros 60 meses de vigencia 1,548.88 pesos por kilómetro cuadrado de la Asignación
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,548.88 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,703.86 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia de la 3,703.86 pesos por kilómetro cuadrado Asignación y en adelante ...............................................................................................
+...............................................................................................
 
 ### Artículo 55
 .-..................................................................................
@@ -1005,9 +1032,11 @@ I. Conforme a la regla 10.19. de la Resolución Miscelánea Fiscal, se dan a con
 ### Artículo 45
 .- ....................................................................................................................................
 
-I. Durante los primeros 60 meses de vigencia de la 1,669.53 pesos por kilómetro cuadrado Asignación
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,669.53 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,992.39 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia de la Asignación 3,992.39 pesos por kilómetro cuadrado y en adelante ..........................................................................................................................................................
+..........................................................................................................................................................
 
 ### Artículo 55
 .- ....................................................................................................................................
@@ -1025,9 +1054,11 @@ I. Cuota del DEXPH:
 ### Artículo 45
 .- ..................................................................................................................
 
-I. Durante los primeros 60 meses de vigencia de la 1,741.65 pesos por Asignación kilómetro cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,741.65 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 4,164.86 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia de la Asignación y 4,164.86 pesos por en adelante kilómetro cuadrado .......................................................................................................................................
+.......................................................................................................................................
 
 II. Cuota del IAEEH:
 
@@ -1048,9 +1079,11 @@ I. Cuota del DEXPH:
 ### Artículo 45
 .- .......................................................................................................................
 
-I. Durante los primeros 60 meses de vigencia de 1,820.72 pesos por kilómetro la Asignación cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,820.72 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 4,353.94 pesos por kilómetro cuadrado |
 
-II. A partir del mes 61 de vigencia de la 4,353.94 pesos por kilómetro Asignación y en adelante cuadrado .............................................................................................................................................
+.............................................................................................................................................
 
 II. Cuota del IAEEH:
 

@@ -2260,13 +2260,13 @@ La tasa a que se refiere la fracción II que antecede se calculará dividiendo e
 La retención se calculará aplicando a la totalidad de los ingresos obtenidos en un mes de calendario, la siguiente:
 **TARIFA MENSUAL**
 
-| Limite inferior ($) | Limite superior ($) | Cuota fija ($) | Por ciento para aplicarse sobre el excedente del (%) |
+| Lita ata Limite inferior ($) | es , Limite superior ($) | .. Cuota fija ($) | Por ciento para aplicarse sobre el excedente del límite inferior (%) |
 | --- | --- | --- | --- |
 | 0.01 | 496,07 | 0.00 | 1.92% |
 | 496.06 | 4,210.41 | 9.52 | 6,40% |
 | 4,210.42 | 7,399.42 | 247.24 | 10.88% |
 | 7,399.43 | 8,601.50 | 594.21 | 16.00% |
-| 8,601.51 | 10,298.35 | 786.54 | 17.02% |
+| 8,601.51 | 10,298.35 | 786.54 | 17.92% |
 | 10,298.36 | 20,770.29 | 1,090.61 | 21.36% |
 | 20,770.30 | 22,736.83 | 3,327.42 | 23.52% |
 | 32,736.84 | 62,500.00 | 6,141.95 | 30.00% |
@@ -2606,7 +2606,17 @@ Los contribuyentes a que se refiere el párrafo anterior que inicien actividades
 Para los efectos de los párrafos anteriores, en caso de que los ingresos a que se refiere este artículo excedan de tres millones quinientos mil pesos en cualquier momento del año de tributación, o se incumpla con alguna de las obligaciones a que se refiere el artículo 113-G de esta Ley, o se actualice el supuesto previsto en el artículo 113-I de la misma Ley relativo a las declaraciones, no les serán aplicables a los contribuyentes las disposiciones de esta Sección, debiendo pagar el impuesto respectivo de conformidad con las disposiciones del Título IV, Capítulo II, Sección I o Capítulo III de esta Ley, según corresponda, a partir del mes siguiente a la fecha en que tales ingresos excedan la referida cantidad. En su caso, las autoridades fiscales podrán asignar al contribuyente el régimen que le corresponda, sin que medie solicitud del contribuyente.
 Los contribuyentes a que se refiere este artículo calcularán y pagarán el impuesto en forma mensual a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, y deberán presentar la declaración anual a que se refiere el artículo 113-F de esta Ley.
 Los contribuyentes determinarán los pagos mensuales considerando el total de los ingresos que perciban por las actividades a que se refiere el primer párrafo de este artículo y estén amparados por los comprobantes fiscales digitales por Internet efectivamente cobrados, sin incluir el impuesto al valor agregado, y sin aplicar deducción alguna, considerando la siguiente tabla:
-TABLA MENSUAL Monto de los ingresos amparados por Tasa aplicable comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos mensuales) Hasta 25,000.00 1.00% Hasta 50,000.00 1.10% Hasta 83,333.33 1.50% Hasta 208,333.33 2.00% Hasta 3,500,000.00 2.50% Los contribuyentes a que se refiere este artículo también podrán aplicar lo dispuesto en esta Sección cuando además obtengan ingresos de los señalados en los Capítulos I y VI del Título IV de esta Ley, siempre que el total de los ingresos obtenidos en el ejercicio inmediato anterior por las actividades mencionadas, en su conjunto, no excedan de la cantidad a que se refiere el primer párrafo de este artículo.
+TABLA MENSUAL
+
+| Monto de los ingresos amparados por comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos mensuales) | Tasa aplicable |
+| --- | --- |
+| Hasta 25,000.00 | 1.00% |
+| Hasta 50,000.00 | 1.10% |
+| Hasta 83,333.33 | 1.50% |
+| Hasta 208,333.33 | 2.00% |
+| Hasta 3,500,000.00 | 2.50% |
+
+Los contribuyentes a que se refiere este artículo también podrán aplicar lo dispuesto en esta Sección cuando además obtengan ingresos de los señalados en los Capítulos I y VI del Título IV de esta Ley, siempre que el total de los ingresos obtenidos en el ejercicio inmediato anterior por las actividades mencionadas, en su conjunto, no excedan de la cantidad a que se refiere el primer párrafo de este artículo.
 Cuando los contribuyentes dejen de tributar conforme a esta Sección, por el incumplimiento de sus obligaciones fiscales, en ningún caso podrán volver a tributar en los términos de la misma. Tratándose de aquellos contribuyentes que hayan excedido el monto de tres millones quinientos mil pesos a que se refiere el primer párrafo de este artículo, podrán volver a tributar conforme a esta Sección, siempre que los ingresos obtenidos en el ejercicio inmediato anterior a aquél de que se trate, no excedan de tres millones quinientos mil pesos y hayan estado al corriente en el cumplimiento de sus obligaciones fiscales.
 No podrán aplicar lo previsto en esta Sección las personas físicas a que se refiere el primer párrafo de este artículo en los supuestos siguientes:
 
@@ -2623,7 +2633,17 @@ Artículo adicionado DOF 12-11-2021
 
 ### Artículo 113-F
 . Los contribuyentes a que se refiere esta Sección están obligados a presentar su declaración anual en el mes de abril del año siguiente al que corresponda la declaración, considerando el total de los ingresos que perciban por las actividades a que se refiere el primer párrafo del artículo 113-E de esta Ley en el ejercicio y estén amparados por los comprobantes fiscales digitales por Internet efectivamente cobrados, sin incluir el impuesto al valor agregado, y sin aplicar deducción alguna, conforme a la siguiente tabla:
-TABLA ANUAL Monto de los ingresos amparados por Tasa aplicable comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos anuales) Hasta 300,000.00 1.00% Hasta 600,000.00 1.10% Hasta 1,000,000.00 1.50% Hasta 2,500,000.00 2.00% Hasta 3,500,000.00 2.50% Los contribuyentes podrán disminuir a la cantidad que resulte, el impuesto sobre la renta pagado en las declaraciones mensuales a que se refiere el artículo 113-E de esta Ley y, en su caso, el que les retuvieron conforme al artículo 113-J de este ordenamiento.
+TABLA ANUAL
+
+| Monto de los ingresos amparados por comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos anuales) | Tasa aplicable |
+| --- | --- |
+| Hasta 300,000.00 | 1.00% |
+| Hasta 600,000.00 | 1.10% |
+| Hasta 1,000,000.00 | 1.50% |
+| Hasta 2,500,000.00 | 2.00% |
+| Hasta 3,500,000.00 | 2.50% |
+
+Los contribuyentes podrán disminuir a la cantidad que resulte, el impuesto sobre la renta pagado en las declaraciones mensuales a que se refiere el artículo 113-E de esta Ley y, en su caso, el que les retuvieron conforme al artículo 113-J de este ordenamiento.
 Se considera que se actualiza el supuesto previsto en el artículo 109, fracción I del Código Fiscal de la Federación, cuando los contribuyentes cancelen los comprobantes fiscales digitales por Internet, aún y cuando los receptores hayan dado efectos fiscales a los mismos.
 Artículo adicionado DOF 12-11-2021
 
@@ -3290,24 +3310,25 @@ Párrafo reformado DOF 18-11-2015, 12-11-2021
 Párrafo reformado DOF 12-11-2021
 **TARIFA ANUAL**
 
-| Límite inferior ($) | Límite suserior ($) | Cuota fija ($) | Porciento para licarse sobre el excedente del mite inferior (%) |
+| Límite inferior ($) | Limite suserior ($) | Cuota fija ($) | Por ciento para sabre el excedente del mite inferior (%) |
 | --- | --- | --- | --- |
-| 0.01 . | 5,952.84 | 0.00 | 1.92% |
-| 5,052.85 | 50,524.92 | 114.28 | 5.40% |
-| 50,524.93 | 88,793.04 | 2,966.91 | 10.88% |
-| 88,793.05 | 103,218.00 | 7,130.48 | 15.00% |
-| 103,218.01 | 123,589.20 | 9,438.47 | 17.92% |
-| 123,580.21 | 249.243 48 | 13,087.37 | 21.35% |
+| 0.01. | 5,952.84 | 0.00 | 1.92% |
+| 5,952.85 | 50,526.92 | 114.28 | 5.40% |
+| 50,524.93 | 88,793.04 | 2,966.91 | 0,88% |
+| 88,793.05 | 103,219.00 | 7,130.48 | “5.00% |
+| 103,218.01 | 123,589,20 | 9,438.47 | 17,92% |
+| 123,580.21 | 249,243.48 | 43,087.37 | 21.36% |
 | 249,243.29 | 392,841.96 | 39,929.05 | 23.52% |
-| 392,841.97 | . 750,009.C0 | 73,702.41 | 39,00% |
-| 750,050.01 | 1.000,009.00 | 180,850.82 | 32.00% |
-| 1,000,000.01 | 3,000,009.00 | 260,850.81 | 34.00% |
-| 3,050,000.01 | En adelante | 940,850.81 | 35.00% |
+| 392,841.97 | 750,009.00 | 73,702.41 | 39.00% |
 
-1 aplicable lo dispuesto en este artículo a los ingresos por los que no se esté obliga to y por los que ya se pagó impuesto definitivo. el impuesto anual calculado en los términos de este artículo, se podrán efectuar los entos:
-El importe de los pagos provisionales efectuados durante el año de calendario.
-El impuesto acreditable en los términos de los artículos 5, 140 y 145, penúltimo | esta Ley. casos en los que el impuesto a cargo del contribuyente sea menor que la cantid n los términos de este artículo, únicamente se podrá solicitar la devolución o t ción del impuesto efectivamente pagado o que le hubiera sido retenido. Para los ef ción a que se refiere este párrafo, el saldo a favor se actualizará por el periodo co nes inmediato anterior en el que se presentó la declaración que contenga el saldí
-hasta el mes inmediato anterior al mes en el que se compense.
+_ 750,000.01 1.009,009.00 180,850.82 32.00% 1,050,000.01 3.000,009.00 260,850.81 34.00% 3,050,000.01 En adelante 940,850.81 35.00%
+No será aplicable lo dispuesto en este artículo a los ingresos por los que no se esté obligado al pago del impuesto y por los que ya se pagó impuesto definitivo.
+Contra el impuesto anual calculado en los términos de este artículo, se podrán efectuar los siguientes acreditamientos:
+
+I. El importe de los pagos provisionales efectuados durante el año de calendario.
+
+II. El impuesto acreditable en los términos de los artículos 5, 140 y 145, penúltimo párrafo, de esta Ley.
+En los casos en los que el impuesto a cargo del contribuyente sea menor que la cantidad que se acredite en los términos de este artículo, únicamente se podrá solicitar la devolución o efectuar la compensación del impuesto efectivamente pagado o que le hubiera sido retenido. Para los efectos de la compensación a que se refiere este párrafo, el saldo a favor se actualizará por el periodo comprendido desde el mes inmediato anterior en el que se presentó la declaración que contenga el saldo a favor y hasta el mes inmediato anterior al mes en el que se compense.
 Cuando la inflación observada acumulada desde el último mes que se utilizó en el cálculo de la última actualización de las cantidades establecidas en moneda nacional de las tarifas contenidas en este artículo y en el artículo 96 de esta Ley, exceda del 10%, dichas cantidades se actualizarán por el periodo comprendido desde el último mes que se utilizó en el cálculo de la última actualización y hasta el último mes del ejercicio en el que se exceda el porcentaje citado. Para estos efectos, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al último mes que se utilizó en el cálculo de la última actualización. Dicha actualización entrará en vigor a partir del 1 de enero del ejercicio siguiente en el que se haya presentado el mencionado incremento.
 
 ## TÍTULO V — DE LOS RESIDENTES EN EL EXTRANJERO CON INGRESOS PROVENIENTES DE
@@ -4658,7 +4679,27 @@ SUBSIDIO PARA EL EMPLEO
 Se otorga el subsidio para el empleo en los términos siguientes:
 
 I. Los contribuyentes que perciban ingresos de los previstos en el primer párrafo o la fracción I primas de antigüedad, retiro e indemnizaciones u otros pagos por separación, gozarán del subsidio para el empleo que se aplicará contra el impuesto que resulte a su cargo en los términos del artículo 96 de la misma Ley. El subsidio para el empleo se calculará aplicando a los ingresos que sirvan de base para calcular el impuesto sobre la renta que correspondan al mes de calendario de que se trate, la siguiente:
-TABLA Subsidio para el empleo mensual Subsidio Límite Inferior Límite Superior para el Empleo 0.01 1,768.96 407.02 1,768.97 1,978.70 406.83 1,978.71 2,653.38 359.84 2,653.39 3,472.84 343.60 3,472.85 3,537.87 310.29 3,537.88 4,446.15 298.44 4,446.16 4,717.18 354.23 4,717.19 5,335.42 324.87 5,335.43 6,224.67 294.63 6,224.68 7,113.90 253.54 7,113.91 7,382.33 217.61 7,382.34 En adelante 0.00 En los casos en que el impuesto a cargo del contribuyente que se obtenga de la aplicación de el empleo mensual obtenido de conformidad con la tabla anterior, el retenedor deberá entregar al contribuyente la diferencia que se obtenga. El retenedor podrá acreditar contra el impuesto sobre la renta a su cargo o del retenido a terceros las cantidades que entregue a los contribuyentes en los términos de este párrafo. Los ingresos que perciban los contribuyentes derivados del subsidio para el empleo no serán acumulables ni formarán parte del cálculo de la base gravable de cualquier otra contribución por no tratarse de una remuneración al trabajo personal subordinado.
+TABLA Subsidio para el empleo mensual
+
+| Límite Inferior | Límite Superior | Subsidio para el Empleo |
+| --- | --- | --- |
+| 0.01 | 1,768.96 | 407.02 |
+| 1,768.97 | 1,978.70 | 406.83 |
+
+
+| 1,978.71 | 2,653.38 | 359.84 |
+| --- | --- | --- |
+| 2,653.39 | 3,472.84 | 343.60 |
+| 3,472.85 | 3,537.87 | 310.29 |
+| 3,537.88 | 4,446.15 | 298.44 |
+| 4,446.16 | 4,717.18 | 354.23 |
+| 4,717.19 | 5,335.42 | 324.87 |
+| 5,335.43 | 6,224.67 | 294.63 |
+| 6,224.68 | 7,113.90 | 253.54 |
+| 7,113.91 | 7,382.33 | 217.61 |
+| 7,382.34 | En adelante | 0.00 |
+
+En los casos en que el impuesto a cargo del contribuyente que se obtenga de la aplicación de el empleo mensual obtenido de conformidad con la tabla anterior, el retenedor deberá entregar al contribuyente la diferencia que se obtenga. El retenedor podrá acreditar contra el impuesto sobre la renta a su cargo o del retenido a terceros las cantidades que entregue a los contribuyentes en los términos de este párrafo. Los ingresos que perciban los contribuyentes derivados del subsidio para el empleo no serán acumulables ni formarán parte del cálculo de la base gravable de cualquier otra contribución por no tratarse de una remuneración al trabajo personal subordinado.
 En los casos en los que los empleadores realicen pagos por salarios, que comprendan periodos menores a un mes, para calcular el subsidio para el empleo correspondiente a cada pago, dividirán las cantidades correspondientes a cada una de las columnas de la tabla contenida en esta fracción, entre 30.4. El resultado así obtenido se multiplicará por el número de días al que corresponda el periodo de pago para determinar el monto del subsidio para el empleo que le corresponde al trabajador por dichos pagos.
 Cuando los pagos por salarios sean por periodos menores a un mes, la cantidad del subsidio para el empleo que corresponda al trabajador por todos los pagos que se hagan en el mes, no podrá exceder de la que corresponda conforme a la tabla prevista en esta fracción para el monto total percibido en el mes de que se trate.
 Cuando los empleadores realicen en una sola exhibición pagos por salarios que comprendan dos o más meses, para calcular el subsidio para el empleo correspondiente a dicho pago, multiplicarán las cantidades correspondientes a cada una de las columnas de la tabla contenida en esta fracción por el número de meses a que corresponda dicho pago.
@@ -4828,7 +4869,14 @@ XVIII. El Servicio de Administración Tributaria implementará programas de revi
 
 I. Se otorga un estímulo fiscal a los contribuyentes personas físicas que se encuentren sujetos al pago del impuesto previsto en el artículo 140, segundo párrafo de esta Ley, derivado de los dividendos o utilidades generados en los ejercicios 2014, 2015 y 2016, en tanto dichos dividendos o utilidades sean reinvertidos por la persona moral que los generó.
 El estímulo a que se refiere esta fracción consiste en un crédito fiscal equivalente al monto que resulte de aplicar al dividendo o utilidad que se distribuya, el porcentaje que corresponda conforme al año de distribución conforme a la siguiente tabla. El crédito fiscal que se determine será acreditable únicamente contra el impuesto sobre la renta que se deba retener y enterar en los términos del segundo párrafo del artículo 140 de esta Ley.
-Año de distribución del dividendo o Porcentaje aplicable al monto del utilidad dividendo o utilidad distribuido 2017 1% 2018 2% 2019 en adelante 5% Lo dispuesto en esta fracción sólo será aplicable cuando los dividendos o utilidades sean reinvertidos y distribuidos por personas morales que identifiquen en su contabilidad los registros correspondientes a las utilidades o dividendos generados en 2014, 2015 y 2016, así como las distribuciones respectivas, y además, presenten en las notas de los estados financieros, información analítica del periodo en el cual se generaron las utilidades, se reinvirtieron y se distribuyeron como dividendos o utilidades. Las personas morales también deberán presentar la información que, en su caso, establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+| Año de distribución del dividendo o utilidad | Porcentaje aplicable al monto del dividendo o utilidad distribuido |
+| --- | --- |
+| 2017 | 1% |
+| 2018 | 2% |
+| 2019 en adelante | 5% |
+
+Lo dispuesto en esta fracción sólo será aplicable cuando los dividendos o utilidades sean reinvertidos y distribuidos por personas morales que identifiquen en su contabilidad los registros correspondientes a las utilidades o dividendos generados en 2014, 2015 y 2016, así como las distribuciones respectivas, y además, presenten en las notas de los estados financieros, información analítica del periodo en el cual se generaron las utilidades, se reinvirtieron y se distribuyeron como dividendos o utilidades. Las personas morales también deberán presentar la información que, en su caso, establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
 Las personas morales cuyas acciones no se encuentren colocadas en bolsa de valores, se refiere esta disposición, deberán optar por dictaminar sus estados financieros de conformidad con el artículo 32-A del Código Fiscal de la Federación.
 Las personas morales que distribuyan dividendos o utilidades respecto de acciones colocadas entre el gran público inversionista, deberán identificar e informar a las casas de bolsa, a las instituciones de crédito, a las sociedades operadoras de sociedades de inversión, a las personas que llevan a cabo la distribución de acciones de sociedades de inversión, a las instituciones para el depósito de valores que tengan en custodia y administración las acciones mencionadas, o a cualquier otro intermediario del mercado de valores, los ejercicios de donde provienen los dividendos para que dichos intermediarios realicen la retención correspondiente.
 El estímulo fiscal a que se refiere la presente fracción no se considerará como ingreso acumulable para efectos de esta Ley.
@@ -4921,38 +4969,11 @@ b) Considerarán ganancia obtenida por la enajenación de los bienes, el total d
 c) Cuando los bienes se enajenen, se pierdan o dejen de ser útiles, se podrá efectuar una deducción por la cantidad que resulte de aplicar, al monto original de la inversión ajustado con el factor de actualización correspondiente al periodo comprendido desde el mes en el que se adquirió el bien y hasta el último mes de la primera mitad del periodo en el que se haya efectuado la deducción señalada en la fracción anterior, los por cientos que resulten conforme al número de años transcurridos desde que se efectuó la deducción de la fracción anterior citada y el por ciento de deducción inmediata aplicado al bien de que se trate, conforme a lo siguiente:
 Para los contribuyentes a que se refiere el inciso i) de la fracción II, aplicarán respectivamente para 2016 y 2017, las siguientes tablas.
 TABLA
-
-| POR CIENTO DEL MONTO ORIGINAL | DE | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | NÚMERO | DE AÑOS | Col 12 | TRANSCURRIDOS | Col 14 | Col 15 | Col 16 | Col 17 | Col 18 | Col 19 | Col 20 | Col 21 | Col 22 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LA INVERSIÓN | — 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 44 | 45 | 46 | 47 | 48 | 19 | 2 | 21 | 2 |
-| DEDUCIDO | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | E | % | % | % | % |
-| 95 | 0.44 | 0.00 | O00 | O00 | O00 | O00 | O00 | O80 | O00 | O00 | 000 | 0.00 | 00.0 | 0.00 | OM | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| 94 | 135 | 020 | 000 | 000 | 0.00 | O00 | O00 | O00 | ONO | O00 | O00 | O00 | O00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| $3 | 2.16 | 073 | OOO | O00 | 0.00 | 0.00 | 0.00 | 600 | 600 | 900 | 800 | O086 | O00 | O00 | O00 | O00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-
-92 343 173 O58 O00 O00 O00 O00 Odo O00 #800 O00 OCA O00 O00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 $0 5.04 315 168 065 007 O00 O00 O00 O00 08.00 O00 ONO O00 O00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 87 7.71 566 391 247 1.34 054 C08 O00 O00 O00 O00 O00 O00 O00 0.00 0.00 0.00 0.00 0.00 0.00 000 85 8.67 659 477 324 198 1.02 O37 002 O00 000 00 OOO 00 00 O00 O00 0.00 0.00 0.00 0.00 0.00 8s 980 770 $583 420 283 171 0.87 029 Mod 0.00 000 000 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 84 11.47 9.05 7.13 542 393 267 164 O85 031 0.02 000 O00 O00 O00 N.00 O00 0.00 0.0 0.00 0.00 000 82 12.85 10.71 875 698 539 399 279 179 100 043 009 O08 OOO O00 0.00 0.00 0.00 0.00 6.00 0.00 0.00 80 14.95 12.81 10.83 899 7.31 579 444 325 224 140 076 030 004 000 0.00 0.00 0.00 0.00 6.00 0.00 0.00 78 17.84 15.53 13.54 1166 991 8.29 680 545 423 316 223 146 O84 O39 O10 O00 0.00 0.00 0.00 0.00 0.00 74 21.23 19.17 17.19 15.31 13.52 1183 1023 874 7.35 607 490 385 2.91 2.10 1.41 085 0.43 015 000 000 ONO 83 33,61 31,79 30.02 28.28 26.58 2491 23.29 21.71 20.17 18.68 17.23 15.82 14.47 13.16 11.91 10.71 9.56 846 7.43 6.45 5.53 POR CIENTO NÚMERO DE AÑOS TRANSCURRIDOS DEL MONTO RS 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 DEDUCIDO % % % % % % % % % % % % % % % % % % % % % 89 1.58 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 000 000 000 000 000 88 2.62 0.38 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 000 000 000 000 87 4,17 1,42 0,00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 000 000 000 84 6.54 3,33 1.13 000 000 000 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 000 000 000 000 81 9,50 5,99 3.23 1.27 0.14 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 77 14.28 10.58 7.37 4.69 2.58 1.05 0.15 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 75 15.95 12,23 8.94 6.12 3.78 1.97 0.71 0.03 0.00 000 000 000 0.00 0.00 0.00 000 000 000 000 O00 90.00 74 17,90 14.18 10.83 7.88 5.35 3.27 1.67 0.57 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 71 20.21 16.50 13.11 1006 7.37 505 3.413 1.64 0.60 0.03 0.00 0.00 0.00 0.00 0.00 900 0.00 000 9000 000 0.00 69 22.98 19,32 15,92 12,79 9,96 7.44 5.25 3.40 1.93 0.84 0.17 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00: 0.00 0.00 66 26.36 22.78 1940 16.25 13.32 10.64 8.22 6.07 4.22 2.67 145 0.58 007 000 000 000 000 O00 900 000 0.00 62 30.54 27.10 23.80 20.67 17.71 14.93 12.35 9.97 7.81 5.88 419 2.76 1.61 0.75 O19 000 0.00 O00 0900 000 9.00 57 35.86 32.61 29.47 26.44 23.53 20.74 18.08 15.57 13.20 10.99 8.95 7.09 5.41 3.94 2.67 163 083 028 000 0.00 000 43 52.05 49.54 47.05 44.59 47217 39.78 37.43 35.11 32.84 30.61 28.42 26.29 2421 22.18 20.21 18.30 1646 1469 12.99 11.37 9.83 Para los contribuyentes a que se refieren los incisos ii) y iii) de la fracción II, aplicarán respectivamente para 2016 y 2017, las siguientes tablas TABLAS POR CIENTO NÚMERO DE AÑOS TRANSCURRIDOS DEL MONTO — ORIGINAL DE LA INVERSIÓN 2 3 4 5 6 7 8 9 10 11 12 13 14 #15 46 117 18 19 2 2 22 DEDUCIDO % % % % % % % % % % % % % % % % % % % % % 95 0.44 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.0( 93 2.16 0.73 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.0( 85 9.80 7.70 583 4.20 283 1.71 0.87 0.29 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.0( 82 12.85 10.71 8.75 698 539 3.99 2.79 1.79 1.00 043 0.09 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.0( 80 14.95 12.81 10.83 899 7.31 579 444 325 224 140 0.76 0.30 0.04 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.0( 78 17.64 15.53 13.54 11.66 9.91 829 680 545 423 3.16 2.23 146 0.84 0.39 0.10 0.00 0.00 0.00 0.00 0.00 0.0( 74 21.23 19.17 17.19 15.31 13.52 11.83 10.23 8.74 7.35 6.07 490 385 291 2.10 141 086 0.43 0.15 0.00 0.00 0.0( 63 33.61 31.79 30.02 28.28 26.58 24.91 23.29 21.71 20.17 18.68 17.23 15.82 14.47 13.16 11.91 10.71 9.56 8.46 7.43 6.45 5.5:
-
-| POR CIENTO DEL MONTO ORIGINAL DE | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | NÚMERO DE | AÑOS | TRANSCURRIDOS | Col 14 | Col 15 | Col 16 | Col 17 | Col 18 | Col 19 | Col 20 | Col 21 | Col 22 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LA INVERSIÓN | — 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| DEDUCIDO | % | % | % | % | % | % | % | % | % | % | % | % | % | Yo | % | % | Y | % | % | % | % |
-| 89 | 1.58 | 000 | 000 | 0.00 | 000 | 000 | 000 | 000 | 0.00 | 000 | 0.00 | 000 | 0.00 | 0.00 | 000 | 900 | 000 | 000 | 900 | O00 | 9000 |
-| 88 | 262 | 038 | 000 | 000 | 000 | 000 | O00 | O00 | 000 | 000 | OCA | 000 | 000 | 000 | O00 | 900 | 000 | 000 | 000 | 000 | 0.00 |
-| 87 | 4.17 | 1.42 | 0.00 | 000 | 0.00 | 000 | 000 | 0.00 | 0.00 | 0.00 | 000 | 0.00 | 0.00 | 0.00 | 0.00 | 000 | 0.00 | 000 | 900 | 000 | 9.00 |
-| 84 | 6.54 | 333 | 1.13 | 000 | 000 | 000 | 0.00 | O00 | 0.00 | 0.00 | 000 | 0.00 | 000 | 0.00 | 0.00 | 0.00 | 0.00 | 000 | 900 | 000 | 0.00 |
-| 81 | 9.50 | 599 | 323 | 1.27 | 0.14 | 000 | 6.00 | O00 | 0.00 | 0.00 | 0.00 | 000 | 000 | 0.00 | 0.00 | 0.00 | 000 | 000 | 900 | 000 | 0.00 |
-| 77 | 14.28 | 10.588 | 7.37 | 469 | 258 | 1.05 | 015 | 000 | 000 | 0600 | 000 | 000 | 000 | 00 | O00 | 900 | 000 | 000 | 900 | O00 | 0.00 |
-| 75 | 15.95 | 12.23 | 894 | 6.42 | 3.78 | 1.97 | 071 | 003 | 000 | 000 | 000 | 0.00 | 000 | 00 | O00 | 000 | 000 | 000 | 900 | 000 | 0.00 |
-| 74 | 17.90 | 14.18 | 10.833 | 788 | 635 | 3.27 | 1.67 | 057 | 0.00 | 000 | 0.00 | 0.00 | 06.00 | 0.00 | 0.00 | 000 | 000 | 0600 | 000 | 000 | 0.00 |
-| 71 | 20.21 | 16.50 | 13.11 | 10,06 | 7.37 | 505 | 313 | 164 | 060 | 003 | 000 | 000 | 000 | 000 | 000 | 90060 | 0.00 | 000 | 000 | 000 | 000 |
-| 69 | 22.98 | 19,32 | 15.92 | 12.79 | 9,96 | 744 | 525 | 3.40 | 193 | 084 | 017 | 000 | 000 | 0.00 | 000 | 9000 | 000 | 000 | 900 | 000 | 0.00 |
-| 66 | 26.36 | 22.78 | 19.40 | 16.25 | 13.32 | 1064 | 822 | 6.07 | 422 | 267 | 145 | 058 | 0.07 | 0.00 | 0.00 | 90.00 | 0.00 | 0.00 | 000 | 000 | 0.00 |
-| 62 | 30.54 | 27.10 | 23.80 | 20.67 | 17.71 | 14.93 | 12.35 | 997 | 7.81 | 5.88 | 419 | 2.76 | 161 | 075 | 019 | O00 | 0.00 | 0.00 | 0.00 | 000 | 000 |
-| 57 | 35.86 | 32.61 | 29.47 | 26.44 | 23.53 | 20.74 | 18.08 | 15.57 | 13.20 | 1099 | 895 | 7.09 | 5.41 | 394 | 267 | 163 | 083 | 028 | 0.00 | 0.00 | 90.00 |
-| 43 | 52.05 | 49.54 | 47.05 | 44.59 | 472.17 | 39.78 | 37.43 | 35.11 | 32.84 | 30.61 | 28.42 | 26.29 | 24.21 | 22.18 | 20.21 | 18.30 | 16.46 | 1469 | 12.99 | 1137 | 9.83 |
-
-Para los contribuyentes a que se refieren los incisos ii) y iii) de la fracción II, aplicarán respectivamente para 2016 y 2017, las siguientes tablas TABLAS BAR CIENTA ISS LARA
-PDOL A O R C IE E L M O R IG IN A IN V E R D E D U C 9 5 9 3 8 5 8 2 8 0 7 8 7 4 6 3 NNLSID T O T O D E IÓ N O 2 % 0 .4 4 2 .1 6 9 .8 0 1 2 .8 5 1 4 .9 5 1 7 .6 4 2 1 .2 3 3 3 .6 1 3 % 0 .0 0 0 .7 3 7 .7 0 1 0 .7 1 1 2 .8 1 1 5 .5 3 1 9 .1 7 3 1 .7 9 4 % 0 .0 0 0 .0 0 5 .8 3 8 .7 5 1 0 .8 3 1 3 .5 4 1 7 .1 9 3 0 .0 2 5 % 0 .0 0 0 .0 0 4 .2 0 6 .9 8 8 .9 9 1 1 .6 6 1 5 .3 1 2 8 .2 8 6 % 0 .0 0 0 .0 0 2 .8 3 5 .3 9 7 .3 1 9 .9 1 1 3 .5 2 2 6 .5 8 7 % 0 .0 0 0 .0 0 1 .7 1 3 .9 9 5 .7 9 8 .2 9 1 1 .8 3 2 4 .9 1 8 % 0 .0 0 0 .0 0 0 .8 7 2 .7 9 4 .4 4 6 .8 0 1 0 .2 3 2 3 .2 9 N 9 % 0 .0 0 0 .0 0 0 .2 9 1 .7 9 3 .2 5 5 .4 5 8 .7 4 2 1 .7 1 Ú M E R O 1 0 % 0 .0 0 0 .0 0 0 .0 0 1 .0 0 2 .2 4 4 .2 3 7 .3 5 2 0 .1 7 D E A Ñ O 1 1 % 0 .0 0 0 .0 0 0 .0 0 0 .4 3 1 .4 0 3 .1 6 6 .0 7 1 8 .6 8 S T R A N 1 2 % 0 .0 0 0 .0 0 0 .0 0 0 .0 9 0 .7 6 2 .2 3 4 .9 0 1 7 .2 3 S C U R R ID 1 3 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .3 0 1 .4 6 3 .8 5 1 5 .8 2 O S 1 4 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 4 0 .8 4 2 .9 1 1 4 .4 7 1 5 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .3 9 2 .1 0 1 3 .1 6 1 6 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .1 0 1 .4 1 1 1 .9 1 1 7 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .8 6 1 0 .7 1 0 0 0 0 0 0 0 9 1 8 % .0 .0 .0 .0 .0 .0 .4 .5 0 0 0 0 0 0 3 6 0 0 0 0 0 0 0 8 1 9 % .0 .0 .0 .0 .0 .0 .1 .4 0 0 0 0 0 0 5 6 0 0 0 0 0 0 0 7 2 0 % .0 .0 .0 .0 .0 .0 .0 .4 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 6 2 1 % .0 .0 .0 .0 .0 .0 .0 .4 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 5 2 2 % .0 .0 .0 .0 .0 .0 .0 .5 0 0 0 0 0 0 0 3 P O R C IE D E L M O O R IG IN A L A IN V E R D E D U C 8 9 8 7 7 4 6 9 6 6 6 2 5 7 4 3 NNLSID T O T O D E IÓ N O 2 % 1 .5 8 4 .1 7 1 7 .9 0 2 2 .9 8 2 6 .3 6 3 0 .5 4 3 5 .8 6 5 2 .0 5 3 % 0 .0 0 1 .4 2 1 4 .1 8 1 9 .3 2 2 2 .7 8 2 7 .1 0 3 2 .6 1 4 9 .5 4 4 % 0 .0 0 0 .0 0 1 0 .8 3 1 5 .9 2 1 9 .4 0 2 3 .8 0 2 9 .4 7 4 7 .0 5 5 % 0 .0 0 0 .0 0 7 .8 8 1 2 .7 9 1 6 .2 5 2 0 .6 7 2 6 .4 4 4 4 .5 9 6 % 0 .0 0 0 .0 0 5 .3 5 9 .9 6 1 3 .3 2 1 7 .7 1 2 3 .5 3 4 2 .1 7 7 % 0 .0 0 0 .0 0 3 .2 7 7 .4 4 1 0 .6 4 1 4 .9 3 2 0 .7 4 3 9 .7 8 8 % 0 .0 0 0 .0 0 1 .6 7 5 .2 5 8 .2 2 1 2 .3 5 1 8 .0 8 3 7 .4 3 9 % 0 .0 0 0 .0 0 0 .5 7 3 .4 0 6 .0 7 9 .9 7 1 5 .5 7 3 5 .1 1 N Ú 1 0 % 0 .0 0 0 .0 0 0 .0 0 1 .9 3 4 .2 2 7 .8 1 1 3 .2 0 3 2 .8 4 M E R O D E 1 1 % 0 .0 0 0 .0 0 0 .0 0 0 .8 4 2 .6 7 5 .8 8 1 0 .9 9 3 0 .6 1 A Ñ O S T R 1 2 % 0 .0 0 0 .0 0 0 .0 0 0 .1 7 1 .4 5 4 .1 9 8 .9 5 2 8 .4 2 A N S C U R R 1 3 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .5 8 2 .7 6 7 .0 9 2 6 .2 9 ID O S 1 4 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 7 1 .6 1 5 .4 1 2 4 .2 1 1 5 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .7 5 3 .9 4 2 2 .1 8 1 6 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .1 9 2 .6 7 2 0 .2 1 1 7 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 1 .6 3 1 8 .3 0 1 8 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .8 3 1 6 .4 6 1 9 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .2 8 1 4 .6 9 2 0 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 1 2 .9 9 2 1 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 1 1 .3 7 0 0 0 0 0 0 0 9 2 2 % .0 .0 .0 .0 .0 .0 .0 .8 0 0 0 0 0 0 0 3 Para los efectos de esta fracción, cuando sea impar el número de meses del periodo a que se refieren los incisos a) y c) de esta fracción, se considerará como último mes de la primera mitad el mes inmediato anterior al que corresponda la mitad del periodo.
+> **[Tabla no extraíble — ver PDF original, página 295]**
+POR CIENTO NÚMERO DE AÑOS TRANSCURRIDOS DEL MONTO ORIGINAL DE LA INVERSIÓN 2 3 4 8 6 7 8 9 0 4 #12 #43 de 45 de 47 48 49 20 2 2 DEDUCIDO % % % % % % % % % % %__% % % % % _% _% %% % % 95 0.44 0.00 O00 000 000 O00 000 000 O00 O00 O00 0.00 0.00 0.00 000 0.00 0.00 0.00 0.00 0.00 0.00 94 1.35 020 000 0.00 0.00 0.00 000 000 AMO ONO DOS 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 9.00 0.00 $3 2.16 073 OOO O00 0.00 0.00 0.00 600 600 900 800 O086 O00 O00 O00 O00 0.00 0.00 0.00 0.00 0.00 92 343 173 058 000 0.00 000 0.00 000 000 3.00 000 ONO 0.00 0.00 0.00 0.00 CON 0.00 0.00 0.00 0.00 90 504 315 168 065 007 O00 0.00 0.00 0.00 03.00 000 000 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 87 7.71 566 391 247 1.34 O54 0.08 000 000 0.00 0.00 000 000 000 0.00 0.00 0.00 0.00 000 000 OOO 86 8.67 659 477 324 198 1.02 037 002 0.00 0.00 0.00 000 000 0,00 0,00 0.00 0.00 0,00 0.00 0.00 0.00 85 980 7.70 583 420 283 171 087 029 0.00 0.00 000 0.00 0,00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 84 11.147 905 713 542 393 267 164 085 031 002 O00 000 O00 OC) 0.00 000 0.00 0% 0.00 0.00 0.00 82 12.85 10.71 875 698 539 399 279 179 100 043 009 000 OC0 O00 0.00 0.00 0.00 0.00 0.00 0,00 0.00 80 14.95 1281 1083 899 731 579 444 325 224 140 076 030 004 000 0.00 0.00 0.00 0.00 0.00 0.00 0.00 78 17.64 1553 1354 1166 991 829 680 545 423 316 223 146 O84 039 010 O00 0.00 0.00 0.00 0.00 NOU 74 21.23 19.17 17.19 1531 1352 1183 1023 874 7.35 607 490 385 291 210 141 088 0.43 015 000 0.00 0.00 63 33,61 31,79 30.02 28.28 26.58 2491 23.29 21.71 20.17 18.68 17.23 15.82 14.47 13.16 1191 10.71 9.56 846 7.43 6.45 5.53
+> **[Tabla no extraíble — ver PDF original, página 295]**
+POR CIENTO NÚMERO DE AÑOS TRANSCURRIDOS DEL MONTO ORIGINAL DE La INVERSIÓN — 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 DEDUCIDO % % % % % % % % % Yo % % % % % % “Yo % % % % 89 1.58 000 000 000 000 000 000 000 000 000 0.00 000 000 0.00 000 900 000 000 000 000 0.00 88 262 038 000 000 000 000 O00 O00 000 000 000 000 000 O90 CM 900 0.00 000 900 000 0.00 87 417 142 0.00 0.00 0.00 000 0.00 000 0.00 06.00 000 0.00 0.00 0.00 0.00 9.00 0.00 000 000 000 0.00 84 6.54 333 113 000 0.00 0.00 0.00 000 0.00 0.00 000 000 0.00 0.00 0.00 0900 0.00 000 0.00 000 90.00 81 9.50 599 323 127 014 000 0.00 O00 0.00 000 0.00 000 0.00 0.00 0.00 000 000 000 0.00 G00 9.00 77 14.28 1058 737 469 258 105 015 O00 000 000 000 000 000 00 O00 000 000 000 900 000 0.00 75 15.95 12.23 894 612 3.78 1.97 071 003 0.00 0.00 000 0.00 000 00 O00 000 000 000 000 000 000 74 17.90 14.18 1083 7.88 535 3.27 1.67 057 000 000 000 0.00 000 000 000 000 000 600 000 000 90.00 ral 20.21 1650 13.11 10,06 7.37 505 313 164 060 003 000 0.00 000 000 000 900 0.00 0.00 900 000 0.00 69 22.98 19,32 15.92 12,79 996 744 525 340 193 084 017 000 900 000 000 900 000 000 9.00 000 0.00 66 26.36 22.78 19.40 16.25 13.32 10.64 8.22 6.07 4.22 267 145 058 0.07 90.00 0.00 90.00 0.00 0.00 000 000 0,00 62 30.54 27.10 23.80 20.67 17.71 14.93 12.35 9,97 7.81 588 419 276 161 0.75 019 0.00 0.00 0.00 0.00 0.00 000 57 35.86 32.61 29.47 26.44 23.53 20.74 18.08 15.57 13.20 10.99 8.95 7.09 541 3.94 267 163 0.83 0.28 0,00 0.00 000 43 52.05 49.54 47.05 44.59 42.17 39.78 37.43 35.11 32.84 30.61 28.42 26.29 24.21 22.18 20.21 18.30 1646 1469 12.99 11.37 9.83
+Para los contribuyentes a que se refieren los incisos ii) y iii) de la fracción II, aplicarán respectivamente para 2016 y 2017, las siguientes tablas TABLAS PDOL A O R C IE E L M O R IG IN A IN V E R D E D U C 9 5 9 3 8 5 8 2 8 0 7 8 7 4 6 3 NNLSID T O T O D E IÓ N O 2 % 0 .4 4 2 .1 6 9 .8 0 1 2 .8 5 1 4 .9 5 1 7 .6 4 2 1 .2 3 3 3 .6 1 3 % 0 .0 0 0 .7 3 7 .7 0 1 0 .7 1 1 2 .8 1 1 5 .5 3 1 9 .1 7 3 1 .7 9 4 % 0 .0 0 0 .0 0 5 .8 3 8 .7 5 1 0 .8 3 1 3 .5 4 1 7 .1 9 3 0 .0 2 5 % 0 .0 0 0 .0 0 4 .2 0 6 .9 8 8 .9 9 1 1 .6 6 1 5 .3 1 2 8 .2 8 6 % 0 .0 0 0 .0 0 2 .8 3 5 .3 9 7 .3 1 9 .9 1 1 3 .5 2 2 6 .5 8 7 % 0 .0 0 0 .0 0 1 .7 1 3 .9 9 5 .7 9 8 .2 9 1 1 .8 3 2 4 .9 1 8 % 0 .0 0 0 .0 0 0 .8 7 2 .7 9 4 .4 4 6 .8 0 1 0 .2 3 2 3 .2 9 N 9 % 0 .0 0 0 .0 0 0 .2 9 1 .7 9 3 .2 5 5 .4 5 8 .7 4 2 1 .7 1 Ú M E R O 1 0 % 0 .0 0 0 .0 0 0 .0 0 1 .0 0 2 .2 4 4 .2 3 7 .3 5 2 0 .1 7 D E A Ñ O 1 1 % 0 .0 0 0 .0 0 0 .0 0 0 .4 3 1 .4 0 3 .1 6 6 .0 7 1 8 .6 8 S T R A N 1 2 % 0 .0 0 0 .0 0 0 .0 0 0 .0 9 0 .7 6 2 .2 3 4 .9 0 1 7 .2 3 S C U R R ID 1 3 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .3 0 1 .4 6 3 .8 5 1 5 .8 2 O S 1 4 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 4 0 .8 4 2 .9 1 1 4 .4 7 1 5 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .3 9 2 .1 0 1 3 .1 6 1 6 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .1 0 1 .4 1 1 1 .9 1 1 7 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .8 6 1 0 .7 1 0 0 0 0 0 0 0 9 1 8 % .0 .0 .0 .0 .0 .0 .4 .5 0 0 0 0 0 0 3 6 0 0 0 0 0 0 0 8 1 9 % .0 .0 .0 .0 .0 .0 .1 .4 0 0 0 0 0 0 5 6 0 0 0 0 0 0 0 7 2 0 % .0 .0 .0 .0 .0 .0 .0 .4 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 6 2 1 % .0 .0 .0 .0 .0 .0 .0 .4 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 5 2 2 % .0 .0 .0 .0 .0 .0 .0 .5 0 0 0 0 0 0 0 3 P O R C IE D E L M O O R IG IN A L A IN V E R D E D U C 8 9 8 7 7 4 6 9 6 6 6 2 5 7 4 3 NNLSID T O T O D E IÓ N O 2 % 1 .5 8 4 .1 7 1 7 .9 0 2 2 .9 8 2 6 .3 6 3 0 .5 4 3 5 .8 6 5 2 .0 5 3 % 0 .0 0 1 .4 2 1 4 .1 8 1 9 .3 2 2 2 .7 8 2 7 .1 0 3 2 .6 1 4 9 .5 4 4 % 0 .0 0 0 .0 0 1 0 .8 3 1 5 .9 2 1 9 .4 0 2 3 .8 0 2 9 .4 7 4 7 .0 5 5 % 0 .0 0 0 .0 0 7 .8 8 1 2 .7 9 1 6 .2 5 2 0 .6 7 2 6 .4 4 4 4 .5 9 6 % 0 .0 0 0 .0 0 5 .3 5 9 .9 6 1 3 .3 2 1 7 .7 1 2 3 .5 3 4 2 .1 7 7 % 0 .0 0 0 .0 0 3 .2 7 7 .4 4 1 0 .6 4 1 4 .9 3 2 0 .7 4 3 9 .7 8 8 % 0 .0 0 0 .0 0 1 .6 7 5 .2 5 8 .2 2 1 2 .3 5 1 8 .0 8 3 7 .4 3 9 % 0 .0 0 0 .0 0 0 .5 7 3 .4 0 6 .0 7 9 .9 7 1 5 .5 7 3 5 .1 1 N Ú 1 0 % 0 .0 0 0 .0 0 0 .0 0 1 .9 3 4 .2 2 7 .8 1 1 3 .2 0 3 2 .8 4 M E R O D E 1 1 % 0 .0 0 0 .0 0 0 .0 0 0 .8 4 2 .6 7 5 .8 8 1 0 .9 9 3 0 .6 1 A Ñ O S T R 1 2 % 0 .0 0 0 .0 0 0 .0 0 0 .1 7 1 .4 5 4 .1 9 8 .9 5 2 8 .4 2 A N S C U R R 1 3 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .5 8 2 .7 6 7 .0 9 2 6 .2 9 ID O S 1 4 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 7 1 .6 1 5 .4 1 2 4 .2 1 1 5 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .7 5 3 .9 4 2 2 .1 8 1 6 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .1 9 2 .6 7 2 0 .2 1 1 7 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 1 .6 3 1 8 .3 0 1 8 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .8 3 1 6 .4 6 1 9 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .2 8 1 4 .6 9 2 0 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 1 2 .9 9 2 1 % 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 0 .0 0 1 1 .3 7 0 0 0 0 0 0 0 9 2 2 % .0 .0 .0 .0 .0 .0 .0 .8 0 0 0 0 0 0 0 3 Para los efectos de esta fracción, cuando sea impar el número de meses del periodo a que se refieren los incisos a) y c) de esta fracción, se considerará como último mes de la primera mitad el mes inmediato anterior al que corresponda la mitad del periodo.
 
 IV. La deducción prevista en la fracción II, únicamente será aplicable en los ejercicios fiscales de 2016 y 2017, conforme a los porcentajes previstos en dicha fracción.
 Los contribuyentes a que se refiere la citada fracción II, podrán aplicar la deducción por las inversiones que efectúen entre el 1 de septiembre y el 31 de diciembre de 2015, en los términos previstos en dicha fracción para el ejercicio 2016, al momento de presentar la declaración anual del ejercicio fiscal de 2015. contribuyentes que en el ejercicio 2017 apliquen la deducción inmediata de la inversión de bienes nuevos de activo fijo, deberán calcular el coeficiente de utilidad de los pagos provisionales que se efectúen durante el ejercicio 2018, adicionando la utilidad fiscal o reduciendo la pérdida fiscal del ejercicio 2017, según sea el caso, con el importe de la deducción a que se refiere la fracción II. ………
@@ -5054,7 +5075,16 @@ Se reforman los artículos 79, fracciones VIII, XI, XVII, XIX, XX y segundo pár
 ### Artículo Segundo
 En relación con las modificaciones a las que se refiere el artículo Primero de este Decreto, se estará a lo siguiente:
 
-I. Cuando a la fecha de su entrada en vigor las personas morales mencionadas en las fracciones XI, recibir donativos deducibles, a partir de esa fecha deberán tributar en los términos del Título II de la citada Ley. No obstante, deberán determinar el remanente distribuible generado al 31 de diciembre de y sus socios e integrantes acumularán el remanente que las personas morales mencionadas les entreguen en efectivo o en bienes. entrará en vigor el 1 de julio de 2021. ………
+|  | I. Cuando a la fecha de su entrada en vigor las personas morales mencionadas en las fracciones XI, |
+| --- | --- |
+| XVII, XIX y XX del artículo 79 de la Ley del Impuesto sobre la Renta, no cuenten con autorización para |  |
+| recibir donativos deducibles, a partir de esa fecha deberán tributar en los términos del Título II de la |  |
+| citada Ley. No obstante, deberán determinar el remanente distribuible generado al 31 de diciembre de |  |
+| 2020 en los términos del Título III de la Ley del Impuesto sobre la Renta vigente hasta esta última fecha, |  |
+| y sus socios e integrantes acumularán el remanente que las personas morales mencionadas les |  |
+| entreguen en efectivo o en bienes. |  |
+
+entrará en vigor el 1 de julio de 2021. ………
 
 ## Transitorio
 

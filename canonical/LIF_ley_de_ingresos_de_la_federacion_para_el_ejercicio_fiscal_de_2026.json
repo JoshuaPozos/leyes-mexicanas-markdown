@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LIF_2026.pdf",
     "dof_publication": "DOF07/11/2025",
     "last_reform": "Sin reforma",
-    "captured_at": "2026-04-10T01:26:07.866009+00:00"
+    "captured_at": "2026-06-12T02:28:14.458659+00:00"
   },
   "preamble": [
     {
@@ -411,8 +411,68 @@
               "text": "En tanto no sean autorizados los aprovechamientos a que se refiere este artículo para el ejercicio fiscal de 2026, se aplicarán los vigentes al 31 de diciembre de 2025, multiplicados por el factor que corresponda según el mes en el que fueron autorizados o, en el caso de haberse realizado una modificación posterior, a partir de la última vez en la que fueron modificados en dicho ejercicio fiscal, conforme a la tabla siguiente:"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "MES",
+                "FACTOR"
+              ],
+              "rows": [
+                [
+                  "Enero",
+                  "1.0379"
+                ],
+                [
+                  "Febrero",
+                  "1.0350"
+                ],
+                [
+                  "Marzo",
+                  "1.0321"
+                ],
+                [
+                  "Abril",
+                  "1.0289"
+                ],
+                [
+                  "Mayo",
+                  "1.0255"
+                ],
+                [
+                  "Junio",
+                  "1.0226"
+                ],
+                [
+                  "Julio",
+                  "1.0198"
+                ],
+                [
+                  "Agosto",
+                  "1.0170"
+                ],
+                [
+                  "Septiembre",
+                  "1.0084"
+                ],
+                [
+                  "Octubre",
+                  "1.0076"
+                ],
+                [
+                  "Noviembre",
+                  "1.0014"
+                ],
+                [
+                  "Diciembre",
+                  "0.9965"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 12
+            },
+            {
               "type": "paragraph",
-              "text": "MES FACTOR Enero 1.0379 Febrero 1.0350 Marzo 1.0321 Abril 1.0289 Mayo 1.0255 Junio 1.0226 Julio 1.0198 Agosto 1.0170 Septiembre 1.0084 Octubre 1.0076 Noviembre 1.0014 Diciembre 0.9965 En el caso de aprovechamientos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026."
+              "text": "En el caso de aprovechamientos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026."
             },
             {
               "type": "paragraph",
@@ -465,8 +525,76 @@
               "text": "En tanto no sean autorizados los productos a que se refiere este artículo para el ejercicio fiscal de 2026, se aplicarán los vigentes al 31 de diciembre de 2025, multiplicados por el factor que corresponda según el mes en que fueron autorizados o, en el caso de haberse realizado una modificación posterior, a partir de la última vez en la que fueron modificados en dicho ejercicio fiscal, conforme a la tabla siguiente:"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "MES",
+                "FACTOR"
+              ],
+              "rows": [
+                [
+                  "Enero",
+                  "1.0379"
+                ],
+                [
+                  "Febrero",
+                  "1.0350"
+                ],
+                [
+                  "Marzo",
+                  "1.0321"
+                ],
+                [
+                  "Abril",
+                  "1.0289"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 13
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Mayo",
+                "1.0255"
+              ],
+              "rows": [
+                [
+                  "Junio",
+                  "1.0226"
+                ],
+                [
+                  "Julio",
+                  "1.0198"
+                ],
+                [
+                  "Agosto",
+                  "1.0170"
+                ],
+                [
+                  "Septiembre",
+                  "1.0084"
+                ],
+                [
+                  "Octubre",
+                  "1.0076"
+                ],
+                [
+                  "Noviembre",
+                  "1.0014"
+                ],
+                [
+                  "Diciembre",
+                  "0.9965"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 14
+            },
+            {
               "type": "paragraph",
-              "text": "MES FACTOR Enero 1.0379 Febrero 1.0350 Marzo 1.0321 Abril 1.0289 Mayo 1.0255 Junio 1.0226 Julio 1.0198 Agosto 1.0170 Septiembre 1.0084 Octubre 1.0076 Noviembre 1.0014 Diciembre 0.9965 En el caso de productos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026."
+              "text": "En el caso de productos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026."
             },
             {
               "type": "paragraph",

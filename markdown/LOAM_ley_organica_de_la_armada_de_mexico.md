@@ -692,17 +692,31 @@ VI. Marinería.
 
 ### Artículo 81
 . Para el cumplimiento de las operaciones realizadas conjuntamente por la Fuerza Armada permanente, temas inherentes a la disciplina naval, así como para los efectos de los derechos a que alude la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las distintas categorías y jerarquías de la Armada de México tendrán las equivalencias con las categorías y jerarquías del Ejército, Fuerza Aérea y Guardia Nacional, en los términos siguientes:
-ARMADA EJÉRCITO Y FUERZA AÉREA GUARDIA NACIONAL
 
-I. ALMIRANTES GENERALES GENERALES Almirante General de División General de División de Guardia Nacional Vicealmirante General de Brigada o General de Ala General de Brigada de Guardia Nacional Contralmirante General Brigadier o General de Grupo General Brigadier de Guardia Nacional
+| ARMADA | EJÉRCITO Y FUERZA AÉREA | GUARDIA NACIONAL |
+| --- | --- | --- |
+| I. ALMIRANTES | GENERALES | GENERALES |
+| Almirante | General de División | General de División de Guardia Nacional |
+| Vicealmirante | General de Brigada o General de Ala | General de Brigada de Guardia Nacional |
+| Contralmirante | General Brigadier o General de Grupo | General Brigadier de Guardia Nacional |
+| II. CAPITANES | JEFES | JEFES |
+| Capitán de Navío | Coronel | Coronel de Guardia Nacional |
+| Capitán de Fragata | Teniente Coronel | Teniente Coronel de Guardia Nacional |
+| Capitán de Corbeta | Mayor | Mayor de Guardia Nacional |
+| III. OFICIALES | OFICIALES | OFICIALES |
+| Teniente de Navío | Capitán Primero | Capitán Primero de Guardia Nacional |
+| Teniente de Fragata | Capitán Segundo | Capitán Segundo de Guardia Nacional |
+| Teniente de Corbeta | Teniente | Teniente de Guardia Nacional |
+| Guardiamarina | Subteniente | Subteniente de Guardia Nacional |
+| Primer Maestre | Subteniente | Subteniente de Guardia Nacional |
+| IV. CLASES | CLASES | CLASES |
+| Segundo Maestre | Sargento Primero | Sargento Primero de Guardia Nacional |
+| Tercer Maestre | Sargento Segundo | Sargento Segundo de Guardia Nacional |
+| Cabo | Cabo | Cabo de Guardia Nacional |
+| V. MARINERÍA |  |  |
+| Marinero | Soldado | Soldado de Guardia Nacional |
 
-II. CAPITANES JEFES JEFES Capitán de Navío Coronel Coronel de Guardia Nacional Capitán de Fragata Teniente Coronel Teniente Coronel de Guardia Nacional Capitán de Corbeta Mayor Mayor de Guardia Nacional
-
-III. OFICIALES OFICIALES OFICIALES Teniente de Navío Capitán Primero Capitán Primero de Guardia Nacional Teniente de Fragata Capitán Segundo Capitán Segundo de Guardia Nacional Teniente de Corbeta Teniente Teniente de Guardia Nacional Guardiamarina Subteniente Subteniente de Guardia Nacional Primer Maestre Subteniente Subteniente de Guardia Nacional
-
-IV. CLASES CLASES CLASES Segundo Maestre Sargento Primero Sargento Primero de Guardia Nacional Tercer Maestre Sargento Segundo Sargento Segundo de Guardia Nacional Cabo Cabo Cabo de Guardia Nacional
-
-V. MARINERÍA Marinero Soldado Soldado de Guardia Nacional Además de las distintas categorías y jerarquías que ostenta el personal de la Armada de México, señaladas en el cuadro anterior, se cuenta con Cadetes y Alumnado, quienes cursan diversos estudios en los planteles educativos navales.
+Además de las distintas categorías y jerarquías que ostenta el personal de la Armada de México, señaladas en el cuadro anterior, se cuenta con Cadetes y Alumnado, quienes cursan diversos estudios en los planteles educativos navales.
 
 ### Artículo 82
 . Al término de los estudios en la Heroica Escuela Naval Militar, al personal de Cadetes que haya concluido y aprobado satisfactoriamente sus estudios se les otorgará el grado de Guardiamarina; al Alumnado o Cadetes de las carreras de nivel superior de los demás establecimientos educativos navales, el de Primer Maestre y a los de nivel medio superior, el de Segundo Maestre.

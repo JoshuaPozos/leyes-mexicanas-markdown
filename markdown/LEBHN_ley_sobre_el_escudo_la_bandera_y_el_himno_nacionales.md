@@ -286,58 +286,27 @@ Y tus templos, palacios y torres Se derrumben con hórrido estruendo, Y sus ruin
 De mil héroes la patria aquí fue.
 CORO IV ¡Patria! ¡patria! Tus hijos te juran Exhalar en tus aras su aliento, Si el clarín con su bélico acento Los convoca a lidiar con valor. ¡Para ti las guirnaldas de oliva! ¡Un recuerdo para ellos de gloria! ¡Un laurel para ti de victoria! ¡Un sepulcro para ellos de honor! CORO Mexicanos, al grito de guerra El acero aprestad y el bridón, Y retiemble en sus centros la tierra Al sonoro rugir del cañón.
 ARTÍCULO 58.- La música oficial del Himno Nacional es la siguiente:
-Cono 7a EA UTA i are bri.
-Me-x1 — canosal grito..de gue. —— rra El a — ce-roa-pres.tad yel Yan E mM La ET ee | ae Ye Se SS eS SS ee eS a 2 La il." Ce — Ha E de. oo AAA e Es ha E o E 22. L.,.Lk € — — Ss a SS ss —— A PP A = er: a2 ZEN
+Cono 7a
 >
-a F Lrzr> Ñ Als +SsS+.roeaamM> oa Á Mi ee eo e x pra. Mo. A IA ii = SS SR e a UTE Cd o... a | Pte a CAOS: “Se ow Also. no.rorugirdel. dof Y re - liembleen suscen.tros la tierra, ca_ di a a —e hd 4 ae TEN A oa co SS as ae — oe ee aes Se em =: LA Ss —Í ms Se oe E ; a 3 Ha Ñ—i Ñ —i —— LS M LL. A A Ie o hon Y re ‘i la tie : Al ; _tiembleensuscen.iros — rrs_ so_no.rorugir ddl..ca_ :
+A = h = . E P To = El a ce.roa-pres.tad yel bri. y. canosal grio.. de gue —— rra — Y 3D Ej a em e E — e E E o o =a 4 : oe = r a o . §*
+> ZN
+A F Lrzr> Ñ Als +SsS+.roeaamM> oa Á Mi ee eo e x Cl. Moa Ad. — A... IA Di = E SS eo a TE eee Pa y y a — e ca NET, if Also. no.rorugirdel. don Y re - liembleen suscen.tros la tierra, ca_ = zi > TA /) if ==" v =
+: “3 aa. — IA LS ee oo Ve AA LI Ah if e 2 aoe. 7 Ys A ñón, Y re _tiem.bleensus cen.iros la tie Al ___ rra so_ nororugirdel. ca.
+A : - > aa I : 4 A 3. y, E e e y . = E E E SS es e 4 e] ba o tas. e A. M ai“ ——]] ST EM, Cae Re TY ee ss OE —! lem + se a: EE ene € e = Sf SS Gee ee AL ——— PE ——__..
+HE
+bh Estrofa.
+E — — [== F—i+ — A 0 — 7 i— y == e E A E E IES ñon. Ciñat0k pa.tricltus sie. nes deo li De la di_ va paz... el ércan_gel A f - 2 —];————]]]E = ae a e — = da nS MALE
+> **[Tabla no extraíble — ver PDF original, página 20]**
+AE. eee ee GG E de — A SS a ee ee — 1D GI > ML.
+La: o a e ae. — TT PP a eo... PiR LLE Co I — iy Y —y os vi no,Queenel tueter_nodes.ti.no Porel de dode Diosseescri — op 0 SS — SST SST A ee ean ——]] Af 2S a >; K——————— et SS SS ES ee SS ee ee oe eS — es FA EE NECE ACE FET Se A Se E 4 [+ ph ee , : . o a a oe ee es AE ee ee ee es ee ee ee eee es EST; ee ee ee —_— —] Se Se ee ee ee eee ee ee ee a ee, ee ee — - W A Ww a
+Ad oT oT 2 ES, EE at ES ST — > SS See REE AE A TY A a Ee E... ee => > > >" += II Ce ELA e. 22 NA il li NI Y 7 E bid; mi Pro_fanar.... tu — go bas b , + : E Ea — — — == dd] —] j_ ll —])[o————— AS et DD E LL Ze olx: 8 O ws ee [Se A Re ee eS ee ee Ee te o > de a a E a ee eS ee LA ee = ee lS A I SC ES ES Lee a Ma ee oF — ¥ = = == , —— ee PP ES LAA, A- ], a A... —l OF Se eS we Ee a 1. >.
+EP MIE E
+> >
+eee ee ——á LU Y E II y —] e] sue _ _ lo, Piensai0hpa.tria!que-ri da queel cie cla Unso.
+A Cm Ud .— YEN VA SS ee eee ES See Pe Se ea = ee SE a a a on —— SSS — ee 1 a SER <A aS a CE 2 eee ——]——————— Ee Kee LSS a a Se a. Se ee SE — — —
+La i y SS EGS A SS fi oa e SES) SS SS ES A re a ee: SS ——————— ILILÑN AGP Í 7 € > A — SS A AAA pa Ao Aaa 2hóZ ——á.,02 E Hal ala y hi-jo did. da-doenca.da hi-jo te did. Un.... sol — dadoenca-da te
 >
-é ia > “A 7 = a 2 a == — : El DA a Y Aa A SS A Ed ——— SS: a e A Estroja. —_ A — -—_\ }——_ > ee a >| ¡— SSS ñón, Ciñat0h iñal pa.trieftus sie nes deo : De la a“ E Ii va paz... elercan_gel A Ly a So bs a 3 == == o a SS 5-5 =>T>—H- ==
-Coro ra
->
-p 1k 1 Me-x1 — canosal a = El a ce.roa-pres.tad ye) : bri. grito..de gue —— Tra — ZEN A 2 SS ee a — Ha E de. Se SS eS SS eS a 2 Ce E RS) aa nas a oy | ES See —] er A eels —_-—]—]——_—]— € SS — Bi — Ss a SS ss —— PP A = = oe :
-ZIN
->
-A a M2 E SE + E A E eee ——]] a E ii: 3 | A OZ Also. no.rorugirdel. dof Y re - liembleen suscen.tros la tierra, ca_ PA tees sf Tea h = === er —————— ee
-
-| hon A ñón. | Y re tiem.bleensus te : _ cen.tros la Estroja. Ciñat0h ite i pa.trieftus jalhie sie el nes deo Ii = | Al rra so_ no.rorugir del..ca. - mima — 1 De la a“ - va paz... elercan_gel |
-| --- | --- | --- |
-| A | . | 4 |
-
-== + Ade do. +2 =1 = == A SSS SS
-
-| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
-| --- | --- | --- | --- | --- | --- |
-| PI | 9 | 1 | 16 | ee | 7 |
-
-e 4 Jf Also. no.rorugirdel. don Y re - liembleen suscen.tros la tierra, ca_ a PA > “3 \ h —— === ha re Pa => =— oo 0 aa HE E a e
-> —] eS -
-HO — E £ — Nal es Gees TO hón ; Y re @_tiembleensuscenirosla _ tiem tie Al rra_ so_ no-rorugirdel.ca.
-PF
->
-A a > i . es a “TN = as es ew an E MS za“ ió ; 6 2 (22 E e o e AE CREAS AE e AI ee MES ¡AI! e E y -S—- 0 E. — 6 Ne (cease 4, = NACI oe SS psss A Se 7 4 LE x= mim Et — >= y
-A
->
-4 SS SS SS eS E Lái—- es (Er Se mm. E. añ + ETA Gt E Mami + Se * > e a! — o JT 1 Al del. don Y re - suscen.tros la tierra, so- no-rorugir ca. -..—= = ot ZN y | ..—= iS ee eS Pm.
-SSS SSS ee i AE io SS a as ie SS Sey ee im A. SUITE IR ee Ma. A (Se Per" MS = = da
-> Comme a A GM. — id MI | ae
-Aa Sa SS ae Ss 2 a =:
-Fl > ' u E TT. A li Sa hon, Y re la tie Al del._ rra so_no-ro rugir ca. é La > a: . , 4 2 a = maa se = ae i M0 oe pt um ee E CA ee ————— a so —_ í E ——— E A oe FEE — Cee Set ee Fe Se HL eS wre eo ee Sen ees eS Se AN =a = —ozq ae £ a ae or CL... ae ee eee 1 E Y] T—
-A. > CS SSS I — iy Y —y os vi no,Queenel cielo tueter_nodes..ti.no Porel de dode Diosseescri — E —— 00S ae CN Ee ee e. = pt t,t 1 — ll Se ee ne 4 [+ ph 2 , + 3 = Sm A ee —O —oe“—ZL - a o a ee gp 9 II IM a e Pza Laa > _—————————————————————————— A bió: Meassio_sa.reunex.tra.ño e.ne mi — go Pro_fa—nar.... consuplen.ta tu € be 7 — ee = = =. —_ í = e mea Aa Mir a dam A > > 2 Er Pr si, a a... SS SS Se Se ae sue _ lo, Piensai0h pa_tria!que_ri ida quecl cie Unsol
-> —s
-_f HF ——.——.—].— 1 —Ú ——]]]——— o aS ee eee a ier — — tas — oS e O O o hi-jo te dió. da-dognca.da hi-jo te dió. Un.... sol — dadoenca.da
->
-E Ji —a — Sy Fee y a e y o ai 0 ae = ne —— , = Se ee E E (E a == ==—a ————Á D =I — — b ba h y *
-a > > a do LA A A Pa? E Co ——l—] I — iy Y —y os vi no,Queenel cielo tueter_nodes..ti.no Porel de dode Diosseescri — E -— Se Ge SS a Se, a a ——]b emo ¿bel
-> > E 4 2 A dd —
-— ae ll CN Ee ee Se ee E 4 [+ ph 2 , + ag (= — — Seca El E DL AA > e e OO —] ee TÚ; ;T—T——]——— —_——»——]— 3 — 5 ] wo o[ lr eee ul a o a ee gp 9 II IM a e AE dal A daa LÑ£kñA 2 ei AE _—————————————————————————— A bió: Meassio_sa.reunex.tra.ño e.ne mi — go Pro_fa._nar.... consuplan.ta tu 2 be ea ee E A Vv = = == — —— = — We STi EE SP A > > sue _ _ lo, Piensai0hpa.tria!que-ri da queel cie cla Unso.
-AA —— —— hi-jo te dió. da-doenca.da hi-jo te did. Un.... sol — dadoenca-da
->
-E Ji —a SSS TS ——— tes Pie re ae SS ST a MP — LL... : (E a == ==—a ————Á D =I — — La 4 y b .
-ee EII kk TT — a ee gp 9 II IM a SL SL Se a ee SS Se Se ee) ee > — ll A ee ee ee ee ee ee ee A - A A A A E CA NU e 0 © ee ——————————————[¡—————————— E PEA Y bid; mi — go Pro_fanar.... tu b> b EU El . © = — — ro! = — --_—]l———]—]—]k—]][ aa SS ee ee ee ee ee e oo eo SS —] — ——>— — ][——— SY See es ee Se ee Eee 14.4 a 1 US es ee ee oe a eee ee ee ese eee ”—][———— A EN SC EE Sk _————]——;z;—— > ieee Pe ee eee A Ee eee Er = = , — — es O e e Es A o ==: 1 Se oe Se ee o ee ES eee eet e ee OES == ee ee E ee eee ee ee eS 27 a ED E a > > .— A CE e - di E lA a SS + ee ———.] eee a. Ia 4 a. ia] LS SS Cy op BS te ]—]]]]]—; —];]]];]]—;————]]]]]ÚÚ]——;—T——;—]— —————;——;;—l_———D———I———]——]——]]];—— sue _ _ lo, Piensai0hpa.tria!que-ri da queel cie cla Unso.
-> ——
-5 Ps WU = See SS ee eee ee a ._— LL A = Ye ee ee oe See i eee o | 0 a i es a ee a ee ee eee ee ee a SS a = 7 r y eS ea E SEES a aS SSS i eS eee wi =a a ‘ned Genet Soe wh = 2 a %-—— lA A TF Li a — ae $ Ee See ee ee ell tt m2 — “ay » : ; a
-IC — hot E pe IN IZ ZI E SS Se zzz BA a > — ll A A UE A ee CS NÓ NN E AE LOA SETS A ee A A A E CA NU e 0 © ee _—————————————————————————— A bid; mi Pro_fanar.... tu — go b>. b a 4 * 0 E. — — — er A Ey a ee a ;—]]]]] es et al S50 le ——— ee eee E” SSeS lA] a ay ee a SY ewe tn ee Se mz SS Cr y = = = f = = — (PSI E AA a a > > <£2£2Z22 A OO a ik e e E d Me | E Li a se eS — 2 dl] ——]—=— sue _ _ lo, Piensai0hpa.tria!que-ri da queel cie cla Unso. + —~> E = See SS ee eee ee Ye a ee ._— LL Tr —— —e Hate ———— d —] ee T—zJo —>]o — o A =o oe ee ss 2 ST e A AE e A ——— had _ lA A MOE. A A EA ITZA “e A Ve.
-Zo Ar. ars 3
+= Vas, TS j , ee ma ad PS E e ee ee ae o Mod kh" E E ss 12 Ss Se eS Se —a-— See ey ee Te — oe a — a 2-50 —«—Ñ e - —ea -I e E li ——— A eee Ze EE A PR SSS SSS a SS Ma SS see Se Pe i: .— JAI mt SE SS ee eE ES ae SU a A 4 AUT ee 722 dae a EE ee eee OS ee — ES E Ss Ss a es ee — D —— = =
 ARTÍCULO 59.- Derogado
 Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018
 ARTÍCULO 60.- Derogado

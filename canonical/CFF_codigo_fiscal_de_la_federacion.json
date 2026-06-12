@@ -9,7 +9,7 @@
     "pdf_filename_origen": "CFF.pdf",
     "dof_publication": "DOF31/12/1981",
     "last_reform": "DOF 28/12/2025",
-    "captured_at": "2026-04-10T00:38:02.106988+00:00"
+    "captured_at": "2026-06-12T02:12:38.175843+00:00"
   },
   "preamble": [
     {
@@ -20699,8 +20699,36 @@
               "text": "El por ciento a que se refiere el párrafo anterior se aplicará dependiendo del ejercicio en que debieron pagarse los impuestos federales, de que se trate, de conformidad con la siguiente tabla:"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Ejercicio",
+                "Por ciento"
+              ],
+              "rows": [
+                [
+                  "1996",
+                  "12.50"
+                ],
+                [
+                  "1997",
+                  "12.50"
+                ],
+                [
+                  "1998",
+                  "12.50"
+                ],
+                [
+                  "1999",
+                  "10.00"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 270
+            },
+            {
               "type": "paragraph",
-              "text": "Ejercicio Por ciento 1996 12.50 1997 12.50 1998 12.50 1999 10.00 Los contribuyentes podrán anticipar el pago de las parcialidades que les hubiesen sido autorizadas en los términos del artículo 66 del Código Fiscal de la Federación, en cuyo caso, el beneficio se extenderá a todos los pagos anticipados que se realicen entre el 1o. de enero y el 30 de abril de 2001."
+              "text": "Los contribuyentes podrán anticipar el pago de las parcialidades que les hubiesen sido autorizadas en los términos del artículo 66 del Código Fiscal de la Federación, en cuyo caso, el beneficio se extenderá a todos los pagos anticipados que se realicen entre el 1o. de enero y el 30 de abril de 2001."
             },
             {
               "type": "paragraph",

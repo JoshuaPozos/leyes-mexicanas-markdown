@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LAN.pdf",
     "dof_publication": "DOF01/12/1992",
     "last_reform": "DOF 11/12/2025",
-    "captured_at": "2026-04-10T00:46:24.028724+00:00"
+    "captured_at": "2026-06-12T02:13:08.988672+00:00"
   },
   "preamble": [
     {
@@ -2088,8 +2088,32 @@
               "dof_date": "11-12-2025"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Vocales",
+                "Proporción de Representación"
+              ],
+              "rows": [
+                [
+                  "Representantes del Gobierno Federal",
+                  "Los que resulten conforme a la Fracción IV del Artículo 13 BIS 2"
+                ],
+                [
+                  "Representantes de los Gobiernos Estatales y Municipales conforme a su circunscripción territorial dentro de la cuenca hidrológica",
+                  "Cuando más 35%"
+                ],
+                [
+                  "Representantes de Usuarios en diferentes usos y Organizaciones Ciudadanas o No Gubernamentales",
+                  "Al menos 50%"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 28
+            },
+            {
               "type": "paragraph",
-              "text": "Vocales Proporción de Representación Representantes del Gobierno Federal Los que resulten conforme a la Fracción IV del Artículo 13 BIS 2 Representantes de los Gobiernos Estatales y Municipales conforme Cuando más 35% a su circunscripción territorial dentro de la cuenca hidrológica Representantes de Usuarios en diferentes usos y Organizaciones Al menos 50% Ciudadanas o No Gubernamentales La persona Titular de la Presidencia del Consejo de Cuenca será designada conforme lo establezcan las Reglas Generales de Integración, Organización y Funcionamiento de esta instancia y tendrá voz y voto de calidad. La persona Titular de la Dirección General del Organismo de Cuenca fungirá como Titular de la Secretaría Técnica del Consejo de Cuenca, quien tendrá voz y voto."
+              "text": "La persona Titular de la Presidencia del Consejo de Cuenca será designada conforme lo establezcan las Reglas Generales de Integración, Organización y Funcionamiento de esta instancia y tendrá voz y voto de calidad. La persona Titular de la Dirección General del Organismo de Cuenca fungirá como Titular de la Secretaría Técnica del Consejo de Cuenca, quien tendrá voz y voto."
             },
             {
               "type": "reform_note",

@@ -1316,7 +1316,16 @@ El Fondo de Compensación será constituido en el ejercicio fiscal 2015 y se act
 **Quinto.-** Las autoridades competentes respetarán los derechos de los trabajadores de la educación en términos de las disposiciones jurídicas aplicables y las relaciones laborales correspondientes se mantendrán en los términos vigentes hasta la entrada en vigor del presente Decreto.
 **Sexto.-** A más tardar a los 45 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría de Desarrollo Social, previa opinión de la Secretaría de Hacienda y Crédito Público, deberá publicar en el Diario Oficial de la Federación los Lineamientos del Fondo de Aportaciones para la Infraestructura Social, a que hace referencia el artículo 33 del presente Decreto.
 **Séptimo.-** Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal por adeudos que correspondan al municipio, demarcación territorial, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación Fiscal, relativos a los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, podrán efectuarse de manera gradual, con base en, al menos, los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada municipio o demarcación territorial por concepto del citado Fondo, considerando el 100% de la facturación de los conceptos referidos:
-Ejercicio Fiscal Porcentaje de Retención 2014 50% 2015 60% 2016 75% 2017 85% 2018 100% Lo anterior podrá ser aplicable sin perjuicio de lo establecido en las legislaciones locales en la materia, vigentes en la fecha de publicación de esta Ley.
+
+| Ejercicio Fiscal | Porcentaje de Retención |
+| --- | --- |
+| 2014 | 50% |
+| 2015 | 60% |
+| 2016 | 75% |
+| 2017 | 85% |
+| 2018 | 100% |
+
+Lo anterior podrá ser aplicable sin perjuicio de lo establecido en las legislaciones locales en la materia, vigentes en la fecha de publicación de esta Ley.
 **Octavo.-** El coeficiente CP a que se refiere la fórmula establecida en el artículo 2-A de la Ley de i,t Coordinación Fiscal será aplicable a partir del ejercicio fiscal de 2015. La información considerada para el cálculo del mismo será aquélla que las entidades federativas proporcionen a la Secretaría de Hacienda y Crédito Público, a más tardar el 15 de agosto de 2014.
 El Distrito Federal queda considerado para efectos del cálculo del coeficiente CP . En el ejercicio i,t fiscal 2014, la totalidad del excedente a que se refiere dicha fórmula se distribuirá conforme al Coeficiente C , . i t
 **Noveno.-** Lo previsto en la fracción II del artículo 2o. de la Ley de Coordinación Fiscal, respecto a la no inclusión en la recaudación federal participable del Impuesto sobre la Renta por concepto de salarios y, en general, por la prestación de un servicio personal subordinado causado por los servidores públicos; así como lo dispuesto en el artículo 3-B de dicha Ley, entrarán en vigor el 1 de enero de 2015.
@@ -1355,7 +1364,14 @@ II. Durante los ejercicios 2015 a 2018, la recaudación federal participable que
 Para determinar la recaudación federal participable referida en el párrafo anterior, se deberá considerar lo siguiente:
 
 a) Tratándose de la proporción de ingresos por derechos a que se refiere la Ley de Ingresos sobre Hidrocarburos, en lugar de aplicar el porcentaje establecido en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal, para determinar los ingresos participables, durante los ejercicios fiscales 2015 al 2018 se aplicarán los siguientes:
-Ejercicio Fiscal Porcentaje 2015 73.00% 2016 74.82% 2017 76.65% 2018 78.47%
+
+| Ejercicio Fiscal | Porcentaje |
+| --- | --- |
+| 2015 | 73.00% |
+| 2016 | 74.82% |
+| 2017 | 76.65% |
+| 2018 | 78.47% |
+
 
 b) Tratándose de la proporción de ingresos por contratos para la exploración y extracción de hidrocarburos a que se refiere la Ley de Ingresos sobre Hidrocarburos, se estará a lo dispuesto por el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal. ………
 

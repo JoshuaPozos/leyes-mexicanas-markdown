@@ -4259,7 +4259,47 @@ Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 México, D.F., a 14 de agosto de 1931.- El Subsecretario de Gobernación. Encargado del Despacho, Octavio Mendoza González.- Rúbrica.
 Nota: El Apéndice 1 de este Código y sus tablas 1, 2, 3 y 4, quedaron sin efecto al reformarse el artículo 195 bis del propio Código, mediante Decreto publicado en el Diario Oficial de la Federación el 20 de agosto de 2009.
-APENDICE 1 Apéndice 1 adicionado DOF 10-01-1994. Apéndice con Tablas reformado DOF 22-07-1994 TABLA 1 FENTANIL 1ª 2ª PRIMODELINCUENCIA MULTIREINCIDENTE RESINA DE BUPRENORFINA SULFATO HEROINA (ALFA- REINCIDENCIA REINCIDENCIA CLORHIDRATO MEPERIDINA MARIHUANA CANNABIS MORFINA A DE (DIACETIL- METIL) DE COCAINA (DEMEROL) (HASCHICH) (NUVAINE) COCAINA MORFINA) (CHINA- PENA DE PRISION WHITE) máx 250 grs máx 5 grs máx 150 mgs máx 200 mgs máx 25 grs máx 250 mgs máx 1 gr máx 2 grs máx 2 grs 10 meses a 1 año a 1 año 3 meses a 1 año 9 meses a Fe de erratas DOF 1 año 4 meses 1 año 6 meses 1 año 9 meses 2 años 3 meses 01-08-1994 250 grs a 1 kg 5-20 grs 150-300 mgs 200-400 mgs 25-50 grs 250-500 mgs 1-2 grs 2-4-grs 2-4 grs 1 año 4 meses a 1 año 6 meses a 1 año 9 meses a 2 años 3 meses a 1 año 9 meses 2 años 2 años 3 meses 2 años 9 meses 1 a 2.5 kg 20-50 grs 300-500 mgs 400-800 mgs 50-100 grs 500 mgs-1gr 2-4 grs 4-8 grs 4-8 grs 1 año 9 meses a 2 años a 2 años 3 meses a 2 años 9 meses a 2 años 9 meses 3 años 1 mes 3 años 5 meses 4 años 3 meses 2.5 a 5 kg 50-100 grs 500-1 gr 800-1 gr 100-200 grs 1-2 grs 4-6 grs 8-16 grs 8-16 grs 2 años 9 meses a 3 años 1 mes a 3 años 5 meses a 4 años 3 meses a 4 años 3 meses 4 años 9 meses 5 años 3 meses 6 años 6 meses TABLA 2 ACIDO CLORHIDRATO DE 1ª 2ª FENCICLIDINA PRIMODELINCUENCIA MULTIREINCIDENTE MEZCALINA LISERGICO PSILOCIBINA METANFETAMINA METANFETAMINA REINCIDENCIA REINCIDENCIA (PCP) (LSD) (ICE) PENA DE PRISIÓN máx 2 grs máx 2.5 grs máx 50 mgs máx 2.5 grs máx 1.5 gr máx 1.5 gr 10 meses a 1 años a 1 año 3 meses a 1 año 9 meses a 1 año 4 meses 1 año 6 meses 1 año 9 meses 2 años 3 meses 2-4 grs 2.5-5 grs 50-100 mgs 2.5-5 grs 1.5-3 grs 1.5-3 grs 1 año 4 meses a 1 año 6 meses a 1 año 9 meses a 2 años 3 meses a 1 año 9 meses 2 años 2 años 3 meses 2 años 9 meses 4-8 grs 5-10 grs 100-200 mgs 5-10 grs 3-5 grs 3-5 grs 1 año 9 meses a 2 años a 2 años 3 meses a 2 años 9 meses a 2 años 9 meses 3 años 1 mes 3 años 5 meses 4 años 3 meses 8-16 grs 10-20 grs 200-400 mgs 10-20 grs 5-10 grs 5-10 grs 2 años 9 meses a 3 años 1 mes a 3 años 5 meses a 4 años 3 meses a 4 años 3 meses 4 años 9 meses 5 años 3 meses 6 años 6 meses TABLA 3 PRIMODELINCUENCIA 1ª REINCIDENCIA 2ª REINCIDENCIA MULTIREINCIDENTE DIAZEPAM FLUNITRAZEPAM FENPROPOREX TRIHEXIFENIDILO CLORODIAZEPOXIDO PENA DE PRISION máx 150 mgs máx 100mgs máx 200 mgs máx 100 mgs máx 240 mgs 10 meses a 1 año a 1 año 3 meses a 1 año 9 meses a 1 año 4 meses 1 año 6 meses 1 año 9 meses 2 años 3 meses 150-300 mgs 100-200 mgs 200-300 mgs 100-200 mgs 240-600 mgs 1 año 4 meses a 1 año 6 meses a 1 año 9 meses a 2 años 3 meses a 1 año 9 meses 2 años 2 años 3 meses 2 años 9 meses 300-600 mgs 200-300 mgs 300-400 mgs 200-300 mgs 600 mgs-1 gr 1 año 9 meses a 2 años a 2 años 3 meses a 2 años 9 meses a 2 años 9 meses 3 años 1 mes 3 años 5 meses 4 años 3 meses 600 mgs-1 gr 300-400 mgs 400-600 mgs 300-400 mgs 1-2 grs 2 años 9 meses a 3 años 1 mes a 3 años 5 meses a 4 años 3 meses a 4 años 3 meses 4 años 9 meses 5 años 3 meses 6 años 6 meses TABLA 4 1ª 2ª PRIMODELINCUENCIA MULTIREINCIDENTE SECOBARBITAL MECUALONA PENTOBARBITAL RAFETAMINA DEXTROANFETAMINA REINCIDENCIA REINCIDENCIA PENA DE PRISION 10 meses a 1 año a 1 año 3 meses a 1 año 9 meses a máx 2 grs máx 2.5 grs máx 5 grs máx 150 mgs máx 150 mgs 1 año 4 meses 1 años 6 meses 1 año 9 meses 2 años 3 meses 2-4 grs 2.5-5 grs 5-20 grs 150-300 mgs 150-300 mgs 1 año 4 meses a 1 año 6 meses a 1 año 9 meses a 2 años 3 meses a 1 año 9 meses 2 años 2 años 3 meses 2 años 9 meses 4-8 grs 5-10 grs 20-50 grs 300-500 mgs 300-500 mgs 1 año 9 meses a 2 años a 2 años 3 meses a 2 años 9 meses a 2 años 9 meses 3 años 1 mes 3 años 5 meses 4 años 3 meses 8- 16 grs 10-20 grs 50-100 grs 500 mgs-1 gr 500 mgs-1 gr 2 años 9 meses a 3 años 1 meses a 3 años 5 meses a 4 años 3 meses a 4 años 3 meses 4 años 9 meses 5 años 3 meses 6 años 6 meses ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA de agosto de 1931.
+APENDICE 1 Apéndice 1 adicionado DOF 10-01-1994. Apéndice con Tablas reformado DOF 22-07-1994 TABLA 1
+
+| MARIHUANA | RESINA DE CANNABIS (HASCHICH) | MORFINA | BUPRENORFINA A (NUVAINE) | CLORHIDRATO DE COCAINA | SULFATO DE COCAINA | HEROINA (DIACETIL- MORFINA) | FENTANIL (ALFA- METIL) (CHINA- WHITE) | MEPERIDINA (DEMEROL) | PRIMODELINCUENCIA | 1ª REINCIDENCIA | 2ª REINCIDENCIA | MULTIREINCIDENTE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  | PENA DE PRISION |  |  |  |
+| máx 250 grs | máx 5 grs | máx 150 mgs | máx 200 mgs | máx 25 grs Fe de erratas DOF 01-08-1994 | máx 250 mgs | máx 1 gr | máx 2 grs | máx 2 grs | 10 meses a 1 año 4 meses | 1 año a 1 año 6 meses | 1 año 3 meses a 1 año 9 meses | 1 año 9 meses a 2 años 3 meses |
+| 250 grs a 1 kg | 5-20 grs | 150-300 mgs | 200-400 mgs | 25-50 grs | 250-500 mgs | 1-2 grs | 2-4-grs | 2-4 grs | 1 año 4 meses a 1 año 9 meses | 1 año 6 meses a 2 años | 1 año 9 meses a 2 años 3 meses | 2 años 3 meses a 2 años 9 meses |
+| 1 a 2.5 kg | 20-50 grs | 300-500 mgs | 400-800 mgs | 50-100 grs | 500 mgs-1gr | 2-4 grs | 4-8 grs | 4-8 grs | 1 año 9 meses a 2 años 9 meses | 2 años a 3 años 1 mes | 2 años 3 meses a 3 años 5 meses | 2 años 9 meses a 4 años 3 meses |
+| 2.5 a 5 kg | 50-100 grs | 500-1 gr | 800-1 gr | 100-200 grs | 1-2 grs | 4-6 grs | 8-16 grs | 8-16 grs | 2 años 9 meses a 4 años 3 meses | 3 años 1 mes a 4 años 9 meses | 3 años 5 meses a 5 años 3 meses | 4 años 3 meses a 6 años 6 meses |
+
+TABLA 2
+
+| FENCICLIDINA (PCP) | MEZCALINA | ACIDO LISERGICO (LSD) | PSILOCIBINA | CLORHIDRATO DE METANFETAMINA (ICE) | METANFETAMINA | PRIMODELINCUENCIA | 1ª REINCIDENCIA | 2ª REINCIDENCIA | MULTIREINCIDENTE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  | PENA DE PRISIÓN |  |  |  |
+| máx 2 grs | máx 2.5 grs | máx 50 mgs | máx 2.5 grs | máx 1.5 gr | máx 1.5 gr | 10 meses a 1 año 4 meses | 1 años a 1 año 6 meses | 1 año 3 meses a 1 año 9 meses | 1 año 9 meses a 2 años 3 meses |
+| 2-4 grs | 2.5-5 grs | 50-100 mgs | 2.5-5 grs | 1.5-3 grs | 1.5-3 grs | 1 año 4 meses a 1 año 9 meses | 1 año 6 meses a 2 años | 1 año 9 meses a 2 años 3 meses | 2 años 3 meses a 2 años 9 meses |
+| 4-8 grs | 5-10 grs | 100-200 mgs | 5-10 grs | 3-5 grs | 3-5 grs | 1 año 9 meses a 2 años 9 meses | 2 años a 3 años 1 mes | 2 años 3 meses a 3 años 5 meses | 2 años 9 meses a 4 años 3 meses |
+| 8-16 grs | 10-20 grs | 200-400 mgs | 10-20 grs | 5-10 grs | 5-10 grs | 2 años 9 meses a 4 años 3 meses | 3 años 1 mes a 4 años 9 meses | 3 años 5 meses a 5 años 3 meses | 4 años 3 meses a 6 años 6 meses |
+
+TABLA 3
+
+| DIAZEPAM | FLUNITRAZEPAM | FENPROPOREX | TRIHEXIFENIDILO | CLORODIAZEPOXIDO | PRIMODELINCUENCIA | 1ª REINCIDENCIA | 2ª REINCIDENCIA | MULTIREINCIDENTE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | PENA DE PRISION |  |  |  |
+| máx 150 mgs | máx 100mgs | máx 200 mgs | máx 100 mgs | máx 240 mgs | 10 meses a 1 año 4 meses | 1 año a 1 año 6 meses | 1 año 3 meses a 1 año 9 meses | 1 año 9 meses a 2 años 3 meses |
+| 150-300 mgs | 100-200 mgs | 200-300 mgs | 100-200 mgs | 240-600 mgs | 1 año 4 meses a 1 año 9 meses | 1 año 6 meses a 2 años | 1 año 9 meses a 2 años 3 meses | 2 años 3 meses a 2 años 9 meses |
+| 300-600 mgs | 200-300 mgs | 300-400 mgs | 200-300 mgs | 600 mgs-1 gr | 1 año 9 meses a 2 años 9 meses | 2 años a 3 años 1 mes | 2 años 3 meses a 3 años 5 meses | 2 años 9 meses a 4 años 3 meses |
+| 600 mgs-1 gr | 300-400 mgs | 400-600 mgs | 300-400 mgs | 1-2 grs | 2 años 9 meses a 4 años 3 meses | 3 años 1 mes a 4 años 9 meses | 3 años 5 meses a 5 años 3 meses | 4 años 3 meses a 6 años 6 meses |
+
+TABLA 4
+
+| SECOBARBITAL | MECUALONA | PENTOBARBITAL | RAFETAMINA | DEXTROANFETAMINA | PRIMODELINCUENCIA |  | 1ª REINCIDENCIA |  | 2ª REINCIDENCIA | MULTIREINCIDENTE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | PENA DE PRISION |  |  |  |  |  |
+| máx 2 grs | máx 2.5 grs | máx 5 grs | máx 150 mgs | máx 150 mgs | 10 meses a 1 año 4 meses | 1 año a 1 años 6 meses |  | 1 año 3 meses a 1 año 9 meses |  | 1 año 9 meses a 2 años 3 meses |
+| 2-4 grs | 2.5-5 grs | 5-20 grs | 150-300 mgs | 150-300 mgs | 1 año 4 meses a 1 año 9 meses | 1 año 6 meses a 2 años |  | 1 año 9 meses a 2 años 3 meses |  | 2 años 3 meses a 2 años 9 meses |
+| 4-8 grs | 5-10 grs | 20-50 grs | 300-500 mgs | 300-500 mgs | 1 año 9 meses a 2 años 9 meses | 2 años a 3 años 1 mes |  | 2 años 3 meses a 3 años 5 meses |  | 2 años 9 meses a 4 años 3 meses |
+| 8- 16 grs | 10-20 grs | 50-100 grs | 500 mgs-1 gr | 500 mgs-1 gr | 2 años 9 meses a 4 años 3 meses | 3 años 1 meses a 4 años 9 meses |  | 3 años 5 meses a 5 años 3 meses |  | 4 años 3 meses a 6 años 6 meses |
+
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA de agosto de 1931.
 Publicada en el Diario Oficial de la Federación el 31 de agosto de 1931 Aclaración a la Fe de erratas DOF 12-09-1931 DECRETO que reforma el Código Penal vigente.
 Publicado en el Diario Oficial de la Federación el 12 de mayo de 1938 ARTICULO 1°.- Se derogan la fracción II del artículo 24 y los artículos 27, 70, 71 y 72 del Código Penal vigente.
 ARTICULO 2°.- Se reforman los artículos 25, 65, 66 y 255 del propio Código Penal, para quedar como sigue: ……….

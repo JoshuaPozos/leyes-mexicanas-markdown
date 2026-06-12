@@ -9,7 +9,7 @@
     "pdf_filename_origen": "CPEUM.pdf",
     "dof_publication": "DOF05/02/1917 Nueva reforma",
     "last_reform": "DOF 03/03/2026",
-    "captured_at": "2026-04-10T00:42:52.440723+00:00"
+    "captured_at": "2026-06-12T02:13:42.548878+00:00"
   },
   "preamble": [
     {
@@ -30997,8 +30997,36 @@
               "text": "La duración de la jornada laboral a que se refiere el artículo 123, Apartado A, fracción IV del presente Decreto, se alcanzará de manera gradual, a partir del 1 de enero del año correspondiente, conforme a lo siguiente:"
             },
             {
-              "type": "paragraph",
-              "text": "Año Jornada Laboral 2026 48 2027 46 2028 44 2029 42 2030 40"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Año",
+                "Jornada Laboral"
+              ],
+              "rows": [
+                [
+                  "2026",
+                  "48"
+                ],
+                [
+                  "2027",
+                  "46"
+                ],
+                [
+                  "2028",
+                  "44"
+                ],
+                [
+                  "2029",
+                  "42"
+                ],
+                [
+                  "2030",
+                  "40"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 403
             }
           ],
           "children": []

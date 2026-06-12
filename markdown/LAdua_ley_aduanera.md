@@ -4153,163 +4153,86 @@ LEY ADUANERA REGLAS Generales de Comercio Exterior para 2026 y Anexo 13.
 Publicadas en el Diario Oficial de la Federación el 27 de diciembre de 2025 ANEXO 13 DE LAS REGLAS GENERALES DE COMERCIO EXTERIOR PARA 2026 Multas y cantidades actualizadas que establece la Ley y su Reglamento Para los efectos de los artículos 5o., primer párrafo de la Ley, 2 del Reglamento y 17-A, sexto párrafo y 70, sexto párrafo del CFF, en relación con la regla 1.1.6., se dan a conocer las multas y cantidades actualizadas establecidas en la Ley y su Reglamento, conforme a lo siguiente: ……..
 
 I. Cantidades actualizadas establecidas en la Ley:
-Artículo Cantidad
 
-### Artículo 16
-.
-
-II. $3,632,910.00
-
-### Artículo 16-A
-.
-Quinto párrafo. $330.00
-
-### Artículo 16-B
-.
-Último párrafo. $260.00
-
-### Artículo 17
-.
-Último párrafo. $270.00
-
-### Artículo 160
-.
-
-IX. $510.00
-
-### Artículo 164
-.
-
-VII. $262,210.00
-
-### Artículo 165
-.
-
-II. a). $374,610.00
-
-VII. a). $374,610.00
-
-### Artículo 167-D
-.
-
-I. $672,680.00
-
-### Artículo 167-G
-.
-
-IV. $241,620.00
-
-### Artículo 178
-.
-
-II. $7,520.00 a $18,760.00
-
-XII. $1,500,000.00 a $2,000,000.00
-
-XIII. $800,000.00 a $1,000,000.00
-
-### Artículo 181
-.
-Primer párrafo. $1,000.00 a $1,500.00
-
-### Artículo 183
-.
-
-II. $3,020.00 a $4,560.00
-
-V. $112,580.00 a $150,090.00
-
-### Artículo 184-B
-.
-
-I. $53,500.00 a $106,970.00
-
-II. $2,330.00 a $3,320.00
-
-### Artículo 184-D
-. $69,900.00 a $109,870.00
-
-### Artículo 185
-.
-
-I. $4,790.00 a $7,190.00 LEY ADUANERA
-
-II. $2,640.00 a $3,750.00
-
-III. $4,520.00 a $7,560.00
-
-IV. $6,060.00 a $9,070.00
-
-V. $5,640.00 a $9,390.00
-
-VI. $5,630.00 a $9,340.00
-
-VIII. $108,170.00 a $162,340.00
-
-IX. $302,750.00 a $454,110.00
-
-X. $3,750.00 a $5,640.00 $11,250.00 a $15,000.00 XI. $5,640.00 a $9,390.00
-
-XII. $1,890.00 a $3,750.00
-
-XV. $5,000.00 a $8,000.00
-
-### Artículo 185-B
-. $27,070.00 a $54,180.00
-
-### Artículo 187
-.
-
-I. $10,830.00 a $14,890.00
-
-II. $3,020.00 a $4,560.00
-
-IV. $26,790.00 a $40,160.00
-
-V. $18,160.00 a $24,200.00
-
-VI. $108,320.00 a $162,500.00
-
-VIII. $60,570.00 a $121,100.00
-
-X. $150,090.00 a $206,370.00
-
-XI. $1,890.00 a $3,750.00
-
-XII. $677,060.00 a $1,083,330.00
-
-XIV. $108,320.00 a $162,500.00
-
-XV. $1,354,130.00 a $2,708,280.00
-
-### Artículo 189
-.
-
-I. $60,570.00 a $90,820.00
-
-II. $121,100.00 a $181,650.00
-
-### Artículo 191
-.
-
-I. $30,280.00 a $45,420.00
-
-II. $60,570.00 a $90,820.00
-
-III. $6,060.00 a $9,070.00
-
-IV. $121,100.00 a $181,650.00
-
-### Artículo 193
-.
-
-I. $18,160.00 a $24,200.00
-
-II. $24,200.00 a $30,280.00
-
-III. $24,200.00 a $30,280.00
-
-### Artículo 200
-. $90,820.00 a $121,100.00 ……..
+| Artículo | Cantidad |
+| --- | --- |
+| Artículo 16. |  |
+| II. | $3,632,910.00 |
+| Artículo 16-A. |  |
+| Quinto párrafo. | $330.00 |
+| Artículo 16-B. |  |
+| Último párrafo. | $260.00 |
+| Artículo 17. |  |
+| Último párrafo. | $270.00 |
+| Artículo 160. |  |
+| IX. | $510.00 |
+| Artículo 164. |  |
+| VII. | $262,210.00 |
+| Artículo 165. |  |
+| II. a). | $374,610.00 |
+| VII. a). | $374,610.00 |
+| Artículo 167-D. |  |
+| I. | $672,680.00 |
+| Artículo 167-G. |  |
+| IV. | $241,620.00 |
+| Artículo 178. |  |
+| II. | $7,520.00 a $18,760.00 |
+| XII. | $1,500,000.00 a $2,000,000.00 |
+| XIII. | $800,000.00 a $1,000,000.00 |
+| Artículo 181. |  |
+| Primer párrafo. | $1,000.00 a $1,500.00 |
+| Artículo 183. |  |
+| II. | $3,020.00 a $4,560.00 |
+| V. | $112,580.00 a $150,090.00 |
+| Artículo 184-B. |  |
+| I. | $53,500.00 a $106,970.00 |
+| II. | $2,330.00 a $3,320.00 |
+| Artículo 184-D. | $69,900.00 a $109,870.00 |
+| Artículo 185. |  |
+| I. | $4,790.00 a $7,190.00 |
+
+LEY ADUANERA
+
+| II. | $2,640.00 a $3,750.00 |
+| --- | --- |
+| III. | $4,520.00 a $7,560.00 |
+| IV. | $6,060.00 a $9,070.00 |
+| V. | $5,640.00 a $9,390.00 |
+| VI. | $5,630.00 a $9,340.00 |
+| VIII. | $108,170.00 a $162,340.00 |
+| IX. | $302,750.00 a $454,110.00 |
+| X. | $3,750.00 a $5,640.00 |
+| XI. | $11,250.00 a $15,000.00 |
+|  | $5,640.00 a $9,390.00 |
+| XII. | $1,890.00 a $3,750.00 |
+| XV. | $5,000.00 a $8,000.00 |
+| Artículo 185-B. | $27,070.00 a $54,180.00 |
+| Artículo 187. |  |
+| I. | $10,830.00 a $14,890.00 |
+| II. | $3,020.00 a $4,560.00 |
+| IV. | $26,790.00 a $40,160.00 |
+| V. | $18,160.00 a $24,200.00 |
+| VI. | $108,320.00 a $162,500.00 |
+| VIII. | $60,570.00 a $121,100.00 |
+| X. | $150,090.00 a $206,370.00 |
+| XI. | $1,890.00 a $3,750.00 |
+| XII. | $677,060.00 a $1,083,330.00 |
+| XIV. | $108,320.00 a $162,500.00 |
+| XV. | $1,354,130.00 a $2,708,280.00 |
+| Artículo 189. |  |
+| I. | $60,570.00 a $90,820.00 |
+| II. | $121,100.00 a $181,650.00 |
+| Artículo 191. |  |
+| I. | $30,280.00 a $45,420.00 |
+| II. | $60,570.00 a $90,820.00 |
+| III. | $6,060.00 a $9,070.00 |
+| IV. | $121,100.00 a $181,650.00 |
+| Artículo 193. |  |
+| I. | $18,160.00 a $24,200.00 |
+| II. | $24,200.00 a $30,280.00 |
+| III. | $24,200.00 a $30,280.00 |
+| Artículo 200. | $90,820.00 a $121,100.00 |
+
+……..
 Atentamente.
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.

@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **09/04/2026** — **315/315** Markdown, **315/315** JSON canónico — **37,939** artículos.
+> Última actualización: **11/06/2026** — **315/315** Markdown, **315/315** JSON canónico — **37,917** artículos.
 
 ---
 
@@ -19,7 +19,7 @@
 | 010 | CÓDIGO Penal Federal | DOF 13/03/2026 | 555 | [`.md`](markdown/CPF_codigo_penal_federal.md) | [`.json`](canonical/CPF_codigo_penal_federal.json) |
 | 011 | ESTATUTO de Gobierno del Distrito Federal | DOF 27/06/2014 | 0 | [`.md`](markdown/EGDF_estatuto_de_gobierno_del_distrito_federal.md) | [`.json`](canonical/EGDF_estatuto_de_gobierno_del_distrito_federal.json) |
 | 012 | IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | Sin reforma | 0 | [`.md`](markdown/ISEDIPL_impuesto_sobre_servicios_expresamente_declarados_de_interes_publico_po.md) | [`.json`](canonical/ISEDIPL_impuesto_sobre_servicios_expresamente_declarados_de_interes_publico_po.json) |
-| 013 | LEY Aduanera | DOF 27/12/2025 | 32 | [`.md`](markdown/LAdua_ley_aduanera.md) | [`.json`](canonical/LAdua_ley_aduanera.json) |
+| 013 | LEY Aduanera | DOF 27/12/2025 | 11 | [`.md`](markdown/LAdua_ley_aduanera.md) | [`.json`](canonical/LAdua_ley_aduanera.json) |
 | 014 | LEY Agraria | DOF 14/11/2025 | 201 | [`.md`](markdown/LAgra_ley_agraria.md) | [`.json`](canonical/LAgra_ley_agraria.json) |
 | 015 | LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público | Sin reforma | 122 | [`.md`](markdown/LAASSP_ley_de_adquisiciones_arrendamientos_y_servicios_del_sector_publico.md) | [`.json`](canonical/LAASSP_ley_de_adquisiciones_arrendamientos_y_servicios_del_sector_publico.json) |
 | 016 | LEY de Aeropuertos | DOF 14/11/2025 | 0 | [`.md`](markdown/LAero_ley_de_aeropuertos.md) | [`.json`](canonical/LAero_ley_de_aeropuertos.json) |
@@ -121,7 +121,7 @@
 | 112 | LEY del Impuesto al Valor Agregado | DOF 12/11/2021 | 80 | [`.md`](markdown/LIVA_ley_del_impuesto_al_valor_agregado.md) | [`.json`](canonical/LIVA_ley_del_impuesto_al_valor_agregado.json) |
 | 113 | LEY del Impuesto Especial sobre Producción y Servicios | DOF 22/12/2025 | 70 | [`.md`](markdown/LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.md) | [`.json`](canonical/LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.json) |
 | 114 | LEY del Impuesto sobre la Renta | DOF 01/04/2024 | 238 | [`.md`](markdown/LISR_ley_del_impuesto_sobre_la_renta.md) | [`.json`](canonical/LISR_ley_del_impuesto_sobre_la_renta.json) |
-| 115 | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | Notificación 15/01/2026 Sentencia SCJN | 233 | [`.md`](markdown/LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican.md) | [`.json`](canonical/LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican.json) |
+| 115 | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | Notificación 15/01/2026 Sentencia SCJN | 231 | [`.md`](markdown/LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican.md) | [`.json`](canonical/LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican.json) |
 | 116 | LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | DOF 15/01/2026 | 260 | [`.md`](markdown/LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore.md) | [`.json`](canonical/LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore.json) |
 | 117 | LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | DOF 21/02/2025 | 95 | [`.md`](markdown/LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado.md) | [`.json`](canonical/LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado.json) |
 | 118 | LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores | DOF 03/01/2024 | 33 | [`.md`](markdown/LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador.md) | [`.json`](canonical/LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador.json) |
@@ -131,7 +131,7 @@
 | 122 | LEY del Registro Público Vehicular | DOF 20/05/2021 | 28 | [`.md`](markdown/LRPV_ley_del_registro_publico_vehicular.md) | [`.json`](canonical/LRPV_ley_del_registro_publico_vehicular.json) |
 | 123 | LEY del Sector Eléctrico | Sin reforma | 188 | [`.md`](markdown/LSE_ley_del_sector_electrico.md) | [`.json`](canonical/LSE_ley_del_sector_electrico.json) |
 | 124 | LEY del Sector Hidrocarburos | Sin reforma | 168 | [`.md`](markdown/LSH_ley_del_sector_hidrocarburos.md) | [`.json`](canonical/LSH_ley_del_sector_hidrocarburos.json) |
-| 125 | LEY del Seguro Social | DOF 15/01/2026 | 388 | [`.md`](markdown/LSS_ley_del_seguro_social.md) | [`.json`](canonical/LSS_ley_del_seguro_social.json) |
+| 125 | LEY del Seguro Social | DOF 15/01/2026 | 389 | [`.md`](markdown/LSS_ley_del_seguro_social.md) | [`.json`](canonical/LSS_ley_del_seguro_social.json) |
 | 126 | LEY del Servicio de Administración Tributaria | DOF 04/12/2018 | 43 | [`.md`](markdown/LSAT_ley_del_servicio_de_administracion_tributaria.md) | [`.json`](canonical/LSAT_ley_del_servicio_de_administracion_tributaria.json) |
 | 127 | LEY del Servicio Exterior Mexicano | DOF 19/04/2018 | 0 | [`.md`](markdown/LSEM_ley_del_servicio_exterior_mexicano.md) | [`.json`](canonical/LSEM_ley_del_servicio_exterior_mexicano.json) |
 | 128 | LEY del Servicio Militar | DOF 18/05/2022 | 0 | [`.md`](markdown/LSM_ley_del_servicio_militar.md) | [`.json`](canonical/LSM_ley_del_servicio_militar.json) |

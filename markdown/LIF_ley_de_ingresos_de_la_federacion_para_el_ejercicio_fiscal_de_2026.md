@@ -103,7 +103,23 @@ Los aprovechamientos que deban cubrir los administradores portuarios como contra
 Los aprovechamientos provenientes de las contraprestaciones que las personas titulares de concesiones o asignaciones para la administración, operación, explotación y, en su caso, construcción de aeropuertos deban cubrir al Gobierno federal, se concentrarán en la Tesorería de la Federación y se destinarán en un 60 por ciento a la Secretaría de la Defensa Nacional y en un 40 por ciento a la Secretaría de Marina, para el fortalecimiento de los sistemas aeroportuarios bajo la coordinación de dichas dependencias. Para efectos de lo anterior, las secretarías de la Defensa Nacional y de Marina aportarán los recursos que correspondan a los fideicomisos públicos federales sin estructura constituidos para tal fin, en los que dichas secretarías fungen como unidades responsables de estos fideicomisos.
 Los ingresos excedentes provenientes de los aprovechamientos a que se refiere el artículo 1o., numerales 6.61.11, 6.61.22.04 y 6.62.01.04 de esta Ley por concepto de participaciones a cargo de las personas concesionarias de vías generales de comunicación y de empresas de abastecimiento de energía eléctrica, de otros aprovechamientos y de desincorporaciones distintos de entidades paraestatales, respectivamente, se podrán destinar, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a programas y proyectos de inversión.
 En tanto no sean autorizados los aprovechamientos a que se refiere este artículo para el ejercicio fiscal de 2026, se aplicarán los vigentes al 31 de diciembre de 2025, multiplicados por el factor que corresponda según el mes en el que fueron autorizados o, en el caso de haberse realizado una modificación posterior, a partir de la última vez en la que fueron modificados en dicho ejercicio fiscal, conforme a la tabla siguiente:
-MES FACTOR Enero 1.0379 Febrero 1.0350 Marzo 1.0321 Abril 1.0289 Mayo 1.0255 Junio 1.0226 Julio 1.0198 Agosto 1.0170 Septiembre 1.0084 Octubre 1.0076 Noviembre 1.0014 Diciembre 0.9965 En el caso de aprovechamientos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026.
+
+| MES | FACTOR |
+| --- | --- |
+| Enero | 1.0379 |
+| Febrero | 1.0350 |
+| Marzo | 1.0321 |
+| Abril | 1.0289 |
+| Mayo | 1.0255 |
+| Junio | 1.0226 |
+| Julio | 1.0198 |
+| Agosto | 1.0170 |
+| Septiembre | 1.0084 |
+| Octubre | 1.0076 |
+| Noviembre | 1.0014 |
+| Diciembre | 0.9965 |
+
+En el caso de aprovechamientos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026.
 Los aprovechamientos por concepto de multas, sanciones, penas convencionales, cuotas compensatorias, recuperaciones de capital, aquellos aprovechamientos a que se refieren la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, la Ley Federal de Competencia Económica, y la Ley en Materia de Telecomunicaciones y Radiodifusión, así como los accesorios de los aprovechamientos no requieren de autorización por parte de la Secretaría de Hacienda y Crédito Público para su cobro.
 Tratándose de aprovechamientos que no hayan sido cobrados en el ejercicio inmediato anterior o que no se cobren de manera regular, las dependencias interesadas deberán someter para su aprobación a la Secretaría de Hacienda y Crédito Público el monto de los aprovechamientos que pretendan cobrar, en un plazo no menor a 10 días anteriores a la fecha de su entrada en vigor.
 En aquellos casos en los que se incumpla con la obligación de presentar los comprobantes de pago de los aprovechamientos a que se refiere este artículo en los plazos que para tales efectos se fijen, la persona prestadora del servicio o la persona otorgante del uso, goce, aprovechamiento o explotación de bienes sujetos al régimen de dominio público de la Federación de que se trate, procederá conforme a lo dispuesto en el artículo 3o. de la Ley Federal de Derechos.
@@ -116,7 +132,26 @@ Las autorizaciones para fijar o modificar las cuotas de los productos que otorgu
 Para los efectos del párrafo anterior, las dependencias interesadas estarán obligadas a someter para su aprobación, durante los meses de enero y febrero de 2026, los montos de los productos que se cobren de manera regular. Los productos que no sean sometidos a la aprobación de la Secretaría de Hacienda y Crédito Público, no podrán ser cobrados por la dependencia de que se trate a partir del 1 de marzo de 2026. Asimismo, los productos cuya autorización haya sido negada por la Secretaría de Hacienda y Crédito Público, no podrán ser cobrados por la dependencia de que se trate, a partir de la fecha en que surta efectos la notificación de la resolución respectiva. Las solicitudes que formulen las dependencias y la autorización de los productos por parte de la Secretaría de Hacienda y Crédito Público, se realizarán mediante la emisión de documentos con la firma autógrafa de la persona servidora pública facultada o certificados digitales, equipos o sistemas automatizados; para lo cual, en sustitución de la firma autógrafa, se emplearán medios de identificación electrónica y la firma electrónica avanzada, en términos de las disposiciones aplicables.
 El uso de los medios de identificación electrónica a que se refiere el párrafo anterior producirá los mismos efectos que las disposiciones jurídicas otorgan a los documentos con firma autógrafa y, en consecuencia, tendrán el mismo valor vinculatorio.
 En tanto no sean autorizados los productos a que se refiere este artículo para el ejercicio fiscal de 2026, se aplicarán los vigentes al 31 de diciembre de 2025, multiplicados por el factor que corresponda según el mes en que fueron autorizados o, en el caso de haberse realizado una modificación posterior, a partir de la última vez en la que fueron modificados en dicho ejercicio fiscal, conforme a la tabla siguiente:
-MES FACTOR Enero 1.0379 Febrero 1.0350 Marzo 1.0321 Abril 1.0289 Mayo 1.0255 Junio 1.0226 Julio 1.0198 Agosto 1.0170 Septiembre 1.0084 Octubre 1.0076 Noviembre 1.0014 Diciembre 0.9965 En el caso de productos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026.
+
+| MES | FACTOR |
+| --- | --- |
+| Enero | 1.0379 |
+| Febrero | 1.0350 |
+| Marzo | 1.0321 |
+| Abril | 1.0289 |
+
+
+| Mayo | 1.0255 |
+| --- | --- |
+| Junio | 1.0226 |
+| Julio | 1.0198 |
+| Agosto | 1.0170 |
+| Septiembre | 1.0084 |
+| Octubre | 1.0076 |
+| Noviembre | 1.0014 |
+| Diciembre | 0.9965 |
+
+En el caso de productos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026.
 Los productos por concepto de penas convencionales, los que se establezcan como contraprestación derivada de una licitación, subasta o remate, los intereses, así como aquellos productos que provengan de arrendamientos o enajenaciones efectuadas tanto por el Instituto de Administración y Avalúos de Bienes Nacionales como por el Instituto para Devolver al Pueblo lo Robado y los accesorios de los productos, no requieren de autorización por parte de la Secretaría de Hacienda y Crédito Público para su cobro.
 Tratándose de productos que no se hayan cobrado en el ejercicio inmediato anterior o que no se cobren de manera regular, las dependencias interesadas deberán someter para su aprobación a la Secretaría de Hacienda y Crédito Público el monto de los productos que pretendan cobrar, en un plazo no menor a 10 días anteriores a la fecha de su entrada en vigor.
 Las dependencias de la Administración Pública Federal deberán informar a la Secretaría de Hacienda y Crédito Público, a más tardar en el mes de marzo de 2026, los conceptos y montos de los ingresos que hayan percibido por productos, así como de la concentración efectuada a la Tesorería de la Federación por dichos conceptos durante el ejercicio fiscal inmediato anterior.

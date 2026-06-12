@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LSS.pdf",
     "dof_publication": "DOF21/12/1995",
     "last_reform": "DOF 15/01/2026",
-    "captured_at": "2026-04-10T01:53:08.755808+00:00"
+    "captured_at": "2026-06-12T02:42:58.230194+00:00"
   },
   "preamble": [
     {
@@ -5642,87 +5642,31 @@
             },
             {
               "type": "paragraph",
-              "text": "Salario base de cotización del trabajador Cuota Social"
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "Col 1",
-                "Col 2",
-                "Col 3",
-                "Col 4",
-                "Col 5",
-                "Col 6"
-              ],
-              "rows": [
-                [
-                  "1.01 SM",
-                  "a",
-                  "1.50",
-                  "UMA\"",
-                  "$",
-                  "10.00"
-                ],
-                [
-                  "1.51",
-                  "a",
-                  "2.00",
-                  "UMA",
-                  "$",
-                  "9.25"
-                ],
-                [
-                  "2.01",
-                  "a",
-                  "2.50",
-                  "UMA",
-                  "$",
-                  "8.50"
-                ],
-                [
-                  "2.51",
-                  "",
-                  "",
-                  "UMA",
-                  "",
-                  "$7.75"
-                ],
-                [
-                  "3.01",
-                  "",
-                  "3.50",
-                  "UMA",
-                  "",
-                  "$7.00"
-                ]
-              ],
-              "source_method": "ocr",
-              "source_page": null
+              "text": "> **[Tabla no extraíble — ver PDF original, página 53]**"
             },
             {
               "type": "paragraph",
-              "text": "eas cine OO *Salario Minimo ** Unidad de Medida Actualización y Párrafo con tabla reformado DOF 16-12-."
+              "text": "Salario base de cotización del trabajador Cuota Social 1.00 SM* $10.75 TE oe mie io o A0Ma280UMA $0 2.51 a 3.00 UMA $7.75 3.01 a 3.50 UMA $7.00 3.51 a4.00 UMA $ 6.25 *Salario Mínimo ** Unidad de Medida Actualización y"
             },
             {
               "type": "paragraph",
-              "text": "Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente conformidad con el Indice Nacional de Precios al Consumidor, en los meses de marzo, jui septiembre y diciembre de cada año."
+              "text": "Párrafo con tabla reformado DOF 16-12-2 020 Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de cada año."
             },
             {
               "type": "reform_note",
-              "text": "Fracción reformada DOF 26-05-.",
+              "text": "Fracción reformada DOF 26-05-2009",
               "action": "reformado",
-              "dof_date": null
+              "dof_date": "26-05-2009"
             },
             {
               "type": "paragraph",
-              "text": "Estas cuotas y aportaciones al destinarse al otorgamiento de pensiones y demás benefic ablecidos en esta Ley, se entenderán destinadas al gasto público en materia de seguridad social."
+              "text": "Estas cuotas y aportaciones al destinarse al otorgamiento de pensiones y demás beneficios establecidos en esta Ley, se entenderán destinadas al gasto público en materia de seguridad social."
             },
             {
               "type": "reform_note",
-              "text": "Párrafo reformado DOF 26-05-.",
+              "text": "Párrafo reformado DOF 26-05-2009",
               "action": "reformado",
-              "dof_date": null
+              "dof_date": "26-05-2009"
             }
           ],
           "children": []
@@ -5736,11 +5680,11 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ". Los recursos depositados en la cuenta individual de cada trabajador son propiedad e con las modalidades que se establecen en esta Ley y demás disposiciones aplicables."
+              "text": ". Los recursos depositados en la cuenta individual de cada trabajador son propiedad de éste con las modalidades que se establecen en esta Ley y demás disposiciones aplicables."
             },
             {
               "type": "paragraph",
-              "text": "Estos recursos son inembargables y no podrán otorgarse como garantía. Lo anterior no será aplica a los recursos depositados en la subcuenta de aportaciones voluntarias."
+              "text": "Estos recursos son inembargables y no podrán otorgarse como garantía. Lo anterior no será aplicable para los recursos depositados en la subcuenta de aportaciones voluntarias."
             },
             {
               "type": "paragraph",
@@ -5758,73 +5702,43 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ". Pensión garantizada es aquélla que el Estado asegura a quienes tengan sesenta año s de edad, hayan cotizado mil o más semanas y que se calculará conforme a la tabla prevista en e culo, considerando el promedio de su salario base de cotización durante su afiliación al Instituto. P os efectos, el salario señalado se actualizará conforme al Indice Nacional de Precios al Consumidc echa en que se pensione el trabajador."
+              "text": ". Pensión garantizada es aquélla que el Estado asegura a quienes tengan sesenta años o más de edad, hayan cotizado mil o más semanas y que se calculará conforme a la tabla prevista en este artículo, considerando el promedio de su salario base de cotización durante su afiliación al Instituto. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador."
             },
             {
               "type": "paragraph",
-              "text": "Semanas de Cotización"
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "Col 1",
-                "Col 2",
-                "Col 3",
-                "Col 4",
-                "Col 5",
-                "Col 6",
-                "Col 7",
-                "Col 8",
-                "Col 9",
-                "Col 10",
-                "Col 11",
-                "Col 12"
-              ],
-              "rows": [
-                [
-                  "",
-                  "1,000",
-                  "1,025",
-                  "1,050",
-                  "1,075",
-                  "1,100",
-                  "1,125",
-                  "1,180",
-                  "1,175",
-                  "1,200",
-                  "1,225",
-                  "125"
-                ]
-              ],
-              "source_method": "ocr",
-              "source_page": null
+              "text": "> **[Tabla no extraíble — ver PDF original, página 54]**"
             },
             {
               "type": "paragraph",
-              "text": "Salario Base de Pensión garantizada mensual en pesos Cotización 15Madog | 60 2,622 ZT16 2,809 2,903 2,997 3,090 3,184 3,278 3371 3,465 3,559 UMA‘ E 2,560 2753 2,847 7941 3034 3128 3721 3,315 3409 3,502 3,596 62 2,537 2,71 2,5884 2,978 3077 3,765 3,259 1353 3446 3540 1,684 63 | 2,734 2,828 2,922 3,015 3,109 3,203 3,298 3,390 3,484 4,877 3,671 54 2,772 2,556 2,959 3,053 3,747 3,240 3,934 3,427 3,821 3,516 3,708 SS | 2809 2903 2,997 3,090 3,484 3,278 3,371 3,465 3,559 3,652 3,746 60 3,409 3,530 3,652 ara 3,896. 4,017 4,139 4,261 4,383 4,504 4,626 61 3,457 3,578 3,701 3,6823 3,944 4,066 4,188 4,310 4,431 4,553 4,675 62 3,606 3,628 3,750 3,874 3,993 4,115 4,237 4,558 4,480 4,602 4,724 20az99 UMA 63 | 3,555 3,677 3,798 3,920 4,042 4,464 4,285 4,407 4,529 4,651 4,772 Ed 3,604 3725 1,847 3,969 4,094 4212 4,334 4,456 4,577 4,699 4,821 ee 3,652 3,774 3,696 4,017 4439 4,264 4,383 4,504 4,626 4,748 4,870 60 | 4195 4,345 4,495 4.645 4,795 4,945 5,094 5,244 5,394 5,544 5,604 61 4,255 4405 4,555 4,705 4,855 5,005 5,154 5,304 5454 5604 5,754 62 | 4,315 4485 4,815 4,765 4,915 5084 5,214 5,364 5,514 5,684 5,514 aha xe “UMA 63 4,375 4,525 4,675 4,825 4,975 5,124 5274 5474 5,574 5,724 5,874 Ed 4435 4,585 4,735 4885 5,034 5,184 5,334 5,48 5,534 5,784 6,933 wine | 4.495 4,645 4,795 4,845 5,094 5,244 5,394 5,544 5,6% 5,844 5,993 60 4,581 5,160 5,338 5,516 5,594 5,872 6,050 6,228 6405 6,583 6,761 61 | 5,053 5,231 5409 5,587 5,765 5,943 6,121 6,299 6,477 6,655 6,832 62 | 5,124 5,302 5480 5,658 5,836 6,014 6,192 6,370 6,548 6,726 6904 4024.80 “UMA 63 5,1986 5,373 5,551 5,729 5,907 6,085 6,263 6441 6,619 6,797 6,975 64 5,267 5,445 65,623 5,601 5,876 6,156 6,334 6,512 6,690 6,868 7,046 me 5,138 5,516 5,594 5,877 6,050 6,2725 6,405 6,583 E,761 6,939 7,147 60 5,769 5,975 6,184 6,387 6,593 5,709 7,005 7,211 7,417 7,623 7,829 61 | 5,851 6,057 6,26% 6469 E675 6,581 7,087 7,293 7,408 7,705 7,1 52 5.833 6,140 6,346 6,552 6,758 6,964 7,170 7,376 7,582 7,768 7,9% soumAen | | adolante 63 | 6,016 6,222 6428 6,634 6,640 7,046 7,252 7,458 7,664 7,870 6,076 64 | 5,098 6304 6,510 6,716 6,822 71428 7,334 7,540 7,746 7,953 6159 eo | 6181 6,387 6,593 6,799 7,005 7,211 7,417 7,623 7,829 8,035 8,241 “Salario Minimo “Unidad de Medida y Actualización monto de la pensión se actualizará anualmente en el mes de febrero, conforme al Índice Na"
+              "text": "Semanas de Cotización 1,000 41,025 1,050 4,075 4,400 1,425 1,480 1,475 4,200 4,225 175 Salario Base de Pensión garantizada mensual en pesos Cotización 15M 60 2,622 2716 2,809 2,903 2,997 3,090 3,184 3,276 3371 3,465 3,559 UMA‘ E 2,660 2,753 2,847 7,041 3034 3,728 3,221 3,315 3409 3,602 3,596 BZ 2,697 2,791 2,5884 2,978 3072 34165 3,259 3,353 3446 31,540 4,634 63 2,734 2,828 2,922 3,075 3,109 3203 3.706 3390 3484 3,577 3,671 64 2,772 2,856 2,959 3,053 3,147 3,240 3,334 3427 3,621 3,615 3,708 o 2,009 2,003 2,807 3,090 3,484 3,278 3,371 3,465 3,559 3,652 3,746 60 3,409 3,530 3,682 3774 3,896 4,017 4,139 4,261 4,383 4,504 4,626 61 3,457 3578 3,701 3,823 3,944 4,066 4,188 4310 44H 4,553 4675 62 3,506 1,626 3,750 3,871 3,993 4115 4,237 4,358 4480 4,602 4,724 on owe UMA 63 1,555 3677 3,798 3,920 4.042 4164 4,285 4.407 4,529 4,651 4,772 64 3,604 3.725 3,847 3,869 4,091 4212 4,334 4456 4,577 4,699 4,821 ee 3,652 3774 3,696 4,017 4,139 4,261 4,383 4,504 4,626 4,748 4,870 60 4795 4945 4495 4,645 4,795 4945 5,084 S244 65,5594 5,544 5,694 61 4255 4405 4,555 4,705 4,855 5,005 S154 5304 5454 5,604 5754 62 4,315 4465 4515 4,765 4,915 5,064 5214 5364 5,514 5684 5.814 4.0.8 3.98 “UU 63 4,375 4,525 4,675 4,825 4,975 5,174 65,274 5,424 5,574 5,724 5,874 64 4435 4,585 4,735 4,885 5,034 5,184 5,334 5,484 5,534 65,784 6,933 wine 4.495 4,645 4,795 4,845 5,094 5,244 5,394 5,544 5,6% 5,844 5,993 ED 4,587 5,160 5,338 5,516 5,604 5,872 6,050 6,226 6405 6,583 6,764 El 5,053 5,237 5409 5.557 5.765 5,943 6,121 6,290 6,477 6,655 6,832 BZ 5,124 5,302 5480 5,6568 5,836 6,014 6,197 6,370 6,548 6,726 6,904 4084.99 UMA 63 5,1496 5,373 5,551 5,729 5,907 6,085 6,261 6441 6,619 6,797 6,975 6 5,267 5,445 5,673 5,601 5976 6,156 6334 6,512 6,690 6,868 7,096 me 5,1438 5,516 5,694 5,872 6,050 6,228 6,405 6,583 6,761 6,939 7,117 60 5,769 5,975 6,181 6,387 6593 6,799 7,005 7,211 7,417 7,623 7,879 64 5,851 6,057 6,263 64689 6675 6,881 7,087 7,293 7,499 7,705 7,941 62 5,8933 6,140 6,346 6,552 6,758 6,964 7,170 7,376 7,582 7,788 7,994 5.0 UMAen adelante 63 6,016 6,222 6,4268 6,694 6840 7,046 7,252 7.458 7,664 7670 68,076 64 5,098 6,304 6,510 6,716 6822 7428 7,334 7,540 7,746 7,953 6,159 uu 6,181 5,387 6,593 6,799 7,006 7,211 TATTOO 7,623 7,828 8,035 6.741 *Salario Minimo “Unidad de Medida y Actualización"
             },
             {
               "type": "paragraph",
-              "text": ">cios al Consumidor, para garantizar su poder adquisitivo."
+              "text": "El monto de la pensión se actualizará anualmente en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor, para garantizar su poder adquisitivo."
             },
             {
               "type": "paragraph",
-              "text": "el cómputo de las semanas de cotización y el promedio del salario base de cotizaci Jeraran los que los trabajadores tengan registrados en el Instituto de Seguridad y Servicios So Trabajadores del Estado, en los términos del convenio de portabilidad que éste tenga suscrit ituto."
+              "text": "En el cómputo de las semanas de cotización y el promedio del salario base de cotización se considerarán los que los trabajadores tengan registrados en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos del convenio de portabilidad que éste tenga suscrito con el Instituto."
             },
             {
               "type": "reform_note",
-              "text": "Artículo reformado DOF 16-",
+              "text": "Artículo reformado DOF 16-12-2020",
               "action": "reformado",
-              "dof_date": null
-            },
+              "dof_date": "16-12-2020"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "seccion-septima.articulo-171",
+          "heading": "Artículo 171",
+          "descriptor": null,
+          "ordinal": "171",
+          "content": [
             {
               "type": "paragraph",
-              "text": "tículo 171. El asegurado, cuyos recursos acumulados en su cuenta individual resulten insufic contratar una renta vitalicia o un retiro programado que le asegure el disfrute de una pe tizada y la adquisición de un seguro de sobrevivencia para sus beneficiarios, en los porcentaj"
-            },
-            {
-              "type": "paragraph",
-              "text": "capítulo V de este Título, recibirá del Gobierno Federal una aportación complementaria suficiente para el pago de las pensiones correspondientes, mismas que se otorgarán en los siguientes términos:"
+              "text": ". El asegurado, cuyos recursos acumulados en su cuenta individual resulten insuficientes para contratar una renta vitalicia o un retiro programado que le asegure el disfrute de una pensión garantizada y la adquisición de un seguro de sobrevivencia para sus beneficiarios, en los porcentajes del capítulo V de este Título, recibirá del Gobierno Federal una aportación complementaria suficiente para el pago de las pensiones correspondientes, mismas que se otorgarán en los siguientes términos:"
             },
             {
               "type": "fraccion",
@@ -15588,11 +15502,21 @@
           "content": [
             {
               "type": "paragraph",
-              "text": "Se reforman los artículos 139, párrafo segundo; 141, párrafos segundo y tercero; 154, párrafo segundo; 157, párrafos primero, segundo y tercero; 158; 159, fracciones I, párrafo primero,"
-            },
+              "text": "Se reforman los artículos 139, párrafo segundo; 141, párrafos segundo y tercero; 154, párrafo segundo; 157, párrafos primero, segundo y tercero; 158; 159, fracciones I, párrafo primero, IV y V; 162, párrafo primero; 164, párrafos primero, segundo y tercero; 165, párrafo primero; 168, fracciones II y IV, párrafo primero; 170; 172, párrafos tercero y cuarto; 172 A, fracción II; 190; 192, párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "tercero",
+          "descriptor": null,
+          "ordinal": "tercero",
+          "content": [
             {
               "type": "paragraph",
-              "text": "Ia SEYJUIUO, 1J/, PalidiVs PIHINICIV, STCYUINIYO y SICCIV, 1J0, 193, HACUIVIICS |, ValldalU Y ; 162, párrafo primero; 164, párrafos primero, segundo y tercero; 165, párrafo primer ies Il y IV, párrafo primero; 170; 172, párrafos tercero y cuarto; 172 A, fracción II; 190; 192, 193; 194, párrafo primero; 218, inciso a); 302, y el párrafo segundo del artículo Vigésimo | rio; se adiciona un párrafo tercero al artículo 159, y un párrafo quinto al artículo 172, y se ión III del artículo 168, de la Ley del Seguro Social, para quedar como sigue:"
+              "text": "; 193; 194, párrafo primero; 218, inciso a); 302, y el párrafo segundo del artículo Vigésimo Noveno"
             }
           ],
           "children": []
@@ -15602,81 +15526,95 @@
     {
       "type": "transitorios",
       "id": "transitorios-transitorios",
-      "heading": "Transitorios",
+      "heading": "Transitorio",
       "descriptor": null,
       "ordinal": null,
       "content": [
         {
           "type": "paragraph",
-          "text": "nero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto rios siguientes. undo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la si"
-        },
+          "text": "; se adiciona un párrafo tercero al artículo 159, y un párrafo quinto al artículo 172, y se deroga la fracción III del artículo 168, de la Ley del Seguro Social, para quedar como sigue: ………"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
         {
-          "type": "table",
-          "title": null,
-          "headers": [
-            "Salario base",
-            "Col 2",
-            "Col 3",
-            "Col 4",
-            "Col 5",
-            "Col 6",
-            "Col 7",
-            "Col 8",
-            "Col 9"
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto en los"
+            }
           ],
-          "rows": [
-            [
-              "de",
-              "2023",
-              "2024",
-              "2025",
-              "2026",
-              "2027",
-              "2028",
-              "2029",
-              "2030"
-            ]
-          ],
-          "source_method": "ocr",
-          "source_page": null
-        },
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
         {
           "type": "paragraph",
-          "text": "cotización 1.0 SM* 3.150% 3.150% 3.150% 13.150% 3.150% 3.150% 13.150% 3.150%"
-        },
-        {
-          "type": "table",
-          "title": null,
-          "headers": [],
-          "rows": [],
-          "source_method": "ocr",
-          "source_page": null
-        },
-        {
-          "type": "paragraph",
-          "text": "1.01SMa 1.50 UMA** 3.281% 3.413% 3.544% 3.676% 3.807% 3.939% 4.070% 4.202% _ 1.51.4 2.00 UMA 3.575% 4.000% 4.426% 4.851% 5.276% 5.701% 6.126% 6.552% 2.01 a 2.50 UMA 3.751% 4.353% 4.954% _5.556% 6.157% 6.759% 7.360% L7962% _ 2.51 a 3.00 UMA 3.869% 4.588% 5.307% _ 6.026% 6.745% 7.464% 18183% 1 5lg9072% 3.01 a 3.50 UMA 3.953% 4.756% 5.559% 6.361% 7.164% 7.967% 8.770% 9.573% 3.51 a 4.00 UMA _____ 4.016% 4.882% 5.747% _ 6.613% 7.479%% 86.3455% _19211% 10.077% 4.01 UMA en adelante 4.241% 5.331% 6.422% 7.513% 8.603% 9.694% 10.784% 11.875% * Salario Minimo ** Unidad de Medida Actualización y"
-        },
-        {
-          "type": "paragraph",
-          "text": "Del 1 de enero de 2021 al 31 de diciembre de 2022:"
-        },
-        {
-          "type": "fraccion",
-          "ordinal": "I",
-          "text": "Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador."
-        },
-        {
-          "type": "fraccion",
-          "ordinal": "II",
-          "text": "El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto."
-        },
-        {
-          "type": "fraccion",
-          "ordinal": "III",
-          "text": "En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales."
+          "text": "siguientes."
         }
       ],
       "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del Seguro Social será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la siguiente tabla:"
+            },
+            {
+              "type": "paragraph",
+              "text": "> **[Tabla no extraíble — ver PDF original, página 153]**"
+            },
+            {
+              "type": "paragraph",
+              "text": "Salario base de 2023 2024 2025 2026 2027 2028 2029 2030 cotización 1.0 SM* 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 1.01 SMa 1.50 UMA** 3.281% 3.413% 3.544% 3.676% 3.807% 3.939% 4.070% 4.202% 1.51 a2.00 UMA 3.575% 4.000% 4.426% 4.851% 5.276% 5.701% 6.126% 6.552% 2.01 a 2.50 UMA 3.751% 4.353% 4.954% 5.556% 6.157% 6.759% 7.360% 7.962% 2.51 a 3.00 UMA 3.869% 4.588% 5.307% 6.026% 6.745% 7.464% 8.183% 8.902% 3.01 a 3.50 UMA 3.953% 4.756% 5.559% 6.361% 7.164% 7.967% 8.770% 9.573% 3.51 a 4.00 ____UMA_______ 4.016% 4.882% _ 5.747% 6.613% 7.479% 8.345% 9.211% 10.077% DI 4,01 UMA en LIL ai adelante 4.241% _5.331% 6.422% 7.513% 8.603% 9.694% 10.784% 11.875% * Salario Minimo ** Unidad de Medida Actualización y"
+            },
+            {
+              "type": "paragraph",
+              "text": "Del 1 de enero de 2021 al 31 de diciembre de 2022:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales."
+            }
+          ],
+          "children": []
+        },
         {
           "type": "transitorio_articulo",
           "id": "transitorios-transitorios.transitorio_articulo-tercer",
@@ -15693,48 +15631,30 @@
               "text": "Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualmente en los ramos de cesantía en edad avanzada y vejez, una cantidad por cada día de salario cotizado, por concepto de cuota social para los trabajadores que ganen de cuatro punto cero uno hasta siete punto cero nueve veces la Unidad de Medida y Actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:"
             },
             {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "Salario base",
-                "de Trabajador",
-                "cotización del",
-                "Cuota social"
-              ],
-              "rows": [
-                [
-                  "4.01",
-                  "a",
-                  "5UMA*",
-                  "$2.45"
-                ],
-                [
-                  "5.01",
-                  "",
-                  "a6UMA",
-                  "31.80"
-                ],
-                [
-                  "6.01",
-                  "a 7.09",
-                  "UMA",
-                  "51.00"
-                ]
-              ],
-              "source_method": "ocr",
-              "source_page": null
+              "type": "paragraph",
+              "text": "> **[Tabla no extraíble — ver PDF original, página 154]**"
             },
             {
               "type": "paragraph",
-              "text": "*Unidad de Medida y Actualización"
+              "text": "Salario base de cotización del Cunta social Trabajador 4.01 a 5 UMA* $2.45 O 801asUMA SB *Unidad de Medida y Actualización"
             },
             {
               "type": "paragraph",
-              "text": "> Valores mencionados del importe de la cuota social, se actualizarán trimestralmen"
-            },
+              "text": "Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de 2023."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
             {
               "type": "paragraph",
-              "text": "midad con el Indice Nacional de Precios al Consumidor, en los meses de marzo, junio, septi mbre de 2023. arto. En la fecha en que entre en vigor el presente Decreto las semanas de cotización ce ren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como fF ) de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, ientaran anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecid preceptos."
+              "text": "En la fecha en que entre en vigor el presente Decreto las semanas de cotización que se requieren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como para el cálculo de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, y se incrementarán anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecidas en dichos preceptos."
             },
             {
               "type": "paragraph",
@@ -15742,40 +15662,26 @@
             },
             {
               "type": "paragraph",
-              "text": "vecretaria de Servicios Farlamentarios e"
+              "text": "— Año Semanas de Cotización"
             },
             {
               "type": "table",
               "title": null,
               "headers": [
-                "Año",
+                "Col 1",
                 "Col 2",
                 "Col 3",
                 "Col 4",
                 "Col 5",
-                "Semanas",
-                "de",
-                "Cotización",
+                "Col 6",
+                "Col 7",
+                "Col 8",
                 "Col 9",
                 "Col 10",
                 "Col 11",
                 "Col 12"
               ],
               "rows": [
-                [
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "4,000 0"
-                ],
                 [
                   "2021",
                   "750",
@@ -15796,50 +15702,35 @@
                   "",
                   "",
                   "",
+                  "875",
+                  "900",
+                  "925",
+                  "950",
                   "",
                   "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "1,0750"
+                  "1,025 0"
                 ],
                 [
                   "",
                   "775",
                   "800",
-                  "875",
-                  "850",
-                  "875",
-                  "900",
-                  "925",
-                  "950",
-                  "976",
-                  "1400",
+                  "85",
+                  "650",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "$78",
+                  "4000",
                   ""
                 ]
               ],
               "source_method": "ocr",
-              "source_page": null
+              "source_page": 155
             },
             {
               "type": "paragraph",
-              "text": "\"A 10500 2023 800 825 850 875 900 925 950 975 1,000 1,025 mix 1,0750 2024 825 850 675 900 926 950 975 4,000 1,025 1,090 mis 1,1000 2025 850 875 900 925 $50 976 1,000 1,025 1,050 1,075 mis 1,1250 2026 875 900 926 950 975 1,000 1,025 1,080 1,075 1,100 mis 2027 1,1500 90 925 950 95 4,000 4,028 4,050 4075 1,100 19,125 Ae 1,1750 2028 925 950 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 do 1,2000 2029 950 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 más 1,2250 2030 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 1,200 mis Salerio Base E Pensión mensual en de Colización garantizada pesos 60 2,622 2.718 2,808 2,003 2,097 3,090 3,184 3,276 3,374 3,46% 3,559 61 |2660 2753 2847 2941 3,034 3,128 3,221 3315 3409 3502 3,596"
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "52",
-                "2897 2701 2004 2.978 3972 3165 3250 3353 3445 390 364"
-              ],
-              "rows": [],
-              "source_method": "ocr",
-              "source_page": null
-            },
-            {
-              "type": "paragraph",
-              "text": "isatos UMA\" 83 2828 2,922 3,015 3108 3,203 3,296 3390 3484 357 3671 64 2,772 2,556 2,959 3,053 3,147 3,240 3,334 3,477 3,571 3,615 3,706 = 2800 2903 2,007 3,090 3,184 3,278 3371 3485 3,589 3657 3,746 60 3,409 3,530 3,657 3,774 3,896 a017 4,139 4,281 4,383 4,504 4,526 61 3,457 3,579 3,701 3,873 2,944 4,0865 4,188 4,310 4,431 4,653 4,675 62 | 3506 3628 3750 3871 3,993 4115 4237 4358 4480 4807 472 adas UMA 63 | 3555 3677 3,798 3,020 4,0472 4,164 4285 4407 4529 465 4,772 64 3,725 3,847 3,060 4,001 4,212 4,934 4456 4577 4699 482 SSO [3662 3774 3,006 4017 4,138 4281 4383 4504 4828 4748 4,70 s0 | 4195 4345 44095 4,845 4,705 4945 5094 5244 5394 5844 5,804 61 4255 4405 4555 4,705 4855 5005 518 5304 6454 5604 5,784 208138 82 |4315 4465 4615 4,765 4915 5084 5214 5364 5514 Seed 5,814 UMA 63 | 4378 4525 4675 4,625 4975 5124 5274 5424 5574 5724 5,874 64 | 4,425 4585 4,735 4685 50% 6184 5334 6486 5,834 5784 5,993 850 | 4495 4645 4.795 4945 5094 5244 5394 5,544 5,684 5844 5,093 más 60 [4,982 5.160 5338 5816 6484 5872 6,050 6,228 6405 6583 6781 61 5,053 5.231 5,409 5,587 5765 5,843 6,121 6,290 6,477 5,655 6,532 62 5302 5480 5858 5,896 6014 6,182 6370 6,549 6726 6,904 UMA 63 |5195 5373 5551 5720 6907 6085 6,263 6441 6819 6,787 6,975 84 5445 5,623 5801 5978 6186 63% 6512 6590 6,868 7,046 des 5,338 5,5168 5,684 5,872 8,050 8,228 6,405 6,583 6,761 5,036 7,117 5,760 5975 6181 6387 6503 6700 7,005 7211 7.417 7,623 7,820 5851 6057 6263 6469 6675 6881 7,087 7,293 7,499 7705 79M 50 5.933 6140 6346 6552 6,758 6964 7,170 7,376 7,502 7.708 7,994 pones 6,016 6,222 6428 6634 6840 7,046 7,252 7,458 7,664 7,870 6,076 6,088 6304 5510 6716 6922 7.128 7,338 7,50 7,746 7,953 6150 6,181 6387 6503 6700 7,005 7211 7,417 7,623 7,820 8,035 8,241 *Salario Minimo “Unidad de Medida y Actualización"
+              "text": "10500 2023 800 825 850 875 900 925 950 975 1,000 1,025 mix 1,0750 2024 825 850 675 900 926 950 975 4,000 1,025 1,090 mis 1,1000 2025 850 875 900 925 $50 976 1,000 1,025 1,050 1,075 mis 1,1250 2026 875 900 926 950 975 1,000 1,025 1,080 1,075 1,100 mis 1,1500 2027 900 825 950 975 1,000 1,025 1,050 1,075 1,100 1,125 mis 1,1750 2028 925 950 875 1,000 1,025 1,050 1,075 1,100 1,125 1,150 do 1,2000 2029 950 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 más 1,225 0 2030 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 1,200 mis fre E Pensión garantizada mansual en pesos so 26822 2716 2,809 2,003 2,997 3,090 3,184 3,276 3371 346% 1559 61 2660 2753 2847 2,941 3034 3,126 3221 3315 3409 3507 3,596 52 2897 2701 2884 2078 3972 3,165 3259 3353 3406 300 364 UMA\"\" 63 2734 2628 2,922 3015 3108 3,203 3,206 3390 3484 3877 3,671 oa 2886 2,959 3,053 3,147 3,240 3,334 3427 3,821 3,818 3,708 = 2,808 2003 2,907 3,000 3,184 3,278 3,371 3465 3559 3652 3,746 60 3,409 3,530 3,657 3,774 3,896 a017 4,139 4,281 4,383 4,504 4,526 61 3,457 3,579 3,701 3,873 2,944 4,0865 4,188 4,310 4,431 4,653 4,675 62 3628 3,780 3871 3,993 4115 4237 4388 4480 4807 472 ee UMA 63 13555 3677 3,796 3,920 4,042 4,164 4285 4407 4829 4,651 4,772 64 3,725 3,847 3,089 4,001 4212 4,338 4456 4577 4,699 4821 SSO [3662 3774 3,006 4017 4,138 4281 4383 4504 4828 4748 4,70 60 a195 4345 4405 4,645 4795 4,045 5094 5244 5304 5544 5,694 61 4,255 4405 4555 4,705 4.858 5005 5,184 6304 5454 5604 5,784 3003.99 62 4315 4465 4615 4,765 4.915 65064 5214 5364 5514 8604 5,814 UMA 63 [4,375 4525 4675 4,825 4975 5124 5274 5424 5574 5724 5,874 64 4438 4585 4735 4,885 6.034 S184 5.334 S486 5834 574 5,993 650 4.405 4645 4.795 4945 5094 5244 5394 65544 5,694 5644 5,993 mas 60 4982 5160 63538 5816 564 S872 6,050 6,228 6405 4,883 6,761 61 6231 5409 5887 5765 5943 6,121 6,289 6477 6,655 6,832 62 5302 5480 5858 5836 6,192 6370 6540 6,728 ‘ene 6014 6,904 UMA 83 5195 5373 5851 5728 6907 6085 6,263 6,441 6819 6767 6,975 84 5.287 5445 5623 5801 5978 6.186 6334 6512 6590 6,088 7,046 des 5,338 5516 5,604 5672 6,050 6228 6,405 6583 6,781 8938 7117 5,760 S975 6181 6387 6593 6700 7,005 7,211 7.417 7,623 7,829 5851 6057 6263 6469 6675 6881 7,087 7,299 7.499 7705 791 50 5.933 6140 6346 6552 6758 6964 7,170 7,376 7,502 7,788 798 pones 6016 6,222 6428 6634 6640 7046 7,252 7458 7,664 7,870 6076 6,088 6,304 6510 6716 6922 7,128 7,534 7,540 7,746 7,953 8,159 6181 6387 6593 6,700 7,005 7.211 7.417 7,623 7,829 8,038 8,241 *Salario Minimo “Unidad de Medida y Actualización"
             }
           ],
           "children": []

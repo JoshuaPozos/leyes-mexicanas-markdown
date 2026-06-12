@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LGS.pdf",
     "dof_publication": "DOF07/02/1984",
     "last_reform": "DOF 15/01/2026",
-    "captured_at": "2026-04-10T01:21:09.624894+00:00"
+    "captured_at": "2026-06-12T02:30:38.410971+00:00"
   },
   "preamble": [
     {
@@ -16351,8 +16351,26 @@
                   "text": "Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles de uso indebido o abuso, constituyen un problema especialmente grave para la salud pública, y son:"
                 },
                 {
+                  "type": "table",
+                  "title": null,
+                  "headers": [
+                    "",
+                    "",
+                    ""
+                  ],
+                  "rows": [
+                    [
+                      "Denominación Común Internacional",
+                      "Otras Denominaciones Comunes o Vulgares",
+                      "Denominación Química"
+                    ]
+                  ],
+                  "source_method": "text",
+                  "source_page": 124
+                },
+                {
                   "type": "paragraph",
-                  "text": "Denominación Común Otras Denominaciones Denominación Química Internacional Comunes o Vulgares CATINONA NO TIENE (-)--aminopropiofenona."
+                  "text": "CATINONA NO TIENE (-)--aminopropiofenona."
                 },
                 {
                   "type": "paragraph",
@@ -26722,36 +26740,67 @@
                   "text": ".- Para los efectos de este capítulo se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones no exceda de las previstas en el listado siguiente:"
                 },
                 {
-                  "type": "paragraph",
-                  "text": "Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato Narcótico Dosis máxima de consumo personal e inmediato Opio 2 gr."
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Diacetilmorfina o Heroína 50 mg."
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Cannabis Sativa, Indica o Mariguana 5 gr."
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Cocaína 500 mg."
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Lisergida (LSD) 0.015 mg."
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Polvo, granulado o cristal Tabletas o cápsulas MDA, Una unidad con peso no mayor a Metilendioxianfetamina 40 mg. 200 mg."
-                },
-                {
-                  "type": "paragraph",
-                  "text": "MDMA, dl-34-metilendioxi-n- Una unidad con peso no mayor a 40 mg. dimetilfeniletilamina 200 mg."
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Una unidad con peso no mayor a Metanfetamina 40 mg. 200 mg."
+                  "type": "table",
+                  "title": null,
+                  "headers": [
+                    "Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato",
+                    "",
+                    ""
+                  ],
+                  "rows": [
+                    [
+                      "Narcótico",
+                      "Dosis máxima de consumo personal e inmediato",
+                      ""
+                    ],
+                    [
+                      "Opio",
+                      "2 gr.",
+                      ""
+                    ],
+                    [
+                      "Diacetilmorfina o Heroína",
+                      "50 mg.",
+                      ""
+                    ],
+                    [
+                      "Cannabis Sativa, Indica o Mariguana",
+                      "5 gr.",
+                      ""
+                    ],
+                    [
+                      "Cocaína",
+                      "500 mg.",
+                      ""
+                    ],
+                    [
+                      "Lisergida (LSD)",
+                      "0.015 mg.",
+                      ""
+                    ],
+                    [
+                      "MDA, Metilendioxianfetamina",
+                      "Polvo, granulado o cristal",
+                      "Tabletas o cápsulas"
+                    ],
+                    [
+                      "",
+                      "40 mg.",
+                      "Una unidad con peso no mayor a 200 mg."
+                    ],
+                    [
+                      "MDMA, dl-34-metilendioxi-n- dimetilfeniletilamina",
+                      "40 mg.",
+                      "Una unidad con peso no mayor a 200 mg."
+                    ],
+                    [
+                      "Metanfetamina",
+                      "40 mg.",
+                      "Una unidad con peso no mayor a 200 mg."
+                    ]
+                  ],
+                  "source_method": "text",
+                  "source_page": 203
                 },
                 {
                   "type": "reform_note",

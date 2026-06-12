@@ -1495,9 +1495,66 @@ Párrafo reformado DOF 21-05-2024
 
 ### Artículo 170
 .- Las sanciones y multas establecidas en el presente ordenamiento se aplicarán conforme a la siguiente tabla:
-POR COMETER LA EN SU CASO LA MULTA SE APLICARÁ SANCIÓN INFRACCIÓN PREVISTA CORRESPONDIENTE SE CONFORME AL EN EL ARTÍCULO (167) APLICARÁ DE ACUERDO ARTÍCULO (168) POR CON EL TABULADOR DEL TIPO ARTÍCULO (169) FRACC. I B 5 FRACC. II B 5 FRACC. III B 5 FRACC. IV C 5 FRACC. V A 5 FRACC. VI C 4 y 5 FRACC. VII B 3 y 5 FRACC. VIII B 5 FRACC. IX C 5 FRACC. X C 5 FRACC. XI D 4 y 5 FRACC. XII C 4 y 5 FRACC. XIII B 2 y 5 FRACC. XIV B 5 FRACC. XV B 5 FRACC. XVI - 4 FRACC. XVII A 5 FRACC. XVIII C 1 y 5 FRACC. XIX A 5 FRACC. XX D 5 FRACC. XXI A 3 y 5 FRACC. XXII A 5 FRACC. XXIII B 3 y 5 FRACC. XXIV B 2 y 5 FRACC. XXV B 5 FRACC. XXVI B 3 y 5 FRACC. XXVII B 5 FRACC. XXVIII D 5 FRACC. XXIX B 4 y 5 FRACC. XXX A 5 FRACC. XXXI A 5 FRACC. XXXII A 5 FRACC. XXXIII D 3 y 5 FRACC. XXXIV C 3 y 5 FRACC. XXXV B 5 FRACC. XXXVI B 5 FRACC. XXXVII B 3 y 5 FRACC. XXXVIII A 5 FRACC. XXXIX A 5 FRACC. XL C 5 FRACC. XLI B 5 FRACC. XLII B 3 y 5 FRACC. XLIII C 3 y 5 FRACC. XLIV B 4 y 5 FRACC. XLV A 5 FRACC. XLVI C 5 FRACC. XLVII B 1 y 5 FRACC. XLVIII D 5 FRACC. XLIX C 5 FRACC. L Artículo 151 Fracción II, D; 5 Fracción III, B; Fracción IV, A; Fracción V, A; Fracción VI, A; Fracción VII, C;
-Fracción VIII, C.
-FRACC. LI B 5 FRACC. LII D 5 A los infractores reincidentes se les sancionará de la manera siguiente:
+
+| POR COMETER LA INFRACCIÓN PREVISTA EN EL ARTÍCULO (167) | EN SU CASO LA MULTA CORRESPONDIENTE SE APLICARÁ DE ACUERDO CON EL TABULADOR DEL ARTÍCULO (169) | SE APLICARÁ SANCIÓN CONFORME AL ARTÍCULO (168) POR TIPO |
+| --- | --- | --- |
+| FRACC. I | B | 5 |
+| FRACC. II | B | 5 |
+| FRACC. III | B | 5 |
+| FRACC. IV | C | 5 |
+| FRACC. V | A | 5 |
+| FRACC. VI | C | 4 y 5 |
+| FRACC. VII | B | 3 y 5 |
+| FRACC. VIII | B | 5 |
+| FRACC. IX | C | 5 |
+| FRACC. X | C | 5 |
+| FRACC. XI | D | 4 y 5 |
+| FRACC. XII | C | 4 y 5 |
+| FRACC. XIII | B | 2 y 5 |
+| FRACC. XIV | B | 5 |
+| FRACC. XV | B | 5 |
+| FRACC. XVI | - | 4 |
+| FRACC. XVII | A | 5 |
+| FRACC. XVIII | C | 1 y 5 |
+| FRACC. XIX | A | 5 |
+| FRACC. XX | D | 5 |
+| FRACC. XXI | A | 3 y 5 |
+| FRACC. XXII | A | 5 |
+| FRACC. XXIII | B | 3 y 5 |
+| FRACC. XXIV | B | 2 y 5 |
+| FRACC. XXV | B | 5 |
+| FRACC. XXVI | B | 3 y 5 |
+| FRACC. XXVII | B | 5 |
+| FRACC. XXVIII | D | 5 |
+| FRACC. XXIX | B | 4 y 5 |
+| FRACC. XXX | A | 5 |
+| FRACC. XXXI | A | 5 |
+| FRACC. XXXII | A | 5 |
+
+
+| FRACC. XXXIII | D | 3 y 5 |
+| --- | --- | --- |
+| FRACC. XXXIV | C | 3 y 5 |
+| FRACC. XXXV | B | 5 |
+| FRACC. XXXVI | B | 5 |
+| FRACC. XXXVII | B | 3 y 5 |
+| FRACC. XXXVIII | A | 5 |
+| FRACC. XXXIX | A | 5 |
+| FRACC. XL | C | 5 |
+| FRACC. XLI | B | 5 |
+| FRACC. XLII | B | 3 y 5 |
+| FRACC. XLIII | C | 3 y 5 |
+| FRACC. XLIV | B | 4 y 5 |
+| FRACC. XLV | A | 5 |
+| FRACC. XLVI | C | 5 |
+| FRACC. XLVII | B | 1 y 5 |
+| FRACC. XLVIII | D | 5 |
+| FRACC. XLIX | C | 5 |
+| FRACC. L | Artículo 151 Fracción II, D; Fracción III, B; Fracción IV, A; Fracción V, A; Fracción VI, A; Fracción VII, C; Fracción VIII, C. | 5 |
+| FRACC. LI | B | 5 |
+| FRACC. LII | D | 5 |
+
+A los infractores reincidentes se les sancionará de la manera siguiente:
 De la multa menor pasará a la multa mayor del mismo nivel.
 De la multa mayor de un nivel pasará a la multa mayor del siguiente nivel.
 Hasta el doble en el caso del nivel más alto previsto en el tabulador.

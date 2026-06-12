@@ -1204,7 +1204,58 @@ III). La integración de las Comisiones previstas en los artículos 39 y 40, as�
 IV). A partir del 15 de marzo del año 2000, los asuntos que hayan quedado pendientes de resolución en las comisiones de la Cámara de Diputados, serán distribuidos bajo los siguientes criterios:
 
 a) Los asuntos a cargo de las comisiones ordinarias y especiales vigentes, así como de los comités se distribuirán de la siguiente forma:
-COMISIONES VIGENTES NUEVAS COMISIONES O COMITES Asuntos de la Frontera Sur Gobernación, Población y Seguridad Pública Asuntos Fronterizos Gobernación y Puntos Constitucionales Población y Desarrollo Protección Civil Radio, Televisión y Cinematografía Seguridad Pública Gobernación y Puntos Constitucionales Puntos Constitucionales y Sistema Federal (iniciativas de reforma constitucional) Fortalecimiento del Federalismo Fortalecimiento Municipal Derechos Humanos Justicia y Derechos Humanos Justicia Relaciones Exteriores Relaciones Exteriores Defensa Nacional Defensa Nacional Marina Marina Hacienda y Crédito Público Hacienda y Crédito Público Desarrollo Regional y Apoyo a la Producción Presupuesto y Cuenta Pública Programación, Presupuesto y Cuenta Pública Asentamientos Humanos y Obras Públicas Desarrollo Social y Vivienda Desarrollo Social Vivienda Asuntos Hidráulicos Medio Ambiente, Recursos Naturales y Pesca Bosques y Selvas Ecología y Medio Ambiente Pesca Energéticos Energía Artesanías Comercio y Fomento Industrial Comercio Patrimonio y Fomento Industrial Agricultura Agricultura, Ganadería y Desarrollo Rural Ganadería Comunicaciones y Transportes Comunicaciones y Transportes Ciencia y Tecnología Educación Pública, Cultura y Ciencia y Tecnología Corrección de Estilo Cultura Deporte Educación Pensionados y Jubilados Salud y Seguridad Social Salud Seguridad Social Trabajo y Previsión Social Trabajo y Previsión Social Reforma Agraria Reforma Agraria Turismo Turismo Estudios Legislativos Reglamentos y Prácticas Parlamentarias Reglamentos y Prácticas Parlamentarias Distrito Federal Distrito Federal Asuntos Indígenas Asuntos Indígenas Equidad y Género Equidad y Género Atención y Apoyo a Discapacitados Atención a Grupos Vulnerables Asuntos de la Juventud Participación Ciudadana Fomento Cooperativo Fomento Cooperativo y Economía Social Distribución y Manejo de Bienes de Consumo y Servicios Vigilancia de la Contaduría Mayor de Hacienda Vigilancia de la Contaduría Mayor de Hacienda Comisión Información, Gestoría y Quejas Comité de Información, Gestoría y Quejas COMITES VIGENTES ORGANO O AREA QUE ASUME SUS TAREAS Administración Junta de Coordinación Política Asuntos Editoriales Coordinación de Comunicación Social Asuntos Internacionales Comisión de Relaciones Exteriores Biblioteca e Informática Servicios de Bibliotecas Comunicación Social Coordinación de Comunicación Social Instituto de investigaciones Legislativas Centro de Estudios de Derecho e Investigaciones Parlamentarias
+
+| COMISIONES VIGENTES | NUEVAS COMISIONES O COMITES |
+| --- | --- |
+| Asuntos de la Frontera Sur Asuntos Fronterizos Gobernación y Puntos Constitucionales Población y Desarrollo Protección Civil Radio, Televisión y Cinematografía Seguridad Pública | Gobernación, Población y Seguridad Pública |
+| Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional) Fortalecimiento del Federalismo Fortalecimiento Municipal | Puntos Constitucionales y Sistema Federal |
+
+
+| Derechos Humanos Justicia | Justicia y Derechos Humanos |
+| --- | --- |
+| Relaciones Exteriores | Relaciones Exteriores |
+| Defensa Nacional | Defensa Nacional |
+| Marina | Marina |
+| Hacienda y Crédito Público | Hacienda y Crédito Público |
+| Desarrollo Regional y Apoyo a la Producción Programación, Presupuesto y Cuenta Pública | Presupuesto y Cuenta Pública |
+| Asentamientos Humanos y Obras Públicas Desarrollo Social Vivienda | Desarrollo Social y Vivienda |
+| Asuntos Hidráulicos Bosques y Selvas Ecología y Medio Ambiente Pesca | Medio Ambiente, Recursos Naturales y Pesca |
+| Energéticos | Energía |
+| Artesanías Comercio Patrimonio y Fomento Industrial | Comercio y Fomento Industrial |
+| Agricultura Ganadería | Agricultura, Ganadería y Desarrollo Rural |
+| Comunicaciones y Transportes | Comunicaciones y Transportes |
+| Ciencia y Tecnología Corrección de Estilo Cultura Deporte | Educación Pública, Cultura y Ciencia y Tecnología |
+
+
+| Educación |  |
+| --- | --- |
+| Pensionados y Jubilados Salud Seguridad Social | Salud y Seguridad Social |
+| Trabajo y Previsión Social | Trabajo y Previsión Social |
+| Reforma Agraria | Reforma Agraria |
+| Turismo | Turismo |
+| Estudios Legislativos Reglamentos y Prácticas Parlamentarias | Reglamentos y Prácticas Parlamentarias |
+| Distrito Federal | Distrito Federal |
+| Asuntos Indígenas | Asuntos Indígenas |
+| Equidad y Género | Equidad y Género |
+| Atención y Apoyo a Discapacitados Asuntos de la Juventud Participación Ciudadana | Atención a Grupos Vulnerables |
+| Fomento Cooperativo Distribución y Manejo de Bienes de Consumo y Servicios | Fomento Cooperativo y Economía Social |
+| Vigilancia de la Contaduría Mayor de Hacienda | Vigilancia de la Contaduría Mayor de Hacienda |
+| Comisión Información, Gestoría y Quejas | Comité de Información, Gestoría y Quejas |
+
+
+| COMITES VIGENTES | ORGANO O AREA QUE ASUME SUS TAREAS |
+| --- | --- |
+| Administración | Junta de Coordinación Política |
+| Asuntos Editoriales | Coordinación de Comunicación Social |
+| Asuntos Internacionales | Comisión de Relaciones Exteriores |
+| Biblioteca e Informática | Servicios de Bibliotecas |
+| Comunicación Social | Coordinación de Comunicación Social |
+
+
+|  |  |
+| --- | --- |
+| Instituto de investigaciones Legislativas | Centro de Estudios de Derecho e Investigaciones Parlamentarias |
+
 
 b) Las iniciativas de reforma constitucional que se encuentren en la Comisión de Gobernación y Puntos Constitucionales, serán turnadas a la Comisión de Puntos Constitucionales y Sistema Federal, así como a las otras comisiones ordinarias que corresponda. Los demás asuntos a cargo de la Comisión de Gobernación y Puntos Constitucionales se turnarán a la nueva Comisión de Gobernación, Población y Seguridad Pública.
 
@@ -1696,7 +1747,19 @@ Se reforman los artículos 39, numeral 2 y 43, numerales 1 y 3 de la Ley Orgáni
 **Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** A partir de la entrada en vigor del presente Decreto, los asuntos que hayan quedado pendientes de resolución en anteriores legislaturas en las Comisiones de la Cámara de Diputados y los turnados por la actual LXIV legislatura a Comisiones que permanecían en poder de la Mesa Directiva, serán distribuidos bajo los siguientes criterios:
 a) Los asuntos a cargo de las Comisiones Ordinarias que se extinguen o fusionan, se distribuirán de la siguiente forma:
-Comisiones Ordinarias que se extinguen o Nuevas Comisiones Ordinarias fusionan Agricultura y Sistemas de Riego Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria Desarrollo Rural Reforma Agraria Agua Potable y Saneamiento Recursos Hidráulicos, Agua Potable y Saneamiento Recursos Hidráulicos Cambio Climático Medio Ambiente, Sustentabilidad, Cambio Climático y Recursos Naturales Medio Ambiente y Recursos Naturales Ciudad de México Gobernación y Población Competitividad Economía, Comercio y Competitividad Economía Comunicaciones Comunicaciones y Transportes Transportes Desarrollo Metropolitano Desarrollo Metropolitano, Urbano, Ordenamiento Territorial y Movilidad Desarrollo Urbano y Ordenamiento Territorial Desarrollo Municipal Federalismo y Desarrollo Municipal Fortalecimiento al Federalismo Gobernación Gobernación y Población Población
+
+| Comisiones Ordinarias que se extinguen o fusionan | Nuevas Comisiones Ordinarias |
+| --- | --- |
+| Agricultura y Sistemas de Riego Desarrollo Rural Reforma Agraria | Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria |
+| Agua Potable y Saneamiento Recursos Hidráulicos | Recursos Hidráulicos, Agua Potable y Saneamiento |
+| Cambio Climático Medio Ambiente y Recursos Naturales | Medio Ambiente, Sustentabilidad, Cambio Climático y Recursos Naturales |
+| Ciudad de México | Gobernación y Población |
+| Competitividad Economía | Economía, Comercio y Competitividad |
+| Comunicaciones Transportes | Comunicaciones y Transportes |
+| Desarrollo Metropolitano Desarrollo Urbano y Ordenamiento Territorial | Desarrollo Metropolitano, Urbano, Ordenamiento Territorial y Movilidad |
+| Desarrollo Municipal Fortalecimiento al Federalismo | Federalismo y Desarrollo Municipal |
+| Gobernación Población | Gobernación y Población |
+
 
 b) En caso de que se presenten controversias sobre la distribución de las competencias de las Comisiones establecidas en el inciso a), la Conferencia para la Dirección y Programación de los Trabajos Legislativos resolverá lo conducente.
 **Tercero.-** Las diputadas o diputados que al momento de constituirse la legislatura no se hubieren integrado a algún Grupo Parlamentario, podrán integrarse a las comisiones que acuerde la Junta de Coordinación Política, las cuales podrán incrementar sus miembros para que los Grupos Parlamentarios mantengan su representación proporcional en ellas.
