@@ -2,6 +2,35 @@
 
 ---
 
+## Sprint 3.0 — Tablas vectoriales y honestidad OCR ✅ (cerrado 2026-06-23)
+
+### 3.0 — Tablas vectoriales nativas ✅
+
+- [x] `extract_lines()` llama `find_tables()` en toda página (no solo páginas-imagen); `_is_valid_vector_table` descarta falsos positivos N×1.
+- [x] **1,258 tablas vectoriales rescatadas** (LIGIE 813, PEF 146, LFT ~100, LFD 85, …).
+- [x] Procedencia por tabla: `source_method` + `source_page` vía marcador interno `<!--mxmd:table-->` que consume `build_ast`.
+- [x] `_route_page()`: vector > ocr > texto. Tablas de 1 fila + colapso de columnas 100 % vacías + chars de área privada → '-'.
+
+### Anillo 1 — Honestidad OCR ✅
+
+- [x] Guardia de plausibilidad (`OCR_TABLE_MIN_DATA_ROWS=2`, `OCR_TABLE_MAX_COLS=15`) → marcador `[Tabla no extraíble — ver PDF original, página N]` + texto plano. **42 nodos basura → 4 tablas OCR reales** + marcadores en 5 leyes.
+- [x] Fix del crop OCR espejado (mezcla top-down/bottom-up) — rescata texto legal corrupto (LSEM Art. 55, LDSCA Art. 38, transitorios LSAR).
+- [x] Pipes OCR sanitizados; nodos `table` sin filas descartados en `build_ast`.
+
+### Resultado Sprint 3.0
+
+- Suite: 307 → **351 tests** (+44: `test_vector_tables.py`, `test_ocr_reconstruction.py`).
+- ruff + mypy: clean. `check_regression.sh`: 315/315 (baseline regenerado, aprobado por revisión visual del Dark Lord).
+- Merge `b0977b4` `--no-ff` desde `feat/tablas-vectoriales`; CI verde (Py 3.10/3.11/3.12).
+
+### Pendientes Sprint 3 (no incluidos en 3.0)
+
+- [ ] 3.1 — Descomponer `pdf_to_md.py` en módulos.
+- [ ] 3.2 — Clase `LawConverter`.
+- [ ] 3.3 — Docs de arquitectura (ARCHITECTURE/CONTRIBUTING/TROUBLESHOOTING).
+
+---
+
 ## Sprint 2 — Confianza y velocidad ✅ (cerrado 2026-05-10)
 
 ### 2.1 — Constantes y regex pre-compilados ✅
@@ -157,7 +186,9 @@
 | Fracciones | 58,310 |
 | Incisos | 12,370 |
 | Notas de reforma | 35,176 |
-| Tablas OCR | 42 |
+| Tablas vectoriales nativas | 1,258 |
+| Tablas OCR reales | 4 |
+| Marcadores "no extraíble" | 5 leyes |
 | JSON (canonical/) | 93 MB |
 | Markdown (markdown/) | 52 MB |
 

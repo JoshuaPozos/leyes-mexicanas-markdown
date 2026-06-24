@@ -2,6 +2,45 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Sprint 3.0 — Tablas vectoriales y honestidad OCR] — 2026-06-23
+
+Rescate de las tablas que el pipeline perdía y reemplazo de la basura OCR por
+extracción honesta. Suite sube de 307 a 351 tests. Baseline de regresión
+regenerado (re-baseline aprobado por revisión visual del Dark Lord) y verde 315/315.
+
+### 3.0 — Tablas vectoriales nativas
+
+- `extract_lines()` ahora llama `find_tables()` en **toda** página (no solo en
+  páginas-imagen). Las tablas dibujadas como vectores PDF (sin imagen embebida)
+  se extraen nativamente con `pdfplumber`, se validan (`_is_valid_vector_table`
+  descarta falsos positivos N×1) y se intercalan por posición vertical.
+- **1,258 tablas vectoriales rescatadas** que antes se perdían (LIGIE 813,
+  PEF 146, LFT ~100, LFD 85, …).
+- Procedencia por tabla: `source_method` (`text`/`ocr`) + `source_page`, vía
+  marcador interno `<!--mxmd:table src=… page=N-->` que `build_ast` consume.
+- `_route_page()` decide el flujo por página: vector > ocr > texto.
+- Tablas vectoriales de 1 fila (headers vacíos) + colapso de columnas 100 %
+  vacías; chars Unicode de área privada → '-'.
+
+### Anillo 1 — Honestidad OCR
+
+- Guardia de plausibilidad (`OCR_TABLE_MIN_DATA_ROWS=2`, `OCR_TABLE_MAX_COLS=15`):
+  una "tabla" OCR que no parece tabla ya **no** se fabrica — se emite el marcador
+  honesto `[Tabla no extraíble — ver PDF original, página N]` seguido del texto
+  OCR plano. **42 nodos basura → 4 tablas OCR reales** (con `source_page`) +
+  marcadores en 5 leyes.
+- Fix del crop OCR espejado (mezclaba sistemas de coordenadas top-down/bottom-up):
+  rescata texto legal que estaba corrupto fuera de tablas (LSEM Art. 55,
+  LDSCA Art. 38, transitorios de LSAR).
+- Pipes OCR sanitizados; nodos `table` sin filas descartados en `build_ast`.
+
+### Resultado Sprint 3.0
+
+- Suite: 307 → **351 tests** (+44: `test_vector_tables.py`, `test_ocr_reconstruction.py`).
+- ruff + mypy: clean.
+- `check_regression.sh`: 315/315 (baseline regenerado, aprobado por revisión visual).
+- Merge `b0977b4` `--no-ff` desde `feat/tablas-vectoriales`; CI verde (Py 3.10/3.11/3.12).
+
 ## [Sprint 2 — Confianza y velocidad] — 2026-05-10
 
 Cuatro mejoras de robustez y performance sobre el pipeline existente. Suite
