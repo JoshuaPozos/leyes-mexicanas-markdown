@@ -256,6 +256,15 @@ def _is_url_allowed(url: str, allowed_hosts: tuple[str, ...]) -> bool:
     return parsed.hostname in allowed_hosts
 
 
+def _sha256_file(path: Path) -> str:
+    """SHA-256 hex de un archivo local, leído en bloques (no carga todo a RAM)."""
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
 def download_pdf(
     url: str,
     dest: Path,
@@ -379,6 +388,11 @@ def main() -> None:
         label = f"[{i}/{len(subset)}] {law['pdf_filename']}"
 
         if args.skip_existing and dest.exists():
+            # Aun saltando la descarga, registramos el sha256 del PDF local para
+            # preservar la procedencia (fix: antes el catálogo quedaba sin sha256
+            # al re-correr con --skip-existing).
+            law["sha256"] = _sha256_file(dest)
+            catalog_dirty = True
             if args.verbose:
                 print(f"  ⏭️  {label} (ya existe)")
             skipped += 1

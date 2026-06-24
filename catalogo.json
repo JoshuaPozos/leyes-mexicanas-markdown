@@ -7,7 +7,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
     "pdf_filename": "CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.pdf",
     "pdf_filename_origen": "CPEUM.pdf",
-    "md_slug": "CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos"
+    "md_slug": "CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos",
+    "sha256": "e220eacc6ec0cd9e68fe9227ca5788e44b43bf0a8adf4eeb8eecef89c477cc80"
   },
   {
     "numero": "002",
@@ -17,7 +18,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
     "pdf_filename": "CCF_codigo_civil_federal.pdf",
     "pdf_filename_origen": "CCF.pdf",
-    "md_slug": "CCF_codigo_civil_federal"
+    "md_slug": "CCF_codigo_civil_federal",
+    "sha256": "4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76"
   },
   {
     "numero": "003",
@@ -27,7 +29,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf",
     "pdf_filename": "CCom_codigo_de_comercio.pdf",
     "pdf_filename_origen": "CCom.pdf",
-    "md_slug": "CCom_codigo_de_comercio"
+    "md_slug": "CCom_codigo_de_comercio",
+    "sha256": "3ddd3d79bc4c07bf6ea07a369c043af027a1f6a61baeccd90efa4936ffbe49b4"
   },
   {
     "numero": "004",
@@ -37,7 +40,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
     "pdf_filename": "CJM_codigo_de_justicia_militar.pdf",
     "pdf_filename_origen": "CJM.pdf",
-    "md_slug": "CJM_codigo_de_justicia_militar"
+    "md_slug": "CJM_codigo_de_justicia_militar",
+    "sha256": "b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531"
   },
   {
     "numero": "005",
@@ -47,7 +51,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf",
     "pdf_filename": "CFPC_codigo_federal_de_procedimientos_civiles.pdf",
     "pdf_filename_origen": "CFPC.pdf",
-    "md_slug": "CFPC_codigo_federal_de_procedimientos_civiles"
+    "md_slug": "CFPC_codigo_federal_de_procedimientos_civiles",
+    "sha256": "db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299"
   },
   {
     "numero": "006",
@@ -57,7 +62,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
     "pdf_filename": "CFF_codigo_fiscal_de_la_federacion.pdf",
     "pdf_filename_origen": "CFF.pdf",
-    "md_slug": "CFF_codigo_fiscal_de_la_federacion"
+    "md_slug": "CFF_codigo_fiscal_de_la_federacion",
+    "sha256": "f82b4537229351ddabd2a47929eb6db9907d18a7c2be618a293d6e441eb99855"
   },
   {
     "numero": "007",
@@ -67,7 +73,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf",
     "pdf_filename": "CMPP_codigo_militar_de_procedimientos_penales.pdf",
     "pdf_filename_origen": "CMPP.pdf",
-    "md_slug": "CMPP_codigo_militar_de_procedimientos_penales"
+    "md_slug": "CMPP_codigo_militar_de_procedimientos_penales",
+    "sha256": "351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32"
   },
   {
     "numero": "008",
@@ -77,7 +84,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf",
     "pdf_filename": "CNPCF_codigo_nacional_de_procedimientos_civiles_y_familiares.pdf",
     "pdf_filename_origen": "CNPCF.pdf",
-    "md_slug": "CNPCF_codigo_nacional_de_procedimientos_civiles_y_familiares"
+    "md_slug": "CNPCF_codigo_nacional_de_procedimientos_civiles_y_familiares",
+    "sha256": "6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8"
   },
   {
     "numero": "009",
@@ -87,7 +95,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf",
     "pdf_filename": "CNPP_codigo_nacional_de_procedimientos_penales.pdf",
     "pdf_filename_origen": "CNPP.pdf",
-    "md_slug": "CNPP_codigo_nacional_de_procedimientos_penales"
+    "md_slug": "CNPP_codigo_nacional_de_procedimientos_penales",
+    "sha256": "7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904"
   },
   {
     "numero": "010",
@@ -97,7 +106,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
     "pdf_filename": "CPF_codigo_penal_federal.pdf",
     "pdf_filename_origen": "CPF.pdf",
-    "md_slug": "CPF_codigo_penal_federal"
+    "md_slug": "CPF_codigo_penal_federal",
+    "sha256": "b51791cb04d8c716bd8a037b3af5746760c4f23f2f1727891df127ad4b1aab62"
   },
   {
     "numero": "011",
@@ -107,7 +117,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/10_270614.pdf",
     "pdf_filename": "EGDF_estatuto_de_gobierno_del_distrito_federal.pdf",
     "pdf_filename_origen": "10_270614.pdf",
-    "md_slug": "EGDF_estatuto_de_gobierno_del_distrito_federal"
+    "md_slug": "EGDF_estatuto_de_gobierno_del_distrito_federal",
+    "sha256": "b7dfa4da4a75e0e017cc880b385f3ed8ae4a4276206d8517effe2754d09e89ad"
   },
   {
     "numero": "012",
@@ -117,7 +128,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
     "pdf_filename": "ISEDIPL_impuesto_sobre_servicios_expresamente_declarados_de_interes_publico_po.pdf",
     "pdf_filename_origen": "79.pdf",
-    "md_slug": "ISEDIPL_impuesto_sobre_servicios_expresamente_declarados_de_interes_publico_po"
+    "md_slug": "ISEDIPL_impuesto_sobre_servicios_expresamente_declarados_de_interes_publico_po",
+    "sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113"
   },
   {
     "numero": "013",
@@ -127,7 +139,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf",
     "pdf_filename": "LAdua_ley_aduanera.pdf",
     "pdf_filename_origen": "LAdua.pdf",
-    "md_slug": "LAdua_ley_aduanera"
+    "md_slug": "LAdua_ley_aduanera",
+    "sha256": "43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d"
   },
   {
     "numero": "014",
@@ -137,7 +150,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf",
     "pdf_filename": "LAgra_ley_agraria.pdf",
     "pdf_filename_origen": "LAgra.pdf",
-    "md_slug": "LAgra_ley_agraria"
+    "md_slug": "LAgra_ley_agraria",
+    "sha256": "7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550"
   },
   {
     "numero": "015",
@@ -147,7 +161,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf",
     "pdf_filename": "LAASSP_ley_de_adquisiciones_arrendamientos_y_servicios_del_sector_publico.pdf",
     "pdf_filename_origen": "LAASSP.pdf",
-    "md_slug": "LAASSP_ley_de_adquisiciones_arrendamientos_y_servicios_del_sector_publico"
+    "md_slug": "LAASSP_ley_de_adquisiciones_arrendamientos_y_servicios_del_sector_publico",
+    "sha256": "883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc"
   },
   {
     "numero": "016",
@@ -157,7 +172,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf",
     "pdf_filename": "LAero_ley_de_aeropuertos.pdf",
     "pdf_filename_origen": "LAero.pdf",
-    "md_slug": "LAero_ley_de_aeropuertos"
+    "md_slug": "LAero_ley_de_aeropuertos",
+    "sha256": "c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4"
   },
   {
     "numero": "017",
@@ -167,7 +183,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
     "pdf_filename": "LAN_ley_de_aguas_nacionales.pdf",
     "pdf_filename_origen": "LAN.pdf",
-    "md_slug": "LAN_ley_de_aguas_nacionales"
+    "md_slug": "LAN_ley_de_aguas_nacionales",
+    "sha256": "4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d"
   },
   {
     "numero": "018",
@@ -177,7 +194,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf",
     "pdf_filename": "LACP_ley_de_ahorro_y_credito_popular.pdf",
     "pdf_filename_origen": "LACP.pdf",
-    "md_slug": "LACP_ley_de_ahorro_y_credito_popular"
+    "md_slug": "LACP_ley_de_ahorro_y_credito_popular",
+    "sha256": "d7c97f38c1dfe7dbf0ac5eba162d5fedb51dd132975912cf6e84aee9a614f348"
   },
   {
     "numero": "019",
@@ -187,7 +205,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmn.pdf",
     "pdf_filename": "LAmn_ley_de_amnistia.pdf",
     "pdf_filename_origen": "LAmn.pdf",
-    "md_slug": "LAmn_ley_de_amnistia"
+    "md_slug": "LAmn_ley_de_amnistia",
+    "sha256": "33dc1ac9ff7050121f9d659123179b38894d345fdd7de0844322f1caa329b6fe"
   },
   {
     "numero": "020",
@@ -197,7 +216,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf",
     "pdf_filename": "LA_ley_de_amnistia.pdf",
     "pdf_filename_origen": "19.pdf",
-    "md_slug": "LA_ley_de_amnistia"
+    "md_slug": "LA_ley_de_amnistia",
+    "sha256": "0aeca4ad89610cce814bff87e60d5cc1552f1cab232b798cf3b4da00d243d195"
   },
   {
     "numero": "021",
@@ -207,7 +227,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf",
     "pdf_filename": "LAmp_ley_de_amparo_reglamentaria_de_los_articulos_103_y_107_de_la_constituc.pdf",
     "pdf_filename_origen": "LAmp.pdf",
-    "md_slug": "LAmp_ley_de_amparo_reglamentaria_de_los_articulos_103_y_107_de_la_constituc"
+    "md_slug": "LAmp_ley_de_amparo_reglamentaria_de_los_articulos_103_y_107_de_la_constituc",
+    "sha256": "05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d"
   },
   {
     "numero": "022",
@@ -217,7 +238,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAM.pdf",
     "pdf_filename": "LAAM_ley_de_ascensos_de_la_armada_de_mexico.pdf",
     "pdf_filename_origen": "LAAM.pdf",
-    "md_slug": "LAAM_ley_de_ascensos_de_la_armada_de_mexico"
+    "md_slug": "LAAM_ley_de_ascensos_de_la_armada_de_mexico",
+    "sha256": "e69669aaa047e12ed8da8c0bbf403393ebe0d5f66c5b42b92681df2c11d4e7e8"
   },
   {
     "numero": "023",
@@ -227,7 +249,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf",
     "pdf_filename": "LAREFAGN_ley_de_ascensos_y_recompensas_del_ejercito_fuerza_aerea_y_guardia_naci.pdf",
     "pdf_filename_origen": "LAREFAGN.pdf",
-    "md_slug": "LAREFAGN_ley_de_ascensos_y_recompensas_del_ejercito_fuerza_aerea_y_guardia_naci"
+    "md_slug": "LAREFAGN_ley_de_ascensos_y_recompensas_del_ejercito_fuerza_aerea_y_guardia_naci",
+    "sha256": "9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975"
   },
   {
     "numero": "024",
@@ -237,7 +260,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf",
     "pdf_filename": "LASoc_ley_de_asistencia_social.pdf",
     "pdf_filename_origen": "LASoc.pdf",
-    "md_slug": "LASoc_ley_de_asistencia_social"
+    "md_slug": "LASoc_ley_de_asistencia_social",
+    "sha256": "d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228"
   },
   {
     "numero": "025",
@@ -247,7 +271,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf",
     "pdf_filename": "LAPP_ley_de_asociaciones_publico_privadas.pdf",
     "pdf_filename_origen": "LAPP.pdf",
-    "md_slug": "LAPP_ley_de_asociaciones_publico_privadas"
+    "md_slug": "LAPP_ley_de_asociaciones_publico_privadas",
+    "sha256": "a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf"
   },
   {
     "numero": "026",
@@ -257,7 +282,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LARCP.pdf",
     "pdf_filename": "LARCP_ley_de_asociaciones_religiosas_y_culto_publico.pdf",
     "pdf_filename_origen": "LARCP.pdf",
-    "md_slug": "LARCP_ley_de_asociaciones_religiosas_y_culto_publico"
+    "md_slug": "LARCP_ley_de_asociaciones_religiosas_y_culto_publico",
+    "sha256": "1f54ff4c063ca2552ee40ff0a9b1ce38b91c4074939c2c97ffda484da8d62290"
   },
   {
     "numero": "027",
@@ -267,7 +293,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf",
     "pdf_filename": "LAC_ley_de_aviacion_civil.pdf",
     "pdf_filename_origen": "LAC.pdf",
-    "md_slug": "LAC_ley_de_aviacion_civil"
+    "md_slug": "LAC_ley_de_aviacion_civil",
+    "sha256": "07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae"
   },
   {
     "numero": "028",
@@ -277,7 +304,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf",
     "pdf_filename": "LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores.pdf",
     "pdf_filename_origen": "LAAT.pdf",
-    "md_slug": "LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores"
+    "md_slug": "LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores",
+    "sha256": "2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb"
   },
   {
     "numero": "029",
@@ -287,7 +315,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf",
     "pdf_filename": "LBio_ley_de_biocombustibles.pdf",
     "pdf_filename_origen": "LBio.pdf",
-    "md_slug": "LBio_ley_de_biocombustibles"
+    "md_slug": "LBio_ley_de_biocombustibles",
+    "sha256": "c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4"
   },
   {
     "numero": "030",
@@ -297,7 +326,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBOGM.pdf",
     "pdf_filename": "LBOGM_ley_de_bioseguridad_de_organismos_geneticamente_modificados.pdf",
     "pdf_filename_origen": "LBOGM.pdf",
-    "md_slug": "LBOGM_ley_de_bioseguridad_de_organismos_geneticamente_modificados"
+    "md_slug": "LBOGM_ley_de_bioseguridad_de_organismos_geneticamente_modificados",
+    "sha256": "b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc"
   },
   {
     "numero": "031",
@@ -307,7 +337,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf",
     "pdf_filename": "LCEC_ley_de_camaras_empresariales_y_sus_confederaciones.pdf",
     "pdf_filename_origen": "LCEC_120419.pdf",
-    "md_slug": "LCEC_ley_de_camaras_empresariales_y_sus_confederaciones"
+    "md_slug": "LCEC_ley_de_camaras_empresariales_y_sus_confederaciones",
+    "sha256": "e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b"
   },
   {
     "numero": "032",
@@ -317,7 +348,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf",
     "pdf_filename": "LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.pdf",
     "pdf_filename_origen": "LCPAF.pdf",
-    "md_slug": "LCPAF_ley_de_caminos_puentes_y_autotransporte_federal"
+    "md_slug": "LCPAF_ley_de_caminos_puentes_y_autotransporte_federal",
+    "sha256": "9133f4bfc63f4f6ee32f3657ba4468c67b2eb9db46410ed893c85e693018a036"
   },
   {
     "numero": "033",
@@ -327,7 +359,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf",
     "pdf_filename": "LCP_ley_de_capitalizacion_del_procampo.pdf",
     "pdf_filename_origen": "238.pdf",
-    "md_slug": "LCP_ley_de_capitalizacion_del_procampo"
+    "md_slug": "LCP_ley_de_capitalizacion_del_procampo",
+    "sha256": "632a042503f2cbca50f9247a0ba9d5df58135381d91bbe8784ff4f5dbda017ea"
   },
   {
     "numero": "034",
@@ -337,7 +370,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf",
     "pdf_filename": "LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion.pdf",
     "pdf_filename_origen": "LCJPJF.pdf",
-    "md_slug": "LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion"
+    "md_slug": "LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion",
+    "sha256": "1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f"
   },
   {
     "numero": "035",
@@ -347,7 +381,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/28.pdf",
     "pdf_filename": "LCE_ley_de_comercio_exterior.pdf",
     "pdf_filename_origen": "28.pdf",
-    "md_slug": "LCE_ley_de_comercio_exterior"
+    "md_slug": "LCE_ley_de_comercio_exterior",
+    "sha256": "2e2bea278ef98d4b07ee64b4810b1adb0080be8c88ef305a059122a1a5be5923"
   },
   {
     "numero": "036",
@@ -357,7 +392,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf",
     "pdf_filename": "LCM_ley_de_concursos_mercantiles.pdf",
     "pdf_filename_origen": "LCM.pdf",
-    "md_slug": "LCM_ley_de_concursos_mercantiles"
+    "md_slug": "LCM_ley_de_concursos_mercantiles",
+    "sha256": "8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a"
   },
   {
     "numero": "037",
@@ -367,7 +403,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
     "pdf_filename": "LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes.pdf",
     "pdf_filename_origen": "30.pdf",
-    "md_slug": "LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes"
+    "md_slug": "LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes",
+    "sha256": "c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742"
   },
   {
     "numero": "038",
@@ -377,7 +414,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf",
     "pdf_filename": "LCID_ley_de_cooperacion_internacional_para_el_desarrollo.pdf",
     "pdf_filename_origen": "LCID_061120.pdf",
-    "md_slug": "LCID_ley_de_cooperacion_internacional_para_el_desarrollo"
+    "md_slug": "LCID_ley_de_cooperacion_internacional_para_el_desarrollo",
+    "sha256": "1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6"
   },
   {
     "numero": "039",
@@ -387,7 +425,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf",
     "pdf_filename": "LCF_ley_de_coordinacion_fiscal.pdf",
     "pdf_filename_origen": "LCF.pdf",
-    "md_slug": "LCF_ley_de_coordinacion_fiscal"
+    "md_slug": "LCF_ley_de_coordinacion_fiscal",
+    "sha256": "5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4"
   },
   {
     "numero": "040",
@@ -397,7 +436,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf",
     "pdf_filename": "LDRS_ley_de_desarrollo_rural_sustentable.pdf",
     "pdf_filename_origen": "LDRS.pdf",
-    "md_slug": "LDRS_ley_de_desarrollo_rural_sustentable"
+    "md_slug": "LDRS_ley_de_desarrollo_rural_sustentable",
+    "sha256": "30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21"
   },
   {
     "numero": "041",
@@ -407,7 +447,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSC.pdf",
     "pdf_filename": "LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura.pdf",
     "pdf_filename_origen": "LDSC.pdf",
-    "md_slug": "LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura"
+    "md_slug": "LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura",
+    "sha256": "45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80"
   },
   {
     "numero": "042",
@@ -417,7 +458,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf",
     "pdf_filename": "LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar.pdf",
     "pdf_filename_origen": "LDSCA.pdf",
-    "md_slug": "LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar"
+    "md_slug": "LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar",
+    "sha256": "3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d"
   },
   {
     "numero": "043",
@@ -427,7 +469,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
     "pdf_filename": "LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l.pdf",
     "pdf_filename_origen": "LDEFAGN.pdf",
-    "md_slug": "LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l"
+    "md_slug": "LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l",
+    "sha256": "3fe9742a4b38b3270a7f873cd839755785ee83b7ee2217d00af68bd9d76c0e38"
   },
   {
     "numero": "044",
@@ -437,7 +480,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf",
     "pdf_filename": "LDFEFM_ley_de_disciplina_financiera_de_las_entidades_federativas_y_los_munici.pdf",
     "pdf_filename_origen": "LDFEFM.pdf",
-    "md_slug": "LDFEFM_ley_de_disciplina_financiera_de_las_entidades_federativas_y_los_munici"
+    "md_slug": "LDFEFM_ley_de_disciplina_financiera_de_las_entidades_federativas_y_los_munici",
+    "sha256": "04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247"
   },
   {
     "numero": "045",
@@ -447,7 +491,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf",
     "pdf_filename": "LDPAM_ley_de_disciplina_para_el_personal_de_la_armada_de_mexico.pdf",
     "pdf_filename_origen": "252.pdf",
-    "md_slug": "LDPAM_ley_de_disciplina_para_el_personal_de_la_armada_de_mexico"
+    "md_slug": "LDPAM_ley_de_disciplina_para_el_personal_de_la_armada_de_mexico",
+    "sha256": "e3cb7668dc68cdc73e7597def326cf185c392a77c7c9674772134831f4659179"
   },
   {
     "numero": "046",
@@ -457,7 +502,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf",
     "pdf_filename": "LEMEFAGN_ley_de_educacion_militar_del_ejercito_fuerza_aerea_y_guardia_nacional.pdf",
     "pdf_filename_origen": "LEMEFAGN.pdf",
-    "md_slug": "LEMEFAGN_ley_de_educacion_militar_del_ejercito_fuerza_aerea_y_guardia_nacional"
+    "md_slug": "LEMEFAGN_ley_de_educacion_militar_del_ejercito_fuerza_aerea_y_guardia_nacional",
+    "sha256": "ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a"
   },
   {
     "numero": "047",
@@ -467,7 +513,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf",
     "pdf_filename": "LEN_ley_de_educacion_naval.pdf",
     "pdf_filename_origen": "LEN.pdf",
-    "md_slug": "LEN_ley_de_educacion_naval"
+    "md_slug": "LEN_ley_de_educacion_naval",
+    "sha256": "1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a"
   },
   {
     "numero": "048",
@@ -477,7 +524,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
     "pdf_filename": "LEC_ley_de_energia_para_el_campo.pdf",
     "pdf_filename_origen": "246.pdf",
-    "md_slug": "LEC_ley_de_energia_para_el_campo"
+    "md_slug": "LEC_ley_de_energia_para_el_campo",
+    "sha256": "71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f"
   },
   {
     "numero": "049",
@@ -487,7 +535,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
     "pdf_filename": "LE_ley_de_expropiacion.pdf",
     "pdf_filename_origen": "35.pdf",
-    "md_slug": "LE_ley_de_expropiacion"
+    "md_slug": "LE_ley_de_expropiacion",
+    "sha256": "40f5c7459f53df7a14ee5aaf70cbb819f8808b14691a63dfd773e36a9f5dd1cb"
   },
   {
     "numero": "050",
@@ -497,7 +546,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf",
     "pdf_filename": "LEI_ley_de_extradicion_internacional.pdf",
     "pdf_filename_origen": "36_200521.pdf",
-    "md_slug": "LEI_ley_de_extradicion_internacional"
+    "md_slug": "LEI_ley_de_extradicion_internacional",
+    "sha256": "8fa795db61b78c3f09ea810793c1b7bc569c8d7fe48cf6a9fabc0fe414457ae5"
   },
   {
     "numero": "051",
@@ -507,7 +557,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
     "pdf_filename": "LFEA_ley_de_firma_electronica_avanzada.pdf",
     "pdf_filename_origen": "LFEA.pdf",
-    "md_slug": "LFEA_ley_de_firma_electronica_avanzada"
+    "md_slug": "LFEA_ley_de_firma_electronica_avanzada",
+    "sha256": "102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842"
   },
   {
     "numero": "052",
@@ -517,7 +568,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF_200521.pdf",
     "pdf_filename": "LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.pdf",
     "pdf_filename_origen": "LFRCF_200521.pdf",
-    "md_slug": "LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion"
+    "md_slug": "LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion",
+    "sha256": "57622d4ce41bd45eebefdddaa11bbfe4b7e33f039c6e23948da5525078fd1a2a"
   },
   {
     "numero": "053",
@@ -527,7 +579,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
     "pdf_filename": "LFCC_ley_de_fomento_a_la_confianza_ciudadana.pdf",
     "pdf_filename_origen": "LFCC_200120.pdf",
-    "md_slug": "LFCC_ley_de_fomento_a_la_confianza_ciudadana"
+    "md_slug": "LFCC_ley_de_fomento_a_la_confianza_ciudadana",
+    "sha256": "0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde"
   },
   {
     "numero": "054",
@@ -537,7 +590,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf",
     "pdf_filename": "LFIV_ley_de_fomento_a_la_industria_vitivinicola.pdf",
     "pdf_filename_origen": "LFIV_230518.pdf",
-    "md_slug": "LFIV_ley_de_fomento_a_la_industria_vitivinicola"
+    "md_slug": "LFIV_ley_de_fomento_a_la_industria_vitivinicola",
+    "sha256": "db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087"
   },
   {
     "numero": "055",
@@ -547,7 +601,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf",
     "pdf_filename": "LFLL_ley_de_fomento_para_la_lectura_y_el_libro.pdf",
     "pdf_filename_origen": "LFLL.pdf",
-    "md_slug": "LFLL_ley_de_fomento_para_la_lectura_y_el_libro"
+    "md_slug": "LFLL_ley_de_fomento_para_la_lectura_y_el_libro",
+    "sha256": "1e1d42f23bc87d8b6c3d094e5b49b4a1cf14cb984956590f7d0b708485fef3fd"
   },
   {
     "numero": "056",
@@ -557,7 +612,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf",
     "pdf_filename": "LFAAR_ley_de_fondos_de_aseguramiento_agropecuario_y_rural.pdf",
     "pdf_filename_origen": "LFAAR.pdf",
-    "md_slug": "LFAAR_ley_de_fondos_de_aseguramiento_agropecuario_y_rural"
+    "md_slug": "LFAAR_ley_de_fondos_de_aseguramiento_agropecuario_y_rural",
+    "sha256": "c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e"
   },
   {
     "numero": "057",
@@ -567,7 +623,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf",
     "pdf_filename": "LFI_ley_de_fondos_de_inversion_antes_ley_de_sociedades_de_inversion.pdf",
     "pdf_filename_origen": "LFI.pdf",
-    "md_slug": "LFI_ley_de_fondos_de_inversion_antes_ley_de_sociedades_de_inversion"
+    "md_slug": "LFI_ley_de_fondos_de_inversion_antes_ley_de_sociedades_de_inversion",
+    "sha256": "77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d"
   },
   {
     "numero": "058",
@@ -577,7 +634,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf",
     "pdf_filename": "LGeo_ley_de_geotermia.pdf",
     "pdf_filename_origen": "LGeo.pdf",
-    "md_slug": "LGeo_ley_de_geotermia"
+    "md_slug": "LGeo_ley_de_geotermia",
+    "sha256": "67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35"
   },
   {
     "numero": "059",
@@ -587,7 +645,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
     "pdf_filename": "LICal_ley_de_infraestructura_de_la_calidad.pdf",
     "pdf_filename_origen": "LICal_010720.pdf",
-    "md_slug": "LICal_ley_de_infraestructura_de_la_calidad"
+    "md_slug": "LICal_ley_de_infraestructura_de_la_calidad",
+    "sha256": "a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a"
   },
   {
     "numero": "060",
@@ -597,7 +656,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
     "pdf_filename": "LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026.pdf",
     "pdf_filename_origen": "LIF_2026.pdf",
-    "md_slug": "LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026"
+    "md_slug": "LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026",
+    "sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c"
   },
   {
     "numero": "061",
@@ -607,7 +667,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf",
     "pdf_filename": "LIH_ley_de_ingresos_sobre_hidrocarburos.pdf",
     "pdf_filename_origen": "LIH.pdf",
-    "md_slug": "LIH_ley_de_ingresos_sobre_hidrocarburos"
+    "md_slug": "LIH_ley_de_ingresos_sobre_hidrocarburos",
+    "sha256": "8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6"
   },
   {
     "numero": "062",
@@ -617,7 +678,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
     "pdf_filename": "LIC_ley_de_instituciones_de_credito.pdf",
     "pdf_filename_origen": "LIC.pdf",
-    "md_slug": "LIC_ley_de_instituciones_de_credito"
+    "md_slug": "LIC_ley_de_instituciones_de_credito",
+    "sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d"
   },
   {
     "numero": "063",
@@ -627,7 +689,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf",
     "pdf_filename": "LISF_ley_de_instituciones_de_seguros_y_de_fianzas.pdf",
     "pdf_filename_origen": "LISF.pdf",
-    "md_slug": "LISF_ley_de_instituciones_de_seguros_y_de_fianzas"
+    "md_slug": "LISF_ley_de_instituciones_de_seguros_y_de_fianzas",
+    "sha256": "1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416"
   },
   {
     "numero": "064",
@@ -637,7 +700,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
     "pdf_filename": "LIE_ley_de_inversion_extranjera.pdf",
     "pdf_filename_origen": "LIE.pdf",
-    "md_slug": "LIE_ley_de_inversion_extranjera"
+    "md_slug": "LIE_ley_de_inversion_extranjera",
+    "sha256": "14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953"
   },
   {
     "numero": "065",
@@ -647,7 +711,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
     "pdf_filename": "LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al.pdf",
     "pdf_filename_origen": "LANSI.pdf",
-    "md_slug": "LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al"
+    "md_slug": "LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al",
+    "sha256": "0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44"
   },
   {
     "numero": "066",
@@ -657,7 +722,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf",
     "pdf_filename": "LCMM_ley_de_la_casa_de_moneda_de_mexico.pdf",
     "pdf_filename_origen": "LCMM.pdf",
-    "md_slug": "LCMM_ley_de_la_casa_de_moneda_de_mexico"
+    "md_slug": "LCMM_ley_de_la_casa_de_moneda_de_mexico",
+    "sha256": "873553817446789f00863e9cbc4a25bfbbf762cafa2dafd504577eb897796954"
   },
   {
     "numero": "067",
@@ -667,7 +733,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
     "pdf_filename": "LCNBV_ley_de_la_comision_nacional_bancaria_y_de_valores.pdf",
     "pdf_filename_origen": "LCNBV.pdf",
-    "md_slug": "LCNBV_ley_de_la_comision_nacional_bancaria_y_de_valores"
+    "md_slug": "LCNBV_ley_de_la_comision_nacional_bancaria_y_de_valores",
+    "sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8"
   },
   {
     "numero": "068",
@@ -677,7 +744,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf",
     "pdf_filename": "LCNE_ley_de_la_comision_nacional_de_energia.pdf",
     "pdf_filename_origen": "LCNE.pdf",
-    "md_slug": "LCNE_ley_de_la_comision_nacional_de_energia"
+    "md_slug": "LCNE_ley_de_la_comision_nacional_de_energia",
+    "sha256": "7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de"
   },
   {
     "numero": "069",
@@ -687,7 +755,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf",
     "pdf_filename": "LCNDH_ley_de_la_comision_nacional_de_los_derechos_humanos.pdf",
     "pdf_filename_origen": "LCNDH.pdf",
-    "md_slug": "LCNDH_ley_de_la_comision_nacional_de_los_derechos_humanos"
+    "md_slug": "LCNDH_ley_de_la_comision_nacional_de_los_derechos_humanos",
+    "sha256": "4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c"
   },
   {
     "numero": "070",
@@ -697,7 +766,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
     "pdf_filename": "LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social.pdf",
     "pdf_filename_origen": "LESS.pdf",
-    "md_slug": "LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social"
+    "md_slug": "LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social",
+    "sha256": "74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb"
   },
   {
     "numero": "071",
@@ -707,7 +777,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf",
     "pdf_filename": "LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad.pdf",
     "pdf_filename_origen": "LEPECFE.pdf",
-    "md_slug": "LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad"
+    "md_slug": "LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad",
+    "sha256": "6e45ab84a076cbd9cfd5fbd8abbe5f2d88fbd767229f21f5e7327aaf692b22a5"
   },
   {
     "numero": "072",
@@ -717,7 +788,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf",
     "pdf_filename": "LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos.pdf",
     "pdf_filename_origen": "LEPEPM.pdf",
-    "md_slug": "LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos"
+    "md_slug": "LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos",
+    "sha256": "e090d2278f98a33ce43b69070c3bbbec5e3b7177f0ffdbee8d4c9bf29c36c317"
   },
   {
     "numero": "073",
@@ -727,7 +799,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf",
     "pdf_filename": "LFGR_ley_de_la_fiscalia_general_de_la_republica.pdf",
     "pdf_filename_origen": "LFGR.pdf",
-    "md_slug": "LFGR_ley_de_la_fiscalia_general_de_la_republica"
+    "md_slug": "LFGR_ley_de_la_fiscalia_general_de_la_republica",
+    "sha256": "cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1"
   },
   {
     "numero": "074",
@@ -737,7 +810,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
     "pdf_filename": "LGN_ley_de_la_guardia_nacional.pdf",
     "pdf_filename_origen": "LGN.pdf",
-    "md_slug": "LGN_ley_de_la_guardia_nacional"
+    "md_slug": "LGN_ley_de_la_guardia_nacional",
+    "sha256": "dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd"
   },
   {
     "numero": "075",
@@ -747,7 +821,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
     "pdf_filename": "LPF_ley_de_la_policia_federal.pdf",
     "pdf_filename_origen": "LPF.pdf",
-    "md_slug": "LPF_ley_de_la_policia_federal"
+    "md_slug": "LPF_ley_de_la_policia_federal",
+    "sha256": "fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885"
   },
   {
     "numero": "076",
@@ -757,7 +832,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf",
     "pdf_filename": "LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores.pdf",
     "pdf_filename_origen": "LDPAM.pdf",
-    "md_slug": "LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores"
+    "md_slug": "LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores",
+    "sha256": "e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db"
   },
   {
     "numero": "077",
@@ -767,7 +843,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
     "pdf_filename": "LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos.pdf",
     "pdf_filename_origen": "LHHEUM.pdf",
-    "md_slug": "LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos"
+    "md_slug": "LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos",
+    "sha256": "ee7dcf952a44974e79227e9b8b8752899672827c1adfcabedc0739ceca51e49e"
   },
   {
     "numero": "078",
@@ -777,7 +854,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
     "pdf_filename": "LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.pdf",
     "pdf_filename_origen": "LIGIE_2022.pdf",
-    "md_slug": "LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion"
+    "md_slug": "LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion",
+    "sha256": "b58bfe99716c592146f64f983fee882a2780fc03d0aaf6f31205dfb692aebd2b"
   },
   {
     "numero": "079",
@@ -787,7 +865,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf",
     "pdf_filename": "LINS_ley_de_los_institutos_nacionales_de_salud.pdf",
     "pdf_filename_origen": "LINS.pdf",
-    "md_slug": "LINS_ley_de_los_institutos_nacionales_de_salud"
+    "md_slug": "LINS_ley_de_los_institutos_nacionales_de_salud",
+    "sha256": "40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e"
   },
   {
     "numero": "080",
@@ -797,7 +876,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf",
     "pdf_filename": "LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro.pdf",
     "pdf_filename_origen": "LSAR.pdf",
-    "md_slug": "LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro"
+    "md_slug": "LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro",
+    "sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1"
   },
   {
     "numero": "081",
@@ -807,7 +887,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf",
     "pdf_filename": "LMigra_ley_de_migracion.pdf",
     "pdf_filename_origen": "LMigra.pdf",
-    "md_slug": "LMigra_ley_de_migracion"
+    "md_slug": "LMigra_ley_de_migracion",
+    "sha256": "a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de"
   },
   {
     "numero": "082",
@@ -817,7 +898,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf",
     "pdf_filename": "LMin_ley_de_mineria_antes_ley_minera.pdf",
     "pdf_filename_origen": "LMin.pdf",
-    "md_slug": "LMin_ley_de_mineria_antes_ley_minera"
+    "md_slug": "LMin_ley_de_mineria_antes_ley_minera",
+    "sha256": "22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746"
   },
   {
     "numero": "083",
@@ -827,7 +909,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
     "pdf_filename": "LN_ley_de_nacionalidad.pdf",
     "pdf_filename_origen": "53.pdf",
-    "md_slug": "LN_ley_de_nacionalidad"
+    "md_slug": "LN_ley_de_nacionalidad",
+    "sha256": "0d1600be2162e00dfec7505d7ce4c23ec2e29f43e298bc94e7301146eead38f7"
   },
   {
     "numero": "084",
@@ -837,7 +920,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf",
     "pdf_filename": "LNCM_ley_de_navegacion_y_comercio_maritimos.pdf",
     "pdf_filename_origen": "LNCM.pdf",
-    "md_slug": "LNCM_ley_de_navegacion_y_comercio_maritimos"
+    "md_slug": "LNCM_ley_de_navegacion_y_comercio_maritimos",
+    "sha256": "f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926"
   },
   {
     "numero": "085",
@@ -847,7 +931,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf",
     "pdf_filename": "LOPSRM_ley_de_obras_publicas_y_servicios_relacionados_con_las_mismas.pdf",
     "pdf_filename_origen": "LOPSRM.pdf",
-    "md_slug": "LOPSRM_ley_de_obras_publicas_y_servicios_relacionados_con_las_mismas"
+    "md_slug": "LOPSRM_ley_de_obras_publicas_y_servicios_relacionados_con_las_mismas",
+    "sha256": "b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5"
   },
   {
     "numero": "086",
@@ -857,7 +942,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf",
     "pdf_filename": "LOG_ley_de_organizaciones_ganaderas.pdf",
     "pdf_filename_origen": "57.pdf",
-    "md_slug": "LOG_ley_de_organizaciones_ganaderas"
+    "md_slug": "LOG_ley_de_organizaciones_ganaderas",
+    "sha256": "35e6323676758412d100ff5b3725985ebb07af19c74e1657f9e15151f3b21d8f"
   },
   {
     "numero": "087",
@@ -867,7 +953,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf",
     "pdf_filename": "LPlan_ley_de_planeacion.pdf",
     "pdf_filename_origen": "LPlan.pdf",
-    "md_slug": "LPlan_ley_de_planeacion"
+    "md_slug": "LPlan_ley_de_planeacion",
+    "sha256": "5a909996d6ef791fa377611c040a212dcf838cbf54ba16a7d7d0baaa57ac9962"
   },
   {
     "numero": "088",
@@ -877,7 +964,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf",
     "pdf_filename": "LPTE_ley_de_planeacion_y_transicion_energetica.pdf",
     "pdf_filename_origen": "LPTE.pdf",
-    "md_slug": "LPTE_ley_de_planeacion_y_transicion_energetica"
+    "md_slug": "LPTE_ley_de_planeacion_y_transicion_energetica",
+    "sha256": "c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41"
   },
   {
     "numero": "089",
@@ -887,7 +975,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf",
     "pdf_filename": "LPERC_ley_de_premios_estimulos_y_recompensas_civiles.pdf",
     "pdf_filename_origen": "LPERC.pdf",
-    "md_slug": "LPERC_ley_de_premios_estimulos_y_recompensas_civiles"
+    "md_slug": "LPERC_ley_de_premios_estimulos_y_recompensas_civiles",
+    "sha256": "6916ade44cdc7b0820565cdc6225c6514b4b1131b1d08c70cf2abb190998f192"
   },
   {
     "numero": "090",
@@ -897,7 +986,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf",
     "pdf_filename": "LPO_ley_de_productos_organicos.pdf",
     "pdf_filename_origen": "LPO.pdf",
-    "md_slug": "LPO_ley_de_productos_organicos"
+    "md_slug": "LPO_ley_de_productos_organicos",
+    "sha256": "2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6"
   },
   {
     "numero": "091",
@@ -907,7 +997,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf",
     "pdf_filename": "LPAB_ley_de_proteccion_al_ahorro_bancario.pdf",
     "pdf_filename_origen": "LPAB.pdf",
-    "md_slug": "LPAB_ley_de_proteccion_al_ahorro_bancario"
+    "md_slug": "LPAB_ley_de_proteccion_al_ahorro_bancario",
+    "sha256": "40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8"
   },
   {
     "numero": "092",
@@ -917,7 +1008,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf",
     "pdf_filename": "LPCINECD_ley_de_proteccion_al_comercio_y_la_inversion_de_normas_extranjeras_que.pdf",
     "pdf_filename_origen": "63.pdf",
-    "md_slug": "LPCINECD_ley_de_proteccion_al_comercio_y_la_inversion_de_normas_extranjeras_que"
+    "md_slug": "LPCINECD_ley_de_proteccion_al_comercio_y_la_inversion_de_normas_extranjeras_que",
+    "sha256": "e969fde67d7c5adc1c78322e3309fe5a5ecc245489ce3ec259f16063eea0c1db"
   },
   {
     "numero": "093",
@@ -927,7 +1019,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf",
     "pdf_filename": "LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano.pdf",
     "pdf_filename_origen": "LPEAM.pdf",
-    "md_slug": "LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano"
+    "md_slug": "LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano",
+    "sha256": "91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df"
   },
   {
     "numero": "094",
@@ -937,7 +1030,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf",
     "pdf_filename": "LPDUSF_ley_de_proteccion_y_defensa_al_usuario_de_servicios_financieros.pdf",
     "pdf_filename_origen": "LPDUSF.pdf",
-    "md_slug": "LPDUSF_ley_de_proteccion_y_defensa_al_usuario_de_servicios_financieros"
+    "md_slug": "LPDUSF_ley_de_proteccion_y_defensa_al_usuario_de_servicios_financieros",
+    "sha256": "cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7"
   },
   {
     "numero": "095",
@@ -947,7 +1041,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf",
     "pdf_filename": "LP_ley_de_puertos.pdf",
     "pdf_filename_origen": "65_071220.pdf",
-    "md_slug": "LP_ley_de_puertos"
+    "md_slug": "LP_ley_de_puertos",
+    "sha256": "36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf"
   },
   {
     "numero": "096",
@@ -957,7 +1052,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf",
     "pdf_filename": "LRAM_ley_de_recompensas_de_la_armada_de_mexico.pdf",
     "pdf_filename_origen": "LRAM.pdf",
-    "md_slug": "LRAM_ley_de_recompensas_de_la_armada_de_mexico"
+    "md_slug": "LRAM_ley_de_recompensas_de_la_armada_de_mexico",
+    "sha256": "d0b2beb3d2e66847880d4c4270b4af4df1db63b22d6e5ac93883eca832652d6c"
   },
   {
     "numero": "097",
@@ -967,7 +1063,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf",
     "pdf_filename": "LRCDN_ley_de_responsabilidad_civil_por_danos_nucleares.pdf",
     "pdf_filename_origen": "LRCDN.pdf",
-    "md_slug": "LRCDN_ley_de_responsabilidad_civil_por_danos_nucleares"
+    "md_slug": "LRCDN_ley_de_responsabilidad_civil_por_danos_nucleares",
+    "sha256": "d505184709bf8fd04c4d24b188d1fa19f86acac51b462c6c4fb63482588ec40e"
   },
   {
     "numero": "098",
@@ -977,7 +1074,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf",
     "pdf_filename": "LSInt_ley_de_seguridad_interior.pdf",
     "pdf_filename_origen": "LSInt_300519.pdf",
-    "md_slug": "LSInt_ley_de_seguridad_interior"
+    "md_slug": "LSInt_ley_de_seguridad_interior",
+    "sha256": "d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89"
   },
   {
     "numero": "099",
@@ -987,7 +1085,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf",
     "pdf_filename": "LSN_ley_de_seguridad_nacional.pdf",
     "pdf_filename_origen": "LSN.pdf",
-    "md_slug": "LSN_ley_de_seguridad_nacional"
+    "md_slug": "LSN_ley_de_seguridad_nacional",
+    "sha256": "7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168"
   },
   {
     "numero": "100",
@@ -997,7 +1096,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
     "pdf_filename": "LSP_ley_de_sistemas_de_pagos.pdf",
     "pdf_filename_origen": "LSP.pdf",
-    "md_slug": "LSP_ley_de_sistemas_de_pagos"
+    "md_slug": "LSP_ley_de_sistemas_de_pagos",
+    "sha256": "43eeef86db897e9d52872f6d4cf2d1b8168936e0b0ce8486e24aa9f9b8b87508"
   },
   {
     "numero": "101",
@@ -1007,7 +1107,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf",
     "pdf_filename": "LSRLIP_ley_de_sociedades_de_responsabilidad_limitada_de_interes_publico.pdf",
     "pdf_filename_origen": "70.pdf",
-    "md_slug": "LSRLIP_ley_de_sociedades_de_responsabilidad_limitada_de_interes_publico"
+    "md_slug": "LSRLIP_ley_de_sociedades_de_responsabilidad_limitada_de_interes_publico",
+    "sha256": "18a1d80243cd419c3ffc7173cf90b8509ab8d78b4b5f64de97025fb51a170613"
   },
   {
     "numero": "102",
@@ -1017,7 +1118,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf",
     "pdf_filename": "LSSS_ley_de_sociedades_de_solidaridad_social.pdf",
     "pdf_filename_origen": "71_240418.pdf",
-    "md_slug": "LSSS_ley_de_sociedades_de_solidaridad_social"
+    "md_slug": "LSSS_ley_de_sociedades_de_solidaridad_social",
+    "sha256": "4618876b444def89a7cb2464b71019e0119288ebe6695d90b6a82ae8289b937e"
   },
   {
     "numero": "103",
@@ -1027,7 +1129,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf",
     "pdf_filename": "LTF_ley_de_tesoreria_de_la_federacion.pdf",
     "pdf_filename_origen": "LTF.pdf",
-    "md_slug": "LTF_ley_de_tesoreria_de_la_federacion"
+    "md_slug": "LTF_ley_de_tesoreria_de_la_federacion",
+    "sha256": "ef712663724737ddfd8542c8104eeb983303f651b7cf8a76bba9d30539a7e6fa"
   },
   {
     "numero": "104",
@@ -1037,7 +1140,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf",
     "pdf_filename": "LTFCCG_ley_de_transparencia_y_de_fomento_a_la_competencia_en_el_credito_garan.pdf",
     "pdf_filename_origen": "256.pdf",
-    "md_slug": "LTFCCG_ley_de_transparencia_y_de_fomento_a_la_competencia_en_el_credito_garan"
+    "md_slug": "LTFCCG_ley_de_transparencia_y_de_fomento_a_la_competencia_en_el_credito_garan",
+    "sha256": "1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3"
   },
   {
     "numero": "105",
@@ -1047,7 +1151,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf",
     "pdf_filename": "LUC_ley_de_uniones_de_credito.pdf",
     "pdf_filename_origen": "LUC.pdf",
-    "md_slug": "LUC_ley_de_uniones_de_credito"
+    "md_slug": "LUC_ley_de_uniones_de_credito",
+    "sha256": "3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938"
   },
   {
     "numero": "106",
@@ -1057,7 +1162,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf",
     "pdf_filename": "LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas.pdf",
     "pdf_filename_origen": "LVZMM.pdf",
-    "md_slug": "LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas"
+    "md_slug": "LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas",
+    "sha256": "d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70"
   },
   {
     "numero": "107",
@@ -1067,7 +1173,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf",
     "pdf_filename": "LVGC_ley_de_vias_generales_de_comunicacion.pdf",
     "pdf_filename_origen": "LVGC.pdf",
-    "md_slug": "LVGC_ley_de_vias_generales_de_comunicacion"
+    "md_slug": "LVGC_ley_de_vias_generales_de_comunicacion",
+    "sha256": "a4becbaa8039573e226e916618697661f1294aa26dac434a01144ba65b13699e"
   },
   {
     "numero": "108",
@@ -1077,7 +1184,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf",
     "pdf_filename": "LViv_ley_de_vivienda.pdf",
     "pdf_filename_origen": "LViv.pdf",
-    "md_slug": "LViv_ley_de_vivienda"
+    "md_slug": "LViv_ley_de_vivienda",
+    "sha256": "03633d7ecf1c2f762ba86c3f3b670b71a445e7ef5206aaa931397c3f327f2ba6"
   },
   {
     "numero": "109",
@@ -1087,7 +1195,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf",
     "pdf_filename": "LBM_ley_del_banco_de_mexico.pdf",
     "pdf_filename_origen": "74.pdf",
-    "md_slug": "LBM_ley_del_banco_de_mexico"
+    "md_slug": "LBM_ley_del_banco_de_mexico",
+    "sha256": "14b84c537ed334d20f50824a46a9ce7fbbe826058b139daf112ab4087f566f71"
   },
   {
     "numero": "110",
@@ -1097,7 +1206,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf",
     "pdf_filename": "LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales.pdf",
     "pdf_filename_origen": "75_100619.pdf",
-    "md_slug": "LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales"
+    "md_slug": "LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales",
+    "sha256": "2fc2a18634f230fef75fe9a4e16ab6e6d3c6e20c0b29aa5929bd839b475e16f3"
   },
   {
     "numero": "111",
@@ -1107,7 +1217,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf",
     "pdf_filename": "LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr.pdf",
     "pdf_filename_origen": "LFMPED.pdf",
-    "md_slug": "LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr"
+    "md_slug": "LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr",
+    "sha256": "1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291"
   },
   {
     "numero": "112",
@@ -1117,7 +1228,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
     "pdf_filename": "LIVA_ley_del_impuesto_al_valor_agregado.pdf",
     "pdf_filename_origen": "LIVA.pdf",
-    "md_slug": "LIVA_ley_del_impuesto_al_valor_agregado"
+    "md_slug": "LIVA_ley_del_impuesto_al_valor_agregado",
+    "sha256": "f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6"
   },
   {
     "numero": "113",
@@ -1127,7 +1239,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf",
     "pdf_filename": "LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.pdf",
     "pdf_filename_origen": "LIEPS.pdf",
-    "md_slug": "LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios"
+    "md_slug": "LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios",
+    "sha256": "32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4"
   },
   {
     "numero": "114",
@@ -1137,7 +1250,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
     "pdf_filename": "LISR_ley_del_impuesto_sobre_la_renta.pdf",
     "pdf_filename_origen": "LISR.pdf",
-    "md_slug": "LISR_ley_del_impuesto_sobre_la_renta"
+    "md_slug": "LISR_ley_del_impuesto_sobre_la_renta",
+    "sha256": "803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786"
   },
   {
     "numero": "115",
@@ -1147,7 +1261,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf",
     "pdf_filename": "LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican.pdf",
     "pdf_filename_origen": "LISSFAM.pdf",
-    "md_slug": "LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican"
+    "md_slug": "LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican",
+    "sha256": "35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc"
   },
   {
     "numero": "116",
@@ -1157,7 +1272,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf",
     "pdf_filename": "LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore.pdf",
     "pdf_filename_origen": "LISSSTE.pdf",
-    "md_slug": "LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore"
+    "md_slug": "LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore",
+    "sha256": "aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5"
   },
   {
     "numero": "117",
@@ -1167,7 +1283,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf",
     "pdf_filename": "LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado.pdf",
     "pdf_filename_origen": "LIFNVT.pdf",
-    "md_slug": "LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado"
+    "md_slug": "LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado",
+    "sha256": "9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912"
   },
   {
     "numero": "118",
@@ -1177,7 +1294,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf",
     "pdf_filename": "LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador.pdf",
     "pdf_filename_origen": "LIFNCT.pdf",
-    "md_slug": "LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador"
+    "md_slug": "LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador",
+    "sha256": "78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f"
   },
   {
     "numero": "119",
@@ -1187,7 +1305,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf",
     "pdf_filename": "LIMJ_ley_del_instituto_mexicano_de_la_juventud.pdf",
     "pdf_filename_origen": "LIMJ.pdf",
-    "md_slug": "LIMJ_ley_del_instituto_mexicano_de_la_juventud"
+    "md_slug": "LIMJ_ley_del_instituto_mexicano_de_la_juventud",
+    "sha256": "326dc072878ee5db7b8e588c3abf36a993d286beadaf90c19c6bf88732d95db5"
   },
   {
     "numero": "120",
@@ -1197,7 +1316,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf",
     "pdf_filename": "LINPI_ley_del_instituto_nacional_de_los_pueblos_indigenas.pdf",
     "pdf_filename_origen": "LINPI.pdf",
-    "md_slug": "LINPI_ley_del_instituto_nacional_de_los_pueblos_indigenas"
+    "md_slug": "LINPI_ley_del_instituto_nacional_de_los_pueblos_indigenas",
+    "sha256": "f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98"
   },
   {
     "numero": "121",
@@ -1207,7 +1327,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf",
     "pdf_filename": "LMV_ley_del_mercado_de_valores.pdf",
     "pdf_filename_origen": "LMV.pdf",
-    "md_slug": "LMV_ley_del_mercado_de_valores"
+    "md_slug": "LMV_ley_del_mercado_de_valores",
+    "sha256": "cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9"
   },
   {
     "numero": "122",
@@ -1217,7 +1338,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf",
     "pdf_filename": "LRPV_ley_del_registro_publico_vehicular.pdf",
     "pdf_filename_origen": "269_200521.pdf",
-    "md_slug": "LRPV_ley_del_registro_publico_vehicular"
+    "md_slug": "LRPV_ley_del_registro_publico_vehicular",
+    "sha256": "0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba"
   },
   {
     "numero": "123",
@@ -1227,7 +1349,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
     "pdf_filename": "LSE_ley_del_sector_electrico.pdf",
     "pdf_filename_origen": "LSE.pdf",
-    "md_slug": "LSE_ley_del_sector_electrico"
+    "md_slug": "LSE_ley_del_sector_electrico",
+    "sha256": "aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a"
   },
   {
     "numero": "124",
@@ -1237,7 +1360,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf",
     "pdf_filename": "LSH_ley_del_sector_hidrocarburos.pdf",
     "pdf_filename_origen": "LSH.pdf",
-    "md_slug": "LSH_ley_del_sector_hidrocarburos"
+    "md_slug": "LSH_ley_del_sector_hidrocarburos",
+    "sha256": "1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23"
   },
   {
     "numero": "125",
@@ -1247,7 +1371,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
     "pdf_filename": "LSS_ley_del_seguro_social.pdf",
     "pdf_filename_origen": "LSS.pdf",
-    "md_slug": "LSS_ley_del_seguro_social"
+    "md_slug": "LSS_ley_del_seguro_social",
+    "sha256": "8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed"
   },
   {
     "numero": "126",
@@ -1257,7 +1382,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf",
     "pdf_filename": "LSAT_ley_del_servicio_de_administracion_tributaria.pdf",
     "pdf_filename_origen": "93_041218.pdf",
-    "md_slug": "LSAT_ley_del_servicio_de_administracion_tributaria"
+    "md_slug": "LSAT_ley_del_servicio_de_administracion_tributaria",
+    "sha256": "ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5"
   },
   {
     "numero": "127",
@@ -1267,7 +1393,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf",
     "pdf_filename": "LSEM_ley_del_servicio_exterior_mexicano.pdf",
     "pdf_filename_origen": "96_190418.pdf",
-    "md_slug": "LSEM_ley_del_servicio_exterior_mexicano"
+    "md_slug": "LSEM_ley_del_servicio_exterior_mexicano",
+    "sha256": "012a7b3a18d987229f48c98a36b9b9cf91f5227b5e888ff09f535fd609e31c21"
   },
   {
     "numero": "128",
@@ -1277,7 +1404,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf",
     "pdf_filename": "LSM_ley_del_servicio_militar.pdf",
     "pdf_filename_origen": "LSM.pdf",
-    "md_slug": "LSM_ley_del_servicio_militar"
+    "md_slug": "LSM_ley_del_servicio_militar",
+    "sha256": "09cfa3f2c0feead6685bda1dd439f07db0a0d105acc1ef0e6669cf0df82ce3f0"
   },
   {
     "numero": "129",
@@ -1287,7 +1415,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf",
     "pdf_filename": "LSPM_ley_del_servicio_postal_mexicano.pdf",
     "pdf_filename_origen": "LSPM.pdf",
-    "md_slug": "LSPM_ley_del_servicio_postal_mexicano"
+    "md_slug": "LSPM_ley_del_servicio_postal_mexicano",
+    "sha256": "f8a66009368493d0c964c21f4cb165c39d5bb3b1236058511547f9c3cca6e5cc"
   },
   {
     "numero": "130",
@@ -1297,7 +1426,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf",
     "pdf_filename": "LSPCAPF_ley_del_servicio_profesional_de_carrera_en_la_administracion_publica_f.pdf",
     "pdf_filename_origen": "260.pdf",
-    "md_slug": "LSPCAPF_ley_del_servicio_profesional_de_carrera_en_la_administracion_publica_f"
+    "md_slug": "LSPCAPF_ley_del_servicio_profesional_de_carrera_en_la_administracion_publica_f",
+    "sha256": "d0e88848d94fbf70ee742e9e57a5ee9c34e060b21215f2c7f98a02e1f307e424"
   },
   {
     "numero": "131",
@@ -1307,7 +1437,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf",
     "pdf_filename": "LSNIEG_ley_del_sistema_nacional_de_informacion_estadistica_y_geografica.pdf",
     "pdf_filename_origen": "LSNIEG.pdf",
-    "md_slug": "LSNIEG_ley_del_sistema_nacional_de_informacion_estadistica_y_geografica"
+    "md_slug": "LSNIEG_ley_del_sistema_nacional_de_informacion_estadistica_y_geografica",
+    "sha256": "bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab"
   },
   {
     "numero": "132",
@@ -1317,7 +1448,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf",
     "pdf_filename": "LSNIIMSP_ley_del_sistema_nacional_de_investigacion_e_inteligencia_en_materia_de.pdf",
     "pdf_filename_origen": "LSNIIMSP.pdf",
-    "md_slug": "LSNIIMSP_ley_del_sistema_nacional_de_investigacion_e_inteligencia_en_materia_de"
+    "md_slug": "LSNIIMSP_ley_del_sistema_nacional_de_investigacion_e_inteligencia_en_materia_de",
+    "sha256": "e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c"
   },
   {
     "numero": "133",
@@ -1327,7 +1459,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf",
     "pdf_filename": "LSPREM_ley_del_sistema_publico_de_radiodifusion_del_estado_mexicano.pdf",
     "pdf_filename_origen": "LSPREM.pdf",
-    "md_slug": "LSPREM_ley_del_sistema_publico_de_radiodifusion_del_estado_mexicano"
+    "md_slug": "LSPREM_ley_del_sistema_publico_de_radiodifusion_del_estado_mexicano",
+    "sha256": "bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317"
   },
   {
     "numero": "134",
@@ -1337,7 +1470,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf",
     "pdf_filename": "LMTR_ley_en_materia_de_telecomunicaciones_y_radiodifusion.pdf",
     "pdf_filename_origen": "LMTR.pdf",
-    "md_slug": "LMTR_ley_en_materia_de_telecomunicaciones_y_radiodifusion"
+    "md_slug": "LMTR_ley_en_materia_de_telecomunicaciones_y_radiodifusion",
+    "sha256": "fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1"
   },
   {
     "numero": "135",
@@ -1347,7 +1481,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf",
     "pdf_filename": "LFCDO_ley_federal_contra_la_delincuencia_organizada.pdf",
     "pdf_filename_origen": "LFCDO.pdf",
-    "md_slug": "LFCDO_ley_federal_contra_la_delincuencia_organizada"
+    "md_slug": "LFCDO_ley_federal_contra_la_delincuencia_organizada",
+    "sha256": "6f9b44bd6bc8c19aad3747e9198f2c5543b0415afa4a3cd63b4bd995091932ad"
   },
   {
     "numero": "136",
@@ -1357,7 +1492,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf",
     "pdf_filename": "LFAFE_ley_federal_de_armas_de_fuego_y_explosivos.pdf",
     "pdf_filename_origen": "LFAFE.pdf",
-    "md_slug": "LFAFE_ley_federal_de_armas_de_fuego_y_explosivos"
+    "md_slug": "LFAFE_ley_federal_de_armas_de_fuego_y_explosivos",
+    "sha256": "96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884"
   },
   {
     "numero": "137",
@@ -1367,7 +1503,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf",
     "pdf_filename": "LFAR_ley_federal_de_austeridad_republicana.pdf",
     "pdf_filename_origen": "LFAR.pdf",
-    "md_slug": "LFAR_ley_federal_de_austeridad_republicana"
+    "md_slug": "LFAR_ley_federal_de_austeridad_republicana",
+    "sha256": "b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c"
   },
   {
     "numero": "138",
@@ -1377,7 +1514,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf",
     "pdf_filename": "LFC_ley_federal_de_cinematografia.pdf",
     "pdf_filename_origen": "LFC.pdf",
-    "md_slug": "LFC_ley_federal_de_cinematografia"
+    "md_slug": "LFC_ley_federal_de_cinematografia",
+    "sha256": "0eede83f8f84e6d12074963f84dd94d8e3ab5a2b38ce11e789e6afd54b77606e"
   },
   {
     "numero": "139",
@@ -1387,7 +1525,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf",
     "pdf_filename": "LFCE_ley_federal_de_competencia_economica.pdf",
     "pdf_filename_origen": "LFCE.pdf",
-    "md_slug": "LFCE_ley_federal_de_competencia_economica"
+    "md_slug": "LFCE_ley_federal_de_competencia_economica",
+    "sha256": "d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba"
   },
   {
     "numero": "140",
@@ -1397,7 +1536,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf",
     "pdf_filename": "LFCPo_ley_federal_de_consulta_popular.pdf",
     "pdf_filename_origen": "LFCPo_190521.pdf",
-    "md_slug": "LFCPo_ley_federal_de_consulta_popular"
+    "md_slug": "LFCPo_ley_federal_de_consulta_popular",
+    "sha256": "f4b823e5581b0e3e9737fe4d96171be41941bd7cc512ca0cfaf186047c0a05c2"
   },
   {
     "numero": "141",
@@ -1407,7 +1547,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf",
     "pdf_filename": "LFCP_ley_federal_de_correduria_publica.pdf",
     "pdf_filename_origen": "105.pdf",
-    "md_slug": "LFCP_ley_federal_de_correduria_publica"
+    "md_slug": "LFCP_ley_federal_de_correduria_publica",
+    "sha256": "471480d2f55997cdb7b7d372e4f1e1c9a7c72c34cbb1e4186299dc35ad6e2535"
   },
   {
     "numero": "142",
@@ -1417,7 +1558,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf",
     "pdf_filename": "LFDEAPD_ley_federal_de_declaracion_especial_de_ausencia_para_personas_desapare.pdf",
     "pdf_filename_origen": "LFDEAPD.pdf",
-    "md_slug": "LFDEAPD_ley_federal_de_declaracion_especial_de_ausencia_para_personas_desapare"
+    "md_slug": "LFDEAPD_ley_federal_de_declaracion_especial_de_ausencia_para_personas_desapare",
+    "sha256": "4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0"
   },
   {
     "numero": "143",
@@ -1427,7 +1569,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf",
     "pdf_filename": "LFDefP_ley_federal_de_defensoria_publica.pdf",
     "pdf_filename_origen": "LFDefP.pdf",
-    "md_slug": "LFDefP_ley_federal_de_defensoria_publica"
+    "md_slug": "LFDefP_ley_federal_de_defensoria_publica",
+    "sha256": "603475aa11e46fa2fcf3b7e1c1ec111d4202070c309d1b355b834f011c226262"
   },
   {
     "numero": "144",
@@ -1437,7 +1580,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
     "pdf_filename": "LFD_ley_federal_de_derechos.pdf",
     "pdf_filename_origen": "LFD.pdf",
-    "md_slug": "LFD_ley_federal_de_derechos"
+    "md_slug": "LFD_ley_federal_de_derechos",
+    "sha256": "64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df"
   },
   {
     "numero": "145",
@@ -1447,7 +1591,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf",
     "pdf_filename": "LFDP_ley_federal_de_deuda_publica_antes_ley_general_de_deuda_publica.pdf",
     "pdf_filename_origen": "136_300118.pdf",
-    "md_slug": "LFDP_ley_federal_de_deuda_publica_antes_ley_general_de_deuda_publica"
+    "md_slug": "LFDP_ley_federal_de_deuda_publica_antes_ley_general_de_deuda_publica",
+    "sha256": "be4e1666f8a8b3dfdcbbc047aed6542b4982972d1297e2e04dee839e30cc0ce1"
   },
   {
     "numero": "146",
@@ -1457,7 +1602,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf",
     "pdf_filename": "LFFAOSC_ley_federal_de_fomento_a_las_actividades_realizadas_por_organizaciones.pdf",
     "pdf_filename_origen": "LFFAOSC.pdf",
-    "md_slug": "LFFAOSC_ley_federal_de_fomento_a_las_actividades_realizadas_por_organizaciones"
+    "md_slug": "LFFAOSC_ley_federal_de_fomento_a_las_actividades_realizadas_por_organizaciones",
+    "sha256": "aee10d32a2a05da5520a51f1e5635befbec52622e71d4f4e7f618f953bb98d09"
   },
   {
     "numero": "147",
@@ -1467,7 +1613,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf",
     "pdf_filename": "LFJS_ley_federal_de_juegos_y_sorteos.pdf",
     "pdf_filename_origen": "109.pdf",
-    "md_slug": "LFJS_ley_federal_de_juegos_y_sorteos"
+    "md_slug": "LFJS_ley_federal_de_juegos_y_sorteos",
+    "sha256": "5ae2f5245fba7e584da7b7912f7a25342b8af171b291f52befe753a9139ac277"
   },
   {
     "numero": "148",
@@ -1477,7 +1624,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf",
     "pdf_filename": "LFEP_ley_federal_de_las_entidades_paraestatales.pdf",
     "pdf_filename_origen": "LFEP.pdf",
-    "md_slug": "LFEP_ley_federal_de_las_entidades_paraestatales"
+    "md_slug": "LFEP_ley_federal_de_las_entidades_paraestatales",
+    "sha256": "c0f203a9c6ebb990db8a2a43559ecf19e904f7c0757d0f334f7f4fb044aa6a12"
   },
   {
     "numero": "149",
@@ -1487,7 +1635,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf",
     "pdf_filename": "LFDC_ley_federal_de_los_derechos_del_contribuyente.pdf",
     "pdf_filename_origen": "LFDC.pdf",
-    "md_slug": "LFDC_ley_federal_de_los_derechos_del_contribuyente"
+    "md_slug": "LFDC_ley_federal_de_los_derechos_del_contribuyente",
+    "sha256": "70f871ee9f8791063f9da9df9eab93b68efc1f2878f8024299bb5cd93b238658"
   },
   {
     "numero": "150",
@@ -1497,7 +1646,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf",
     "pdf_filename": "LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d.pdf",
     "pdf_filename_origen": "LFTSE.pdf",
-    "md_slug": "LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d"
+    "md_slug": "LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d",
+    "sha256": "2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe"
   },
   {
     "numero": "151",
@@ -1507,7 +1657,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf",
     "pdf_filename": "LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.pdf",
     "pdf_filename_origen": "LFPRH.pdf",
-    "md_slug": "LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria"
+    "md_slug": "LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria",
+    "sha256": "29ceff3b3d7c593f7f4d5e2ac16eda3cf9a6246ebad506f3ed41b02647fff7bb"
   },
   {
     "numero": "152",
@@ -1517,7 +1668,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf",
     "pdf_filename": "LFPA_ley_federal_de_procedimiento_administrativo.pdf",
     "pdf_filename_origen": "LFPA.pdf",
-    "md_slug": "LFPA_ley_federal_de_procedimiento_administrativo"
+    "md_slug": "LFPA_ley_federal_de_procedimiento_administrativo",
+    "sha256": "a8b8019ba04a815ff0b146856625b2342e4366067e763ae5140dee7245212861"
   },
   {
     "numero": "153",
@@ -1527,7 +1679,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf",
     "pdf_filename": "LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.pdf",
     "pdf_filename_origen": "LFPCA.pdf",
-    "md_slug": "LFPCA_ley_federal_de_procedimiento_contencioso_administrativo"
+    "md_slug": "LFPCA_ley_federal_de_procedimiento_contencioso_administrativo",
+    "sha256": "c99ea8ee22f1988c309d700f74532efdcd790f82cd3d6128a42a2f97ec2c4710"
   },
   {
     "numero": "154",
@@ -1537,7 +1690,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf",
     "pdf_filename": "LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas.pdf",
     "pdf_filename_origen": "LFPCCS_110518.pdf",
-    "md_slug": "LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas"
+    "md_slug": "LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas",
+    "sha256": "ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b"
   },
   {
     "numero": "155",
@@ -1547,7 +1701,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
     "pdf_filename": "LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.pdf",
     "pdf_filename_origen": "LFPPI.pdf",
-    "md_slug": "LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial"
+    "md_slug": "LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial",
+    "sha256": "71259aa9333da7debab398009eb8a9869be9b0108b4072590299761000efe70a"
   },
   {
     "numero": "156",
@@ -1557,7 +1712,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
     "pdf_filename": "LFPC_ley_federal_de_proteccion_al_consumidor.pdf",
     "pdf_filename_origen": "LFPC.pdf",
-    "md_slug": "LFPC_ley_federal_de_proteccion_al_consumidor"
+    "md_slug": "LFPC_ley_federal_de_proteccion_al_consumidor",
+    "sha256": "7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55"
   },
   {
     "numero": "157",
@@ -1567,7 +1723,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
     "pdf_filename": "LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti.pdf",
     "pdf_filename_origen": "LFPDPPP.pdf",
-    "md_slug": "LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti"
+    "md_slug": "LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti",
+    "sha256": "04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6"
   },
   {
     "numero": "158",
@@ -1577,7 +1734,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf",
     "pdf_filename": "LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com.pdf",
     "pdf_filename_origen": "LFPPCPCIA.pdf",
-    "md_slug": "LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com"
+    "md_slug": "LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com",
+    "sha256": "7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe"
   },
   {
     "numero": "159",
@@ -1587,7 +1745,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
     "pdf_filename": "LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos.pdf",
     "pdf_filename_origen": "LFRemSP_190521.pdf",
-    "md_slug": "LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos"
+    "md_slug": "LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos",
+    "sha256": "1ae9c606fad4de72ca0d2379696b39adb17826fbb112f1ae46c9acb952fa7a5d"
   },
   {
     "numero": "160",
@@ -1597,7 +1756,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
     "pdf_filename": "LFRA_ley_federal_de_responsabilidad_ambiental.pdf",
     "pdf_filename_origen": "LFRA.pdf",
-    "md_slug": "LFRA_ley_federal_de_responsabilidad_ambiental"
+    "md_slug": "LFRA_ley_federal_de_responsabilidad_ambiental",
+    "sha256": "7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744"
   },
   {
     "numero": "161",
@@ -1607,7 +1767,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
     "pdf_filename": "LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado.pdf",
     "pdf_filename_origen": "LFRPE.pdf",
-    "md_slug": "LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado"
+    "md_slug": "LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado",
+    "sha256": "05390b6c1389b13c8004675b51e5da49bbdbba01c352e844ec1ccaf9b5abf1da"
   },
   {
     "numero": "162",
@@ -1617,7 +1778,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf",
     "pdf_filename": "LFRSP_ley_federal_de_responsabilidades_de_los_servidores_publicos.pdf",
     "pdf_filename_origen": "LFRSP.pdf",
-    "md_slug": "LFRSP_ley_federal_de_responsabilidades_de_los_servidores_publicos"
+    "md_slug": "LFRSP_ley_federal_de_responsabilidades_de_los_servidores_publicos",
+    "sha256": "b377014351dbf3e21a9a031fa24fb97658db1d78f6d44d7b20efa1840d49d599"
   },
   {
     "numero": "163",
@@ -1627,7 +1789,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf",
     "pdf_filename": "LFRM_ley_federal_de_revocacion_de_mandato.pdf",
     "pdf_filename_origen": "LFRM.pdf",
-    "md_slug": "LFRM_ley_federal_de_revocacion_de_mandato"
+    "md_slug": "LFRM_ley_federal_de_revocacion_de_mandato",
+    "sha256": "eddfcf458c46cacee55392a138412b0d014bcc306c455d92ed94250efce4904c"
   },
   {
     "numero": "164",
@@ -1637,7 +1800,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf",
     "pdf_filename": "LFSA_ley_federal_de_sanidad_animal.pdf",
     "pdf_filename_origen": "LFSA.pdf",
-    "md_slug": "LFSA_ley_federal_de_sanidad_animal"
+    "md_slug": "LFSA_ley_federal_de_sanidad_animal",
+    "sha256": "199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08"
   },
   {
     "numero": "165",
@@ -1647,7 +1811,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf",
     "pdf_filename": "LFSV_ley_federal_de_sanidad_vegetal.pdf",
     "pdf_filename_origen": "LFSV.pdf",
-    "md_slug": "LFSV_ley_federal_de_sanidad_vegetal"
+    "md_slug": "LFSV_ley_federal_de_sanidad_vegetal",
+    "sha256": "ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6"
   },
   {
     "numero": "166",
@@ -1657,7 +1822,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf",
     "pdf_filename": "LFSP_ley_federal_de_seguridad_privada.pdf",
     "pdf_filename_origen": "LFSP.pdf",
-    "md_slug": "LFSP_ley_federal_de_seguridad_privada"
+    "md_slug": "LFSP_ley_federal_de_seguridad_privada",
+    "sha256": "08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69"
   },
   {
     "numero": "167",
@@ -1667,7 +1833,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf",
     "pdf_filename": "LFVV_ley_federal_de_variedades_vegetales.pdf",
     "pdf_filename_origen": "LFVV.pdf",
-    "md_slug": "LFVV_ley_federal_de_variedades_vegetales"
+    "md_slug": "LFVV_ley_federal_de_variedades_vegetales",
+    "sha256": "9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343"
   },
   {
     "numero": "168",
@@ -1677,7 +1844,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
     "pdf_filename": "LFZEE_ley_federal_de_zonas_economicas_especiales.pdf",
     "pdf_filename_origen": "LFZEE.pdf",
-    "md_slug": "LFZEE_ley_federal_de_zonas_economicas_especiales"
+    "md_slug": "LFZEE_ley_federal_de_zonas_economicas_especiales",
+    "sha256": "a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e"
   },
   {
     "numero": "169",
@@ -1687,7 +1855,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
     "pdf_filename": "LFDA_ley_federal_del_derecho_de_autor.pdf",
     "pdf_filename_origen": "LFDA.pdf",
-    "md_slug": "LFDA_ley_federal_del_derecho_de_autor"
+    "md_slug": "LFDA_ley_federal_del_derecho_de_autor",
+    "sha256": "86b5bb5b29665ccd9341abe6d6fc7db8f4ca88d196bc5cf8d2990c0f7b8b90c8"
   },
   {
     "numero": "170",
@@ -1697,7 +1866,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf",
     "pdf_filename": "LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos.pdf",
     "pdf_filename_origen": "LFISAN.pdf",
-    "md_slug": "LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos"
+    "md_slug": "LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos",
+    "sha256": "ef658aa6a3b15e99a4d19edaa6713598a37523f4179ae69a4462bcb8ca870eb1"
   },
   {
     "numero": "171",
@@ -1707,7 +1877,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf",
     "pdf_filename": "LFM_ley_federal_del_mar.pdf",
     "pdf_filename_origen": "124.pdf",
-    "md_slug": "LFM_ley_federal_del_mar"
+    "md_slug": "LFM_ley_federal_del_mar",
+    "sha256": "8d9eac4d6509cf79f1755895a3e93d6268d423ab101ab08c6fd734f55a5a7818"
   },
   {
     "numero": "172",
@@ -1717,7 +1888,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
     "pdf_filename": "LFT_ley_federal_del_trabajo.pdf",
     "pdf_filename_origen": "LFT.pdf",
-    "md_slug": "LFT_ley_federal_del_trabajo"
+    "md_slug": "LFT_ley_federal_del_trabajo",
+    "sha256": "46cf7a7bd854c261545cc4a3e57c57e52f6ddd8fb06260af1628a26fa44f8ed3"
   },
   {
     "numero": "173",
@@ -1727,7 +1899,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf",
     "pdf_filename": "LFCPQ_ley_federal_para_el_control_de_precursores_quimicos_productos_quimicos.pdf",
     "pdf_filename_origen": "LFCPQ.pdf",
-    "md_slug": "LFCPQ_ley_federal_para_el_control_de_precursores_quimicos_productos_quimicos"
+    "md_slug": "LFCPQ_ley_federal_para_el_control_de_precursores_quimicos_productos_quimicos",
+    "sha256": "39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6"
   },
   {
     "numero": "174",
@@ -1737,7 +1910,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf",
     "pdf_filename": "LFCSQ_ley_federal_para_el_control_de_sustancias_quimicas_susceptibles_de_des.pdf",
     "pdf_filename_origen": "LFCSQ.pdf",
-    "md_slug": "LFCSQ_ley_federal_para_el_control_de_sustancias_quimicas_susceptibles_de_des"
+    "md_slug": "LFCSQ_ley_federal_para_el_control_de_sustancias_quimicas_susceptibles_de_des",
+    "sha256": "414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923"
   },
   {
     "numero": "175",
@@ -1747,7 +1921,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf",
     "pdf_filename": "LFFMAA_ley_federal_para_el_fomento_de_la_microindustria_y_la_actividad_artesa.pdf",
     "pdf_filename_origen": "LFFMAA.pdf",
-    "md_slug": "LFFMAA_ley_federal_para_el_fomento_de_la_microindustria_y_la_actividad_artesa"
+    "md_slug": "LFFMAA_ley_federal_para_el_fomento_de_la_microindustria_y_la_actividad_artesa",
+    "sha256": "31d853037c0fe8c97535b508ed8a5366dfd6c83e53b6b32967c816554504dbaa"
   },
   {
     "numero": "176",
@@ -1757,7 +1932,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN_130420.pdf",
     "pdf_filename": "LFFPMN_ley_federal_para_el_fomento_y_proteccion_del_maiz_nativo.pdf",
     "pdf_filename_origen": "LFFPMN_130420.pdf",
-    "md_slug": "LFFPMN_ley_federal_para_el_fomento_y_proteccion_del_maiz_nativo"
+    "md_slug": "LFFPMN_ley_federal_para_el_fomento_y_proteccion_del_maiz_nativo",
+    "sha256": "3564da0e2d5216d234ef006ac52ce494528a018a67301be009026db9f1edf91b"
   },
   {
     "numero": "177",
@@ -1767,7 +1943,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf",
     "pdf_filename": "LFAEBSP_ley_federal_para_la_administracion_y_enajenacion_de_bienes_del_sector.pdf",
     "pdf_filename_origen": "LFAEBSP.pdf",
-    "md_slug": "LFAEBSP_ley_federal_para_la_administracion_y_enajenacion_de_bienes_del_sector"
+    "md_slug": "LFAEBSP_ley_federal_para_la_administracion_y_enajenacion_de_bienes_del_sector",
+    "sha256": "269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059"
   },
   {
     "numero": "178",
@@ -1777,7 +1954,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf",
     "pdf_filename": "LFPIORPI_ley_federal_para_la_prevencion_e_identificacion_de_operaciones_con_rec.pdf",
     "pdf_filename_origen": "LFPIORPI.pdf",
-    "md_slug": "LFPIORPI_ley_federal_para_la_prevencion_e_identificacion_de_operaciones_con_rec"
+    "md_slug": "LFPIORPI_ley_federal_para_la_prevencion_e_identificacion_de_operaciones_con_rec",
+    "sha256": "2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f"
   },
   {
     "numero": "179",
@@ -1787,7 +1965,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf",
     "pdf_filename": "LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced.pdf",
     "pdf_filename_origen": "LFPPIPP_200521.pdf",
-    "md_slug": "LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced"
+    "md_slug": "LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced",
+    "sha256": "2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56"
   },
   {
     "numero": "180",
@@ -1797,7 +1976,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
     "pdf_filename": "LFPED_ley_federal_para_prevenir_y_eliminar_la_discriminacion.pdf",
     "pdf_filename_origen": "LFPED.pdf",
-    "md_slug": "LFPED_ley_federal_para_prevenir_y_eliminar_la_discriminacion"
+    "md_slug": "LFPED_ley_federal_para_prevenir_y_eliminar_la_discriminacion",
+    "sha256": "f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9"
   },
   {
     "numero": "181",
@@ -1807,7 +1987,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf",
     "pdf_filename": "LFPSDMH_ley_federal_para_prevenir_y_sancionar_los_delitos_cometidos_en_materia.pdf",
     "pdf_filename_origen": "LFPSDMH.pdf",
-    "md_slug": "LFPSDMH_ley_federal_para_prevenir_y_sancionar_los_delitos_cometidos_en_materia"
+    "md_slug": "LFPSDMH_ley_federal_para_prevenir_y_sancionar_los_delitos_cometidos_en_materia",
+    "sha256": "ace34ed71b587262c6c3a59657b3706960600744b170a830c4996e419e5abd1a"
   },
   {
     "numero": "182",
@@ -1817,7 +1998,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMZAAH.pdf",
     "pdf_filename": "LFMZAAH_ley_federal_sobre_monumentos_y_zonas_arqueologicos_artisticos_e_histor.pdf",
     "pdf_filename_origen": "LFMZAAH.pdf",
-    "md_slug": "LFMZAAH_ley_federal_sobre_monumentos_y_zonas_arqueologicos_artisticos_e_histor"
+    "md_slug": "LFMZAAH_ley_federal_sobre_monumentos_y_zonas_arqueologicos_artisticos_e_histor",
+    "sha256": "bce07ae6b706e935ded9023e4d11d8797aa725ecbe4d1a0ef219ca1a8080b4cb"
   },
   {
     "numero": "183",
@@ -1827,7 +2009,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf",
     "pdf_filename": "LGAMVLV_ley_general_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencias_an.pdf",
     "pdf_filename_origen": "LGAMVLV.pdf",
-    "md_slug": "LGAMVLV_ley_general_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencias_an"
+    "md_slug": "LGAMVLV_ley_general_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencias_an",
+    "sha256": "9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535"
   },
   {
     "numero": "184",
@@ -1837,7 +2020,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
     "pdf_filename": "LGAg_ley_general_de_aguas.pdf",
     "pdf_filename_origen": "LGAg.pdf",
-    "md_slug": "LGAg_ley_general_de_aguas"
+    "md_slug": "LGAg_ley_general_de_aguas",
+    "sha256": "025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409"
   },
   {
     "numero": "185",
@@ -1847,7 +2031,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGA.pdf",
     "pdf_filename": "LGA_ley_general_de_archivos.pdf",
     "pdf_filename_origen": "LGA.pdf",
-    "md_slug": "LGA_ley_general_de_archivos"
+    "md_slug": "LGA_ley_general_de_archivos",
+    "sha256": "2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688"
   },
   {
     "numero": "186",
@@ -1857,7 +2042,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf",
     "pdf_filename": "LGAHOTDU_ley_general_de_asentamientos_humanos_ordenamiento_territorial_y_desarr.pdf",
     "pdf_filename_origen": "LGAHOTDU.pdf",
-    "md_slug": "LGAHOTDU_ley_general_de_asentamientos_humanos_ordenamiento_territorial_y_desarr"
+    "md_slug": "LGAHOTDU_ley_general_de_asentamientos_humanos_ordenamiento_territorial_y_desarr",
+    "sha256": "dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5"
   },
   {
     "numero": "187",
@@ -1867,7 +2053,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
     "pdf_filename": "LGB_ley_general_de_bibliotecas.pdf",
     "pdf_filename_origen": "LGB.pdf",
-    "md_slug": "LGB_ley_general_de_bibliotecas"
+    "md_slug": "LGB_ley_general_de_bibliotecas",
+    "sha256": "1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19"
   },
   {
     "numero": "188",
@@ -1877,7 +2064,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf",
     "pdf_filename": "LGBN_ley_general_de_bienes_nacionales.pdf",
     "pdf_filename_origen": "LGBN.pdf",
-    "md_slug": "LGBN_ley_general_de_bienes_nacionales"
+    "md_slug": "LGBN_ley_general_de_bienes_nacionales",
+    "sha256": "ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5"
   },
   {
     "numero": "189",
@@ -1887,7 +2075,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCC.pdf",
     "pdf_filename": "LGCC_ley_general_de_cambio_climatico.pdf",
     "pdf_filename_origen": "LGCC.pdf",
-    "md_slug": "LGCC_ley_general_de_cambio_climatico"
+    "md_slug": "LGCC_ley_general_de_cambio_climatico",
+    "sha256": "fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15"
   },
   {
     "numero": "190",
@@ -1897,7 +2086,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCS.pdf",
     "pdf_filename": "LGCS_ley_general_de_comunicacion_social.pdf",
     "pdf_filename_origen": "LGCS.pdf",
-    "md_slug": "LGCS_ley_general_de_comunicacion_social"
+    "md_slug": "LGCS_ley_general_de_comunicacion_social",
+    "sha256": "f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62"
   },
   {
     "numero": "191",
@@ -1907,7 +2097,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
     "pdf_filename": "LGCG_ley_general_de_contabilidad_gubernamental.pdf",
     "pdf_filename_origen": "LGCG.pdf",
-    "md_slug": "LGCG_ley_general_de_contabilidad_gubernamental"
+    "md_slug": "LGCG_ley_general_de_contabilidad_gubernamental",
+    "sha256": "64b4da1d8513aa0a5e7ffd8ae44099d365ee5cf8da45a1595d911d1fec9f088e"
   },
   {
     "numero": "192",
@@ -1917,7 +2108,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCFD.pdf",
     "pdf_filename": "LGCFD_ley_general_de_cultura_fisica_y_deporte.pdf",
     "pdf_filename_origen": "LGCFD.pdf",
-    "md_slug": "LGCFD_ley_general_de_cultura_fisica_y_deporte"
+    "md_slug": "LGCFD_ley_general_de_cultura_fisica_y_deporte",
+    "sha256": "7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d"
   },
   {
     "numero": "193",
@@ -1927,7 +2119,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf",
     "pdf_filename": "LGCDC_ley_general_de_cultura_y_derechos_culturales.pdf",
     "pdf_filename_origen": "LGCDC.pdf",
-    "md_slug": "LGCDC_ley_general_de_cultura_y_derechos_culturales"
+    "md_slug": "LGCDC_ley_general_de_cultura_y_derechos_culturales",
+    "sha256": "3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d"
   },
   {
     "numero": "194",
@@ -1937,7 +2130,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
     "pdf_filename": "LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas.pdf",
     "pdf_filename_origen": "LGDLPI.pdf",
-    "md_slug": "LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas"
+    "md_slug": "LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas",
+    "sha256": "c089e774b400c1922811859a6b867c7593120cbe61b4ba4f745321cf26e8b41d"
   },
   {
     "numero": "195",
@@ -1947,7 +2141,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf",
     "pdf_filename": "LGDFS_ley_general_de_desarrollo_forestal_sustentable.pdf",
     "pdf_filename_origen": "LGDFS.pdf",
-    "md_slug": "LGDFS_ley_general_de_desarrollo_forestal_sustentable"
+    "md_slug": "LGDFS_ley_general_de_desarrollo_forestal_sustentable",
+    "sha256": "2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4"
   },
   {
     "numero": "196",
@@ -1957,7 +2152,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf",
     "pdf_filename": "LGDS_ley_general_de_desarrollo_social.pdf",
     "pdf_filename_origen": "LGDS.pdf",
-    "md_slug": "LGDS_ley_general_de_desarrollo_social"
+    "md_slug": "LGDS_ley_general_de_desarrollo_social",
+    "sha256": "32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275"
   },
   {
     "numero": "197",
@@ -1967,7 +2163,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf",
     "pdf_filename": "LGEC_ley_general_de_economia_circular.pdf",
     "pdf_filename_origen": "LGEC.pdf",
-    "md_slug": "LGEC_ley_general_de_economia_circular"
+    "md_slug": "LGEC_ley_general_de_economia_circular",
+    "sha256": "89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754"
   },
   {
     "numero": "198",
@@ -1977,7 +2174,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
     "pdf_filename": "LGE_ley_general_de_educacion.pdf",
     "pdf_filename_origen": "LGE.pdf",
-    "md_slug": "LGE_ley_general_de_educacion"
+    "md_slug": "LGE_ley_general_de_educacion",
+    "sha256": "75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9"
   },
   {
     "numero": "199",
@@ -1987,7 +2185,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
     "pdf_filename": "LGES_ley_general_de_educacion_superior.pdf",
     "pdf_filename_origen": "LGES_200421.pdf",
-    "md_slug": "LGES_ley_general_de_educacion_superior"
+    "md_slug": "LGES_ley_general_de_educacion_superior",
+    "sha256": "eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12"
   },
   {
     "numero": "200",
@@ -1997,7 +2196,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
     "pdf_filename": "LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.pdf",
     "pdf_filename_origen": "LGIPE.pdf",
-    "md_slug": "LGIPE_ley_general_de_instituciones_y_procedimientos_electorales"
+    "md_slug": "LGIPE_ley_general_de_instituciones_y_procedimientos_electorales",
+    "sha256": "53699aa54e5e414a8418252e11ca061491eeed2d297cb68ef1518e48a0c7cde2"
   },
   {
     "numero": "201",
@@ -2007,7 +2207,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf",
     "pdf_filename": "LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible.pdf",
     "pdf_filename_origen": "LGAAS.pdf",
-    "md_slug": "LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible"
+    "md_slug": "LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible",
+    "sha256": "56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410"
   },
   {
     "numero": "202",
@@ -2017,7 +2218,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf",
     "pdf_filename": "LGDNNA_ley_general_de_los_derechos_de_ninas_ninos_y_adolescentes.pdf",
     "pdf_filename_origen": "LGDNNA.pdf",
-    "md_slug": "LGDNNA_ley_general_de_los_derechos_de_ninas_ninos_y_adolescentes"
+    "md_slug": "LGDNNA_ley_general_de_los_derechos_de_ninas_ninos_y_adolescentes",
+    "sha256": "475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822"
   },
   {
     "numero": "203",
@@ -2027,7 +2229,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf",
     "pdf_filename": "LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral.pdf",
     "pdf_filename_origen": "LGMIME.pdf",
-    "md_slug": "LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral"
+    "md_slug": "LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral",
+    "sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143"
   },
   {
     "numero": "204",
@@ -2037,7 +2240,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf",
     "pdf_filename": "LGMASC_ley_general_de_mecanismos_alternativos_de_solucion_de_controversias.pdf",
     "pdf_filename_origen": "LGMASC.pdf",
-    "md_slug": "LGMASC_ley_general_de_mecanismos_alternativos_de_solucion_de_controversias"
+    "md_slug": "LGMASC_ley_general_de_mecanismos_alternativos_de_solucion_de_controversias",
+    "sha256": "d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a"
   },
   {
     "numero": "205",
@@ -2047,7 +2251,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf",
     "pdf_filename": "LGMSV_ley_general_de_movilidad_y_seguridad_vial.pdf",
     "pdf_filename_origen": "LGMSV.pdf",
-    "md_slug": "LGMSV_ley_general_de_movilidad_y_seguridad_vial"
+    "md_slug": "LGMSV_ley_general_de_movilidad_y_seguridad_vial",
+    "sha256": "79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03"
   },
   {
     "numero": "206",
@@ -2057,7 +2262,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf",
     "pdf_filename": "LGOAAC_ley_general_de_organizaciones_y_actividades_auxiliares_del_credito.pdf",
     "pdf_filename_origen": "LGOAAC.pdf",
-    "md_slug": "LGOAAC_ley_general_de_organizaciones_y_actividades_auxiliares_del_credito"
+    "md_slug": "LGOAAC_ley_general_de_organizaciones_y_actividades_auxiliares_del_credito",
+    "sha256": "54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683"
   },
   {
     "numero": "207",
@@ -2067,7 +2273,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf",
     "pdf_filename": "LGPP_ley_general_de_partidos_politicos.pdf",
     "pdf_filename_origen": "LGPP.pdf",
-    "md_slug": "LGPP_ley_general_de_partidos_politicos"
+    "md_slug": "LGPP_ley_general_de_partidos_politicos",
+    "sha256": "9163f0826f44c965b6d478e69c2bf0deb8795108104c3d7dddf6d11e511199b3"
   },
   {
     "numero": "208",
@@ -2077,7 +2284,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf",
     "pdf_filename": "LGPAS_ley_general_de_pesca_y_acuacultura_sustentables.pdf",
     "pdf_filename_origen": "LGPAS.pdf",
-    "md_slug": "LGPAS_ley_general_de_pesca_y_acuacultura_sustentables"
+    "md_slug": "LGPAS_ley_general_de_pesca_y_acuacultura_sustentables",
+    "sha256": "160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf"
   },
   {
     "numero": "209",
@@ -2087,7 +2295,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf",
     "pdf_filename": "LGP_ley_general_de_poblacion.pdf",
     "pdf_filename_origen": "LGP.pdf",
-    "md_slug": "LGP_ley_general_de_poblacion"
+    "md_slug": "LGP_ley_general_de_poblacion",
+    "sha256": "15e8cb5ca11592f331fca6a94784cce3dd58837397857f2d764476768d0ca780"
   },
   {
     "numero": "210",
@@ -2097,7 +2306,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf",
     "pdf_filename": "LGPSACDII_ley_general_de_prestacion_de_servicios_para_la_atencion_cuidado_y_desa.pdf",
     "pdf_filename_origen": "LGPSACDII.pdf",
-    "md_slug": "LGPSACDII_ley_general_de_prestacion_de_servicios_para_la_atencion_cuidado_y_desa"
+    "md_slug": "LGPSACDII_ley_general_de_prestacion_de_servicios_para_la_atencion_cuidado_y_desa",
+    "sha256": "14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854"
   },
   {
     "numero": "211",
@@ -2107,7 +2317,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
     "pdf_filename": "LGPC_ley_general_de_proteccion_civil.pdf",
     "pdf_filename_origen": "LGPC.pdf",
-    "md_slug": "LGPC_ley_general_de_proteccion_civil"
+    "md_slug": "LGPC_ley_general_de_proteccion_civil",
+    "sha256": "d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a"
   },
   {
     "numero": "212",
@@ -2117,7 +2328,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
     "pdf_filename": "LGPDPPSO_ley_general_de_proteccion_de_datos_personales_en_posesion_de_sujetos_o.pdf",
     "pdf_filename_origen": "LGPDPPSO.pdf",
-    "md_slug": "LGPDPPSO_ley_general_de_proteccion_de_datos_personales_en_posesion_de_sujetos_o"
+    "md_slug": "LGPDPPSO_ley_general_de_proteccion_de_datos_personales_en_posesion_de_sujetos_o",
+    "sha256": "a184d451e59d0c5663e14a41c8211d6f5309b15f82d0a6a2e45ed599c44364b9"
   },
   {
     "numero": "213",
@@ -2127,7 +2339,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
     "pdf_filename": "LGRA_ley_general_de_responsabilidades_administrativas.pdf",
     "pdf_filename_origen": "LGRA.pdf",
-    "md_slug": "LGRA_ley_general_de_responsabilidades_administrativas"
+    "md_slug": "LGRA_ley_general_de_responsabilidades_administrativas",
+    "sha256": "1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8"
   },
   {
     "numero": "214",
@@ -2137,7 +2350,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
     "pdf_filename": "LGS_ley_general_de_salud.pdf",
     "pdf_filename_origen": "LGS.pdf",
-    "md_slug": "LGS_ley_general_de_salud"
+    "md_slug": "LGS_ley_general_de_salud",
+    "sha256": "a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c"
   },
   {
     "numero": "215",
@@ -2147,7 +2361,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf",
     "pdf_filename": "LGSC_ley_general_de_sociedades_cooperativas.pdf",
     "pdf_filename_origen": "LGSC.pdf",
-    "md_slug": "LGSC_ley_general_de_sociedades_cooperativas"
+    "md_slug": "LGSC_ley_general_de_sociedades_cooperativas",
+    "sha256": "7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f"
   },
   {
     "numero": "216",
@@ -2157,7 +2372,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
     "pdf_filename": "LGSM_ley_general_de_sociedades_mercantiles.pdf",
     "pdf_filename_origen": "LGSM.pdf",
-    "md_slug": "LGSM_ley_general_de_sociedades_mercantiles"
+    "md_slug": "LGSM_ley_general_de_sociedades_mercantiles",
+    "sha256": "72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3"
   },
   {
     "numero": "217",
@@ -2167,7 +2383,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
     "pdf_filename": "LGTOC_ley_general_de_titulos_y_operaciones_de_credito.pdf",
     "pdf_filename_origen": "LGTOC.pdf",
-    "md_slug": "LGTOC_ley_general_de_titulos_y_operaciones_de_credito"
+    "md_slug": "LGTOC_ley_general_de_titulos_y_operaciones_de_credito",
+    "sha256": "cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361"
   },
   {
     "numero": "218",
@@ -2177,7 +2394,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
     "pdf_filename": "LGTAIP_ley_general_de_transparencia_y_acceso_a_la_informacion_publica.pdf",
     "pdf_filename_origen": "LGTAIP.pdf",
-    "md_slug": "LGTAIP_ley_general_de_transparencia_y_acceso_a_la_informacion_publica"
+    "md_slug": "LGTAIP_ley_general_de_transparencia_y_acceso_a_la_informacion_publica",
+    "sha256": "e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b"
   },
   {
     "numero": "219",
@@ -2187,7 +2405,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf",
     "pdf_filename": "LGT_ley_general_de_turismo.pdf",
     "pdf_filename_origen": "LGT.pdf",
-    "md_slug": "LGT_ley_general_de_turismo"
+    "md_slug": "LGT_ley_general_de_turismo",
+    "sha256": "266023204bad762583d7837b0359d869c41704fcaff52b9da6bb67071cee0ef3"
   },
   {
     "numero": "220",
@@ -2197,7 +2416,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf",
     "pdf_filename": "LGV_ley_general_de_victimas.pdf",
     "pdf_filename_origen": "LGV.pdf",
-    "md_slug": "LGV_ley_general_de_victimas"
+    "md_slug": "LGV_ley_general_de_victimas",
+    "sha256": "a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8"
   },
   {
     "numero": "221",
@@ -2207,7 +2427,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf",
     "pdf_filename": "LGVS_ley_general_de_vida_silvestre.pdf",
     "pdf_filename_origen": "LGVS.pdf",
-    "md_slug": "LGVS_ley_general_de_vida_silvestre"
+    "md_slug": "LGVS_ley_general_de_vida_silvestre",
+    "sha256": "b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911"
   },
   {
     "numero": "222",
@@ -2217,7 +2438,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf",
     "pdf_filename": "LGEEPA_ley_general_del_equilibrio_ecologico_y_la_proteccion_al_ambiente.pdf",
     "pdf_filename_origen": "LGEEPA.pdf",
-    "md_slug": "LGEEPA_ley_general_del_equilibrio_ecologico_y_la_proteccion_al_ambiente"
+    "md_slug": "LGEEPA_ley_general_del_equilibrio_ecologico_y_la_proteccion_al_ambiente",
+    "sha256": "0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc"
   },
   {
     "numero": "223",
@@ -2227,7 +2449,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf",
     "pdf_filename": "LGSMIME_ley_general_del_sistema_de_medios_de_impugnacion_en_materia_electoral.pdf",
     "pdf_filename_origen": "LGSMIME.pdf",
-    "md_slug": "LGSMIME_ley_general_del_sistema_de_medios_de_impugnacion_en_materia_electoral"
+    "md_slug": "LGSMIME_ley_general_del_sistema_de_medios_de_impugnacion_en_materia_electoral",
+    "sha256": "fd6621adcf78becb507ef18cdf04d7ea043bf4e55a4f2c31833389c797898fc9"
   },
   {
     "numero": "224",
@@ -2237,7 +2460,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf",
     "pdf_filename": "LGSNA_ley_general_del_sistema_nacional_anticorrupcion.pdf",
     "pdf_filename_origen": "LGSNA_200521.pdf",
-    "md_slug": "LGSNA_ley_general_del_sistema_nacional_anticorrupcion"
+    "md_slug": "LGSNA_ley_general_del_sistema_nacional_anticorrupcion",
+    "sha256": "5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185"
   },
   {
     "numero": "225",
@@ -2247,7 +2471,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf",
     "pdf_filename": "LGSNSP_ley_general_del_sistema_nacional_de_seguridad_publica.pdf",
     "pdf_filename_origen": "LGSNSP.pdf",
-    "md_slug": "LGSNSP_ley_general_del_sistema_nacional_de_seguridad_publica"
+    "md_slug": "LGSNSP_ley_general_del_sistema_nacional_de_seguridad_publica",
+    "sha256": "7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0"
   },
   {
     "numero": "226",
@@ -2257,7 +2482,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf",
     "pdf_filename": "LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros.pdf",
     "pdf_filename_origen": "LGSCMM_300919.pdf",
-    "md_slug": "LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros"
+    "md_slug": "LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros",
+    "sha256": "40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87"
   },
   {
     "numero": "227",
@@ -2267,7 +2493,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf",
     "pdf_filename": "LGMDE_ley_general_en_materia_de_delitos_electorales.pdf",
     "pdf_filename_origen": "LGMDE_200521.pdf",
-    "md_slug": "LGMDE_ley_general_en_materia_de_delitos_electorales"
+    "md_slug": "LGMDE_ley_general_en_materia_de_delitos_electorales",
+    "sha256": "9e8c5600d8747b4b1db2f9591ba40210d444040cb46fd1ad7732b6bd0e0ad56b"
   },
   {
     "numero": "228",
@@ -2277,7 +2504,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf",
     "pdf_filename": "LGMDFP_ley_general_en_materia_de_desaparicion_forzada_de_personas_desaparicio.pdf",
     "pdf_filename_origen": "LGMDFP.pdf",
-    "md_slug": "LGMDFP_ley_general_en_materia_de_desaparicion_forzada_de_personas_desaparicio"
+    "md_slug": "LGMDFP_ley_general_en_materia_de_desaparicion_forzada_de_personas_desaparicio",
+    "sha256": "ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03"
   },
   {
     "numero": "229",
@@ -2287,7 +2515,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf",
     "pdf_filename": "LGMHCTI_ley_general_en_materia_de_humanidades_ciencias_tecnologias_e_innovacio.pdf",
     "pdf_filename_origen": "LGMHCTI.pdf",
-    "md_slug": "LGMHCTI_ley_general_en_materia_de_humanidades_ciencias_tecnologias_e_innovacio"
+    "md_slug": "LGMHCTI_ley_general_en_materia_de_humanidades_ciencias_tecnologias_e_innovacio",
+    "sha256": "5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847"
   },
   {
     "numero": "230",
@@ -2297,7 +2526,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf",
     "pdf_filename": "LGCT_ley_general_para_el_control_del_tabaco.pdf",
     "pdf_filename_origen": "LGCT.pdf",
-    "md_slug": "LGCT_ley_general_para_el_control_del_tabaco"
+    "md_slug": "LGCT_ley_general_para_el_control_del_tabaco",
+    "sha256": "9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e"
   },
   {
     "numero": "231",
@@ -2307,7 +2537,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf",
     "pdf_filename": "LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion.pdf",
     "pdf_filename_origen": "LGAPPCEA_270516.pdf",
-    "md_slug": "LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion"
+    "md_slug": "LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion",
+    "sha256": "8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37"
   },
   {
     "numero": "232",
@@ -2317,7 +2548,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
     "pdf_filename": "LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la.pdf",
     "pdf_filename_origen": "LGDOCIA_070121.pdf",
-    "md_slug": "LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la"
+    "md_slug": "LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la",
+    "sha256": "8403427f940274c9affce29b07d7522d3eb88e794dfdc0f703326b4907a14480"
   },
   {
     "numero": "233",
@@ -2327,7 +2559,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
     "pdf_filename": "LGISMH_ley_general_para_la_igualdad_sustantiva_entre_mujeres_y_hombres_antes.pdf",
     "pdf_filename_origen": "LGISMH.pdf",
-    "md_slug": "LGISMH_ley_general_para_la_igualdad_sustantiva_entre_mujeres_y_hombres_antes"
+    "md_slug": "LGISMH_ley_general_para_la_igualdad_sustantiva_entre_mujeres_y_hombres_antes",
+    "sha256": "51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44"
   },
   {
     "numero": "234",
@@ -2337,7 +2570,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf",
     "pdf_filename": "LGIPD_ley_general_para_la_inclusion_de_las_personas_con_discapacidad.pdf",
     "pdf_filename_origen": "LGIPD.pdf",
-    "md_slug": "LGIPD_ley_general_para_la_inclusion_de_las_personas_con_discapacidad"
+    "md_slug": "LGIPD_ley_general_para_la_inclusion_de_las_personas_con_discapacidad",
+    "sha256": "952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f"
   },
   {
     "numero": "235",
@@ -2347,7 +2581,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf",
     "pdf_filename": "LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci.pdf",
     "pdf_filename_origen": "LGPSVD_040521.pdf",
-    "md_slug": "LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci"
+    "md_slug": "LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci",
+    "sha256": "2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab"
   },
   {
     "numero": "236",
@@ -2357,7 +2592,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf",
     "pdf_filename": "LGPGIR_ley_general_para_la_prevencion_y_gestion_integral_de_los_residuos.pdf",
     "pdf_filename_origen": "LGPGIR.pdf",
-    "md_slug": "LGPGIR_ley_general_para_la_prevencion_y_gestion_integral_de_los_residuos"
+    "md_slug": "LGPGIR_ley_general_para_la_prevencion_y_gestion_integral_de_los_residuos",
+    "sha256": "b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565"
   },
   {
     "numero": "237",
@@ -2367,7 +2603,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf",
     "pdf_filename": "LGPIST_ley_general_para_prevenir_investigar_y_sancionar_la_tortura_y_otros_tr.pdf",
     "pdf_filename_origen": "LGPIST.pdf",
-    "md_slug": "LGPIST_ley_general_para_prevenir_investigar_y_sancionar_la_tortura_y_otros_tr"
+    "md_slug": "LGPIST_ley_general_para_prevenir_investigar_y_sancionar_la_tortura_y_otros_tr",
+    "sha256": "1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41"
   },
   {
     "numero": "238",
@@ -2377,7 +2614,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf",
     "pdf_filename": "LGPISDME_ley_general_para_prevenir_investigar_y_sancionar_los_delitos_en_materi.pdf",
     "pdf_filename_origen": "LGPISDME.pdf",
-    "md_slug": "LGPISDME_ley_general_para_prevenir_investigar_y_sancionar_los_delitos_en_materi"
+    "md_slug": "LGPISDME_ley_general_para_prevenir_investigar_y_sancionar_los_delitos_en_materi",
+    "sha256": "5d22df1b22454fe1fe5354c0d9d4cec71d1d7ded3549072c340c36cb3ea3a624"
   },
   {
     "numero": "239",
@@ -2387,7 +2625,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf",
     "pdf_filename": "LGPSEDMTP_ley_general_para_prevenir_sancionar_y_erradicar_los_delitos_en_materia.pdf",
     "pdf_filename_origen": "LGPSEDMTP.pdf",
-    "md_slug": "LGPSEDMTP_ley_general_para_prevenir_sancionar_y_erradicar_los_delitos_en_materia"
+    "md_slug": "LGPSEDMTP_ley_general_para_prevenir_sancionar_y_erradicar_los_delitos_en_materia",
+    "sha256": "390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32"
   },
   {
     "numero": "240",
@@ -2397,7 +2636,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf",
     "pdf_filename": "LGPSDMS_ley_general_para_prevenir_y_sancionar_los_delitos_en_materia_de_secues.pdf",
     "pdf_filename_origen": "LGPSDMS_200521.pdf",
-    "md_slug": "LGPSDMS_ley_general_para_prevenir_y_sancionar_los_delitos_en_materia_de_secues"
+    "md_slug": "LGPSDMS_ley_general_para_prevenir_y_sancionar_los_delitos_en_materia_de_secues",
+    "sha256": "7ce179f23e6c8813df32848eda4596fc43da954c1bb4d68e412155eda544343c"
   },
   {
     "numero": "241",
@@ -2407,7 +2647,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf",
     "pdf_filename": "LMEUM_ley_monetaria_de_los_estados_unidos_mexicanos.pdf",
     "pdf_filename_origen": "LMEUM.pdf",
-    "md_slug": "LMEUM_ley_monetaria_de_los_estados_unidos_mexicanos"
+    "md_slug": "LMEUM_ley_monetaria_de_los_estados_unidos_mexicanos",
+    "sha256": "0ba3f805964135cf2eac4cd05888a7c63c4c116657f25039d3d93af9102264be"
   },
   {
     "numero": "242",
@@ -2417,7 +2658,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf",
     "pdf_filename": "LNEP_ley_nacional_de_ejecucion_penal.pdf",
     "pdf_filename_origen": "LNEP.pdf",
-    "md_slug": "LNEP_ley_nacional_de_ejecucion_penal"
+    "md_slug": "LNEP_ley_nacional_de_ejecucion_penal",
+    "sha256": "91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680"
   },
   {
     "numero": "243",
@@ -2427,7 +2669,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf",
     "pdf_filename": "LNED_ley_nacional_de_extincion_de_dominio.pdf",
     "pdf_filename_origen": "LNED.pdf",
-    "md_slug": "LNED_ley_nacional_de_extincion_de_dominio"
+    "md_slug": "LNED_ley_nacional_de_extincion_de_dominio",
+    "sha256": "e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68"
   },
   {
     "numero": "244",
@@ -2437,7 +2680,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf",
     "pdf_filename": "LNMASCMP_ley_nacional_de_mecanismos_alternativos_de_solucion_de_controversias_e.pdf",
     "pdf_filename_origen": "LNMASCMP.pdf",
-    "md_slug": "LNMASCMP_ley_nacional_de_mecanismos_alternativos_de_solucion_de_controversias_e"
+    "md_slug": "LNMASCMP_ley_nacional_de_mecanismos_alternativos_de_solucion_de_controversias_e",
+    "sha256": "8a0aca9303ab941a600274fd68043576bd7a55bae4ec228a3479398de0fcb332"
   },
   {
     "numero": "245",
@@ -2447,7 +2691,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf",
     "pdf_filename": "LNRD_ley_nacional_del_registro_de_detenciones.pdf",
     "pdf_filename_origen": "LNRD_270519.pdf",
-    "md_slug": "LNRD_ley_nacional_del_registro_de_detenciones"
+    "md_slug": "LNRD_ley_nacional_del_registro_de_detenciones",
+    "sha256": "0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea"
   },
   {
     "numero": "246",
@@ -2457,7 +2702,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf",
     "pdf_filename": "LNSIJPA_ley_nacional_del_sistema_integral_de_justicia_penal_para_adolescentes.pdf",
     "pdf_filename_origen": "LNSIJPA.pdf",
-    "md_slug": "LNSIJPA_ley_nacional_del_sistema_integral_de_justicia_penal_para_adolescentes"
+    "md_slug": "LNSIJPA_ley_nacional_del_sistema_integral_de_justicia_penal_para_adolescentes",
+    "sha256": "8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f"
   },
   {
     "numero": "247",
@@ -2467,7 +2713,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf",
     "pdf_filename": "LNETB_ley_nacional_para_eliminar_tramites_burocraticos.pdf",
     "pdf_filename_origen": "LNETB.pdf",
-    "md_slug": "LNETB_ley_nacional_para_eliminar_tramites_burocraticos"
+    "md_slug": "LNETB_ley_nacional_para_eliminar_tramites_burocraticos",
+    "sha256": "193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839"
   },
   {
     "numero": "248",
@@ -2477,7 +2724,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf",
     "pdf_filename": "LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.pdf",
     "pdf_filename_origen": "LNUF.pdf",
-    "md_slug": "LNUF_ley_nacional_sobre_el_uso_de_la_fuerza"
+    "md_slug": "LNUF_ley_nacional_sobre_el_uso_de_la_fuerza",
+    "sha256": "0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c"
   },
   {
     "numero": "249",
@@ -2487,7 +2735,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
     "pdf_filename": "LOAPF_ley_organica_de_la_administracion_publica_federal.pdf",
     "pdf_filename_origen": "LOAPF.pdf",
-    "md_slug": "LOAPF_ley_organica_de_la_administracion_publica_federal"
+    "md_slug": "LOAPF_ley_organica_de_la_administracion_publica_federal",
+    "sha256": "52f611ae5e238c992de3ed2d382195cfbf2adb5f3f6afded1fd5595ad43bddab"
   },
   {
     "numero": "250",
@@ -2497,7 +2746,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf",
     "pdf_filename": "LOAM_ley_organica_de_la_armada_de_mexico.pdf",
     "pdf_filename_origen": "LOAM.pdf",
-    "md_slug": "LOAM_ley_organica_de_la_armada_de_mexico"
+    "md_slug": "LOAM_ley_organica_de_la_armada_de_mexico",
+    "sha256": "476c757523ccdbe6825029df4b37990c8def13ecf98e1bb66e4ace738d33946a"
   },
   {
     "numero": "251",
@@ -2507,7 +2757,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf",
     "pdf_filename": "LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente.pdf",
     "pdf_filename_origen": "LOPDC.pdf",
-    "md_slug": "LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente"
+    "md_slug": "LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente",
+    "sha256": "7dc8f2201fdeb8039371254e3b2606c158f4cd480e29ce074a65eb375a19475c"
   },
   {
     "numero": "252",
@@ -2517,7 +2768,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf",
     "pdf_filename": "LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder.pdf",
     "pdf_filename_origen": "LOPGJDF.pdf",
-    "md_slug": "LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder"
+    "md_slug": "LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder",
+    "sha256": "9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58"
   },
   {
     "numero": "253",
@@ -2527,7 +2779,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf",
     "pdf_filename": "LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro.pdf",
     "pdf_filename_origen": "LOUAAAN.pdf",
-    "md_slug": "LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro"
+    "md_slug": "LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro",
+    "sha256": "0684841d80e27cadbc489695f617c672fe74cb5510970a0b2d0c762cf648ed27"
   },
   {
     "numero": "254",
@@ -2537,7 +2790,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf",
     "pdf_filename": "LOUAM_ley_organica_de_la_universidad_autonoma_metropolitana.pdf",
     "pdf_filename_origen": "157.pdf",
-    "md_slug": "LOUAM_ley_organica_de_la_universidad_autonoma_metropolitana"
+    "md_slug": "LOUAM_ley_organica_de_la_universidad_autonoma_metropolitana",
+    "sha256": "8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40"
   },
   {
     "numero": "255",
@@ -2547,7 +2801,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf",
     "pdf_filename": "LOUNAM_ley_organica_de_la_universidad_nacional_autonoma_de_mexico.pdf",
     "pdf_filename_origen": "158.pdf",
-    "md_slug": "LOUNAM_ley_organica_de_la_universidad_nacional_autonoma_de_mexico"
+    "md_slug": "LOUNAM_ley_organica_de_la_universidad_nacional_autonoma_de_mexico",
+    "sha256": "06af411aa75ed36bd698842d9c2d7f04c7a72e5797718d3aabbd0f89a1d25f9b"
   },
   {
     "numero": "256",
@@ -2557,7 +2812,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf",
     "pdf_filename": "LOTA_ley_organica_de_los_tribunales_agrarios.pdf",
     "pdf_filename_origen": "159.pdf",
-    "md_slug": "LOTA_ley_organica_de_los_tribunales_agrarios"
+    "md_slug": "LOTA_ley_organica_de_los_tribunales_agrarios",
+    "sha256": "dd4e6e24f201a4e6b37919dc0461523bdb4f74e7c4852815f51bfd576c990296"
   },
   {
     "numero": "257",
@@ -2567,7 +2823,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf",
     "pdf_filename": "LONF_ley_organica_de_nacional_financiera.pdf",
     "pdf_filename_origen": "162.pdf",
-    "md_slug": "LONF_ley_organica_de_nacional_financiera"
+    "md_slug": "LONF_ley_organica_de_nacional_financiera",
+    "sha256": "99d3d61b8abaa6f0c20427466c41a7f236feda5772e49a6aec7f677b29e14880"
   },
   {
     "numero": "258",
@@ -2577,7 +2834,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
     "pdf_filename": "LOSHF_ley_organica_de_sociedad_hipotecaria_federal.pdf",
     "pdf_filename_origen": "LOSHF.pdf",
-    "md_slug": "LOSHF_ley_organica_de_sociedad_hipotecaria_federal"
+    "md_slug": "LOSHF_ley_organica_de_sociedad_hipotecaria_federal",
+    "sha256": "00a876c2b691175df0253958b3f337e05d3610e11b79336ad1570539013d2865"
   },
   {
     "numero": "259",
@@ -2587,7 +2845,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf",
     "pdf_filename": "LOBB_ley_organica_del_banco_del_bienestar_antes_ley_organica_del_banco_del.pdf",
     "pdf_filename_origen": "164_190719.pdf",
-    "md_slug": "LOBB_ley_organica_del_banco_del_bienestar_antes_ley_organica_del_banco_del"
+    "md_slug": "LOBB_ley_organica_del_banco_del_bienestar_antes_ley_organica_del_banco_del",
+    "sha256": "915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc"
   },
   {
     "numero": "260",
@@ -2597,7 +2856,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf",
     "pdf_filename": "LOBNCE_ley_organica_del_banco_nacional_de_comercio_exterior.pdf",
     "pdf_filename_origen": "LOBNCE.pdf",
-    "md_slug": "LOBNCE_ley_organica_del_banco_nacional_de_comercio_exterior"
+    "md_slug": "LOBNCE_ley_organica_del_banco_nacional_de_comercio_exterior",
+    "sha256": "8ab677987a58aad0d0ed9b1e299b375fd382aeec47b9536547ec7debb2d24a2c"
   },
   {
     "numero": "261",
@@ -2607,7 +2867,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf",
     "pdf_filename": "LOBNOSP_ley_organica_del_banco_nacional_de_obras_y_servicios_publicos.pdf",
     "pdf_filename_origen": "LOBNOSP.pdf",
-    "md_slug": "LOBNOSP_ley_organica_del_banco_nacional_de_obras_y_servicios_publicos"
+    "md_slug": "LOBNOSP_ley_organica_del_banco_nacional_de_obras_y_servicios_publicos",
+    "sha256": "7ab6cfd5861e9fc87502494fbcea4174806d253a715a80003b120f208c10214f"
   },
   {
     "numero": "262",
@@ -2617,7 +2878,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf",
     "pdf_filename": "LOBNE_ley_organica_del_banco_nacional_del_ejercito_fuerza_aerea_y_armada.pdf",
     "pdf_filename_origen": "167.pdf",
-    "md_slug": "LOBNE_ley_organica_del_banco_nacional_del_ejercito_fuerza_aerea_y_armada"
+    "md_slug": "LOBNE_ley_organica_del_banco_nacional_del_ejercito_fuerza_aerea_y_armada",
+    "sha256": "163f7d66aa47a07798c155bd7f39f065c7fd0103c098a31b6db3401ac5f01caf"
   },
   {
     "numero": "263",
@@ -2627,7 +2889,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
     "pdf_filename": "LOCFCRL_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral.pdf",
     "pdf_filename_origen": "LOCFCRL_060120.pdf",
-    "md_slug": "LOCFCRL_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral"
+    "md_slug": "LOCFCRL_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral",
+    "sha256": "1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48"
   },
   {
     "numero": "264",
@@ -2637,7 +2900,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf",
     "pdf_filename": "LOCGEUM_ley_organica_del_congreso_general_de_los_estados_unidos_mexicanos.pdf",
     "pdf_filename_origen": "LOCGEUM.pdf",
-    "md_slug": "LOCGEUM_ley_organica_del_congreso_general_de_los_estados_unidos_mexicanos"
+    "md_slug": "LOCGEUM_ley_organica_del_congreso_general_de_los_estados_unidos_mexicanos",
+    "sha256": "30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230"
   },
   {
     "numero": "265",
@@ -2647,7 +2911,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf",
     "pdf_filename": "LOEFAM_ley_organica_del_ejercito_y_fuerza_aerea_mexicanos.pdf",
     "pdf_filename_origen": "LOEFAM.pdf",
-    "md_slug": "LOEFAM_ley_organica_del_ejercito_y_fuerza_aerea_mexicanos"
+    "md_slug": "LOEFAM_ley_organica_del_ejercito_y_fuerza_aerea_mexicanos",
+    "sha256": "6edcf3cbe4e1e01dd12e691d672534d0d2e22028f7bf81c46ecf9e6f4c9148c7"
   },
   {
     "numero": "266",
@@ -2657,7 +2922,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf",
     "pdf_filename": "LOINAH_ley_organica_del_instituto_nacional_de_antropologia_e_historia.pdf",
     "pdf_filename_origen": "170_171215.pdf",
-    "md_slug": "LOINAH_ley_organica_del_instituto_nacional_de_antropologia_e_historia"
+    "md_slug": "LOINAH_ley_organica_del_instituto_nacional_de_antropologia_e_historia",
+    "sha256": "8704630cb4ee190962763b15185f7f277a2dadb5441080601fe7b685b7f7ae54"
   },
   {
     "numero": "267",
@@ -2667,7 +2933,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf",
     "pdf_filename": "LOIPN_ley_organica_del_instituto_politecnico_nacional.pdf",
     "pdf_filename_origen": "171.pdf",
-    "md_slug": "LOIPN_ley_organica_del_instituto_politecnico_nacional"
+    "md_slug": "LOIPN_ley_organica_del_instituto_politecnico_nacional",
+    "sha256": "c40f1697221f7ce6b0a9c9da729c2e95db5e1a9404151456b69fdc1be7f5c6ee"
   },
   {
     "numero": "268",
@@ -2677,7 +2944,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
     "pdf_filename": "LOPJF_ley_organica_del_poder_judicial_de_la_federacion.pdf",
     "pdf_filename_origen": "LOPJF.pdf",
-    "md_slug": "LOPJF_ley_organica_del_poder_judicial_de_la_federacion"
+    "md_slug": "LOPJF_ley_organica_del_poder_judicial_de_la_federacion",
+    "sha256": "6569965cdfc64e4c223fc12d5a8ac885b7fad6cb432a0370d70f4dd7b8343fd1"
   },
   {
     "numero": "269",
@@ -2687,7 +2955,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSCM.pdf",
     "pdf_filename": "LOSCM_ley_organica_del_seminario_de_cultura_mexicana.pdf",
     "pdf_filename_origen": "LOSCM.pdf",
-    "md_slug": "LOSCM_ley_organica_del_seminario_de_cultura_mexicana"
+    "md_slug": "LOSCM_ley_organica_del_seminario_de_cultura_mexicana",
+    "sha256": "3a8abeaf33ba188a87c9429e18d0bebad276455c857ab3febea81702d5e3a56c"
   },
   {
     "numero": "270",
@@ -2697,7 +2966,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf",
     "pdf_filename": "LOTFJA_ley_organica_del_tribunal_federal_de_justicia_administrativa.pdf",
     "pdf_filename_origen": "LOTFJA.pdf",
-    "md_slug": "LOTFJA_ley_organica_del_tribunal_federal_de_justicia_administrativa"
+    "md_slug": "LOTFJA_ley_organica_del_tribunal_federal_de_justicia_administrativa",
+    "sha256": "b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628"
   },
   {
     "numero": "271",
@@ -2707,7 +2977,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf",
     "pdf_filename": "LCNP_ley_para_conservar_la_neutralidad_del_pais.pdf",
     "pdf_filename_origen": "176_210618.pdf",
-    "md_slug": "LCNP_ley_para_conservar_la_neutralidad_del_pais"
+    "md_slug": "LCNP_ley_para_conservar_la_neutralidad_del_pais",
+    "sha256": "b1de107a982a73c02c12c952586d16063c9fc51c8e1e29594924f24d0107395a"
   },
   {
     "numero": "272",
@@ -2717,7 +2988,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
     "pdf_filename": "LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion.pdf",
     "pdf_filename_origen": "LDVUMA_301216.pdf",
-    "md_slug": "LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion"
+    "md_slug": "LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion",
+    "sha256": "44f65ae5f6367e9a510790e5b10730bd179df1f48b9703485548c0add7dbacc4"
   },
   {
     "numero": "273",
@@ -2727,7 +2999,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
     "pdf_filename": "LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi.pdf",
     "pdf_filename_origen": "LDCMPME.pdf",
-    "md_slug": "LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi"
+    "md_slug": "LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi",
+    "sha256": "4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d"
   },
   {
     "numero": "274",
@@ -2737,7 +3010,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf",
     "pdf_filename": "LD_ley_para_el_dialogo_la_conciliacion_y_la_paz_digna_en_chiapas.pdf",
     "pdf_filename_origen": "177.pdf",
-    "md_slug": "LD_ley_para_el_dialogo_la_conciliacion_y_la_paz_digna_en_chiapas"
+    "md_slug": "LD_ley_para_el_dialogo_la_conciliacion_y_la_paz_digna_en_chiapas",
+    "sha256": "d36aec42a42e48e3d457225ab337f67df31be47f04fd896068aba67cf669883a"
   },
   {
     "numero": "275",
@@ -2747,7 +3021,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf",
     "pdf_filename": "LUPDECR_ley_para_el_uso_y_proteccion_de_la_denominacion_y_del_emblema_de_la_cr.pdf",
     "pdf_filename_origen": "LUPDECR.pdf",
-    "md_slug": "LUPDECR_ley_para_el_uso_y_proteccion_de_la_denominacion_y_del_emblema_de_la_cr"
+    "md_slug": "LUPDECR_ley_para_el_uso_y_proteccion_de_la_denominacion_y_del_emblema_de_la_cr",
+    "sha256": "add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88"
   },
   {
     "numero": "276",
@@ -2757,7 +3032,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
     "pdf_filename": "LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com.pdf",
     "pdf_filename_origen": "LIISPCEN.pdf",
-    "md_slug": "LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com"
+    "md_slug": "LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com",
+    "sha256": "1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c"
   },
   {
     "numero": "277",
@@ -2767,7 +3043,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf",
     "pdf_filename": "LC_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_de_la_armada_de.pdf",
     "pdf_filename_origen": "268.pdf",
-    "md_slug": "LC_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_de_la_armada_de"
+    "md_slug": "LC_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_de_la_armada_de",
+    "sha256": "e56b3fe80514e68891aee1c7ad316374b7b6d21ab2b8ce55c53b3ae83a535248"
   },
   {
     "numero": "278",
@@ -2777,7 +3054,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
     "pdf_filename": "LCACSEFAM_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_en_el_ejercito.pdf",
     "pdf_filename_origen": "LCACSEFAM.pdf",
-    "md_slug": "LCACSEFAM_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_en_el_ejercito"
+    "md_slug": "LCACSEFAM_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_en_el_ejercito",
+    "sha256": "93f2f807af3fd78f9e7ffcc4b1b544b2c7eecca463efcd7adaa16a0f8716049f"
   },
   {
     "numero": "279",
@@ -2787,7 +3065,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf",
     "pdf_filename": "LPPDDHP_ley_para_la_proteccion_de_personas_defensoras_de_derechos_humanos_y_pe.pdf",
     "pdf_filename_origen": "LPPDDHP.pdf",
-    "md_slug": "LPPDDHP_ley_para_la_proteccion_de_personas_defensoras_de_derechos_humanos_y_pe"
+    "md_slug": "LPPDDHP_ley_para_la_proteccion_de_personas_defensoras_de_derechos_humanos_y_pe",
+    "sha256": "060468c7fa389756fc5706ce2d475a105bb9bb0149fc6a9079a018bc3b4f6e21"
   },
   {
     "numero": "280",
@@ -2797,7 +3076,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf",
     "pdf_filename": "LTPCPIMCP_ley_para_la_transparencia_prevencion_y_combate_de_practicas_indebidas.pdf",
     "pdf_filename_origen": "LTPCPIMCP.pdf",
-    "md_slug": "LTPCPIMCP_ley_para_la_transparencia_prevencion_y_combate_de_practicas_indebidas"
+    "md_slug": "LTPCPIMCP_ley_para_la_transparencia_prevencion_y_combate_de_practicas_indebidas",
+    "sha256": "55fcd61a87cfde80f0699f50bb45d3ee0a79c461dcb0fc374b9a846125cb491d"
   },
   {
     "numero": "281",
@@ -2807,7 +3087,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf",
     "pdf_filename": "LTOSF_ley_para_la_transparencia_y_ordenamiento_de_los_servicios_financieros.pdf",
     "pdf_filename_origen": "LTOSF.pdf",
-    "md_slug": "LTOSF_ley_para_la_transparencia_y_ordenamiento_de_los_servicios_financieros"
+    "md_slug": "LTOSF_ley_para_la_transparencia_y_ordenamiento_de_los_servicios_financieros",
+    "sha256": "bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667"
   },
   {
     "numero": "282",
@@ -2817,7 +3098,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf",
     "pdf_filename": "LRASCAP_ley_para_regular_las_actividades_de_las_sociedades_cooperativas_de_aho.pdf",
     "pdf_filename_origen": "LRASCAP.pdf",
-    "md_slug": "LRASCAP_ley_para_regular_las_actividades_de_las_sociedades_cooperativas_de_aho"
+    "md_slug": "LRASCAP_ley_para_regular_las_actividades_de_las_sociedades_cooperativas_de_aho",
+    "sha256": "b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644"
   },
   {
     "numero": "283",
@@ -2827,7 +3109,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf",
     "pdf_filename": "LRAF_ley_para_regular_las_agrupaciones_financieras.pdf",
     "pdf_filename_origen": "LRAF.pdf",
-    "md_slug": "LRAF_ley_para_regular_las_agrupaciones_financieras"
+    "md_slug": "LRAF_ley_para_regular_las_agrupaciones_financieras",
+    "sha256": "e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a"
   },
   {
     "numero": "284",
@@ -2837,7 +3120,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
     "pdf_filename": "LRITF_ley_para_regular_las_instituciones_de_tecnologia_financiera.pdf",
     "pdf_filename_origen": "LRITF.pdf",
-    "md_slug": "LRITF_ley_para_regular_las_instituciones_de_tecnologia_financiera"
+    "md_slug": "LRITF_ley_para_regular_las_instituciones_de_tecnologia_financiera",
+    "sha256": "d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491"
   },
   {
     "numero": "285",
@@ -2847,7 +3131,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf",
     "pdf_filename": "LRSIC_ley_para_regular_las_sociedades_de_informacion_crediticia.pdf",
     "pdf_filename_origen": "LRSIC.pdf",
-    "md_slug": "LRSIC_ley_para_regular_las_sociedades_de_informacion_crediticia"
+    "md_slug": "LRSIC_ley_para_regular_las_sociedades_de_informacion_crediticia",
+    "sha256": "25be325eba8804157a7b094dd11c861740241434d433a9cd69c53d4fe9e30b91"
   },
   {
     "numero": "286",
@@ -2857,7 +3142,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf",
     "pdf_filename": "LAAMCCBD_ley_que_aprueba_la_adhesion_de_mexico_al_convenio_constitutivo_del_ban.pdf",
     "pdf_filename_origen": "187_291214.pdf",
-    "md_slug": "LAAMCCBD_ley_que_aprueba_la_adhesion_de_mexico_al_convenio_constitutivo_del_ban"
+    "md_slug": "LAAMCCBD_ley_que_aprueba_la_adhesion_de_mexico_al_convenio_constitutivo_del_ban",
+    "sha256": "2f11746efbe37cbc7bf8f9448f5d9050c4deee13184bbe78c4e958d017bebece"
   },
   {
     "numero": "287",
@@ -2867,7 +3153,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf",
     "pdf_filename": "LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade.pdf",
     "pdf_filename_origen": "192.pdf",
-    "md_slug": "LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade"
+    "md_slug": "LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade",
+    "sha256": "5ecf3ff973aa8817fdb63785bcf56d34826dabc130480ba3f1b344ce55ede363"
   },
   {
     "numero": "288",
@@ -2877,7 +3164,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/193_171215.pdf",
     "pdf_filename": "LCINBAL_ley_que_crea_el_instituto_nacional_de_bellas_artes_y_literatura.pdf",
     "pdf_filename_origen": "193_171215.pdf",
-    "md_slug": "LCINBAL_ley_que_crea_el_instituto_nacional_de_bellas_artes_y_literatura"
+    "md_slug": "LCINBAL_ley_que_crea_el_instituto_nacional_de_bellas_artes_y_literatura",
+    "sha256": "a4ac552c999c8fac29280eab8483bfec7ffd04fe5b8edcd3b699e39c4cdaafd2"
   },
   {
     "numero": "289",
@@ -2887,7 +3175,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
     "pdf_filename": "LAEM_ley_que_crea_la_agencia_espacial_mexicana.pdf",
     "pdf_filename_origen": "LAEM.pdf",
-    "md_slug": "LAEM_ley_que_crea_la_agencia_espacial_mexicana"
+    "md_slug": "LAEM_ley_que_crea_la_agencia_espacial_mexicana",
+    "sha256": "b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca"
   },
   {
     "numero": "290",
@@ -2897,7 +3186,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf",
     "pdf_filename": "LCUAC_ley_que_crea_la_universidad_autonoma_chapingo.pdf",
     "pdf_filename_origen": "195.pdf",
-    "md_slug": "LCUAC_ley_que_crea_la_universidad_autonoma_chapingo"
+    "md_slug": "LCUAC_ley_que_crea_la_universidad_autonoma_chapingo",
+    "sha256": "eaf46ed3247dddcc29d15d16c73bd64684685dc7540b8318f743ce000f7bbff5"
   },
   {
     "numero": "291",
@@ -2907,7 +3197,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf",
     "pdf_filename": "LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea.pdf",
     "pdf_filename_origen": "196.pdf",
-    "md_slug": "LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea"
+    "md_slug": "LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea",
+    "sha256": "1735a62b3987ad5c4c07d876dbab5080edeca171b482098aa17b4c647cb11fdf"
   },
   {
     "numero": "292",
@@ -2917,7 +3208,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf",
     "pdf_filename": "LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio.pdf",
     "pdf_filename_origen": "197.pdf",
-    "md_slug": "LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio"
+    "md_slug": "LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio",
+    "sha256": "6e3f13a2ca4c875228dcbd57a62c04bd991e1540b851c56f320c8aaf2016d7c0"
   },
   {
     "numero": "293",
@@ -2927,7 +3219,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf",
     "pdf_filename": "LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.pdf",
     "pdf_filename_origen": "LCCAIF.pdf",
-    "md_slug": "LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu"
+    "md_slug": "LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu",
+    "sha256": "0cfd6d7820098b2fa0a6388cbf69fb010bc2816951a1c80c52245dadbecd4eda"
   },
   {
     "numero": "294",
@@ -2937,7 +3230,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/200_291214.pdf",
     "pdf_filename": "LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.pdf",
     "pdf_filename_origen": "200_291214.pdf",
-    "md_slug": "LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu"
+    "md_slug": "LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu",
+    "sha256": "acd6dc67820b7cb3bfa7f1f5f35f25b94d0531fdd24aa1165344cab0a5dabec7"
   },
   {
     "numero": "295",
@@ -2947,7 +3241,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf",
     "pdf_filename": "LRFVACGR_ley_reglamentaria_de_la_fraccion_v_del_articulo_76_de_la_constitucion.pdf",
     "pdf_filename_origen": "202.pdf",
-    "md_slug": "LRFVACGR_ley_reglamentaria_de_la_fraccion_v_del_articulo_76_de_la_constitucion"
+    "md_slug": "LRFVACGR_ley_reglamentaria_de_la_fraccion_v_del_articulo_76_de_la_constitucion",
+    "sha256": "89ae4eeddd5a5d6f2100bc85e9348f6f1fdc5f1acb92ef074c6a742a5cd2aad3"
   },
   {
     "numero": "296",
@@ -2957,7 +3252,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
     "pdf_filename": "LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion.pdf",
     "pdf_filename_origen": "LRArt76_fracVI.pdf",
-    "md_slug": "LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion"
+    "md_slug": "LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion",
+    "sha256": "bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531"
   },
   {
     "numero": "297",
@@ -2967,7 +3263,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf",
     "pdf_filename": "LRFXIIIB_Art123_ley_reglamentaria_de_la_fraccion_xiii_bis_del_apartado_b_del_articulo.pdf",
     "pdf_filename_origen": "LRFXIIIB_Art123.pdf",
-    "md_slug": "LRFXIIIB_Art123_ley_reglamentaria_de_la_fraccion_xiii_bis_del_apartado_b_del_articulo"
+    "md_slug": "LRFXIIIB_Art123_ley_reglamentaria_de_la_fraccion_xiii_bis_del_apartado_b_del_articulo",
+    "sha256": "57ec1adca9a93f6403430d9a0e202d49216fa2c83997706c08d93b88cdd46dea"
   },
   {
     "numero": "298",
@@ -2977,7 +3274,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf",
     "pdf_filename": "LRFXAC_ley_reglamentaria_de_la_fraccion_xviii_del_articulo_73_constitucional.pdf",
     "pdf_filename_origen": "204.pdf",
-    "md_slug": "LRFXAC_ley_reglamentaria_de_la_fraccion_xviii_del_articulo_73_constitucional"
+    "md_slug": "LRFXAC_ley_reglamentaria_de_la_fraccion_xviii_del_articulo_73_constitucional",
+    "sha256": "d946e7696c01236d288d0b36d4fa8a0ac61a937c6c4a1280a0913389852ec30b"
   },
   {
     "numero": "299",
@@ -2987,7 +3285,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf",
     "pdf_filename": "LRFIyII_Art105_ley_reglamentaria_de_las_fracciones_i_y_ii_del_articulo_105_de_la_cons.pdf",
     "pdf_filename_origen": "LRFIyII_Art105.pdf",
-    "md_slug": "LRFIyII_Art105_ley_reglamentaria_de_las_fracciones_i_y_ii_del_articulo_105_de_la_cons"
+    "md_slug": "LRFIyII_Art105_ley_reglamentaria_de_las_fracciones_i_y_ii_del_articulo_105_de_la_cons",
+    "sha256": "b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb"
   },
   {
     "numero": "300",
@@ -2997,7 +3296,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf",
     "pdf_filename": "LRACMN_ley_reglamentaria_del_articulo_27_constitucional_en_materia_nuclear.pdf",
     "pdf_filename_origen": "207.pdf",
-    "md_slug": "LRACMN_ley_reglamentaria_del_articulo_27_constitucional_en_materia_nuclear"
+    "md_slug": "LRACMN_ley_reglamentaria_del_articulo_27_constitucional_en_materia_nuclear",
+    "sha256": "547158ef75d8c668bfe91b1f6673f265d17dd89d807b9cbba3b37a1313835ce8"
   },
   {
     "numero": "301",
@@ -3007,7 +3307,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
     "pdf_filename": "LRArt3_MMCE_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e.pdf",
     "pdf_filename_origen": "LRArt3_MMCE_300919.pdf",
-    "md_slug": "LRArt3_MMCE_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e"
+    "md_slug": "LRArt3_MMCE_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e",
+    "sha256": "6cfd550f22edb3253ebf98d885329be5402890d902d17afaa7860d94d76fe014"
   },
   {
     "numero": "302",
@@ -3017,7 +3318,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf",
     "pdf_filename": "LRAC_ley_reglamentaria_del_articulo_5o_constitucional_relativo_al_ejercicio.pdf",
     "pdf_filename_origen": "208_190118.pdf",
-    "md_slug": "LRAC_ley_reglamentaria_del_articulo_5o_constitucional_relativo_al_ejercicio"
+    "md_slug": "LRAC_ley_reglamentaria_del_articulo_5o_constitucional_relativo_al_ejercicio",
+    "sha256": "db0e747c99548991239635e331e95369b627315c81889db03aa2e96f6d3debe6"
   },
   {
     "numero": "303",
@@ -3027,7 +3329,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf",
     "pdf_filename": "LRArt6_MDR_ley_reglamentaria_del_articulo_6o_parrafo_primero_de_la_constitucion_p.pdf",
     "pdf_filename_origen": "LRArt6_MDR.pdf",
-    "md_slug": "LRArt6_MDR_ley_reglamentaria_del_articulo_6o_parrafo_primero_de_la_constitucion_p"
+    "md_slug": "LRArt6_MDR_ley_reglamentaria_del_articulo_6o_parrafo_primero_de_la_constitucion_p",
+    "sha256": "b3013ac434856f46bc973c4178d55c6d5d440730a42f3d7f8ca225730e0d382c"
   },
   {
     "numero": "304",
@@ -3037,7 +3340,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf",
     "pdf_filename": "LRSF_ley_reglamentaria_del_servicio_ferroviario.pdf",
     "pdf_filename_origen": "LRSF.pdf",
-    "md_slug": "LRSF_ley_reglamentaria_del_servicio_ferroviario"
+    "md_slug": "LRSF_ley_reglamentaria_del_servicio_ferroviario",
+    "sha256": "02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5"
   },
   {
     "numero": "305",
@@ -3047,7 +3351,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
     "pdf_filename": "LCA_ley_sobre_camaras_agricolas_que_en_lo_sucesivo_se_denominaran_asociaci.pdf",
     "pdf_filename_origen": "23.pdf",
-    "md_slug": "LCA_ley_sobre_camaras_agricolas_que_en_lo_sucesivo_se_denominaran_asociaci"
+    "md_slug": "LCA_ley_sobre_camaras_agricolas_que_en_lo_sucesivo_se_denominaran_asociaci",
+    "sha256": "e893cded29ecee9a0b5ad3c4c07a33b6be520db6a73f89e837a32235b6167c84"
   },
   {
     "numero": "306",
@@ -3057,7 +3362,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf",
     "pdf_filename": "LCS_ley_sobre_el_contrato_de_seguro.pdf",
     "pdf_filename_origen": "211.pdf",
-    "md_slug": "LCS_ley_sobre_el_contrato_de_seguro"
+    "md_slug": "LCS_ley_sobre_el_contrato_de_seguro",
+    "sha256": "8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06"
   },
   {
     "numero": "307",
@@ -3067,7 +3373,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf",
     "pdf_filename": "LEBHN_ley_sobre_el_escudo_la_bandera_y_el_himno_nacionales.pdf",
     "pdf_filename_origen": "LEBHN.pdf",
-    "md_slug": "LEBHN_ley_sobre_el_escudo_la_bandera_y_el_himno_nacionales"
+    "md_slug": "LEBHN_ley_sobre_el_escudo_la_bandera_y_el_himno_nacionales",
+    "sha256": "e117a1f2c91d31d7c478c7cf823501fb07f58e52d62ac53fdb43c888d8d4ac78"
   },
   {
     "numero": "308",
@@ -3077,7 +3384,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf",
     "pdf_filename": "LATIME_ley_sobre_la_aprobacion_de_tratados_internacionales_en_materia_economi.pdf",
     "pdf_filename_origen": "271.pdf",
-    "md_slug": "LATIME_ley_sobre_la_aprobacion_de_tratados_internacionales_en_materia_economi"
+    "md_slug": "LATIME_ley_sobre_la_aprobacion_de_tratados_internacionales_en_materia_economi",
+    "sha256": "2f9532986cf47aef5de1f50af5e758333d65b7fdab15489bb0c41c36bcb60133"
   },
   {
     "numero": "309",
@@ -3087,7 +3395,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSCT.pdf",
     "pdf_filename": "LSCT_ley_sobre_la_celebracion_de_tratados.pdf",
     "pdf_filename_origen": "LSCT.pdf",
-    "md_slug": "LSCT_ley_sobre_la_celebracion_de_tratados"
+    "md_slug": "LSCT_ley_sobre_la_celebracion_de_tratados",
+    "sha256": "a48cb9fbc325567be8d5e1b131a59b45e0ef9b57dd350e81eadd48cba75ac201"
   },
   {
     "numero": "310",
@@ -3097,7 +3406,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf",
     "pdf_filename": "LRPCAP_ley_sobre_refugiados_proteccion_complementaria_y_asilo_politico_antes.pdf",
     "pdf_filename_origen": "LRPCAP.pdf",
-    "md_slug": "LRPCAP_ley_sobre_refugiados_proteccion_complementaria_y_asilo_politico_antes"
+    "md_slug": "LRPCAP_ley_sobre_refugiados_proteccion_complementaria_y_asilo_politico_antes",
+    "sha256": "cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a"
   },
   {
     "numero": "311",
@@ -3107,7 +3417,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/218.pdf",
     "pdf_filename": "OGA_ordenanza_general_de_la_armada.pdf",
     "pdf_filename_origen": "218.pdf",
-    "md_slug": "OGA_ordenanza_general_de_la_armada"
+    "md_slug": "OGA_ordenanza_general_de_la_armada",
+    "sha256": "25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3"
   },
   {
     "numero": "312",
@@ -3117,7 +3428,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
     "pdf_filename": "PEF_presupuesto_de_egresos_de_la_federacion_para_el_ejercicio_fiscal_2026.pdf",
     "pdf_filename_origen": "PEF_2026.pdf",
-    "md_slug": "PEF_presupuesto_de_egresos_de_la_federacion_para_el_ejercicio_fiscal_2026"
+    "md_slug": "PEF_presupuesto_de_egresos_de_la_federacion_para_el_ejercicio_fiscal_2026",
+    "sha256": "02bf4543bd8e99d1bb980a3c513749114a6db35ee94a9ce8ef678cf73d95165b"
   },
   {
     "numero": "313",
@@ -3127,7 +3439,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
     "pdf_filename": "Reg_Diputados_reglamento_de_la_camara_de_diputados.pdf",
     "pdf_filename_origen": "Reg_Diputados.pdf",
-    "md_slug": "Reg_Diputados_reglamento_de_la_camara_de_diputados"
+    "md_slug": "Reg_Diputados_reglamento_de_la_camara_de_diputados",
+    "sha256": "6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1"
   },
   {
     "numero": "314",
@@ -3137,7 +3450,8 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
     "pdf_filename": "Reg_Senado_reglamento_del_senado_de_la_republica.pdf",
     "pdf_filename_origen": "Reg_Senado.pdf",
-    "md_slug": "Reg_Senado_reglamento_del_senado_de_la_republica"
+    "md_slug": "Reg_Senado_reglamento_del_senado_de_la_republica",
+    "sha256": "97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2"
   },
   {
     "numero": "315",
@@ -3147,6 +3461,7 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
     "pdf_filename": "RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad.pdf",
     "pdf_filename_origen": "219.pdf",
-    "md_slug": "RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad"
+    "md_slug": "RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad",
+    "sha256": "fff7e0e84270e4d5f9c103b0b792c5e05256d4c6957126d2a5c12509b6b383ec"
   }
 ]
