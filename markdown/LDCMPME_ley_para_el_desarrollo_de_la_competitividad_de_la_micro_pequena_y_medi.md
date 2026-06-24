@@ -33,7 +33,15 @@ I. Ley: La Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y M
 II. Secretaría: La Secretaría de Economía;
 
 III. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público y publicada en el Diario Oficial de la Federación, partiendo de la siguiente:
-Estratificación por Número de Trabajadores Sector/Tamaño Industria Comercio Servicios Micro 0-10 0-10 0-10 Pequeña 11-50 11-30 11-50 Mediana 51-250 31-100 51-100 Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y de bienes culturales, así como prestadores de servicios turísticos y culturales;
+
+| Estratificación por Número de Trabajadores |  |  |  |
+| --- | --- | --- | --- |
+| Sector/Tamaño | Industria | Comercio | Servicios |
+| Micro | 0-10 | 0-10 | 0-10 |
+| Pequeña | 11-50 | 11-30 | 11-50 |
+| Mediana | 51-250 | 31-100 | 51-100 |
+
+Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y de bienes culturales, así como prestadores de servicios turísticos y culturales;
 Párrafo reformado DOF 06-06-2006
 
 IV. Competitividad: La calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel empresa, la capacidad para mantener y fortalecer su rentabilidad y participación de las MIPYMES en los mercados, con base en ventajas asociadas a sus productos o servicios, así como a las condiciones en que los ofrecen;

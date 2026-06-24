@@ -40,7 +40,17 @@ Reforma DOF 26-12-2005: Derogó del artículo el entonces penúltimo párrafo (a
 .- Para los efectos del artículo 2o. de esta Ley, se estará a lo siguiente:
 I.- Tratándose de automóviles con capacidad hasta de quince pasajeros, al precio de enajenación del automóvil de que se trate, se le aplicará la siguiente:
 Párrafo reformado DOF 29-12-1997
-TARIFA Límite Inferior Límite Superior Cuota fija Por ciento para aplicarse sobre el excedente del Límite inferior $ $ $ % 0.01 383,940.35 0.00 2.0 383,940.36 460,728.35 7,678.67 5.0 460,728.36 537,516.64 11,518.25 10.0 537,516.65 691,092.34 19,197.04 15.0 691,092.35 En adelante 42,233.35 17.0 Cantidades de la Tabla actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024. Fe de erratas DOF 10-01-2025. Cantidades actualizadas DOF 28-12-2025 Si el precio del automóvil es superior a $1,060,189.93, se reducirá del monto del impuesto determinado, la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y $1,060,189.93.
+TARIFA
+
+| Límite Inferior $ | Límite Superior $ | Cuota fija $ | Por ciento para aplicarse sobre el excedente del Límite inferior % |
+| --- | --- | --- | --- |
+| 0.01 | 383,940.35 | 0.00 | 2.0 |
+| 383,940.36 | 460,728.35 | 7,678.67 | 5.0 |
+| 460,728.36 | 537,516.64 | 11,518.25 | 10.0 |
+| 537,516.65 | 691,092.34 | 19,197.04 | 15.0 |
+| 691,092.35 | En adelante | 42,233.35 | 17.0 |
+
+Cantidades de la Tabla actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024. Fe de erratas DOF 10-01-2025. Cantidades actualizadas DOF 28-12-2025 Si el precio del automóvil es superior a $1,060,189.93, se reducirá del monto del impuesto determinado, la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y $1,060,189.93.
 Cantidades del párrafo actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024, 28-12-2025 Las cantidades que correspondan a cada uno de los tramos de la tarifa de este artículo, así como las contenidas en el párrafo que antecede, se actualizarán en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
 Párrafo reformado DOF 31-12-2003
 II.- Tratándose de camiones con capacidad de carga hasta de 4,250 kilogramos, incluyendo los tipos panel con capacidad máxima de tres pasajeros y remolques y semirremolques tipo vivienda, al precio de enajenación del vehículo de que se trate se le aplicará la tasa del 5%.
@@ -375,7 +385,17 @@ Atentamente.
 México, D. F., a 17 de diciembre de 2014.- El Jefe del Servicio de Administración Tributaria, Aristóteles Núñez Sánchez.- Rúbrica.
 ANEXOS 15 y 24 de la Resolución Miscelánea Fiscal para 2016, publicada el 23 de diciembre de 2015.
 Publicados en el Diario Oficial de la Federación el 13 de enero de 2016 Anexo 15 de la Resolución Miscelánea Fiscal para 2016 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2016.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para $ $ $ aplicarse sobre el excedente del límite inferior % 0.01 239,106.98 0.00 2.0 239,106.99 286,928.32 4,782.06 5.0 286,928.33 334,749.85 7,173.24 10.0 334,749.86 430,392.38 11,955.37 15.0 430,392.39 En adelante 26,301.72 17.0 Si el precio del automóvil es superior a $660,255.71 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $660,255.71 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2016.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ | Tasa para aplicarse sobre el excedente del límite inferior % |
+| --- | --- | --- | --- |
+| 0.01 | 239,106.98 | 0.00 | 2.0 |
+| 239,106.99 | 286,928.32 | 4,782.06 | 5.0 |
+| 286,928.33 | 334,749.85 | 7,173.24 | 10.0 |
+| 334,749.86 | 430,392.38 | 11,955.37 | 15.0 |
+| 430,392.39 | En adelante | 26,301.72 | 17.0 |
+
+Si el precio del automóvil es superior a $660,255.71 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $660,255.71 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2016.
 
 ### Artículo 8o
 . fracción II primer párrafo: $222,032.19
@@ -396,7 +416,20 @@ Se adiciona el artículo 8o., con una fracción IV de la Ley Federal del Impuest
 Ciudad de México, a 26 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Raúl Domínguez Rex, Secretario.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 ANEXO 15 de la Resolución Miscelánea Fiscal para 2017, publicada el 23 de diciembre de 2016.
 Publicado en el Diario Oficial de la Federación el 12 de enero de 2017 Anexo 15 de la Resolución Miscelánea Fiscal para 2017 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2017.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 246,423.65 0.00 2.0 246,423.66 295,708.33 4,928.39 5.0 295,708.34 344,993.20 7,392.74 10.0 344,993.21 443,562.39 12,321.20 15.0 443,562.40 En adelante 27,106.55 17.0 Si el precio del automóvil es superior a $680,459.53 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $680,459.53 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2017.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | sobre el excedente |
+|  |  |  |  | del límite inferior |
+|  |  |  |  | % |
+| 0.01 | 246,423.65 | 0.00 | 2.0 |  |
+| 246,423.66 | 295,708.33 | 4,928.39 | 5.0 |  |
+| 295,708.34 | 344,993.20 | 7,392.74 | 10.0 |  |
+| 344,993.21 | 443,562.39 | 12,321.20 | 15.0 |  |
+| 443,562.40 | En adelante | 27,106.55 | 17.0 |  |
+
+Si el precio del automóvil es superior a $680,459.53 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $680,459.53 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2017.
 
 ### Artículo 8o
 . fracción II primer párrafo: $229,359.25
@@ -406,7 +439,18 @@ TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ so
 Ciudad de México, 14 de diciembre de 2016.- El Jefe del Servicio de Administración Tributaria, Osvaldo Antonio Santín Quiroz.- Rúbrica.
 ANEXO 15 de la Resolución Miscelánea Fiscal para 2018, publicada el 22 de diciembre de 2017.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018 Anexo 15 de la Resolución Miscelánea Fiscal para 2018 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2018.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el excedente del límite inferior $ $ $ % 0.01 262,120.84 0.00 2.0 262,120.85 314,544.95 5,242.33 5.0 314,544.96 366,969.27 7,863.66 10.0 366,969.28 471,817.31 13,106.06 15.0 471,817.32 En adelante 28,833.24 17.0 Si el precio del automóvil es superior a $723,804.80 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $723,804.80 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2018.
+TARIFA
+
+| Límite inferior | Límite superior | Cuota fija | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- | --- | --- |
+| $ | $ | $ | % |
+| 0.01 | 262,120.84 | 0.00 | 2.0 |
+| 262,120.85 | 314,544.95 | 5,242.33 | 5.0 |
+| 314,544.96 | 366,969.27 | 7,863.66 | 10.0 |
+| 366,969.28 | 471,817.31 | 13,106.06 | 15.0 |
+| 471,817.32 | En adelante | 28,833.24 | 17.0 |
+
+Si el precio del automóvil es superior a $723,804.80 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $723,804.80 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2018.
 
 ### Artículo 8o
 . fracción II primer párrafo: $244, 565.77
@@ -416,7 +460,20 @@ TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el
 Atentamente, Ciudad de México, 15 de diciembre de 2017.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria vigente, firma el Administrador General Jurídico, Jaime Eusebio Flores Carrasco.- Rúbrica.
 ANEXO 15 de la Quinta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2018, publicada el 21 de diciembre de 2018.
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2018 Modificación al Anexo 15 de la Resolución Miscelánea Fiscal para 2018 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2019.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 274,964.76 0.00 2.0 274,964.77 329,957.65 5,499.20 5.0 329,957.66 384,950.76 8,248.98 10.0 384,950.77 494,936.36 13,748.26 15.0 494,936.37 En adelante 30,246.07 17.0 Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | sobre el excedente |
+|  |  |  |  | del límite inferior |
+|  |  |  |  | % |
+| 0.01 | 274,964.76 | 0.00 | 2.0 |  |
+| 274,964.77 | 329,957.65 | 5,499.20 | 5.0 |  |
+| 329,957.66 | 384,950.76 | 8,248.98 | 10.0 |  |
+| 384,950.77 | 494,936.36 | 13,748.26 | 15.0 |  |
+| 494,936.37 | En adelante | 30,246.07 | 17.0 |  |
+
+Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019.
 
 ### Artículo 8o
 . fracción II primer párrafo: $256,084.82
@@ -426,7 +483,20 @@ TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ so
 Ciudad de México, a 17 de diciembre de 2018.- La Jefa del Servicio de Administración Tributaria, Ana Margarita Ríos Farjat.- Rúbrica.
 ANEXO 15 de la Resolución Miscelánea Fiscal para 2019, publicada el 29 de abril de 2019.
 Publicado en el Diario Oficial de la Federación el 6 de mayo de 2019 Anexo 15 de la Resolución Miscelánea Fiscal para 2019 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2019.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 274,964.76 0.00 2.0 274,964.77 329,957.65 5,499.20 5.0 329,957.66 384,950.76 8,248.98 10.0 384,950.77 494,936.36 13,748.26 15.0 494,936.37 En adelante 30,246.07 17.0 Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | sobre el excedente |
+|  |  |  |  | del límite inferior |
+|  |  |  |  | % |
+| 0.01 | 274,964.76 | 0.00 | 2.0 |  |
+| 274,964.77 | 329,957.65 | 5,499.20 | 5.0 |  |
+| 329,957.66 | 384,950.76 | 8,248.98 | 10.0 |  |
+| 384,950.77 | 494,936.36 | 13,748.26 | 15.0 |  |
+| 494,936.37 | En adelante | 30,246.07 | 17.0 |  |
+
+Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019.
 
 ### Artículo 8o
 . fracción II primer párrafo: $256,084.82
@@ -436,7 +506,20 @@ TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ so
 Ciudad de México, 22 de abril de 2019.- La Jefa del Servicio de Administración Tributaria, Ana Margarita Ríos Farjat.- Rúbrica.
 ANEXO 15 de la Resolución Miscelánea Fiscal para 2020, publicada el 28 de diciembre de 2019.
 Publicado en el Diario Oficial de la Federación el 14 de enero de 2020 Anexo 15 de la Resolución Miscelánea Fiscal para 2020 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2020.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 283,241.20 0.00 2.0 283,241.21 339,889.38 5,664.73 5.0 339,889.39 396,537.78 8,497.27 10.0 396,537.79 509,833.94 14,162.08 15.0 509,833.95 En adelante 31,156.48 17.0 Si el precio del automóvil es superior a $782,125.30 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $782,125.30 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2020.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | sobre el excedente |
+|  |  |  |  | del límite inferior |
+|  |  |  |  | % |
+| 0.01 | 283,241.20 | 0.00 | 2.0 |  |
+| 283,241.21 | 339,889.38 | 5,664.73 | 5.0 |  |
+| 339,889.39 | 396,537.78 | 8,497.27 | 10.0 |  |
+| 396,537.79 | 509,833.94 | 14,162.08 | 15.0 |  |
+| 509,833.95 | En adelante | 31,156.48 | 17.0 |  |
+
+Si el precio del automóvil es superior a $782,125.30 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $782,125.30 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2020.
 
 ### Artículo 8o
 . fracción II primer párrafo: $263,690.54
@@ -446,7 +529,21 @@ TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ so
 Atentamente, Ciudad de México, a 23 de diciembre de 2019.- En suplencia por ausencia de la Jefa del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria vigente, firma la Administradora General Jurídica, María de los Angeles Jasso Cisneros.- Rúbrica.
 ANEXO 15 de la Resolución Miscelánea Fiscal para 2021, publicada el 29 de diciembre de 2020.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2021 Anexo 15 de la Resolución Miscelánea Fiscal para 2021 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2021.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para $ $ $ aplicarse sobre el excedente del límite inferior % 0.01 294,797.44 0.00 2.0 294,797.45 353,756.87 5,895.85 5.0 353,756.88 412,716.52 8,843.96 10.0 412,716.53 530,635.16 14,739.89 15.0 530,635.17 En adelante 32,427.66 17.0 Si el precio del automóvil es superior a $814,036.01 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $814,036.01 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2021.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | aplicarse sobre el |
+|  |  |  |  | excedente del |
+|  |  |  |  | límite inferior |
+|  |  |  |  | % |
+| 0.01 | 294,797.44 | 0.00 | 2.0 |  |
+| 294,797.45 | 353,756.87 | 5,895.85 | 5.0 |  |
+| 353,756.88 | 412,716.52 | 8,843.96 | 10.0 |  |
+| 412,716.53 | 530,635.16 | 14,739.89 | 15.0 |  |
+| 530,635.17 | En adelante | 32,427.66 | 17.0 |  |
+
+Si el precio del automóvil es superior a $814,036.01 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $814,036.01 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2021.
 
 ### Artículo 8o
 . fracción II primer párrafo: $272,471.43
@@ -471,7 +568,20 @@ Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores,
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 ANEXO 15 de la Resolución Miscelánea Fiscal para 2022, publicada el 27 de diciembre de 2021.
 Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2021 Anexo 15 de la Resolución Miscelánea Fiscal para 2022 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2022.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 313,163.32 0.00 2.0 313,163.33 375,795.92 6,263.16 5.0 375,795.93 438,428.76 9,394.94 10.0 438,428.77 563,693.73 15,658.19 15.0 563,693.74 En adelante 34,447.90 17.0 Si el precio del automóvil es superior a $864,750.45 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $864,750.45 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2022.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | sobre el excedente |
+|  |  |  |  | del límite inferior |
+|  |  |  |  | % |
+| 0.01 | 313,163.32 | 0.00 | 2.0 |  |
+| 313,163.33 | 375,795.92 | 6,263.16 | 5.0 |  |
+| 375,795.93 | 438,428.76 | 9,394.94 | 10.0 |  |
+| 438,428.77 | 563,693.73 | 15,658.19 | 15.0 |  |
+| 563,693.74 | En adelante | 34,447.90 | 17.0 |  |
+
+Si el precio del automóvil es superior a $864,750.45 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $864,750.45 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2022.
 
 ### Artículo 8o
 . fracción II primer párrafo: $292,552.57
@@ -483,7 +593,20 @@ Ciudad de México, a 17 de diciembre de 2021.- Jefa del Servicio de Administraci
 Raquel Buenrostro Sánchez.- Rúbrica.
 RESOLUCIÓN Miscelánea Fiscal para 2023 y sus Anexos 1, 5, 8, 15, 19, 26 y 27.
 Publicada en el Diario Oficial de la Federación el 27 de diciembre de 2022 Modificación al Anexo 15 de la Resolución Miscelánea Fiscal para 2022 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2023.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 339,469.04 0.00 2.0 339,469.05 407,362.78 6,789.27 5.0 407,362.79 475,256.78 10,184.11 10.0 475,256.79 611,044.00 16,973.48 15.0 611,044.01 En adelante 37,341.52 17.0 Si el precio del automóvil es superior a $937,389.49 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $937,389.49 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2023.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | sobre el excedente |
+|  |  |  |  | del límite inferior |
+|  |  |  |  | % |
+| 0.01 | 339,469.04 | 0.00 | 2.0 |  |
+| 339,469.05 | 407,362.78 | 6,789.27 | 5.0 |  |
+| 407,362.79 | 475,256.78 | 10,184.11 | 10.0 |  |
+| 475,256.79 | 611,044.00 | 16,973.48 | 15.0 |  |
+| 611,044.01 | En adelante | 37,341.52 | 17.0 |  |
+
+Si el precio del automóvil es superior a $937,389.49 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $937,389.49 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2023.
 
 ### Artículo 8o
 . fracción II primer párrafo: $315,342.42
@@ -493,7 +616,20 @@ TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ so
 Atentamente, Ciudad de México, a 16 de diciembre de 2022.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
 RESOLUCIÓN Miscelánea Fiscal para 2024 y sus anexos 1, 5, 8, 15, 19 y 27.
 Publicada en el Diario Oficial de la Federación el 29 de diciembre de 2023 SEXTA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022 A. Tarifa para determinar el ISAN para el año 2024.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 353,896.47 0.00 2.0 353,896.48 424,675.70 7,077.81 5.0 424,675.71 495,455.19 10,616.93 10.0 495,455.20 637,013.37 17,694.85 15.0 637,013.38 En adelante 38,928.53 17.0 Si el precio del automóvil es superior a $ 977,228.54 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $ 977,228.54 B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2024.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | sobre el excedente |
+|  |  |  |  | del límite inferior |
+|  |  |  |  | % |
+| 0.01 | 353,896.47 | 0.00 | 2.0 |  |
+| 353,896.48 | 424,675.70 | 7,077.81 | 5.0 |  |
+| 424,675.71 | 495,455.19 | 10,616.93 | 10.0 |  |
+| 495,455.20 | 637,013.37 | 17,694.85 | 15.0 |  |
+| 637,013.38 | En adelante | 38,928.53 | 17.0 |  |
+
+Si el precio del automóvil es superior a $ 977,228.54 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $ 977,228.54 B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2024.
 
 ### Artículo 8o
 . fracción II primer párrafo: $ 328,965.21
@@ -503,7 +639,19 @@ TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ so
 Ciudad de México, a 15 de diciembre de 2023.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
 RESOLUCIÓN Miscelánea Fiscal para 2025, y sus Anexos 1, 5, 6, 8, 15, 19 y 27.
 Publicada en el Diario Oficial de la Federación el 30 de diciembre de 2024 NOVENA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022 A. Tarifa para determinar el ISAN para el año 2025.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el $ $ $ excedente del límite inferior % 0.01 370,741.94 0.00 2.0 370,741.95 444,890.26 7,414.71 5.0 444,890.27 519,038.86 11,122.30 10.0 519,038.87 667,335.21 18,537.12 15.0 667,335.22 En adelante 40,718.53 17.0 Si el precio del automóvil es superior a $1,023,744.62 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,023,744.62.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse sobre el |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | excedente del límite inferior |
+|  |  |  |  | % |
+| 0.01 | 370,741.94 | 0.00 | 2.0 |  |
+| 370,741.95 | 444,890.26 | 7,414.71 | 5.0 |  |
+| 444,890.27 | 519,038.86 | 11,122.30 | 10.0 |  |
+| 519,038.87 | 667,335.21 | 18,537.12 | 15.0 |  |
+| 667,335.22 | En adelante | 40,718.53 | 17.0 |  |
+
+Si el precio del automóvil es superior a $1,023,744.62 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,023,744.62.
 B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2025.
 
 ### Artículo 8o
@@ -516,15 +664,52 @@ Ciudad de México, a 20 de diciembre de 2024.- En suplencia por ausencia del Jef
 ACLARACIÓN a la Novena Modificación al Anexo 15 de la Resolución Miscelánea Fiscal para 2022, publicada el 30 de diciembre de 2024.
 Publicada en el Diario Oficial de la Federación el 10 de enero de 2025 ACLARACIÓN A LA NOVENA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, PUBLICADA EL 30 DE DICIEMBRE DE 2024 Dice:
 A. Tarifa para determinar el ISAN para el año 2025.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el $ $ $ excedente del límite inferior % ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... 667,335.22 En adelante 40,718.53 17.0 ...
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse sobre el |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | excedente del límite inferior |
+|  |  |  |  | % |
+| ............... | ............... | ............... | ............... |  |
+| ............... | ............... | ............... | ............... |  |
+| ............... | ............... | ............... | ............... |  |
+| ............... | ............... | ............... | ............... |  |
+| 667,335.22 | En adelante | 40,718.53 | 17.0 |  |
+
+...
 Debe decir:
 A. Tarifa para determinar el ISAN para el año 2025.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el $ $ $ excedente del límite inferior % ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... 667,335.22 En adelante 40,781.53 17.0 ...
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse sobre el |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | excedente del límite inferior |
+|  |  |  |  | % |
+| ............... | ............... | ............... | ............... |  |
+| ............... | ............... | ............... | ............... |  |
+| ............... | ............... | ............... | ............... |  |
+| ............... | ............... | ............... | ............... |  |
+| 667,335.22 | En adelante | 40,781.53 | 17.0 |  |
+
+...
 Atentamente.
 Ciudad de México, a 09 de enero de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
 ANEXOS 4, 5, 6, 8, 15 y 25 de la Resolución Miscelánea Fiscal para 2026.
 Publicados en el Diario Oficial de la Federación el 28 de diciembre de 2025 DÉCIMA SEGUNDA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022 A. Tarifa para determinar el ISAN para el año 2026.
-TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 383,940.35 0.00 2.0 383,940.36 460,728.35 7,678.67 5.0 460,728.36 537,516.64 11,518.25 10.0 537,516.65 691,092.34 19,197.04 15.0 691,092.35 En adelante 42,233.35 17.0 Si el precio del automóvil es superior a $1,060,189.93 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,060,189.93 B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2026.
+TARIFA
+
+| Límite inferior $ | Límite superior $ | Cuota fija $ |  | Tasa para aplicarse |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | sobre el excedente |
+|  |  |  |  | del límite inferior |
+|  |  |  |  | % |
+| 0.01 | 383,940.35 | 0.00 | 2.0 |  |
+| 383,940.36 | 460,728.35 | 7,678.67 | 5.0 |  |
+| 460,728.36 | 537,516.64 | 11,518.25 | 10.0 |  |
+| 537,516.65 | 691,092.34 | 19,197.04 | 15.0 |  |
+| 691,092.35 | En adelante | 42,233.35 | 17.0 |  |
+
+Si el precio del automóvil es superior a $1,060,189.93 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,060,189.93 B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2026.
 
 ### Artículo 8o
 . fracción II primer párrafo: $356,934.05

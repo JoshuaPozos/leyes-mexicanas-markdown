@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LIEPS.pdf",
     "dof_publication": "DOF30/12/1980",
     "last_reform": "DOF 22/12/2025",
-    "captured_at": "2026-04-10T01:25:12.444816+00:00"
+    "captured_at": "2026-06-12T02:28:59.395847+00:00"
   },
   "preamble": [
     {
@@ -376,7 +376,72 @@
         },
         {
           "type": "paragraph",
-          "text": "Tabla 1. Categorías de peligro de toxicidad aguda Categoría Categoría Categoría Categoría Categoría Vía de exposición 1 2 3 4 5 Oral (mg/kg) 5 50 300 2000 5000 Dérmica (mg/kg) 50 200 1000 2000 Inhalatoria 100 500 2500 5000 Gases (ppmV) Inhalatoria 0,5 2 10 20 Vapores (mg/l) Inhalatoria 0,05 0,5 1 5 Polvos y nieblas (mg/l) La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana “NOM232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico”, publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente."
+          "text": "Tabla 1. Categorías de peligro de toxicidad aguda"
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "Vía de exposición",
+            "Categoría 1",
+            "Categoría 2",
+            "Categoría 3",
+            "Categoría 4",
+            "Categoría 5"
+          ],
+          "rows": [
+            [
+              "Oral (mg/kg)",
+              "5",
+              "50",
+              "300",
+              "2000",
+              "5000"
+            ],
+            [
+              "Dérmica (mg/kg)",
+              "50",
+              "200",
+              "1000",
+              "2000",
+              ""
+            ]
+          ],
+          "source_method": "text",
+          "source_page": 5
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "Inhalatoria Gases (ppmV)",
+            "100",
+            "500",
+            "2500",
+            "5000"
+          ],
+          "rows": [
+            [
+              "Inhalatoria Vapores (mg/l)",
+              "0,5",
+              "2",
+              "10",
+              "20"
+            ],
+            [
+              "Inhalatoria Polvos y nieblas (mg/l)",
+              "0,05",
+              "0,5",
+              "1",
+              "5"
+            ]
+          ],
+          "source_method": "text",
+          "source_page": 6
+        },
+        {
+          "type": "paragraph",
+          "text": "La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana “NOM232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico”, publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente."
         },
         {
           "type": "reform_note",
@@ -6568,15 +6633,215 @@
             },
             {
               "type": "paragraph",
-              "text": "TABLA PRODUCTO CUOTA POR LITRO $ Aguardiente Abocado o Reposado 5.35 Aguardiente Standard (blanco u oro) Charanda Licor de hierbas regionales Aguardiente Añejo 10.34 Habanero Rompope Aguardiente con Sabor 12.29 Cocteles Licores y Cremas de hasta 20% Alc. Vol."
+              "text": "TABLA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "PRODUCTO",
+                "CUOTA POR LITRO"
+              ],
+              "rows": [
+                [
+                  "",
+                  "$"
+                ],
+                [
+                  "Aguardiente Abocado o Reposado",
+                  "5.35"
+                ],
+                [
+                  "Aguardiente Standard (blanco u oro)",
+                  ""
+                ],
+                [
+                  "Charanda",
+                  ""
+                ],
+                [
+                  "Licor de hierbas regionales",
+                  ""
+                ],
+                [
+                  "Aguardiente Añejo",
+                  "10.34"
+                ],
+                [
+                  "Habanero",
+                  ""
+                ],
+                [
+                  "Rompope",
+                  ""
+                ],
+                [
+                  "Aguardiente con Sabor",
+                  "12.29"
+                ],
+                [
+                  "Cocteles",
+                  ""
+                ],
+                [
+                  "Licores y Cremas de hasta 20% Alc. Vol.",
+                  ""
+                ],
+                [
+                  "Parras",
+                  ""
+                ],
+                [
+                  "Bacanora",
+                  "17.60"
+                ],
+                [
+                  "Comiteco",
+                  ""
+                ],
+                [
+                  "Lechuguilla o raicilla",
+                  ""
+                ],
+                [
+                  "Mezcal",
+                  ""
+                ],
+                [
+                  "Sotol",
+                  ""
+                ],
+                [
+                  "Anís",
+                  "18.91"
+                ],
+                [
+                  "Ginebra",
+                  ""
+                ],
+                [
+                  "Vodka",
+                  ""
+                ],
+                [
+                  "Ron",
+                  "23.41"
+                ],
+                [
+                  "Tequila joven o blanco",
+                  ""
+                ],
+                [
+                  "Brandy",
+                  "28.15"
+                ],
+                [
+                  "Amaretto",
+                  "28.56"
+                ],
+                [
+                  "Licor de Café o Cacao",
+                  ""
+                ],
+                [
+                  "Licores y Cremas de más 20% Alc. Vol.",
+                  ""
+                ],
+                [
+                  "Tequila reposado o añejo",
+                  ""
+                ],
+                [
+                  "Ron Añejo",
+                  "33.92"
+                ],
+                [
+                  "Brandy Reserva",
+                  "36.72"
+                ],
+                [
+                  "Ron con Sabor",
+                  "53.46"
+                ],
+                [
+                  "Ron Reserva",
+                  ""
+                ],
+                [
+                  "Tequila joven o blanco 100% agave",
+                  "54.61"
+                ],
+                [
+                  "Tequila reposado 100% agave",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 97
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "",
+                ""
+              ],
+              "rows": [
+                [
+                  "Brandy Solera",
+                  "60.53"
+                ],
+                [
+                  "Cremas base Whisky",
+                  "79.60"
+                ],
+                [
+                  "Whisky o Whiskey, Borbon o Bourbon,",
+                  ""
+                ],
+                [
+                  "Tenessee \"Standard\"",
+                  ""
+                ],
+                [
+                  "Calvados",
+                  "139.24"
+                ],
+                [
+                  "Tequila añejo 100% agave",
+                  ""
+                ],
+                [
+                  "Cognac V.S.",
+                  "168.34"
+                ],
+                [
+                  "Whisky o Whiskey, Borbon o Bourbon,",
+                  ""
+                ],
+                [
+                  "Tenessee \"de Luxe\"",
+                  ""
+                ],
+                [
+                  "Cognac V.S.O.P.",
+                  "283.31"
+                ],
+                [
+                  "Cognac X.O.",
+                  "1,068.01"
+                ],
+                [
+                  "Otros",
+                  "1,096.83"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 98
             },
             {
               "type": "paragraph",
-              "text": "Parras Bacanora 17.60 Comiteco Lechuguilla o raicilla Mezcal Sotol Anís 18.91 Ginebra Vodka Ron 23.41 Tequila joven o blanco Brandy 28.15 Amaretto 28.56 Licor de Café o Cacao Licores y Cremas de más 20% Alc. Vol."
-            },
-            {
-              "type": "paragraph",
-              "text": "Tequila reposado o añejo Ron Añejo 33.92 Brandy Reserva 36.72 Ron con Sabor 53.46 Ron Reserva Tequila joven o blanco 100% agave 54.61 Tequila reposado 100% agave Brandy Solera 60.53 Cremas base Whisky 79.60 Whisky o Whiskey, Borbon o Bourbon, Tenessee \"Standard\" Calvados 139.24 Tequila añejo 100% agave Cognac V.S. 168.34 Whisky o Whiskey, Borbon o Bourbon, Tenessee \"de Luxe\" Cognac V.S.O.P. 283.31 Cognac X.O. 1,068.01 Otros 1,096.83 Las cuotas por litro establecidas en este inciso se encuentran actualizadas para el primer semestre de 2002 con el factor de 1.045."
+              "text": "Las cuotas por litro establecidas en este inciso se encuentran actualizadas para el primer semestre de 2002 con el factor de 1.045."
             },
             {
               "type": "paragraph",
@@ -6721,8 +6986,32 @@
               "text": "Cigarros con filtro:"
             },
             {
-              "type": "paragraph",
-              "text": "AÑO TASA 2002 105% 2003 107% 2004 110% 2005 110%"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "AÑO",
+                "TASA"
+              ],
+              "rows": [
+                [
+                  "2002",
+                  "105%"
+                ],
+                [
+                  "2003",
+                  "107%"
+                ],
+                [
+                  "2004",
+                  "110%"
+                ],
+                [
+                  "2005",
+                  "110%"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 100
             },
             {
               "type": "inciso",
@@ -6730,8 +7019,44 @@
               "text": "Cigarros sin filtro:"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "AÑO",
+                "TASA"
+              ],
+              "rows": [
+                [
+                  "2002",
+                  "60%"
+                ],
+                [
+                  "2003",
+                  "80%"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 100
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "2004",
+                "100%"
+              ],
+              "rows": [
+                [
+                  "2005",
+                  "110%"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 101
+            },
+            {
               "type": "paragraph",
-              "text": "AÑO TASA 2002 60% 2003 80% 2004 100% 2005 110% Para los efectos de esta fracción, se consideran cigarros sin filtro los populares elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión."
+              "text": "Para los efectos de esta fracción, se consideran cigarros sin filtro los populares elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión."
             },
             {
               "type": "paragraph",
@@ -7360,8 +7685,24 @@
               "text": "Cigarros:"
             },
             {
-              "type": "paragraph",
-              "text": "AÑO TASA 2007 140% 2008 150%"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "AÑO",
+                "TASA"
+              ],
+              "rows": [
+                [
+                  "2007",
+                  "140%"
+                ],
+                [
+                  "2008",
+                  "150%"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 112
             },
             {
               "type": "inciso",
@@ -7369,8 +7710,24 @@
               "text": "Puros y otros tabacos labrados:"
             },
             {
-              "type": "paragraph",
-              "text": "AÑO TASA 2007 140% 2008 150%"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "AÑO",
+                "TASA"
+              ],
+              "rows": [
+                [
+                  "2007",
+                  "140%"
+                ],
+                [
+                  "2008",
+                  "150%"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 112
             },
             {
               "type": "inciso",
@@ -7378,8 +7735,28 @@
               "text": "Puros y otros tabacos labrados hechos enteramente a mano:"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "AÑO",
+                "TASA"
+              ],
+              "rows": [
+                [
+                  "2007",
+                  "26.6%"
+                ],
+                [
+                  "2008",
+                  "28.5%"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 112
+            },
+            {
               "type": "paragraph",
-              "text": "AÑO TASA 2007 26.6% 2008 28.5% México, D.F., a 20 de diciembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica."
+              "text": "México, D.F., a 20 de diciembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica."
             },
             {
               "type": "paragraph",
@@ -8462,8 +8839,67 @@
               "text": "Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a los combustibles fósiles a que se refiere el artículo 2, fracción I, inciso H) de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2015, son las siguientes:"
             },
             {
-              "type": "paragraph",
-              "text": "Combustibles fósiles Cuota Unidad de medida 1. Propano 6.15 centavos por litro. 2. Butano 7.97 centavos por litro. 3. Gasolinas y gasavión 10.81 centavos por litro. 4. Turbosina y otros kerosenos 12.91 centavos por litro. 5. Diésel 13.11 centavos por litro. 6. Combustóleo 14.00 centavos por litro. 7. Coque de petróleo 16.24 pesos por tonelada. 8. Coque de carbón 38.09 pesos por tonelada. 9. Carbón mineral 28.68 pesos por tonelada. 10. Otros combustibles fósiles 41.45 pesos por tonelada de carbono que contenga el combustible."
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Combustibles fósiles",
+                "Cuota",
+                "Unidad de medida"
+              ],
+              "rows": [
+                [
+                  "1. Propano",
+                  "6.15",
+                  "centavos por litro."
+                ],
+                [
+                  "2. Butano",
+                  "7.97",
+                  "centavos por litro."
+                ],
+                [
+                  "3. Gasolinas y gasavión",
+                  "10.81",
+                  "centavos por litro."
+                ],
+                [
+                  "4. Turbosina y otros kerosenos",
+                  "12.91",
+                  "centavos por litro."
+                ],
+                [
+                  "5. Diésel",
+                  "13.11",
+                  "centavos por litro."
+                ],
+                [
+                  "6. Combustóleo",
+                  "14.00",
+                  "centavos por litro."
+                ],
+                [
+                  "7. Coque de petróleo",
+                  "16.24",
+                  "pesos por tonelada."
+                ],
+                [
+                  "8. Coque de carbón",
+                  "38.09",
+                  "pesos por tonelada."
+                ],
+                [
+                  "9. Carbón mineral",
+                  "28.68",
+                  "pesos por tonelada."
+                ],
+                [
+                  "10. Otros combustibles fósiles",
+                  "41.45",
+                  "pesos por tonelada de carbono que contenga el combustible."
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 129
             }
           ],
           "children": []
@@ -10708,8 +11144,36 @@
               "text": "Durante los ejercicios fiscales de 2026, 2027, 2028 y 2029, las cuotas aplicables serán las siguientes:"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Ejercicio Fiscal",
+                "Cuota"
+              ],
+              "rows": [
+                [
+                  "2026",
+                  "$0.8516"
+                ],
+                [
+                  "2027",
+                  "$0.9197"
+                ],
+                [
+                  "2028",
+                  "$0.9932"
+                ],
+                [
+                  "2029",
+                  "$1.0726"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 162
+            },
+            {
               "type": "paragraph",
-              "text": "Ejercicio Fiscal Cuota 2026 $0.8516 2027 $0.9197 2028 $0.9932 2029 $1.0726 Las cuotas establecidas en el párrafo anterior, no estarán sujetas a lo dispuesto en el cuarto párrafo del inciso C), de la fracción I, del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios."
+              "text": "Las cuotas establecidas en el párrafo anterior, no estarán sujetas a lo dispuesto en el cuarto párrafo del inciso C), de la fracción I, del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios."
             }
           ],
           "children": []

@@ -4013,7 +4013,12 @@ Artículo reformado DOF 27-05-1987, 23-12-1987
 .- En relación con las medidas de control y vigilancia que deberán adoptar las autoridades sanitarias, las substancias psicotrópicas se clasifican en cinco grupos:
 
 I. Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles de uso indebido o abuso, constituyen un problema especialmente grave para la salud pública, y son:
-Denominación Común Otras Denominaciones Denominación Química Internacional Comunes o Vulgares CATINONA NO TIENE (-)--aminopropiofenona.
+
+|  |  |  |
+| --- | --- | --- |
+| Denominación Común Internacional | Otras Denominaciones Comunes o Vulgares | Denominación Química |
+
+CATINONA NO TIENE (-)--aminopropiofenona.
 MEFEDRONA 4- METILMETCATITONA 2-methylamino-1ptolylpropan-1-one NO TIENE DET n,n-dietiltriptamina NO TIENE DMA dl-2,5-dimetoxi--metilfeniletilamina.
 NO TIENE DMHP 3-(1,2-dimetilhetil)-1-hidroxi-7,8,9,10-tetrahidro-6,6,9trimetil-6H dibenzo (b,d) pirano.
 NO TIENE DMT n,n-dimetiltriptamina.
@@ -6499,14 +6504,20 @@ Artículo adicionado DOF 20-08-2009
 
 ### Artículo 479
 .- Para los efectos de este capítulo se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones no exceda de las previstas en el listado siguiente:
-Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato Narcótico Dosis máxima de consumo personal e inmediato Opio 2 gr.
-Diacetilmorfina o Heroína 50 mg.
-Cannabis Sativa, Indica o Mariguana 5 gr.
-Cocaína 500 mg.
-Lisergida (LSD) 0.015 mg.
-Polvo, granulado o cristal Tabletas o cápsulas MDA, Una unidad con peso no mayor a Metilendioxianfetamina 40 mg. 200 mg.
-MDMA, dl-34-metilendioxi-n- Una unidad con peso no mayor a 40 mg. dimetilfeniletilamina 200 mg.
-Una unidad con peso no mayor a Metanfetamina 40 mg. 200 mg.
+
+| Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato |  |  |
+| --- | --- | --- |
+| Narcótico | Dosis máxima de consumo personal e inmediato |  |
+| Opio | 2 gr. |  |
+| Diacetilmorfina o Heroína | 50 mg. |  |
+| Cannabis Sativa, Indica o Mariguana | 5 gr. |  |
+| Cocaína | 500 mg. |  |
+| Lisergida (LSD) | 0.015 mg. |  |
+| MDA, Metilendioxianfetamina | Polvo, granulado o cristal | Tabletas o cápsulas |
+|  | 40 mg. | Una unidad con peso no mayor a 200 mg. |
+| MDMA, dl-34-metilendioxi-n- dimetilfeniletilamina | 40 mg. | Una unidad con peso no mayor a 200 mg. |
+| Metanfetamina | 40 mg. | Una unidad con peso no mayor a 200 mg. |
+
 Artículo adicionado DOF 20-08-2009
 
 ### Artículo 480

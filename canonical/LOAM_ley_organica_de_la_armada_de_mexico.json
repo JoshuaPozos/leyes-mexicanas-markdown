@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LOAM.pdf",
     "dof_publication": "DOF07/11/2025",
     "last_reform": "Sin reforma",
-    "captured_at": "2026-04-10T01:41:46.087514+00:00"
+    "captured_at": "2026-06-12T02:33:27.693181+00:00"
   },
   "preamble": [
     {
@@ -2390,33 +2390,121 @@
                   "text": ". Para el cumplimiento de las operaciones realizadas conjuntamente por la Fuerza Armada permanente, temas inherentes a la disciplina naval, así como para los efectos de los derechos a que alude la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las distintas categorías y jerarquías de la Armada de México tendrán las equivalencias con las categorías y jerarquías del Ejército, Fuerza Aérea y Guardia Nacional, en los términos siguientes:"
                 },
                 {
+                  "type": "table",
+                  "title": null,
+                  "headers": [
+                    "ARMADA",
+                    "EJÉRCITO Y FUERZA AÉREA",
+                    "GUARDIA NACIONAL"
+                  ],
+                  "rows": [
+                    [
+                      "I. ALMIRANTES",
+                      "GENERALES",
+                      "GENERALES"
+                    ],
+                    [
+                      "Almirante",
+                      "General de División",
+                      "General de División de Guardia Nacional"
+                    ],
+                    [
+                      "Vicealmirante",
+                      "General de Brigada o General de Ala",
+                      "General de Brigada de Guardia Nacional"
+                    ],
+                    [
+                      "Contralmirante",
+                      "General Brigadier o General de Grupo",
+                      "General Brigadier de Guardia Nacional"
+                    ],
+                    [
+                      "II. CAPITANES",
+                      "JEFES",
+                      "JEFES"
+                    ],
+                    [
+                      "Capitán de Navío",
+                      "Coronel",
+                      "Coronel de Guardia Nacional"
+                    ],
+                    [
+                      "Capitán de Fragata",
+                      "Teniente Coronel",
+                      "Teniente Coronel de Guardia Nacional"
+                    ],
+                    [
+                      "Capitán de Corbeta",
+                      "Mayor",
+                      "Mayor de Guardia Nacional"
+                    ],
+                    [
+                      "III. OFICIALES",
+                      "OFICIALES",
+                      "OFICIALES"
+                    ],
+                    [
+                      "Teniente de Navío",
+                      "Capitán Primero",
+                      "Capitán Primero de Guardia Nacional"
+                    ],
+                    [
+                      "Teniente de Fragata",
+                      "Capitán Segundo",
+                      "Capitán Segundo de Guardia Nacional"
+                    ],
+                    [
+                      "Teniente de Corbeta",
+                      "Teniente",
+                      "Teniente de Guardia Nacional"
+                    ],
+                    [
+                      "Guardiamarina",
+                      "Subteniente",
+                      "Subteniente de Guardia Nacional"
+                    ],
+                    [
+                      "Primer Maestre",
+                      "Subteniente",
+                      "Subteniente de Guardia Nacional"
+                    ],
+                    [
+                      "IV. CLASES",
+                      "CLASES",
+                      "CLASES"
+                    ],
+                    [
+                      "Segundo Maestre",
+                      "Sargento Primero",
+                      "Sargento Primero de Guardia Nacional"
+                    ],
+                    [
+                      "Tercer Maestre",
+                      "Sargento Segundo",
+                      "Sargento Segundo de Guardia Nacional"
+                    ],
+                    [
+                      "Cabo",
+                      "Cabo",
+                      "Cabo de Guardia Nacional"
+                    ],
+                    [
+                      "V. MARINERÍA",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Marinero",
+                      "Soldado",
+                      "Soldado de Guardia Nacional"
+                    ]
+                  ],
+                  "source_method": "text",
+                  "source_page": 16
+                },
+                {
                   "type": "paragraph",
-                  "text": "ARMADA EJÉRCITO Y FUERZA AÉREA GUARDIA NACIONAL"
-                },
-                {
-                  "type": "fraccion",
-                  "ordinal": "I",
-                  "text": "ALMIRANTES GENERALES GENERALES Almirante General de División General de División de Guardia Nacional Vicealmirante General de Brigada o General de Ala General de Brigada de Guardia Nacional Contralmirante General Brigadier o General de Grupo General Brigadier de Guardia Nacional"
-                },
-                {
-                  "type": "fraccion",
-                  "ordinal": "II",
-                  "text": "CAPITANES JEFES JEFES Capitán de Navío Coronel Coronel de Guardia Nacional Capitán de Fragata Teniente Coronel Teniente Coronel de Guardia Nacional Capitán de Corbeta Mayor Mayor de Guardia Nacional"
-                },
-                {
-                  "type": "fraccion",
-                  "ordinal": "III",
-                  "text": "OFICIALES OFICIALES OFICIALES Teniente de Navío Capitán Primero Capitán Primero de Guardia Nacional Teniente de Fragata Capitán Segundo Capitán Segundo de Guardia Nacional Teniente de Corbeta Teniente Teniente de Guardia Nacional Guardiamarina Subteniente Subteniente de Guardia Nacional Primer Maestre Subteniente Subteniente de Guardia Nacional"
-                },
-                {
-                  "type": "fraccion",
-                  "ordinal": "IV",
-                  "text": "CLASES CLASES CLASES Segundo Maestre Sargento Primero Sargento Primero de Guardia Nacional Tercer Maestre Sargento Segundo Sargento Segundo de Guardia Nacional Cabo Cabo Cabo de Guardia Nacional"
-                },
-                {
-                  "type": "fraccion",
-                  "ordinal": "V",
-                  "text": "MARINERÍA Marinero Soldado Soldado de Guardia Nacional Además de las distintas categorías y jerarquías que ostenta el personal de la Armada de México, señaladas en el cuadro anterior, se cuenta con Cadetes y Alumnado, quienes cursan diversos estudios en los planteles educativos navales."
+                  "text": "Además de las distintas categorías y jerarquías que ostenta el personal de la Armada de México, señaladas en el cuadro anterior, se cuenta con Cadetes y Alumnado, quienes cursan diversos estudios en los planteles educativos navales."
                 }
               ],
               "children": []

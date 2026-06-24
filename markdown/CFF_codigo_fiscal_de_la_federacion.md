@@ -5715,7 +5715,15 @@ La Secretaría de Hacienda y Crédito Público no aplicará lo dispuesto por el 
 
 X. Se condonan parcialmente los créditos fiscales no pagados, en el por ciento que resulte aplicable en los términos del siguiente párrafo, sobre la parte del crédito que se pague entre el 1o. de enero y el 30 de abril de 2001, en los siguientes casos: 1. Créditos fiscales por impuestos federales, incluidos sus accesorios, que hayan sido determinados por las autoridades fiscales antes del 1o. de enero de 2001, aun cuando los mismos estén siendo pagados a plazo en los términos del artículo 66 del Código Fiscal de la Federación. 2. Créditos fiscales por impuestos federales, incluidos sus accesorios, determinados por los contribuyentes respecto de los cuales se hubiese obtenido autorización para pagar a plazo con anterioridad a dicha fecha, en los términos del artículo 66 del Código Fiscal de la Federación.
 El por ciento a que se refiere el párrafo anterior se aplicará dependiendo del ejercicio en que debieron pagarse los impuestos federales, de que se trate, de conformidad con la siguiente tabla:
-Ejercicio Por ciento 1996 12.50 1997 12.50 1998 12.50 1999 10.00 Los contribuyentes podrán anticipar el pago de las parcialidades que les hubiesen sido autorizadas en los términos del artículo 66 del Código Fiscal de la Federación, en cuyo caso, el beneficio se extenderá a todos los pagos anticipados que se realicen entre el 1o. de enero y el 30 de abril de 2001.
+
+| Ejercicio | Por ciento |
+| --- | --- |
+| 1996 | 12.50 |
+| 1997 | 12.50 |
+| 1998 | 12.50 |
+| 1999 | 10.00 |
+
+Los contribuyentes podrán anticipar el pago de las parcialidades que les hubiesen sido autorizadas en los términos del artículo 66 del Código Fiscal de la Federación, en cuyo caso, el beneficio se extenderá a todos los pagos anticipados que se realicen entre el 1o. de enero y el 30 de abril de 2001.
 Cuando el crédito que se paga en parcialidades corresponda a más de un año de calendario, el por ciento de reducción aplicable será el que resulte del promedio aritmético de los por cientos establecidos en la tabla a que se refiere el segundo párrafo de esta fracción, para los años de calendario que correspondan.
 El beneficio a que se refiere esta fracción no será aplicable a:
 

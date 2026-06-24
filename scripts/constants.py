@@ -39,6 +39,24 @@ IMAGE_TABLE_MIN_HEIGHT = 100
 
 
 # ---------------------------------------------------------------------------
+# Detección de tablas vectoriales (pdfplumber find_tables)
+# ---------------------------------------------------------------------------
+
+#: Mínimo de filas para aceptar una tabla vectorial detectada por
+#: `find_tables()`. Una sola fila no es tabla: suele ser un recuadro
+#: decorativo o una línea horizontal que pdfplumber interpreta como celda.
+VECTOR_TABLE_MIN_ROWS = 2
+
+#: Mínimo de columnas para aceptar una tabla vectorial. El audit del
+#: corpus (2026-04-27, 315 PDFs) mostró que las detecciones N×1 son
+#: falsos positivos: layouts de dos columnas o listas largas que
+#: pdfplumber confunde con tabla (2×1 y 49×1 entre las formas más
+#: frecuentes). Emitirlas introduciría tablas espurias en leyes que hoy
+#: se extraen limpias.
+VECTOR_TABLE_MIN_COLS = 2
+
+
+# ---------------------------------------------------------------------------
 # pdfplumber — extracción de texto
 # ---------------------------------------------------------------------------
 
@@ -112,6 +130,21 @@ TITLE_HEADER_GAP_RATIO = 1.5
 #: como "fila de header real". Filtra ruido OCR (palabras de 1-3 chars
 #: que suelen ser artefactos de reconocimiento).
 OCR_HEADER_MIN_LETTERS = 4
+
+#: Mínimo de filas de datos para aceptar una tabla reconstruida desde OCR.
+#: La auditoría de calidad (2026-06-11, 42 tablas en 7 leyes) mostró que
+#: las reconstrucciones de 0-1 filas son siempre basura (la tabla real
+#: colapsó a headers/párrafos); mejor emitir el marcador honesto
+#: "[Tabla no extraíble]" + texto plano que datos corruptos con apariencia
+#: de válidos.
+OCR_TABLE_MIN_DATA_ROWS = 2
+
+#: Máximo de columnas plausible para una tabla reconstruida desde OCR.
+#: Las leyes del corpus no superan ~14 columnas reales (matrices de
+#: pensión LSS/LISSSTE); reconstrucciones de 23-45 "columnas" (PEF) son
+#: filas machacadas por el conteo de palabras. Por encima de este umbral
+#: la reconstrucción se considera fallida.
+OCR_TABLE_MAX_COLS = 15
 
 
 # ---------------------------------------------------------------------------

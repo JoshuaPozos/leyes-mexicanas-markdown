@@ -83,7 +83,20 @@ Las cantidades señaladas en el presente inciso, se actualizarán anualmente y e
 Párrafo reformado DOF 09-12-2019
 Inciso reformado DOF 30-12-2002, 31-12-2003. Derogado DOF 27-12-2006. Adicionado DOF 11-12-2013
 I) Plaguicidas. La tasa se aplicará conforme a la categoría de peligro de toxicidad aguda, en la forma siguiente: 1. Categorías 1 y 2 .............................................................................................. 9% 2. Categoría 3 ..................................................................................................... 7% 3. Categoría 4 ..................................................................................................... 6% La categoría de peligro de toxicidad aguda se determinará conforme a la siguiente tabla:
-Tabla 1. Categorías de peligro de toxicidad aguda Categoría Categoría Categoría Categoría Categoría Vía de exposición 1 2 3 4 5 Oral (mg/kg) 5 50 300 2000 5000 Dérmica (mg/kg) 50 200 1000 2000 Inhalatoria 100 500 2500 5000 Gases (ppmV) Inhalatoria 0,5 2 10 20 Vapores (mg/l) Inhalatoria 0,05 0,5 1 5 Polvos y nieblas (mg/l) La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana “NOM232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico”, publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente.
+Tabla 1. Categorías de peligro de toxicidad aguda
+
+| Vía de exposición | Categoría 1 | Categoría 2 | Categoría 3 | Categoría 4 | Categoría 5 |
+| --- | --- | --- | --- | --- | --- |
+| Oral (mg/kg) | 5 | 50 | 300 | 2000 | 5000 |
+| Dérmica (mg/kg) | 50 | 200 | 1000 | 2000 |  |
+
+
+| Inhalatoria Gases (ppmV) | 100 | 500 | 2500 | 5000 |
+| --- | --- | --- | --- | --- |
+| Inhalatoria Vapores (mg/l) | 0,5 | 2 | 10 | 20 |
+| Inhalatoria Polvos y nieblas (mg/l) | 0,05 | 0,5 | 1 | 5 |
+
+La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana “NOM232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico”, publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente.
 Inciso adicionado DOF 11-12-2013
 J) Alimentos no básicos que se listan a continuación, con una densidad calórica de 275 kilocalorías o mayor por cada 100 gramos ........................................................... 8% 1. Botanas. 2. Productos de confitería. 3. Chocolate y demás productos derivados del cacao. 4. Flanes y pudines. 5. Dulces de frutas y hortalizas. 6. Cremas de cacahuate y avellanas. 7. Dulces de leche. 8. Alimentos preparados a base de cereales. 9. Helados, nieves y paletas de hielo.
 Cuando los alimentos mencionados cumplan con las disposiciones relativas a las especificaciones generales de etiquetado para alimentos, los contribuyentes podrán tomar en consideración las kilocalorías manifestadas en la etiqueta. Tratándose de alimentos que no tengan la etiqueta mencionada, se presumirá, salvo prueba en contrario, que tienen una densidad calórica igual o superior a 275 kilocalorías por cada 100 gramos.
@@ -1536,9 +1549,61 @@ La información a que se refiere esta fracción se presentará mediante escrito 
 II. Los productores, envasadores e importadores, de bebidas alcohólicas que con anterioridad a la entrada en vigor del Artículo Primero del presente Decreto hubieran optado por pagar el impuesto en los términos de los artículos 26-D y 26-H, segundo párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, vigentes hasta antes de la entrada en vigor del citado Artículo
 **Primero.-** , y que a la fecha de la entrada en vigor del mismo cuenten con inventarios de bebidas alcohólicas que tengan adheridos marbetes, pagarán el impuesto que corresponda a dichos productos aplicando la cuota por litro vigente, de conformidad con lo siguiente:
 a) El impuesto se calculará mensualmente aplicando al número de litros enajenados en el mes, la cuota por litro vigente en el mes en el que se realice la enajenación de dichos productos, de conformidad con la siguiente:
-TABLA PRODUCTO CUOTA POR LITRO $ Aguardiente Abocado o Reposado 5.35 Aguardiente Standard (blanco u oro) Charanda Licor de hierbas regionales Aguardiente Añejo 10.34 Habanero Rompope Aguardiente con Sabor 12.29 Cocteles Licores y Cremas de hasta 20% Alc. Vol.
-Parras Bacanora 17.60 Comiteco Lechuguilla o raicilla Mezcal Sotol Anís 18.91 Ginebra Vodka Ron 23.41 Tequila joven o blanco Brandy 28.15 Amaretto 28.56 Licor de Café o Cacao Licores y Cremas de más 20% Alc. Vol.
-Tequila reposado o añejo Ron Añejo 33.92 Brandy Reserva 36.72 Ron con Sabor 53.46 Ron Reserva Tequila joven o blanco 100% agave 54.61 Tequila reposado 100% agave Brandy Solera 60.53 Cremas base Whisky 79.60 Whisky o Whiskey, Borbon o Bourbon, Tenessee "Standard" Calvados 139.24 Tequila añejo 100% agave Cognac V.S. 168.34 Whisky o Whiskey, Borbon o Bourbon, Tenessee "de Luxe" Cognac V.S.O.P. 283.31 Cognac X.O. 1,068.01 Otros 1,096.83 Las cuotas por litro establecidas en este inciso se encuentran actualizadas para el primer semestre de 2002 con el factor de 1.045.
+TABLA
+
+| PRODUCTO | CUOTA POR LITRO |
+| --- | --- |
+|  | $ |
+| Aguardiente Abocado o Reposado | 5.35 |
+| Aguardiente Standard (blanco u oro) |  |
+| Charanda |  |
+| Licor de hierbas regionales |  |
+| Aguardiente Añejo | 10.34 |
+| Habanero |  |
+| Rompope |  |
+| Aguardiente con Sabor | 12.29 |
+| Cocteles |  |
+| Licores y Cremas de hasta 20% Alc. Vol. |  |
+| Parras |  |
+| Bacanora | 17.60 |
+| Comiteco |  |
+| Lechuguilla o raicilla |  |
+| Mezcal |  |
+| Sotol |  |
+| Anís | 18.91 |
+| Ginebra |  |
+| Vodka |  |
+| Ron | 23.41 |
+| Tequila joven o blanco |  |
+| Brandy | 28.15 |
+| Amaretto | 28.56 |
+| Licor de Café o Cacao |  |
+| Licores y Cremas de más 20% Alc. Vol. |  |
+| Tequila reposado o añejo |  |
+| Ron Añejo | 33.92 |
+| Brandy Reserva | 36.72 |
+| Ron con Sabor | 53.46 |
+| Ron Reserva |  |
+| Tequila joven o blanco 100% agave | 54.61 |
+| Tequila reposado 100% agave |  |
+
+
+|  |  |
+| --- | --- |
+| Brandy Solera | 60.53 |
+| Cremas base Whisky | 79.60 |
+| Whisky o Whiskey, Borbon o Bourbon, |  |
+| Tenessee "Standard" |  |
+| Calvados | 139.24 |
+| Tequila añejo 100% agave |  |
+| Cognac V.S. | 168.34 |
+| Whisky o Whiskey, Borbon o Bourbon, |  |
+| Tenessee "de Luxe" |  |
+| Cognac V.S.O.P. | 283.31 |
+| Cognac X.O. | 1,068.01 |
+| Otros | 1,096.83 |
+
+Las cuotas por litro establecidas en este inciso se encuentran actualizadas para el primer semestre de 2002 con el factor de 1.045.
 En el mes de junio de 2002 se comparará el crecimiento del Índice Nacional de Precios al Consumidor reportado por el Banco de México del periodo enero-mayo del citado año y si dicho crecimiento es mayor al 1.00%, las cuotas se incrementarán a partir del mes de julio del citado año en la proporción que represente la variación entre el crecimiento del Índice de referencia y el 1.00% citado.
 El Servicio de Administración Tributaria efectuará los cálculos previstos en este inciso y publicará a más tardar el último día del mes de junio de 2002, en su caso, las nuevas cuotas que se pagarán a partir del mes de julio de 2002.
 
@@ -1583,10 +1648,28 @@ XIII. Lo dispuesto en el Artículo Primero de este Decreto entrará en vigor el 
 XIV. Para los efectos de lo dispuesto en el inciso C) de la fracción I del artículo 2o. de esta Ley, durante los ejercicios fiscales de 2002, 2003 y 2004 en lugar de aplicar las tasas previstas en dicho inciso para los cigarros, se estará a lo siguiente:
 
 a) Cigarros con filtro:
-AÑO TASA 2002 105% 2003 107% 2004 110% 2005 110%
+
+| AÑO | TASA |
+| --- | --- |
+| 2002 | 105% |
+| 2003 | 107% |
+| 2004 | 110% |
+| 2005 | 110% |
+
 
 b) Cigarros sin filtro:
-AÑO TASA 2002 60% 2003 80% 2004 100% 2005 110% Para los efectos de esta fracción, se consideran cigarros sin filtro los populares elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión.
+
+| AÑO | TASA |
+| --- | --- |
+| 2002 | 60% |
+| 2003 | 80% |
+
+
+| 2004 | 100% |
+| --- | --- |
+| 2005 | 110% |
+
+Para los efectos de esta fracción, se consideran cigarros sin filtro los populares elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión.
 Para los efectos de lo dispuesto en el párrafo anterior, durante el año de 2002 son cigarros populares sin filtro los que al 1o. de enero de dicho año tengan un precio máximo al público que no exceda de $0.40 por cigarro. Para los ejercicios fiscales de 2003 y 2004 el precio máximo al público será el que se determine en la Ley de Ingresos de la Federación para el ejercicio fiscal de que se trate.
 México, D.F., a 31 de diciembre de 2001.- Sen. Diego Fernández de Cevallos Ramos, Presidente.Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Sara Castellanos Cortés, Secretario.- Dip.
 Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas".
@@ -1711,13 +1794,29 @@ Se reforma el artículo 2o., fracción I, inciso C), numerales 1 y 2, y se adici
 **Segundo.-** Se derogan y, en su caso, se abrogan, todas las disposiciones que se opongan al presente decreto y se dejan sin efecto todas las disposiciones administrativas, reglamentarias, acuerdos, convenios, circulares y todos los actos administrativos que contradigan a este Decreto.
 **Tercero.-** Para los efectos de lo dispuesto en el artículo 2o., fracción I, inciso C) de esta ley, durante los ejercicios fiscales de 2007 y 2008, en lugar de aplicar las tasas previstas en dicho inciso para la enajenación e importación de cigarros, puros y otros tabacos labrados y, de puros y otros tabacos labrados hechos enteramente a mano, se estará a lo siguiente:
 a) Cigarros:
-AÑO TASA 2007 140% 2008 150%
+
+| AÑO | TASA |
+| --- | --- |
+| 2007 | 140% |
+| 2008 | 150% |
+
 
 b) Puros y otros tabacos labrados:
-AÑO TASA 2007 140% 2008 150%
+
+| AÑO | TASA |
+| --- | --- |
+| 2007 | 140% |
+| 2008 | 150% |
+
 
 c) Puros y otros tabacos labrados hechos enteramente a mano:
-AÑO TASA 2007 26.6% 2008 28.5% México, D.F., a 20 de diciembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+| AÑO | TASA |
+| --- | --- |
+| 2007 | 26.6% |
+| 2008 | 28.5% |
+
+México, D.F., a 20 de diciembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, del Código Fiscal de la Federación, de la Ley del Impuesto establece el Subsidio para el Empleo.
 Publicado en el Diario Oficial de la Federación el 1º de octubre de 2007
 
@@ -1905,7 +2004,20 @@ El factor de actualización aplicable para el año de 2015 a las cuotas de los c
 
 ### ARTÍCULO SEGUNDO
 Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a los combustibles fósiles a que se refiere el artículo 2, fracción I, inciso H) de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2015, son las siguientes:
-Combustibles fósiles Cuota Unidad de medida 1. Propano 6.15 centavos por litro. 2. Butano 7.97 centavos por litro. 3. Gasolinas y gasavión 10.81 centavos por litro. 4. Turbosina y otros kerosenos 12.91 centavos por litro. 5. Diésel 13.11 centavos por litro. 6. Combustóleo 14.00 centavos por litro. 7. Coque de petróleo 16.24 pesos por tonelada. 8. Coque de carbón 38.09 pesos por tonelada. 9. Carbón mineral 28.68 pesos por tonelada. 10. Otros combustibles fósiles 41.45 pesos por tonelada de carbono que contenga el combustible.
+
+| Combustibles fósiles | Cuota | Unidad de medida |
+| --- | --- | --- |
+| 1. Propano | 6.15 | centavos por litro. |
+| 2. Butano | 7.97 | centavos por litro. |
+| 3. Gasolinas y gasavión | 10.81 | centavos por litro. |
+| 4. Turbosina y otros kerosenos | 12.91 | centavos por litro. |
+| 5. Diésel | 13.11 | centavos por litro. |
+| 6. Combustóleo | 14.00 | centavos por litro. |
+| 7. Coque de petróleo | 16.24 | pesos por tonelada. |
+| 8. Coque de carbón | 38.09 | pesos por tonelada. |
+| 9. Carbón mineral | 28.68 | pesos por tonelada. |
+| 10. Otros combustibles fósiles | 41.45 | pesos por tonelada de carbono que contenga el combustible. |
+
 
 ## TRANSITORIO
 
@@ -2337,7 +2449,15 @@ Se reforman los artículos 1o., párrafo tercero; 2o., fracción I, inciso C), p
 **Primero.-** El presente Decreto entrará en vigor el 1 de enero de 2026.
 **Segundo.-** La cuota prevista en el segundo párrafo del inciso C), de la fracción I, del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios del presente Decreto, entrará en vigor el 1 de enero de 2030.
 Durante los ejercicios fiscales de 2026, 2027, 2028 y 2029, las cuotas aplicables serán las siguientes:
-Ejercicio Fiscal Cuota 2026 $0.8516 2027 $0.9197 2028 $0.9932 2029 $1.0726 Las cuotas establecidas en el párrafo anterior, no estarán sujetas a lo dispuesto en el cuarto párrafo del inciso C), de la fracción I, del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+| Ejercicio Fiscal | Cuota |
+| --- | --- |
+| 2026 | $0.8516 |
+| 2027 | $0.9197 |
+| 2028 | $0.9932 |
+| 2029 | $1.0726 |
+
+Las cuotas establecidas en el párrafo anterior, no estarán sujetas a lo dispuesto en el cuarto párrafo del inciso C), de la fracción I, del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
 **Tercero.-** Tratándose de la enajenación de bienes o de la prestación de servicios, que se hayan celebrado con anterioridad a la fecha de la entrada en vigor del presente Decreto, las contraprestaciones correspondientes que se cobren con posterioridad a la fecha mencionada, estarán afectas al pago del impuesto especial sobre producción y servicios de conformidad con las disposiciones vigentes en el momento de su cobro.
 No obstante lo anterior, los contribuyentes podrán acogerse a lo siguiente:
 

@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LFPRH.pdf",
     "dof_publication": "DOF30/03/2006",
     "last_reform": "DOF 16/07/2025",
-    "captured_at": "2026-04-10T01:04:28.570179+00:00"
+    "captured_at": "2026-06-12T02:18:22.713467+00:00"
   },
   "preamble": [
     {
@@ -7352,8 +7352,36 @@
               "text": "Para efectos de determinar el monto de la transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que se realice al Fondo de Extracción de Hidrocarburos conforme a lo dispuesto en el artículo 91 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en lugar de aplicar el factor previsto en dicho precepto, durante los ejercicios fiscales 2015 al 2018 se aplicarán lo siguientes factores:"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "EJERCICIO FISCAL",
+                "FACTOR"
+              ],
+              "rows": [
+                [
+                  "2015",
+                  "0.0080"
+                ],
+                [
+                  "2016",
+                  "0.0082"
+                ],
+                [
+                  "2017",
+                  "0.0084"
+                ],
+                [
+                  "2018",
+                  "0.0085"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 85
+            },
+            {
               "type": "paragraph",
-              "text": "EJERCICIO FISCAL FACTOR 2015 0.0080 2016 0.0082 2017 0.0084 2018 0.0085 ………."
+              "text": "………."
             }
           ],
           "children": []
@@ -7496,8 +7524,41 @@
               "text": "Sin menoscabo de los ingresos que obtenga cada Órgano Regulador Coordinado en Materia Energética por concepto de las contribuciones y aprovechamientos que disponga por los servicios que preste, con el fin de lograr una oportuna y eficaz instrumentación de sus atribuciones, durante el periodo de 2015 a 2018, la Cámara de Diputados realizará las previsiones presupuestales que garanticen que tanto la Comisión Nacional de Hidrocarburos como la Comisión Reguladora de Energía cuenten con los recursos presupuestales conforme se establece en la tabla siguiente:"
             },
             {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "AÑO",
+                "PRESUPUESTO COMISIÓN NACIONAL DE HIDROCARBUROS",
+                "PRESUPUESTO COMISIÓN REGULADORA DE ENERGÍA"
+              ],
+              "rows": [
+                [
+                  "2015",
+                  "350 millones de pesos",
+                  "400 millones de pesos"
+                ],
+                [
+                  "2016",
+                  "320 millones de pesos",
+                  "370 millones de pesos"
+                ],
+                [
+                  "2017",
+                  "290 millones de pesos",
+                  "340 millones de pesos"
+                ],
+                [
+                  "2018",
+                  "240 millones de pesos",
+                  "280 millones de pesos"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 87
+            },
+            {
               "type": "paragraph",
-              "text": "AÑO PRESUPUESTO PRESUPUESTO COMISIÓN NACIONAL DE COMISIÓN REGULADORA HIDROCARBUROS DE ENERGÍA 2015 350 millones de pesos 400 millones de pesos 2016 320 millones de pesos 370 millones de pesos 2017 290 millones de pesos 340 millones de pesos 2018 240 millones de pesos 280 millones de pesos La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia."
+              "text": "La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia."
             },
             {
               "type": "paragraph",

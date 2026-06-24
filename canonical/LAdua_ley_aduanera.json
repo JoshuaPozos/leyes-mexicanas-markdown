@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LAdua.pdf",
     "dof_publication": "DOF15/12/1995",
     "last_reform": "DOF 27/12/2025",
-    "captured_at": "2026-04-10T00:47:55.186292+00:00"
+    "captured_at": "2026-06-12T02:14:55.136816+00:00"
   },
   "preamble": [
     {
@@ -16803,543 +16803,320 @@
               "text": "Cantidades actualizadas establecidas en la Ley:"
             },
             {
-              "type": "paragraph",
-              "text": "Artículo Cantidad"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-16",
-          "heading": "Artículo 16",
-          "descriptor": null,
-          "ordinal": "16",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "$3,632,910.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-16-a",
-          "heading": "Artículo 16-A",
-          "descriptor": null,
-          "ordinal": "16-A",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "paragraph",
-              "text": "Quinto párrafo. $330.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-16-b",
-          "heading": "Artículo 16-B",
-          "descriptor": null,
-          "ordinal": "16-B",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "paragraph",
-              "text": "Último párrafo. $260.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-17",
-          "heading": "Artículo 17",
-          "descriptor": null,
-          "ordinal": "17",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "paragraph",
-              "text": "Último párrafo. $270.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-160",
-          "heading": "Artículo 160",
-          "descriptor": null,
-          "ordinal": "160",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "IX",
-              "text": "$510.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-164",
-          "heading": "Artículo 164",
-          "descriptor": null,
-          "ordinal": "164",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "VII",
-              "text": "$262,210.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-165",
-          "heading": "Artículo 165",
-          "descriptor": null,
-          "ordinal": "165",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "a). $374,610.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "VII",
-              "text": "a). $374,610.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-167-d",
-          "heading": "Artículo 167-D",
-          "descriptor": null,
-          "ordinal": "167-D",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "$672,680.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-167-g",
-          "heading": "Artículo 167-G",
-          "descriptor": null,
-          "ordinal": "167-G",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "IV",
-              "text": "$241,620.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-178",
-          "heading": "Artículo 178",
-          "descriptor": null,
-          "ordinal": "178",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "$7,520.00 a $18,760.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "XII",
-              "text": "$1,500,000.00 a $2,000,000.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "XIII",
-              "text": "$800,000.00 a $1,000,000.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-181",
-          "heading": "Artículo 181",
-          "descriptor": null,
-          "ordinal": "181",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Artículo",
+                "Cantidad"
+              ],
+              "rows": [
+                [
+                  "Artículo 16.",
+                  ""
+                ],
+                [
+                  "II.",
+                  "$3,632,910.00"
+                ],
+                [
+                  "Artículo 16-A.",
+                  ""
+                ],
+                [
+                  "Quinto párrafo.",
+                  "$330.00"
+                ],
+                [
+                  "Artículo 16-B.",
+                  ""
+                ],
+                [
+                  "Último párrafo.",
+                  "$260.00"
+                ],
+                [
+                  "Artículo 17.",
+                  ""
+                ],
+                [
+                  "Último párrafo.",
+                  "$270.00"
+                ],
+                [
+                  "Artículo 160.",
+                  ""
+                ],
+                [
+                  "IX.",
+                  "$510.00"
+                ],
+                [
+                  "Artículo 164.",
+                  ""
+                ],
+                [
+                  "VII.",
+                  "$262,210.00"
+                ],
+                [
+                  "Artículo 165.",
+                  ""
+                ],
+                [
+                  "II. a).",
+                  "$374,610.00"
+                ],
+                [
+                  "VII. a).",
+                  "$374,610.00"
+                ],
+                [
+                  "Artículo 167-D.",
+                  ""
+                ],
+                [
+                  "I.",
+                  "$672,680.00"
+                ],
+                [
+                  "Artículo 167-G.",
+                  ""
+                ],
+                [
+                  "IV.",
+                  "$241,620.00"
+                ],
+                [
+                  "Artículo 178.",
+                  ""
+                ],
+                [
+                  "II.",
+                  "$7,520.00 a $18,760.00"
+                ],
+                [
+                  "XII.",
+                  "$1,500,000.00 a $2,000,000.00"
+                ],
+                [
+                  "XIII.",
+                  "$800,000.00 a $1,000,000.00"
+                ],
+                [
+                  "Artículo 181.",
+                  ""
+                ],
+                [
+                  "Primer párrafo.",
+                  "$1,000.00 a $1,500.00"
+                ],
+                [
+                  "Artículo 183.",
+                  ""
+                ],
+                [
+                  "II.",
+                  "$3,020.00 a $4,560.00"
+                ],
+                [
+                  "V.",
+                  "$112,580.00 a $150,090.00"
+                ],
+                [
+                  "Artículo 184-B.",
+                  ""
+                ],
+                [
+                  "I.",
+                  "$53,500.00 a $106,970.00"
+                ],
+                [
+                  "II.",
+                  "$2,330.00 a $3,320.00"
+                ],
+                [
+                  "Artículo 184-D.",
+                  "$69,900.00 a $109,870.00"
+                ],
+                [
+                  "Artículo 185.",
+                  ""
+                ],
+                [
+                  "I.",
+                  "$4,790.00 a $7,190.00"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 219
             },
             {
               "type": "paragraph",
-              "text": "Primer párrafo. $1,000.00 a $1,500.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-183",
-          "heading": "Artículo 183",
-          "descriptor": null,
-          "ordinal": "183",
-          "content": [
+              "text": "LEY ADUANERA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "II.",
+                "$2,640.00 a $3,750.00"
+              ],
+              "rows": [
+                [
+                  "III.",
+                  "$4,520.00 a $7,560.00"
+                ],
+                [
+                  "IV.",
+                  "$6,060.00 a $9,070.00"
+                ],
+                [
+                  "V.",
+                  "$5,640.00 a $9,390.00"
+                ],
+                [
+                  "VI.",
+                  "$5,630.00 a $9,340.00"
+                ],
+                [
+                  "VIII.",
+                  "$108,170.00 a $162,340.00"
+                ],
+                [
+                  "IX.",
+                  "$302,750.00 a $454,110.00"
+                ],
+                [
+                  "X.",
+                  "$3,750.00 a $5,640.00"
+                ],
+                [
+                  "XI.",
+                  "$11,250.00 a $15,000.00"
+                ],
+                [
+                  "",
+                  "$5,640.00 a $9,390.00"
+                ],
+                [
+                  "XII.",
+                  "$1,890.00 a $3,750.00"
+                ],
+                [
+                  "XV.",
+                  "$5,000.00 a $8,000.00"
+                ],
+                [
+                  "Artículo 185-B.",
+                  "$27,070.00 a $54,180.00"
+                ],
+                [
+                  "Artículo 187.",
+                  ""
+                ],
+                [
+                  "I.",
+                  "$10,830.00 a $14,890.00"
+                ],
+                [
+                  "II.",
+                  "$3,020.00 a $4,560.00"
+                ],
+                [
+                  "IV.",
+                  "$26,790.00 a $40,160.00"
+                ],
+                [
+                  "V.",
+                  "$18,160.00 a $24,200.00"
+                ],
+                [
+                  "VI.",
+                  "$108,320.00 a $162,500.00"
+                ],
+                [
+                  "VIII.",
+                  "$60,570.00 a $121,100.00"
+                ],
+                [
+                  "X.",
+                  "$150,090.00 a $206,370.00"
+                ],
+                [
+                  "XI.",
+                  "$1,890.00 a $3,750.00"
+                ],
+                [
+                  "XII.",
+                  "$677,060.00 a $1,083,330.00"
+                ],
+                [
+                  "XIV.",
+                  "$108,320.00 a $162,500.00"
+                ],
+                [
+                  "XV.",
+                  "$1,354,130.00 a $2,708,280.00"
+                ],
+                [
+                  "Artículo 189.",
+                  ""
+                ],
+                [
+                  "I.",
+                  "$60,570.00 a $90,820.00"
+                ],
+                [
+                  "II.",
+                  "$121,100.00 a $181,650.00"
+                ],
+                [
+                  "Artículo 191.",
+                  ""
+                ],
+                [
+                  "I.",
+                  "$30,280.00 a $45,420.00"
+                ],
+                [
+                  "II.",
+                  "$60,570.00 a $90,820.00"
+                ],
+                [
+                  "III.",
+                  "$6,060.00 a $9,070.00"
+                ],
+                [
+                  "IV.",
+                  "$121,100.00 a $181,650.00"
+                ],
+                [
+                  "Artículo 193.",
+                  ""
+                ],
+                [
+                  "I.",
+                  "$18,160.00 a $24,200.00"
+                ],
+                [
+                  "II.",
+                  "$24,200.00 a $30,280.00"
+                ],
+                [
+                  "III.",
+                  "$24,200.00 a $30,280.00"
+                ],
+                [
+                  "Artículo 200.",
+                  "$90,820.00 a $121,100.00"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 220
+            },
             {
               "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "$3,020.00 a $4,560.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "V",
-              "text": "$112,580.00 a $150,090.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-184-b",
-          "heading": "Artículo 184-B",
-          "descriptor": null,
-          "ordinal": "184-B",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "$53,500.00 a $106,970.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "$2,330.00 a $3,320.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-184-d",
-          "heading": "Artículo 184-D",
-          "descriptor": null,
-          "ordinal": "184-D",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": ". $69,900.00 a $109,870.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-185",
-          "heading": "Artículo 185",
-          "descriptor": null,
-          "ordinal": "185",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "$4,790.00 a $7,190.00 LEY ADUANERA"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "$2,640.00 a $3,750.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "III",
-              "text": "$4,520.00 a $7,560.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "IV",
-              "text": "$6,060.00 a $9,070.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "V",
-              "text": "$5,640.00 a $9,390.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "VI",
-              "text": "$5,630.00 a $9,340.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "VIII",
-              "text": "$108,170.00 a $162,340.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "IX",
-              "text": "$302,750.00 a $454,110.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "X",
-              "text": "$3,750.00 a $5,640.00 $11,250.00 a $15,000.00 XI. $5,640.00 a $9,390.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "XII",
-              "text": "$1,890.00 a $3,750.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "XV",
-              "text": "$5,000.00 a $8,000.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-185-b",
-          "heading": "Artículo 185-B",
-          "descriptor": null,
-          "ordinal": "185-B",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": ". $27,070.00 a $54,180.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-187",
-          "heading": "Artículo 187",
-          "descriptor": null,
-          "ordinal": "187",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "$10,830.00 a $14,890.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "$3,020.00 a $4,560.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "IV",
-              "text": "$26,790.00 a $40,160.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "V",
-              "text": "$18,160.00 a $24,200.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "VI",
-              "text": "$108,320.00 a $162,500.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "VIII",
-              "text": "$60,570.00 a $121,100.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "X",
-              "text": "$150,090.00 a $206,370.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "XI",
-              "text": "$1,890.00 a $3,750.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "XII",
-              "text": "$677,060.00 a $1,083,330.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "XIV",
-              "text": "$108,320.00 a $162,500.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "XV",
-              "text": "$1,354,130.00 a $2,708,280.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-189",
-          "heading": "Artículo 189",
-          "descriptor": null,
-          "ordinal": "189",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "$60,570.00 a $90,820.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "$121,100.00 a $181,650.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-191",
-          "heading": "Artículo 191",
-          "descriptor": null,
-          "ordinal": "191",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "$30,280.00 a $45,420.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "$60,570.00 a $90,820.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "III",
-              "text": "$6,060.00 a $9,070.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "IV",
-              "text": "$121,100.00 a $181,650.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-193",
-          "heading": "Artículo 193",
-          "descriptor": null,
-          "ordinal": "193",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "."
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "$18,160.00 a $24,200.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "$24,200.00 a $30,280.00"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "III",
-              "text": "$24,200.00 a $30,280.00"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "articulo",
-          "id": "transitorios-transitorios.articulo-200",
-          "heading": "Artículo 200",
-          "descriptor": null,
-          "ordinal": "200",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": ". $90,820.00 a $121,100.00 …….."
+              "text": "…….."
             },
             {
               "type": "paragraph",

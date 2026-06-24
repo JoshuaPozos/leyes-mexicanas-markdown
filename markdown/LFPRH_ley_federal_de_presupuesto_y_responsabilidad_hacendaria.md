@@ -1946,7 +1946,15 @@ IV. La reforma al párrafo segundo de la fracción I del artículo 19 de la Ley 
 V. Los recursos remanentes en el Fondo de Apoyo para la Reestructura de Pensiones y el Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos, al 31 de diciembre de 2014, se destinarán a los objetivos para los cuales se crearon dichos Fondos, conforme a las disposiciones aplicables.
 
 VI. Para efectos de determinar el monto de la transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que se realice al Fondo de Extracción de Hidrocarburos conforme a lo dispuesto en el artículo 91 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en lugar de aplicar el factor previsto en dicho precepto, durante los ejercicios fiscales 2015 al 2018 se aplicarán lo siguientes factores:
-EJERCICIO FISCAL FACTOR 2015 0.0080 2016 0.0082 2017 0.0084 2018 0.0085 ……….
+
+| EJERCICIO FISCAL | FACTOR |
+| --- | --- |
+| 2015 | 0.0080 |
+| 2016 | 0.0082 |
+| 2017 | 0.0084 |
+| 2018 | 0.0085 |
+
+……….
 
 ## TRANSITORIOS
 
@@ -1965,7 +1973,15 @@ Como requisito indispensable para que el Gobierno Federal pueda asumir, en los t
 **Quinto.-** Las reformas y derogaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la Ley General de Deuda Pública relacionadas con las empresas productivas del Estado y sus empresas productivas subsidiarias, a que se refiere el presente Decreto, entrarán en vigor respecto de Petróleos Mexicanos y sus organismos subsidiarios y la Comisión Federal de Electricidad, en la fecha en que, conforme a cada una de sus leyes, se dé cumplimiento a lo dispuesto en el párrafo segundo del
 **vigésimo.-** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013.
 **Sexto.-** Sin menoscabo de los ingresos que obtenga cada Órgano Regulador Coordinado en Materia Energética por concepto de las contribuciones y aprovechamientos que disponga por los servicios que preste, con el fin de lograr una oportuna y eficaz instrumentación de sus atribuciones, durante el periodo de 2015 a 2018, la Cámara de Diputados realizará las previsiones presupuestales que garanticen que tanto la Comisión Nacional de Hidrocarburos como la Comisión Reguladora de Energía cuenten con los recursos presupuestales conforme se establece en la tabla siguiente:
-AÑO PRESUPUESTO PRESUPUESTO COMISIÓN NACIONAL DE COMISIÓN REGULADORA HIDROCARBUROS DE ENERGÍA 2015 350 millones de pesos 400 millones de pesos 2016 320 millones de pesos 370 millones de pesos 2017 290 millones de pesos 340 millones de pesos 2018 240 millones de pesos 280 millones de pesos La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia.
+
+| AÑO | PRESUPUESTO COMISIÓN NACIONAL DE HIDROCARBUROS | PRESUPUESTO COMISIÓN REGULADORA DE ENERGÍA |
+| --- | --- | --- |
+| 2015 | 350 millones de pesos | 400 millones de pesos |
+| 2016 | 320 millones de pesos | 370 millones de pesos |
+| 2017 | 290 millones de pesos | 340 millones de pesos |
+| 2018 | 240 millones de pesos | 280 millones de pesos |
+
+La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia.
 México, D.F., a 6 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Responsabilidad Hacendaria.
 Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015

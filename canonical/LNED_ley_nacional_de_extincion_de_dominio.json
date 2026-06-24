@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LNED.pdf",
     "dof_publication": "DOF09/08/2019",
     "last_reform": "DOF 28/11/2025",
-    "captured_at": "2026-04-10T01:40:39.970774+00:00"
+    "captured_at": "2026-06-12T02:33:14.926965+00:00"
   },
   "preamble": [
     {
@@ -6580,48 +6580,134 @@
             {
               "type": "paragraph",
               "text": "SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/228/2021 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veintiuno de junio de dos mil veintiuno, resolvió la acción de inconstitucionalidad 100/2019, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes: “PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad."
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "transitorio_articulo",
-          "id": "transitorios-transitorios.transitorio_articulo-segund",
-          "heading": "SEGUNDO",
-          "descriptor": null,
-          "ordinal": "SEGUNDO",
-          "content": [
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "",
+                "SEGUNDO. Se reconoce la validez de los artículos 7, párrafo primero, fracciones I, II, en sus"
+              ],
+              "rows": [
+                [
+                  "porciones normativas ‘Bienes’ y ‘utilizados para ocultar otros Bienes de origen ilícito, o",
+                  ""
+                ],
+                [
+                  "mezclados material o jurídicamente con Bienes de ilícita procedencia’ y V, en su porción",
+                  ""
+                ],
+                [
+                  "normativa ‘Bienes utilizados para la comisión de hechos ilícitos por un tercero’, 11, párrafo",
+                  ""
+                ],
+                [
+                  "primero, en su porción normativa ‘Para el caso de Bienes de destinación ilícita, la acción",
+                  ""
+                ],
+                [
+                  "prescribirá en veinte años, contados a partir de que el bien se haya destinado a realizar hechos",
+                  ""
+                ],
+                [
+                  "ilícitos’, 15 —con la salvedad precisada en el punto resolutivo tercero—, 16, párrafo primero,",
+                  ""
+                ],
+                [
+                  "fracción II, y 177, párrafo último, de la Ley Nacional de Extinción de Dominio, expedida mediante el",
+                  ""
+                ],
+                [
+                  "Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve,",
+                  ""
+                ],
+                [
+                  "así como del artículo transitorio sexto de dicho decreto, por las razones expuestas en el",
+                  ""
+                ],
+                [
+                  "considerando sexto de esta decisión.",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 60
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "",
+                "TERCERO. Se declara la invalidez de los artículos 1, fracción V, incisos f), párrafo segundo, g),"
+              ],
+              "rows": [
+                [
+                  "párrafo segundo, h), párrafo segundo, i), párrafo segundo, y j), párrafo segundo, 2, fracción XIV,",
+                  ""
+                ],
+                [
+                  "en su porción normativa ‘o bien, el uso o destino lícito de los Bienes vinculados al Hecho Ilícito’,",
+                  ""
+                ],
+                [
+                  "5, párrafo segundo, en su porción normativa ‘La información obtenida por el Ministerio Público",
+                  ""
+                ],
+                [
+                  "para la preparación de la acción de extinción de dominio, será estrictamente reservada hasta que",
+                  ""
+                ],
+                [
+                  "la misma sea presentada ante la autoridad judicial’, 7, párrafo primero, fracciones II, en su porción",
+                  ""
+                ],
+                [
+                  "normativa ‘de procedencia lícita’, IV y V, en su porción normativa ‘si su dueño tuvo conocimiento",
+                  ""
+                ],
+                [
+                  "de ello y no lo notificó a la autoridad por cualquier medio o tampoco hizo algo para impedirlo’, 9,",
+                  ""
+                ],
+                [
+                  "11, párrafo primero, en su porción normativa ‘La acción de extinción de dominio es imprescriptible",
+                  ""
+                ],
+                [
+                  "en el caso de Bienes que sean de origen ilícito’, 15, párrafo primero, en su porción normativa ‘y",
+                  ""
+                ],
+                [
+                  "destino’, y fracciones V y VI, 173, párrafo segundo, en su porción normativa ‘En caso de urgencia",
+                  ""
+                ],
+                [
+                  "u otra necesidad debidamente fundamentada, el Ministerio Público podrá adoptar tales medidas,",
+                  ""
+                ],
+                [
+                  "debiendo someterlas a control judicial posterior tan pronto sea posible’, 190, párrafo quinto, en su",
+                  ""
+                ],
+                [
+                  "porción normativa ‘En los casos en los cuales no se pueda recabar la autorización respectiva, por",
+                  ""
+                ],
+                [
+                  "razón de la hora, del día, de la distancia o del peligro en la demora, se deberá informar y justificar",
+                  ""
+                ],
+                [
+                  "dentro de los cinco días siguientes, ante el órgano jurisdiccional’, y 228, párrafo primero, inciso a),",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 60
+            },
             {
               "type": "paragraph",
-              "text": "Se reconoce la validez de los artículos 7, párrafo primero, fracciones I, II, en sus porciones normativas ‘Bienes’ y ‘utilizados para ocultar otros Bienes de origen ilícito, o mezclados material o jurídicamente con Bienes de ilícita procedencia’ y V, en su porción normativa ‘Bienes utilizados para la comisión de hechos ilícitos por un tercero’, 11, párrafo"
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "transitorio_articulo",
-          "id": "transitorios-transitorios.transitorio_articulo-primer",
-          "heading": "primero",
-          "descriptor": null,
-          "ordinal": "primero",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": ", en su porción normativa ‘Para el caso de Bienes de destinación ilícita, la acción prescribirá en veinte años, contados a partir de que el bien se haya destinado a realizar hechos ilícitos’, 15 —con la salvedad precisada en el punto resolutivo tercero—, 16, párrafo primero, fracción II, y 177, párrafo último, de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve, así como del artículo transitorio sexto de dicho decreto, por las razones expuestas en el considerando sexto de esta decisión."
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "transitorio_articulo",
-          "id": "transitorios-transitorios.transitorio_articulo-tercer",
-          "heading": "TERCERO",
-          "descriptor": null,
-          "ordinal": "TERCERO",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Se declara la invalidez de los artículos 1, fracción V, incisos f), párrafo segundo, g), párrafo segundo, h), párrafo segundo, i), párrafo segundo, y j), párrafo segundo, 2, fracción XIV, en su porción normativa ‘o bien, el uso o destino lícito de los Bienes vinculados al Hecho Ilícito’, 5, párrafo segundo, en su porción normativa ‘La información obtenida por el Ministerio Público para la preparación de la acción de extinción de dominio, será estrictamente reservada hasta que la misma sea presentada ante la autoridad judicial’, 7, párrafo primero, fracciones II, en su porción normativa ‘de procedencia lícita’, IV y V, en su porción normativa ‘si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad por cualquier medio o tampoco hizo algo para impedirlo’, 9, 11, párrafo primero, en su porción normativa ‘La acción de extinción de dominio es imprescriptible en el caso de Bienes que sean de origen ilícito’, 15, párrafo primero, en su porción normativa ‘y destino’, y fracciones V y VI, 173, párrafo segundo, en su porción normativa ‘En caso de urgencia u otra necesidad debidamente fundamentada, el Ministerio Público podrá adoptar tales medidas, debiendo someterlas a control judicial posterior tan pronto sea posible’, 190, párrafo quinto, en su porción normativa ‘En los casos en los cuales no se pueda recabar la autorización respectiva, por razón de la hora, del día, de la distancia o del peligro en la demora, se deberá informar y justificar dentro de los cinco días siguientes, ante el órgano jurisdiccional’, y 228, párrafo primero, inciso a), de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve y, por extensión, la de sus artículos 126, párrafo cuarto, en su porción normativa ‘De igual manera, podrá ofrecer pruebas que permitan establecer la actuación de mala fe de la Parte Demandada y, en su caso, que tuvo conocimiento de la utilización ilícita de los Bienes y que, no obstante, no lo notificó a la autoridad o hizo algo para impedirlo’, y 214, párrafo primero, en su porción normativa ‘si se prueba que su titular conocía la causa que dio origen a la acción de extinción de dominio’, las cuales surtirán sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en los términos precisados en los considerandos sexto y séptimo de esta determinación."
+              "text": "de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve y, por extensión, la de sus artículos 126, párrafo cuarto, en su porción normativa ‘De igual manera, podrá ofrecer pruebas que permitan establecer la actuación de mala fe de la Parte Demandada y, en su caso, que tuvo conocimiento de la utilización ilícita de los Bienes y que, no obstante, no lo notificó a la autoridad o hizo algo para impedirlo’, y 214, párrafo primero, en su porción normativa ‘si se prueba que su titular conocía la causa que dio origen a la acción de extinción de dominio’, las cuales surtirán sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en los términos precisados en los considerandos sexto y séptimo de esta determinación."
             }
           ],
           "children": []

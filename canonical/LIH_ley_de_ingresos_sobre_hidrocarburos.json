@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LIH.pdf",
     "dof_publication": "DOF11/08/2014",
     "last_reform": "DOF 28/12/2025",
-    "captured_at": "2026-04-10T01:32:18.693608+00:00"
+    "captured_at": "2026-06-12T02:28:10.406144+00:00"
   },
   "preamble": [
     {
@@ -986,14 +986,24 @@
                       "text": ".- Los Contratos preverán el pago mensual a favor del Estado Mexicano de la Cuota Contractual para la Fase Exploratoria, por la parte del Área Contractual que no se encuentre en la fase de producción, de conformidad con las siguientes cuotas:"
                     },
                     {
-                      "type": "fraccion",
-                      "ordinal": "I",
-                      "text": "Durante los primeros 60 meses de vigencia del 1,150 pesos por kilómetro cuadrado Contrato"
+                      "type": "table",
+                      "title": null,
+                      "headers": [
+                        "I. Durante los primeros 60 meses de vigencia del Contrato",
+                        "1,150 pesos por kilómetro cuadrado"
+                      ],
+                      "rows": [
+                        [
+                          "II. A partir del mes 61 de vigencia del Contrato y en adelante",
+                          "2,750 pesos por kilómetro cuadrado"
+                        ]
+                      ],
+                      "source_method": "text",
+                      "source_page": 9
                     },
                     {
-                      "type": "fraccion",
-                      "ordinal": "II",
-                      "text": "A partir del mes 61 de vigencia del Contrato y 2,750 pesos por kilómetro cuadrado en adelante Los valores para las cuotas mensuales contempladas en este artículo se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior."
+                      "type": "paragraph",
+                      "text": "Los valores para las cuotas mensuales contempladas en este artículo se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior."
                     }
                   ],
                   "children": []
@@ -3033,8 +3043,32 @@
               "text": "Para los efectos de las fracciones I y II del artículo 41 y los incisos a) y b) de la fracción I del artículo 42 de la Ley de Ingresos sobre Hidrocarburos, en lugar de aplicar los porcentajes contenidos en dichos preceptos, durante los ejercicios fiscales 2015 al 2018 se aplicarán los siguientes porcentajes:"
             },
             {
-              "type": "paragraph",
-              "text": "Ejercicio Fiscal Porcentaje 2015 10.600% 2016 11.075% 2017 11.550% 2018 12.025%"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Ejercicio Fiscal",
+                "Porcentaje"
+              ],
+              "rows": [
+                [
+                  "2015",
+                  "10.600%"
+                ],
+                [
+                  "2016",
+                  "11.075%"
+                ],
+                [
+                  "2017",
+                  "11.550%"
+                ],
+                [
+                  "2018",
+                  "12.025%"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 29
             },
             {
               "type": "fraccion",
@@ -3042,8 +3076,32 @@
               "text": "Para los efectos de los artículos 39 y 42 de la Ley de Ingresos sobre Hidrocarburos, en lugar de aplicar la tasa contenida en el citado artículo 39, durante los ejercicios fiscales 2015 al 2018 se aplicarán las siguientes tasas:"
             },
             {
-              "type": "paragraph",
-              "text": "Ejercicio Fiscal Tasa 2015 70.00% 2016 68.75% 2017 67.50% 2018 66.25%"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Ejercicio Fiscal",
+                "Tasa"
+              ],
+              "rows": [
+                [
+                  "2015",
+                  "70.00%"
+                ],
+                [
+                  "2016",
+                  "68.75%"
+                ],
+                [
+                  "2017",
+                  "67.50%"
+                ],
+                [
+                  "2018",
+                  "66.25%"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 29
             },
             {
               "type": "fraccion",
@@ -3151,14 +3209,20 @@
               "text": ".- ...................................................................................................................................."
             },
             {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "Durante los primeros 60 meses de 1,175.42 pesos por kilómetro vigencia de la Asignación cuadrado"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "A partir del mes 61 de vigencia de la 2,810.78 pesos por kilómetro Asignación y en adelante cuadrado"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "I. Durante los primeros 60 meses de vigencia de la Asignación",
+                "1,175.42 pesos por kilómetro cuadrado"
+              ],
+              "rows": [
+                [
+                  "II. A partir del mes 61 de vigencia de la Asignación y en adelante",
+                  "2,810.78 pesos por kilómetro cuadrado"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 32
             }
           ],
           "children": []
@@ -3284,14 +3348,24 @@
               "text": ".- ...................................................................................................................................."
             },
             {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "Durante los primeros 60 meses de vigencia de la 1,214.21 pesos por kilómetro cuadrado Asignación"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "I. Durante los primeros 60 meses de vigencia de la Asignación",
+                "1,214.21 pesos por kilómetro cuadrado"
+              ],
+              "rows": [
+                [
+                  "II. A partir del mes 61 de vigencia de la Asignación y en adelante",
+                  "2,903.54 pesos por kilómetro cuadrado"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 34
             },
             {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "A partir del mes 61 de vigencia de la Asignación 2,903.54 pesos por kilómetro cuadrado y en adelante .........................................................................................................................................................."
+              "type": "paragraph",
+              "text": ".........................................................................................................................................................."
             }
           ],
           "children": []
@@ -3349,14 +3423,24 @@
               "text": ".- ...................................................................................................................................."
             },
             {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "Durante los primeros 60 meses de vigencia de la 1,355.82 pesos por kilómetro cuadrado Asignación"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "I. Durante los primeros 60 meses de vigencia de la Asignación",
+                "1,355.82 pesos por kilómetro cuadrado"
+              ],
+              "rows": [
+                [
+                  "II. A partir del mes 61 de vigencia de la Asignación y en adelante",
+                  "3,242.17 pesos por kilómetro cuadrado"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 35
             },
             {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "A partir del mes 61 de vigencia de la Asignación 3,242.17 pesos por kilómetro cuadrado y en adelante .........................................................................................................................................................."
+              "type": "paragraph",
+              "text": ".........................................................................................................................................................."
             }
           ],
           "children": []
@@ -3486,14 +3570,24 @@
               "text": ".- ...................................................................................................................................."
             },
             {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "Durante los primeros 60 meses de vigencia de la 1,396.09 pesos por kilómetro cuadrado Asignación"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "I. Durante los primeros 60 meses de vigencia de la Asignación",
+                "1,396.09 pesos por kilómetro cuadrado"
+              ],
+              "rows": [
+                [
+                  "II. A partir del mes 61 de vigencia de la Asignación y en adelante",
+                  "3,338.46 pesos por kilómetro cuadrado"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 37
             },
             {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "A partir del mes 61 de vigencia de la Asignación 3,338.46 pesos por kilómetro cuadrado y en adelante .........................................................................................................................................................."
+              "type": "paragraph",
+              "text": ".........................................................................................................................................................."
             }
           ],
           "children": []
@@ -3555,14 +3649,24 @@
               "text": ".-..........................................................."
             },
             {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "Durante los primeros 60 meses de vigencia 1,442.57 pesos por kilómetro cuadrado de la Asignación"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "I. Durante los primeros 60 meses de vigencia de la Asignación",
+                "1,442.57 pesos por kilómetro cuadrado"
+              ],
+              "rows": [
+                [
+                  "II. A partir del mes 61 de vigencia de la Asignación y en adelante",
+                  "3,449.63 pesos por kilómetro cuadrado"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 38
             },
             {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "A partir del mes 61 de vigencia de la 3,449.63 pesos por kilómetro cuadrado Asignación y en adelante ..............................................................................................."
+              "type": "paragraph",
+              "text": "..............................................................................................."
             }
           ],
           "children": []
@@ -3624,14 +3728,24 @@
               "text": ".-..........................................................."
             },
             {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "Durante los primeros 60 meses de vigencia 1,548.88 pesos por kilómetro cuadrado de la Asignación"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "I. Durante los primeros 60 meses de vigencia de la Asignación",
+                "1,548.88 pesos por kilómetro cuadrado"
+              ],
+              "rows": [
+                [
+                  "II. A partir del mes 61 de vigencia de la Asignación y en adelante",
+                  "3,703.86 pesos por kilómetro cuadrado"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 39
             },
             {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "A partir del mes 61 de vigencia de la 3,703.86 pesos por kilómetro cuadrado Asignación y en adelante ..............................................................................................."
+              "type": "paragraph",
+              "text": "..............................................................................................."
             }
           ],
           "children": []
@@ -3701,14 +3815,24 @@
               "text": ".- ...................................................................................................................................."
             },
             {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "Durante los primeros 60 meses de vigencia de la 1,669.53 pesos por kilómetro cuadrado Asignación"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "I. Durante los primeros 60 meses de vigencia de la Asignación",
+                "1,669.53 pesos por kilómetro cuadrado"
+              ],
+              "rows": [
+                [
+                  "II. A partir del mes 61 de vigencia de la Asignación y en adelante",
+                  "3,992.39 pesos por kilómetro cuadrado"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 40
             },
             {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "A partir del mes 61 de vigencia de la Asignación 3,992.39 pesos por kilómetro cuadrado y en adelante .........................................................................................................................................................."
+              "type": "paragraph",
+              "text": ".........................................................................................................................................................."
             }
           ],
           "children": []
@@ -3770,14 +3894,24 @@
               "text": ".- .................................................................................................................."
             },
             {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "Durante los primeros 60 meses de vigencia de la 1,741.65 pesos por Asignación kilómetro cuadrado"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "I. Durante los primeros 60 meses de vigencia de la Asignación",
+                "1,741.65 pesos por kilómetro cuadrado"
+              ],
+              "rows": [
+                [
+                  "II. A partir del mes 61 de vigencia de la Asignación y en adelante",
+                  "4,164.86 pesos por kilómetro cuadrado"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 41
             },
             {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "A partir del mes 61 de vigencia de la Asignación y 4,164.86 pesos por en adelante kilómetro cuadrado ......................................................................................................................................."
+              "type": "paragraph",
+              "text": "......................................................................................................................................."
             },
             {
               "type": "fraccion",
@@ -3848,14 +3982,24 @@
               "text": ".- ......................................................................................................................."
             },
             {
-              "type": "fraccion",
-              "ordinal": "I",
-              "text": "Durante los primeros 60 meses de vigencia de 1,820.72 pesos por kilómetro la Asignación cuadrado"
+              "type": "table",
+              "title": null,
+              "headers": [
+                "I. Durante los primeros 60 meses de vigencia de la Asignación",
+                "1,820.72 pesos por kilómetro cuadrado"
+              ],
+              "rows": [
+                [
+                  "II. A partir del mes 61 de vigencia de la Asignación y en adelante",
+                  "4,353.94 pesos por kilómetro cuadrado"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 42
             },
             {
-              "type": "fraccion",
-              "ordinal": "II",
-              "text": "A partir del mes 61 de vigencia de la 4,353.94 pesos por kilómetro Asignación y en adelante cuadrado ............................................................................................................................................."
+              "type": "paragraph",
+              "text": "............................................................................................................................................."
             },
             {
               "type": "fraccion",

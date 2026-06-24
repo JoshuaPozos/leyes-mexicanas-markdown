@@ -9,7 +9,7 @@
     "pdf_filename_origen": "LFISAN.pdf",
     "dof_publication": "DOF30/12/1996",
     "last_reform": "DOF 28/12/2025",
-    "captured_at": "2026-04-10T01:01:11.787121+00:00"
+    "captured_at": "2026-06-12T02:16:34.364223+00:00"
   },
   "preamble": [
     {
@@ -169,7 +169,55 @@
         },
         {
           "type": "paragraph",
-          "text": "TARIFA Límite Inferior Límite Superior Cuota fija Por ciento para aplicarse sobre el excedente del Límite inferior $ $ $ % 0.01 383,940.35 0.00 2.0 383,940.36 460,728.35 7,678.67 5.0 460,728.36 537,516.64 11,518.25 10.0 537,516.65 691,092.34 19,197.04 15.0 691,092.35 En adelante 42,233.35 17.0 Cantidades de la Tabla actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024. Fe de erratas DOF 10-01-2025. Cantidades actualizadas DOF 28-12-2025 Si el precio del automóvil es superior a $1,060,189.93, se reducirá del monto del impuesto determinado, la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y $1,060,189.93."
+          "text": "TARIFA"
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "Límite Inferior $",
+            "Límite Superior $",
+            "Cuota fija $",
+            "Por ciento para aplicarse sobre el excedente del Límite inferior %"
+          ],
+          "rows": [
+            [
+              "0.01",
+              "383,940.35",
+              "0.00",
+              "2.0"
+            ],
+            [
+              "383,940.36",
+              "460,728.35",
+              "7,678.67",
+              "5.0"
+            ],
+            [
+              "460,728.36",
+              "537,516.64",
+              "11,518.25",
+              "10.0"
+            ],
+            [
+              "537,516.65",
+              "691,092.34",
+              "19,197.04",
+              "15.0"
+            ],
+            [
+              "691,092.35",
+              "En adelante",
+              "42,233.35",
+              "17.0"
+            ]
+          ],
+          "source_method": "text",
+          "source_page": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "Cantidades de la Tabla actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024. Fe de erratas DOF 10-01-2025. Cantidades actualizadas DOF 28-12-2025 Si el precio del automóvil es superior a $1,060,189.93, se reducirá del monto del impuesto determinado, la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y $1,060,189.93."
         },
         {
           "type": "paragraph",
@@ -1765,7 +1813,55 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para $ $ $ aplicarse sobre el excedente del límite inferior % 0.01 239,106.98 0.00 2.0 239,106.99 286,928.32 4,782.06 5.0 286,928.33 334,749.85 7,173.24 10.0 334,749.86 430,392.38 11,955.37 15.0 430,392.39 En adelante 26,301.72 17.0 Si el precio del automóvil es superior a $660,255.71 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $660,255.71 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2016."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "Tasa para aplicarse sobre el excedente del límite inferior %"
+              ],
+              "rows": [
+                [
+                  "0.01",
+                  "239,106.98",
+                  "0.00",
+                  "2.0"
+                ],
+                [
+                  "239,106.99",
+                  "286,928.32",
+                  "4,782.06",
+                  "5.0"
+                ],
+                [
+                  "286,928.33",
+                  "334,749.85",
+                  "7,173.24",
+                  "10.0"
+                ],
+                [
+                  "334,749.86",
+                  "430,392.38",
+                  "11,955.37",
+                  "15.0"
+                ],
+                [
+                  "430,392.39",
+                  "En adelante",
+                  "26,301.72",
+                  "17.0"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 30
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $660,255.71 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $660,255.71 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2016."
             }
           ],
           "children": []
@@ -1863,7 +1959,82 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 246,423.65 0.00 2.0 246,423.66 295,708.33 4,928.39 5.0 295,708.34 344,993.20 7,392.74 10.0 344,993.21 443,562.39 12,321.20 15.0 443,562.40 En adelante 27,106.55 17.0 Si el precio del automóvil es superior a $680,459.53 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $680,459.53 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2017."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "sobre el excedente"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "246,423.65",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "246,423.66",
+                  "295,708.33",
+                  "4,928.39",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "295,708.34",
+                  "344,993.20",
+                  "7,392.74",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "344,993.21",
+                  "443,562.39",
+                  "12,321.20",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "443,562.40",
+                  "En adelante",
+                  "27,106.55",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 32
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $680,459.53 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $680,459.53 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2017."
             }
           ],
           "children": []
@@ -1907,7 +2078,61 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el excedente del límite inferior $ $ $ % 0.01 262,120.84 0.00 2.0 262,120.85 314,544.95 5,242.33 5.0 314,544.96 366,969.27 7,863.66 10.0 366,969.28 471,817.31 13,106.06 15.0 471,817.32 En adelante 28,833.24 17.0 Si el precio del automóvil es superior a $723,804.80 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $723,804.80 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2018."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior",
+                "Límite superior",
+                "Cuota fija",
+                "Tasa para aplicarse sobre el excedente del límite inferior"
+              ],
+              "rows": [
+                [
+                  "$",
+                  "$",
+                  "$",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "262,120.84",
+                  "0.00",
+                  "2.0"
+                ],
+                [
+                  "262,120.85",
+                  "314,544.95",
+                  "5,242.33",
+                  "5.0"
+                ],
+                [
+                  "314,544.96",
+                  "366,969.27",
+                  "7,863.66",
+                  "10.0"
+                ],
+                [
+                  "366,969.28",
+                  "471,817.31",
+                  "13,106.06",
+                  "15.0"
+                ],
+                [
+                  "471,817.32",
+                  "En adelante",
+                  "28,833.24",
+                  "17.0"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 33
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $723,804.80 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $723,804.80 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2018."
             }
           ],
           "children": []
@@ -1951,7 +2176,82 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 274,964.76 0.00 2.0 274,964.77 329,957.65 5,499.20 5.0 329,957.66 384,950.76 8,248.98 10.0 384,950.77 494,936.36 13,748.26 15.0 494,936.37 En adelante 30,246.07 17.0 Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "sobre el excedente"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "274,964.76",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "274,964.77",
+                  "329,957.65",
+                  "5,499.20",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "329,957.66",
+                  "384,950.76",
+                  "8,248.98",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "384,950.77",
+                  "494,936.36",
+                  "13,748.26",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "494,936.37",
+                  "En adelante",
+                  "30,246.07",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 34
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019."
             }
           ],
           "children": []
@@ -1995,7 +2295,82 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 274,964.76 0.00 2.0 274,964.77 329,957.65 5,499.20 5.0 329,957.66 384,950.76 8,248.98 10.0 384,950.77 494,936.36 13,748.26 15.0 494,936.37 En adelante 30,246.07 17.0 Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "sobre el excedente"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "274,964.76",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "274,964.77",
+                  "329,957.65",
+                  "5,499.20",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "329,957.66",
+                  "384,950.76",
+                  "8,248.98",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "384,950.77",
+                  "494,936.36",
+                  "13,748.26",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "494,936.37",
+                  "En adelante",
+                  "30,246.07",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 35
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019."
             }
           ],
           "children": []
@@ -2039,7 +2414,82 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 283,241.20 0.00 2.0 283,241.21 339,889.38 5,664.73 5.0 339,889.39 396,537.78 8,497.27 10.0 396,537.79 509,833.94 14,162.08 15.0 509,833.95 En adelante 31,156.48 17.0 Si el precio del automóvil es superior a $782,125.30 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $782,125.30 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2020."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "sobre el excedente"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "283,241.20",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "283,241.21",
+                  "339,889.38",
+                  "5,664.73",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "339,889.39",
+                  "396,537.78",
+                  "8,497.27",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "396,537.79",
+                  "509,833.94",
+                  "14,162.08",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "509,833.95",
+                  "En adelante",
+                  "31,156.48",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 36
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $782,125.30 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $782,125.30 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2020."
             }
           ],
           "children": []
@@ -2083,7 +2533,89 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para $ $ $ aplicarse sobre el excedente del límite inferior % 0.01 294,797.44 0.00 2.0 294,797.45 353,756.87 5,895.85 5.0 353,756.88 412,716.52 8,843.96 10.0 412,716.53 530,635.16 14,739.89 15.0 530,635.17 En adelante 32,427.66 17.0 Si el precio del automóvil es superior a $814,036.01 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $814,036.01 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2021."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "aplicarse sobre el"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "excedente del"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "294,797.44",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "294,797.45",
+                  "353,756.87",
+                  "5,895.85",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "353,756.88",
+                  "412,716.52",
+                  "8,843.96",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "412,716.53",
+                  "530,635.16",
+                  "14,739.89",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "530,635.17",
+                  "En adelante",
+                  "32,427.66",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 37
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $814,036.01 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $814,036.01 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2021."
             }
           ],
           "children": []
@@ -2199,7 +2731,82 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 313,163.32 0.00 2.0 313,163.33 375,795.92 6,263.16 5.0 375,795.93 438,428.76 9,394.94 10.0 438,428.77 563,693.73 15,658.19 15.0 563,693.74 En adelante 34,447.90 17.0 Si el precio del automóvil es superior a $864,750.45 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $864,750.45 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2022."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "sobre el excedente"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "313,163.32",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "313,163.33",
+                  "375,795.92",
+                  "6,263.16",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "375,795.93",
+                  "438,428.76",
+                  "9,394.94",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "438,428.77",
+                  "563,693.73",
+                  "15,658.19",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "563,693.74",
+                  "En adelante",
+                  "34,447.90",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 39
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $864,750.45 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $864,750.45 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2022."
             }
           ],
           "children": []
@@ -2251,7 +2858,82 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 339,469.04 0.00 2.0 339,469.05 407,362.78 6,789.27 5.0 407,362.79 475,256.78 10,184.11 10.0 475,256.79 611,044.00 16,973.48 15.0 611,044.01 En adelante 37,341.52 17.0 Si el precio del automóvil es superior a $937,389.49 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $937,389.49 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2023."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "sobre el excedente"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "339,469.04",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "339,469.05",
+                  "407,362.78",
+                  "6,789.27",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "407,362.79",
+                  "475,256.78",
+                  "10,184.11",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "475,256.79",
+                  "611,044.00",
+                  "16,973.48",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "611,044.01",
+                  "En adelante",
+                  "37,341.52",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 40
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $937,389.49 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $937,389.49 B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2023."
             }
           ],
           "children": []
@@ -2295,7 +2977,82 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 353,896.47 0.00 2.0 353,896.48 424,675.70 7,077.81 5.0 424,675.71 495,455.19 10,616.93 10.0 495,455.20 637,013.37 17,694.85 15.0 637,013.38 En adelante 38,928.53 17.0 Si el precio del automóvil es superior a $ 977,228.54 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $ 977,228.54 B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2024."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "sobre el excedente"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "353,896.47",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "353,896.48",
+                  "424,675.70",
+                  "7,077.81",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "424,675.71",
+                  "495,455.19",
+                  "10,616.93",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "495,455.20",
+                  "637,013.37",
+                  "17,694.85",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "637,013.38",
+                  "En adelante",
+                  "38,928.53",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 41
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $ 977,228.54 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $ 977,228.54 B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2024."
             }
           ],
           "children": []
@@ -2339,7 +3096,75 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el $ $ $ excedente del límite inferior % 0.01 370,741.94 0.00 2.0 370,741.95 444,890.26 7,414.71 5.0 444,890.27 519,038.86 11,122.30 10.0 519,038.87 667,335.21 18,537.12 15.0 667,335.22 En adelante 40,718.53 17.0 Si el precio del automóvil es superior a $1,023,744.62 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,023,744.62."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse sobre el"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "excedente del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "370,741.94",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "370,741.95",
+                  "444,890.26",
+                  "7,414.71",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "444,890.27",
+                  "519,038.86",
+                  "11,122.30",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "519,038.87",
+                  "667,335.21",
+                  "18,537.12",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "667,335.22",
+                  "En adelante",
+                  "40,718.53",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 42
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $1,023,744.62 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,023,744.62."
             },
             {
               "type": "paragraph",
@@ -2395,7 +3220,75 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el $ $ $ excedente del límite inferior % ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... 667,335.22 En adelante 40,718.53 17.0 ..."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse sobre el"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "excedente del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "...............",
+                  "...............",
+                  "...............",
+                  "...............",
+                  ""
+                ],
+                [
+                  "...............",
+                  "...............",
+                  "...............",
+                  "...............",
+                  ""
+                ],
+                [
+                  "...............",
+                  "...............",
+                  "...............",
+                  "...............",
+                  ""
+                ],
+                [
+                  "...............",
+                  "...............",
+                  "...............",
+                  "...............",
+                  ""
+                ],
+                [
+                  "667,335.22",
+                  "En adelante",
+                  "40,718.53",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 43
+            },
+            {
+              "type": "paragraph",
+              "text": "..."
             },
             {
               "type": "paragraph",
@@ -2407,7 +3300,75 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el $ $ $ excedente del límite inferior % ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... ............... 667,335.22 En adelante 40,781.53 17.0 ..."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse sobre el"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "excedente del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "...............",
+                  "...............",
+                  "...............",
+                  "...............",
+                  ""
+                ],
+                [
+                  "...............",
+                  "...............",
+                  "...............",
+                  "...............",
+                  ""
+                ],
+                [
+                  "...............",
+                  "...............",
+                  "...............",
+                  "...............",
+                  ""
+                ],
+                [
+                  "...............",
+                  "...............",
+                  "...............",
+                  "...............",
+                  ""
+                ],
+                [
+                  "667,335.22",
+                  "En adelante",
+                  "40,781.53",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 43
+            },
+            {
+              "type": "paragraph",
+              "text": "..."
             },
             {
               "type": "paragraph",
@@ -2427,7 +3388,82 @@
             },
             {
               "type": "paragraph",
-              "text": "TARIFA Límite inferior Límite superior Cuota fija Tasa para aplicarse $ $ $ sobre el excedente del límite inferior % 0.01 383,940.35 0.00 2.0 383,940.36 460,728.35 7,678.67 5.0 460,728.36 537,516.64 11,518.25 10.0 537,516.65 691,092.34 19,197.04 15.0 691,092.35 En adelante 42,233.35 17.0 Si el precio del automóvil es superior a $1,060,189.93 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,060,189.93 B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2026."
+              "text": "TARIFA"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "Límite inferior $",
+                "Límite superior $",
+                "Cuota fija $",
+                "",
+                "Tasa para aplicarse"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "sobre el excedente"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "del límite inferior"
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "%"
+                ],
+                [
+                  "0.01",
+                  "383,940.35",
+                  "0.00",
+                  "2.0",
+                  ""
+                ],
+                [
+                  "383,940.36",
+                  "460,728.35",
+                  "7,678.67",
+                  "5.0",
+                  ""
+                ],
+                [
+                  "460,728.36",
+                  "537,516.64",
+                  "11,518.25",
+                  "10.0",
+                  ""
+                ],
+                [
+                  "537,516.65",
+                  "691,092.34",
+                  "19,197.04",
+                  "15.0",
+                  ""
+                ],
+                [
+                  "691,092.35",
+                  "En adelante",
+                  "42,233.35",
+                  "17.0",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 44
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el precio del automóvil es superior a $1,060,189.93 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,060,189.93 B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2026."
             }
           ],
           "children": []
