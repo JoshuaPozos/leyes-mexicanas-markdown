@@ -136,6 +136,10 @@ class TestDiffCatalog:
 def isolate_state(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> Path:
     monkeypatch.setattr(dl, "STATE_PATH", tmp_path / "estado.json")
     monkeypatch.setattr(dl, "CATALOG_PATH", tmp_path / "catalogo.json")
+    monkeypatch.setattr(dl, "ORIGEN_DIR", tmp_path / "origen-docs")
+    monkeypatch.setattr(dl, "ROOT", tmp_path)
+    monkeypatch.setattr(dl.time, "sleep", lambda _s: None)
+    (tmp_path / "origen-docs").mkdir()
     return tmp_path
 
 
@@ -246,3 +250,186 @@ class TestMainCheckExit:
         monkeypatch.setattr(sys, "argv", ["download_leyes.py", "--init-snapshot"])
         dl.main()  # no debe lanzar ni descargar
         assert (isolate_state / "estado.json").exists()
+
+    def test_main_rejects_multiple_modes(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        monkeypatch.setattr(sys, "argv", ["download_leyes.py", "--check", "--apply"])
+        with pytest.raises(SystemExit) as exc:
+            dl.main()
+        assert exc.value.code == 2
+
+
+def _ok_download(url: str, dest: object, *a: object, **k: object) -> str:
+    Path(dest).write_bytes(b"%PDF-fake")  # type: ignore[arg-type]
+    return "b" * 64
+
+
+def _seed_catalog(laws: list[dict]) -> None:
+    """Escribe catalogo.json (lista de leyes) en la ruta aislada por el fixture."""
+    dl.CATALOG_PATH.write_text(
+        json.dumps(laws, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
+def _snapshot_then_change_first(
+    monkeypatch: pytest.MonkeyPatch, reforma: str = "DOF 31/12/2025"
+) -> list[dict]:
+    """Graba snapshot + catálogo con _enough_laws() y devuelve una copia con la
+    1ª ley (key 'l0') reformada — para que run_apply vea exactamente 1 CAMBIADA."""
+    laws = _enough_laws()
+    monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+    dl.init_snapshot()
+    _seed_catalog(laws)
+    changed = [dict(law) for law in laws]
+    changed[0]["ultima_reforma"] = reforma
+    monkeypatch.setattr(dl, "fetch_index", lambda: changed)
+    return changed
+
+
+class TestRunApply:
+    def test_missing_state_returns_2(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        monkeypatch.setattr(
+            dl, "fetch_index", lambda: pytest.fail("no debe fetchear sin estado")
+        )
+        assert dl.run_apply() == 2
+
+    def test_no_deltas_returns_0(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        laws = _enough_laws()
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+        dl.init_snapshot()
+        _seed_catalog(laws)
+        assert dl.run_apply() == 0
+
+    def test_missing_catalog_returns_2(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        laws = _enough_laws()
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+        dl.init_snapshot()  # hay estado pero NO catálogo
+        assert dl.run_apply() == 2
+
+    def test_upserts_catalog_for_changed_law(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        _snapshot_then_change_first(monkeypatch)
+        monkeypatch.setattr(dl, "download_pdf", _ok_download)
+        dl.run_apply()
+        catalog = json.loads(
+            (isolate_state / "catalogo.json").read_text(encoding="utf-8")
+        )
+        entry = next(c for c in catalog if c["md_slug"] == "L0")
+        # B1: el catálogo (fuente de verdad de gen_indice/pdf_to_md) se refrescó.
+        assert entry["ultima_reforma"] == "DOF 31/12/2025"
+        assert entry["sha256"] == "b" * 64
+        assert len(catalog) == len(_enough_laws())  # sin duplicar
+
+    def test_md_slug_rename_orphans_old_and_dedups_catalog(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        # 1ª ley cambia su md_slug (reforma de nombre): el PDF viejo existe.
+        laws = _enough_laws()
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+        dl.init_snapshot()
+        _seed_catalog(laws)
+        (isolate_state / "origen-docs" / "L0.pdf").write_bytes(b"%PDF-viejo")
+
+        changed = [dict(law) for law in laws]
+        changed[0] = {**changed[0], "md_slug": "L0_renombrada",
+                      "pdf_filename": "L0_renombrada.pdf",
+                      "ultima_reforma": "DOF 31/12/2025"}
+        monkeypatch.setattr(dl, "fetch_index", lambda: changed)
+        monkeypatch.setattr(dl, "download_pdf", _ok_download)
+
+        dl.run_apply()
+        # el PDF viejo se marcó .orphan; el nuevo se descargó
+        assert (isolate_state / "origen-docs" / "L0.pdf.orphan").exists()
+        assert (isolate_state / "origen-docs" / "L0_renombrada.pdf").exists()
+        # catálogo: sin la entrada vieja, con la nueva, sin duplicar el total
+        catalog = json.loads((isolate_state / "catalogo.json").read_text(encoding="utf-8"))
+        md_slugs = [c["md_slug"] for c in catalog]
+        assert "L0" not in md_slugs
+        assert "L0_renombrada" in md_slugs
+        assert len(catalog) == len(laws)
+
+    def test_delta_out_creates_missing_parent_dir(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        _snapshot_then_change_first(monkeypatch)
+        monkeypatch.setattr(dl, "download_pdf", _ok_download)
+        nested = isolate_state / "sub" / "dir" / "delta.txt"
+        assert dl.run_apply(delta_path=nested) == 10
+        assert nested.exists()  # B4: no revienta tras avanzar estado
+
+
+class TestLedgerRobustness:
+    def test_load_state_aborts_on_corrupt_json(
+        self, isolate_state: Path
+    ) -> None:
+        (isolate_state / "estado.json").write_text("{no es json", encoding="utf-8")
+        with pytest.raises(SystemExit) as exc:
+            dl.load_state()
+        assert exc.value.code == 2  # B2: error claro, no stacktrace
+
+    def test_save_state_is_atomic_and_roundtrips(
+        self, isolate_state: Path
+    ) -> None:
+        entries = [{"key": "a", "ultima_reforma_raw": "x"}]
+        dl.save_state(entries)
+        assert dl.load_state() == entries
+        # sin temporal residual
+        assert not (isolate_state / "estado.json.tmp").exists()
+
+    def test_dry_run_does_not_download(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        _snapshot_then_change_first(monkeypatch)
+        monkeypatch.setattr(
+            dl, "download_pdf", lambda *a, **k: pytest.fail("dry-run no descarga")
+        )
+        assert dl.run_apply(dry_run=True) == 10
+
+    def test_downloads_changed_and_writes_delta_and_drift(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        _snapshot_then_change_first(monkeypatch)
+        monkeypatch.setattr(dl, "download_pdf", _ok_download)
+
+        assert dl.run_apply() == 10
+
+        delta = (isolate_state / "delta.txt").read_text(encoding="utf-8").split()
+        assert delta == ["L0"]
+        drift = (isolate_state / "expected_drift.txt").read_text(encoding="utf-8")
+        assert "L0" in drift and "DOF 31/12/2025" in drift
+        # estado avanzó solo la ley descargada
+        state = json.loads((isolate_state / "estado.json").read_text(encoding="utf-8"))
+        l0 = next(e for e in state if e["key"] == "l0")
+        assert l0["ultima_reforma_raw"] == "DOF 31/12/2025"
+        assert l0["pdf_sha256"] == "b" * 64
+        # el PDF se descargó a origen-docs con nombre {md_slug}.pdf
+        assert (isolate_state / "origen-docs" / "L0.pdf").exists()
+
+    def test_advances_only_on_download_success(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        _snapshot_then_change_first(monkeypatch)
+        monkeypatch.setattr(dl, "download_pdf", lambda *a, **k: None)  # falla
+
+        dl.run_apply()
+        state = json.loads((isolate_state / "estado.json").read_text(encoding="utf-8"))
+        l0 = next(e for e in state if e["key"] == "l0")
+        assert l0["ultima_reforma_raw"] == "DOF 01/01/2025"  # NO avanzó
+        assert (isolate_state / "delta.txt").read_text(encoding="utf-8").strip() == ""
+
+    def test_resumable_second_run_sees_no_change(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        _snapshot_then_change_first(monkeypatch)
+        monkeypatch.setattr(dl, "download_pdf", _ok_download)
+        assert dl.run_apply() == 10
+        # el estado ya avanzó → una segunda corrida no ve deltas
+        assert dl.run_apply() == 0

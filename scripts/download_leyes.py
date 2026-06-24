@@ -14,6 +14,7 @@ import argparse
 import datetime
 import hashlib
 import json
+import os
 import re
 import sys
 import time
@@ -328,18 +329,35 @@ def diff_catalog(old_entries: list[dict], new_entries: list[dict]) -> dict:
     return {"changed": changed, "added": added, "removed": removed}
 
 
+def _atomic_write_json(path: Path, data: object) -> None:
+    """Escribe JSON de forma atómica: archivo temporal + os.replace (atómico en
+    el mismo FS). Evita dejar el ledger truncado si el proceso muere a media
+    escritura (estado.json/catalogo.json no están en git → no hay rollback)."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    os.replace(tmp, path)
+
+
 def load_state() -> list[dict] | None:
-    """Lee estado.json (lista de entradas) o None si no existe."""
+    """Lee estado.json (lista de entradas) o None si no existe. Aborta con un
+    mensaje claro (no un stacktrace) si el archivo está corrupto."""
     if not STATE_PATH.exists():
         return None
-    return json.loads(STATE_PATH.read_text(encoding="utf-8"))
+    try:
+        return json.loads(STATE_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError) as e:
+        print(
+            f"❌ {STATE_PATH.name} está ilegible/corrupto ({e}). "
+            f"Regenera con --init-snapshot.",
+            file=sys.stderr,
+        )
+        raise SystemExit(2) from e
 
 
 def save_state(entries: list[dict]) -> None:
-    """Escribe estado.json con el mismo formato que catalogo.json (sin newline final)."""
-    STATE_PATH.write_text(
-        json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    """Escribe estado.json atómicamente, mismo formato que catalogo.json."""
+    _atomic_write_json(STATE_PATH, entries)
 
 
 def _format_delta_report(diff: dict) -> str:
@@ -407,6 +425,163 @@ def run_check(report_path: Path | None = None) -> int:
         print(f"\n📝 Reporte escrito en {report_path}.")
     total = len(diff["changed"]) + len(diff["added"]) + len(diff["removed"])
     return 10 if total else 0
+
+
+def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
+    """Descarga SOLO las leyes cambiadas+altas (diff vs estado.json), avanza el
+    estado Y el catálogo por ley descargada con éxito, y escribe `delta.txt`
+    (md_slugs a reconvertir) + `expected_drift.txt`. NO reconvierte — eso lo hace
+    `batch_convert.py --only-slugs delta.txt`. Refrescar el catálogo es clave:
+    gen_indice y pdf_to_md lo leen como fuente de verdad (índice + metadata).
+    Las BAJAS no se tocan aquí (F4). Exit 0/2/10."""
+    state = load_state()
+    if state is None:
+        print(
+            f"❌ No existe {STATE_PATH.name}. Corre primero: "
+            f"python scripts/download_leyes.py --init-snapshot",
+            file=sys.stderr,
+        )
+        return 2
+    if not CATALOG_PATH.exists():
+        print(f"❌ No existe {CATALOG_PATH.name}; --apply requiere el catálogo.", file=sys.stderr)
+        return 2
+    try:
+        catalog = json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"❌ {CATALOG_PATH.name} ilegible/corrupto ({e}).", file=sys.stderr)
+        return 2
+    try:
+        laws = fetch_index()
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError) as e:
+        print(f"❌ Fetch del índice falló ({e}); inconcluso.", file=sys.stderr)
+        return 2
+    if len(laws) < MIN_SANE_LAW_COUNT:
+        print(
+            f"❌ El índice devolvió {len(laws)} leyes (< {MIN_SANE_LAW_COUNT}); "
+            f"parseo sospechoso. Inconcluso.",
+            file=sys.stderr,
+        )
+        return 2
+
+    law_by_key = {_state_key(law): law for law in laws}
+    new_entries = [_law_to_state_entry(law) for law in laws]
+    new_by_key = {e["key"]: e for e in new_entries}
+    diff = diff_catalog(state, new_entries)
+
+    # targets = cambiadas + altas (NO bajas: las maneja F4)
+    targets: list[tuple[str, str, str]] = [
+        (c["key"], c.get("from", ""), c.get("to", "")) for c in diff["changed"]
+    ] + [
+        (a["key"], "(alta)", a.get("ultima_reforma_raw", "")) for a in diff["added"]
+    ]
+
+    if diff["removed"]:
+        print(
+            f"⚠️  {len(diff['removed'])} baja(s) detectada(s) — no se tocan en "
+            f"--apply (las maneja F4): {[r['key'] for r in diff['removed']]}"
+        )
+    if diff["added"]:
+        print(
+            f"⚠️  {len(diff['added'])} alta(s) — se descargan, pero su golden "
+            f"requiere tu revisión visual antes de entrar al baseline (F4)."
+        )
+    if not targets:
+        print("✅ Sin deltas que aplicar; el corpus está al día con la fuente.")
+        return 0
+
+    print(f"📥 {len(targets)} leyes a actualizar (cambiadas + altas).")
+    if any("ligie" in new_by_key[k]["md_slug"].lower() for k, _, _ in targets):
+        print(
+            "⚠️  LIGIE está en el delta: al reconvertir usa "
+            "`batch_convert.py --only-slugs … --timeout 1200` o conviértela aparte."
+        )
+    if dry_run:
+        for key, frm, to in targets:
+            print(f"   [dry-run] {new_by_key[key]['md_slug']}: {frm} → {to}")
+        return 10
+
+    # Resolver salida y fallar-rápido sobre el dir ANTES de tocar red/estado (B4):
+    # un --delta-out a un dir inexistente no debe reventar tras avanzar el estado.
+    out = delta_path or (ROOT / "delta.txt")
+    out.parent.mkdir(parents=True, exist_ok=True)
+    if out.exists() and out.read_text(encoding="utf-8").strip():
+        print(f"⚠️  {out.name} tenía un delta previo sin convertir; se sobreescribe.")
+
+    state_by_key = {e["key"]: e for e in state}
+    cat_by_md = {c["md_slug"]: c for c in catalog}
+    today = datetime.date.today().isoformat()
+    delta_slugs: list[str] = []
+    drift_lines: list[str] = []
+    renamed: list[tuple[str, str]] = []
+    failed = 0
+    for key, frm, to in targets:
+        law = law_by_key[key]
+        new_md = law["md_slug"]
+        dest = ORIGEN_DIR / f"{new_md}.pdf"
+        print(f"  ⬇️  {new_md}...", end="", flush=True)
+        sha = download_pdf(law["pdf_url"], dest)
+        if not sha:
+            print(" ❌ (no avanza estado)")
+            failed += 1
+            time.sleep(BETWEEN_DOWNLOADS_SLEEP_SECS)
+            continue
+        print(" ✅")
+        # B3: misma ley (mismo key) pero cambió su md_slug (renombrado de stem o
+        # reforma del nombre). Quitar la entrada vieja del catálogo y marcar el
+        # PDF viejo .orphan para que un batch_convert full no lo resucite.
+        old_md = state_by_key.get(key, {}).get("md_slug")
+        if old_md and old_md != new_md:
+            renamed.append((old_md, new_md))
+            cat_by_md.pop(old_md, None)
+            old_pdf = ORIGEN_DIR / f"{old_md}.pdf"
+            if old_pdf.exists():
+                old_pdf.rename(old_pdf.with_suffix(".pdf.orphan"))
+        # Avanzar estado (proyección con ref_abbrev) + upsert del catálogo (B1)
+        # con la entrada completa fresca (gen_indice/pdf_to_md la leen).
+        state_by_key[key] = {**new_by_key[key], "pdf_sha256": sha, "snapshot_date": today}
+        cat_by_md[new_md] = {
+            "numero": law["numero"], "nombre": law["nombre"], "dof": law["dof"],
+            "ultima_reforma": law["ultima_reforma"], "pdf_url": law["pdf_url"],
+            "pdf_filename": law["pdf_filename"],
+            "pdf_filename_origen": law["pdf_filename_origen"],
+            "md_slug": new_md, "sha256": sha,
+        }
+        delta_slugs.append(new_md)
+        drift_lines.append(f"{new_md}: {frm} -> {to}")
+        time.sleep(BETWEEN_DOWNLOADS_SLEEP_SECS)
+
+    # Persistencia ATÓMICA de ambos ledgers (B2): si algo muere a media escritura
+    # no quedan estado.json/catalogo.json truncados (no están en git).
+    save_state(sorted(state_by_key.values(), key=lambda e: e["key"]))
+    _atomic_write_json(CATALOG_PATH, list(cat_by_md.values()))
+
+    out.write_text(("\n".join(delta_slugs) + "\n") if delta_slugs else "", encoding="utf-8")
+    drift = out.parent / "expected_drift.txt"
+    header = (
+        f"# Drift esperado tras --apply ({today})\n"
+        f"# {len(delta_slugs)} md_slug re-descargados por reforma upstream. Al\n"
+        f"# reconvertir, espera que SOLO su markdown/canonical cambie vs el baseline.\n"
+    )
+    rename_block = ""
+    if renamed:
+        rename_block = (
+            "# RENOMBRADOS (md_slug cambió; archiva el .md/.json viejo, F4):\n"
+            + "".join(f"#   {o} -> {n}\n" for o, n in renamed)
+        )
+    drift.write_text(
+        header + rename_block + "\n".join(drift_lines) + ("\n" if drift_lines else ""),
+        encoding="utf-8",
+    )
+
+    if renamed:
+        print(
+            f"⚠️  {len(renamed)} ley(es) cambiaron de md_slug: {renamed}. El PDF "
+            f"viejo se marcó .orphan y se quitó del catálogo; archiva su .md/.json (F4)."
+        )
+    print(f"\n📊 {len(delta_slugs)} descargadas, {failed} fallidas.")
+    print(f"📝 delta: {out}  |  manifest: {drift}")
+    print(f"➡️  Ahora: python scripts/batch_convert.py --only-slugs {out} --timeout 1200")
+    return 10 if delta_slugs else (2 if failed else 0)
 
 
 # ---------------------------------------------------------------------------
@@ -534,18 +709,40 @@ def parse_args() -> argparse.Namespace:
         "--report", type=Path, default=None,
         help="Con --check: escribe el reporte markdown de deltas a este archivo.",
     )
+    parser.add_argument(
+        "--apply", action="store_true",
+        help="Descarga SOLO las leyes cambiadas+altas (diff vs estado.json), "
+             "avanza estado y escribe delta.txt + expected_drift.txt. No reconvierte.",
+    )
+    parser.add_argument(
+        "--dry-run", action="store_true",
+        help="Con --apply: muestra qué se descargaría sin descargar ni tocar estado.",
+    )
+    parser.add_argument(
+        "--delta-out", type=Path, default=None,
+        help="Con --apply: ruta del archivo delta.txt (default: delta.txt en la raíz).",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
 
-    # Subcomandos de detección: self-contained, NUNCA escriben catalogo.json.
+    # Subcomandos de detección. --check es read-only; --init-snapshot solo graba
+    # estado.json; --apply descarga + actualiza estado y catálogo.
+    if sum([args.init_snapshot, args.check, args.apply]) > 1:
+        print(
+            "❌ --init-snapshot, --check y --apply son mutuamente excluyentes.",
+            file=sys.stderr,
+        )
+        raise SystemExit(2)
     if args.init_snapshot:
         init_snapshot()
         return
     if args.check:
         raise SystemExit(run_check(args.report))
+    if args.apply:
+        raise SystemExit(run_apply(dry_run=args.dry_run, delta_path=args.delta_out))
 
     print("📡 Obteniendo catálogo de leyes desde diputados.gob.mx...", flush=True)
     laws = fetch_index()

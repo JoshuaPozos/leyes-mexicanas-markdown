@@ -702,3 +702,109 @@ class TestParallelPath:
 
         captured = capsys.readouterr()
         assert "1 errores" in captured.out
+
+
+def test_load_slug_filter_ignores_blanks_and_comments(tmp_path: Path) -> None:
+    f = tmp_path / "delta.txt"
+    f.write_text("# comentario\nLA_a\n\n  LB_b  \n", encoding="utf-8")
+    assert bc.load_slug_filter(f) == {"LA_a", "LB_b"}
+
+
+class TestOnlySlugs:
+    def _catalog_two(self, fake_repo: Path) -> None:
+        _make_pdf(fake_repo, "LA_a.pdf")
+        _make_pdf(fake_repo, "LB_b.pdf")
+        (fake_repo / "catalogo.json").write_text(
+            json.dumps([
+                {"pdf_filename": "LA_a.pdf", "nombre": "Ley A", "md_slug": "LA_a"},
+                {"pdf_filename": "LB_b.pdf", "nombre": "Ley B", "md_slug": "LB_b"},
+            ]),
+            encoding="utf-8",
+        )
+
+    def test_converts_only_listed_slugs(
+        self,
+        fake_repo: Path,
+        monkeypatch: pytest.MonkeyPatch,
+        capsys: pytest.CaptureFixture[str],
+    ) -> None:
+        self._catalog_two(fake_repo)
+        delta = fake_repo / "delta.txt"
+        delta.write_text("LA_a\n", encoding="utf-8")
+
+        run_calls: list[list[str]] = []
+
+        def fake_run(cmd: list[str], **kwargs: object) -> subprocess.CompletedProcess:
+            run_calls.append(cmd)
+            return subprocess.CompletedProcess(cmd, 0)
+
+        monkeypatch.setattr(bc.subprocess, "run", fake_run)
+        monkeypatch.setattr(
+            sys, "argv",
+            ["batch_convert.py", "--workers", "1", "--only-slugs", str(delta)],
+        )
+        bc.main()
+
+        # Solo LA_a se convirtió (1 run; sin gen_indice.py en el repo falso)
+        assert len(run_calls) == 1
+        assert "LA_a.pdf" in " ".join(run_calls[0])
+
+    def test_reconverts_even_when_output_exists(
+        self,
+        fake_repo: Path,
+        monkeypatch: pytest.MonkeyPatch,
+        capsys: pytest.CaptureFixture[str],
+    ) -> None:
+        # --only-slugs nunca aplica skip-by-existence: aunque la salida ya
+        # exista, vuelve a convertir (pdf_to_md sobreescribe). Y NO pre-borra,
+        # así que si la conversión fallara la salida vieja sobrevive.
+        self._catalog_two(fake_repo)
+        (fake_repo / "markdown").mkdir()
+        (fake_repo / "canonical").mkdir()
+        old_md = fake_repo / "markdown" / "LA_a.md"
+        old_md.write_text("VIEJO", encoding="utf-8")
+        delta = fake_repo / "delta.txt"
+        delta.write_text("LA_a\n", encoding="utf-8")
+
+        run_calls: list[list[str]] = []
+
+        def fake_run(cmd: list[str], **kwargs: object) -> subprocess.CompletedProcess:
+            run_calls.append(cmd)
+            return subprocess.CompletedProcess(cmd, 0)
+
+        monkeypatch.setattr(bc.subprocess, "run", fake_run)
+        monkeypatch.setattr(
+            sys, "argv",
+            ["batch_convert.py", "--workers", "1", "--only-slugs", str(delta)],
+        )
+        bc.main()
+
+        # Se reconvirtió pese a existir la salida (no se saltó)…
+        assert len(run_calls) == 1
+        assert "LA_a.pdf" in " ".join(run_calls[0])
+        # …y la salida vieja sigue ahí (no se pre-borró; el fake no la sobreescribe).
+        assert old_md.exists()
+
+    def test_warns_on_slug_without_pdf(
+        self,
+        fake_repo: Path,
+        monkeypatch: pytest.MonkeyPatch,
+        capsys: pytest.CaptureFixture[str],
+    ) -> None:
+        self._catalog_two(fake_repo)
+        delta = fake_repo / "delta.txt"
+        delta.write_text("LA_a\nNO_EXISTE\n", encoding="utf-8")
+
+        def fake_run(cmd: list[str], **kwargs: object) -> subprocess.CompletedProcess:
+            return subprocess.CompletedProcess(cmd, 0)
+
+        monkeypatch.setattr(bc.subprocess, "run", fake_run)
+        monkeypatch.setattr(
+            sys, "argv",
+            ["batch_convert.py", "--workers", "1", "--only-slugs", str(delta)],
+        )
+        bc.main()
+
+        captured = capsys.readouterr()
+        assert "NO_EXISTE" in captured.out
+        assert "sin PDF" in captured.out
