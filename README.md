@@ -2,7 +2,7 @@
 
 Las **315 leyes federales vigentes** de México en **Markdown estructurado** y **JSON canónico (AST)**, listas para agentes de IA, RAG, búsqueda semántica, APIs legales o cualquier herramienta que consuma texto o datos estructurados.
 
-- **37,939 artículos** · **58,310 fracciones** · **35,176 notas de reforma** · **42 tablas OCR**
+- **37,939 artículos** · **58,310 fracciones** · **35,176 notas de reforma** · **1,258 tablas vectoriales** (+ OCR honesto)
 - Fuente oficial: [Cámara de Diputados — Leyes Federales Vigentes](https://www.diputados.gob.mx/LeyesBiblio/index.htm)
 
 👉 **[Ver índice completo de leyes](INDICE.md)**
@@ -56,7 +56,7 @@ mx-md/
 │   ├── gen_indice.py       # Genera INDICE.md con stats por ley
 │   ├── constants.py        # Constantes operativas con docstrings (umbrales, timeouts)
 │   └── _log.py             # Logging estructurado (MX_MD_LOG_LEVEL)
-├── tests/                  # Suite de pytest (307 tests, cobertura 48 %)
+├── tests/                  # Suite de pytest (351 tests, cobertura 48 %)
 ├── origen-docs/            # PDFs descargados (no versionados)
 ├── catalogo.json           # Catálogo de leyes con SHA-256 por PDF
 ├── INDICE.md               # Índice navegable con conteo de artículos
@@ -223,7 +223,7 @@ PDF → extract_lines() → build_ast() → AST canónico (JSON)
 ```
 
 1. **Scraping** — `download_leyes.py` parsea la tabla de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm) y descarga cada PDF.
-2. **Extracción** — `extract_lines()` usa [`pdfplumber`](https://github.com/jsvine/pdfplumber) para extraer texto, filtrando headers repetitivos y marcadores de página. Tablas-imagen se extraen con OCR (Tesseract).
+2. **Extracción** — `extract_lines()` usa [`pdfplumber`](https://github.com/jsvine/pdfplumber) para extraer texto, filtrando headers repetitivos y marcadores de página. Las tablas dibujadas como vectores se extraen nativamente con `find_tables()`; las tablas-imagen, con OCR (Tesseract). Cada tabla lleva su procedencia (`source_method` + `source_page`); cuando el OCR no es plausible, se emite un marcador honesto en vez de fabricar datos.
 3. **AST** — `build_ast()` construye un árbol canónico: detecta Títulos, Capítulos, Secciones, Artículos, fracciones, incisos, notas de reforma y tablas. Asigna IDs estables jerárquicos.
 4. **JSON** — El AST se serializa como JSON. Cada archivo cumple `schema/law_ast.schema.json`.
 5. **Markdown** — `render_markdown()` recorre el AST y produce Markdown limpio. El JSON es la fuente de verdad.
@@ -260,7 +260,7 @@ pip install -e ".[dev]"     # incluye pytest, pytest-cov, ruff, mypy
 ### Tests
 
 ```bash
-pytest tests/ -q             # suite completa (~8 s, 307 tests)
+pytest tests/ -q             # suite completa (~8 s, 351 tests)
 pytest tests/ --cov=scripts  # con cobertura (48 % global)
 ```
 
