@@ -11,6 +11,7 @@ Uso:
 """
 
 import argparse
+import datetime
 import hashlib
 import json
 import re
@@ -31,6 +32,7 @@ from constants import (
     DOWNLOAD_BACKOFF_BASE_SECS,
     DOWNLOAD_MAX_RETRIES,
     INDEX_FETCH_TIMEOUT_SECS,
+    MIN_SANE_LAW_COUNT,
     PDF_DOWNLOAD_TIMEOUT_SECS,
     PDF_MAGIC_BYTES,
     SLUG_MAX_LENGTH,
@@ -45,6 +47,7 @@ USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) mx-md/1.0"
 ROOT = Path(__file__).parent.parent
 ORIGEN_DIR = ROOT / "origen-docs"
 CATALOG_PATH = ROOT / "catalogo.json"
+STATE_PATH = ROOT / "estado.json"
 
 
 # ---------------------------------------------------------------------------
@@ -78,6 +81,7 @@ class LeyesTableParser(HTMLParser):
         self._current_row: dict = {}
         self._current_text = ""
         self._current_links: list[str] = []
+        self._row_links: list[str] = []
         self._depth = 0
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
@@ -86,6 +90,7 @@ class LeyesTableParser(HTMLParser):
             self._in_tr = True
             self._td_index = 0
             self._current_row = {}
+            self._row_links = []
         elif tag == "td" and self._in_tr:
             self._in_td = True
             self._current_text = ""
@@ -94,6 +99,9 @@ class LeyesTableParser(HTMLParser):
             href = attrs_dict.get("href", "")
             if href:
                 self._current_links.append(href)
+                # Acumular links de TODAS las celdas: el link ref/<abrev>.htm
+                # vive en la celda del título (td 1), no en la de descargas (td 3).
+                self._row_links.append(href)
 
     def handle_endtag(self, tag: str) -> None:
         if tag == "td" and self._in_td:
@@ -112,6 +120,7 @@ class LeyesTableParser(HTMLParser):
             self._td_index += 1
         elif tag == "tr" and self._in_tr:
             self._in_tr = False
+            self._current_row["all_links"] = self._row_links[:]
             if "numero" in self._current_row and "links" in self._current_row:
                 self.rows.append(self._current_row)
 
@@ -227,6 +236,15 @@ def fetch_index() -> list[dict]:
         md_slug = compute_md_slug(pdf_stem, nombre, numero)
         pdf_filename = f"{md_slug}.pdf"
 
+        # ref/<abrev>.htm: id canónico del historial de reformas, estable ante
+        # renombrados del PDF (p.ej. el PDF pasa de 28_*.pdf a LCE.pdf pero el
+        # ref sigue siendo lce.htm). Llave de join semántica preferida.
+        ref_abbrev = ""
+        for link in row.get("all_links", []):
+            if link.startswith("ref/") and link.endswith(".htm"):
+                ref_abbrev = Path(link.split("/")[-1]).stem.lower()
+                break
+
         laws.append({
             "numero": numero,
             "nombre": nombre,
@@ -236,9 +254,159 @@ def fetch_index() -> list[dict]:
             "pdf_filename": pdf_filename,
             "pdf_filename_origen": pdf_filename_origen,
             "md_slug": md_slug,
+            "ref_abbrev": ref_abbrev,
         })
 
     return laws
+
+
+# ---------------------------------------------------------------------------
+# Detección de deltas upstream (estado.json / --check / --init-snapshot)
+# ---------------------------------------------------------------------------
+
+def _state_key(law: dict) -> str:
+    """Llave de join semántica: el `ref_abbrev` (id del historial ref/<abrev>.htm,
+    estable aun cuando el PDF se renombra de código numérico a acrónimo) cuando
+    existe; si no, fallback al stem del filename de origen. En ambos caminos se
+    quita el sufijo numérico de fecha/año (`ref lif_2026`→`lif`, `LIGIE_2022`→
+    `ligie`, `LCEC_120419`→`lcec`) para que las leyes anuales colapsen como
+    CAMBIADA y no como BAJA+ALTA. En minúsculas. Verificado único 317/317."""
+    ref = (law.get("ref_abbrev") or "").strip().lower()
+    if ref:
+        return _PDF_STEM_NUMERIC_SUFFIX_RE.sub('', ref)
+    stem = _PDF_STEM_NUMERIC_SUFFIX_RE.sub('', Path(law["pdf_filename_origen"]).stem)
+    return stem.lower()
+
+
+def _normalize_reforma(value: str) -> str:
+    """Normaliza 'última reforma' para comparar: colapsa espacios, trim, casefold.
+    Comparación de string CRUDO (nunca fecha parseada), robusta para los casos
+    no-DOF ('Sin reforma', 'Notificación … Sentencia SCJN')."""
+    return _WHITESPACE_RE.sub(' ', value or '').strip().casefold()
+
+
+def _law_to_state_entry(law: dict) -> dict:
+    """Proyecta una ley de fetch_index() a una entrada de estado (sin la fecha
+    de snapshot, que añade el persistidor)."""
+    return {
+        "key": _state_key(law),
+        "ref_abbrev": (law.get("ref_abbrev") or "").strip().lower() or None,
+        "pdf_filename_origen": law["pdf_filename_origen"],
+        "md_slug": law["md_slug"],
+        "pdf_url": law["pdf_url"],
+        "ultima_reforma_raw": law.get("ultima_reforma", ""),
+        "pdf_sha256": law.get("sha256"),
+    }
+
+
+def diff_catalog(old_entries: list[dict], new_entries: list[dict]) -> dict:
+    """Diff puro entre dos listas de entradas de estado (con 'key' y
+    'ultima_reforma_raw'). Devuelve {'changed', 'added', 'removed'}.
+
+    - CAMBIADA: misma llave, 'ultima_reforma_raw' normalizado difiere.
+    - ALTA:     llave en new, ausente de old.
+    - BAJA:     llave en old, ausente de new.
+    """
+    old_by = {e["key"]: e for e in old_entries}
+    new_by = {e["key"]: e for e in new_entries}
+    old_keys, new_keys = set(old_by), set(new_by)
+
+    added = sorted((new_by[k] for k in new_keys - old_keys), key=lambda e: e["key"])
+    removed = sorted((old_by[k] for k in old_keys - new_keys), key=lambda e: e["key"])
+    changed = []
+    for k in sorted(old_keys & new_keys):
+        old_e, new_e = old_by[k], new_by[k]
+        if _normalize_reforma(old_e.get("ultima_reforma_raw", "")) != \
+                _normalize_reforma(new_e.get("ultima_reforma_raw", "")):
+            changed.append({
+                "key": k,
+                "md_slug": new_e.get("md_slug"),
+                "from": old_e.get("ultima_reforma_raw", ""),
+                "to": new_e.get("ultima_reforma_raw", ""),
+                "pdf_url": new_e.get("pdf_url"),
+            })
+    return {"changed": changed, "added": added, "removed": removed}
+
+
+def load_state() -> list[dict] | None:
+    """Lee estado.json (lista de entradas) o None si no existe."""
+    if not STATE_PATH.exists():
+        return None
+    return json.loads(STATE_PATH.read_text(encoding="utf-8"))
+
+
+def save_state(entries: list[dict]) -> None:
+    """Escribe estado.json con el mismo formato que catalogo.json (sin newline final)."""
+    STATE_PATH.write_text(
+        json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
+def _format_delta_report(diff: dict) -> str:
+    """Reporte markdown legible del diff de deltas."""
+    changed, added, removed = diff["changed"], diff["added"], diff["removed"]
+    total = len(changed) + len(added) + len(removed)
+    lines = ["# Deltas upstream (index.htm vs estado.json)", ""]
+    if not total:
+        lines.append("✅ Sin cambios: el corpus está al día con la fuente.")
+        return "\n".join(lines)
+    lines.append(
+        f"**{total} deltas**: {len(changed)} cambiadas · "
+        f"{len(added)} altas · {len(removed)} bajas."
+    )
+    if changed:
+        lines += ["", f"## Cambiadas ({len(changed)})"]
+        lines += [f"- `{c['key']}` ({c['md_slug']}): «{c['from']}» → «{c['to']}»" for c in changed]
+    if added:
+        lines += ["", f"## Altas ({len(added)})"]
+        lines += [f"- `{a['key']}` ({a['md_slug']})" for a in added]
+    if removed:
+        lines += ["", f"## Bajas ({len(removed)})"]
+        lines += [f"- `{r['key']}` ({r['md_slug']})" for r in removed]
+    return "\n".join(lines)
+
+
+def init_snapshot() -> None:
+    """Bootstrap: graba estado.json desde el índice vivo, sin descargar PDFs."""
+    print("📡 Obteniendo índice para snapshot...", flush=True)
+    laws = fetch_index()
+    today = datetime.date.today().isoformat()
+    entries = [{**_law_to_state_entry(law), "snapshot_date": today} for law in laws]
+    save_state(entries)
+    print(f"💾 estado.json escrito con {len(entries)} leyes ({STATE_PATH}).")
+
+
+def run_check(report_path: Path | None = None) -> int:
+    """Diff read-only del índice vivo vs estado.json. NO escribe catálogo ni
+    estado. Exit code: 0 limpio, 10 hay deltas, 2 inconcluso."""
+    state = load_state()
+    if state is None:
+        print(
+            f"❌ No existe {STATE_PATH.name}. Corre primero: "
+            f"python scripts/download_leyes.py --init-snapshot",
+            file=sys.stderr,
+        )
+        return 2
+    try:
+        laws = fetch_index()
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError) as e:
+        print(f"❌ Fetch del índice falló ({e}); inconcluso.", file=sys.stderr)
+        return 2
+    if len(laws) < MIN_SANE_LAW_COUNT:
+        print(
+            f"❌ El índice devolvió {len(laws)} leyes (< {MIN_SANE_LAW_COUNT}); "
+            f"parseo sospechoso. Inconcluso — no se interpretan bajas.",
+            file=sys.stderr,
+        )
+        return 2
+    diff = diff_catalog(state, [_law_to_state_entry(law) for law in laws])
+    report = _format_delta_report(diff)
+    print(report)
+    if report_path is not None:
+        report_path.write_text(report + "\n", encoding="utf-8")
+        print(f"\n📝 Reporte escrito en {report_path}.")
+    total = len(diff["changed"]) + len(diff["added"]) + len(diff["removed"])
+    return 10 if total else 0
 
 
 # ---------------------------------------------------------------------------
@@ -254,6 +422,15 @@ def _is_url_allowed(url: str, allowed_hosts: tuple[str, ...]) -> bool:
     if parsed.scheme not in ("http", "https"):
         return False
     return parsed.hostname in allowed_hosts
+
+
+def _sha256_file(path: Path) -> str:
+    """SHA-256 hex de un archivo local, leído en bloques (no carga todo a RAM)."""
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            h.update(chunk)
+    return h.hexdigest()
 
 
 def download_pdf(
@@ -343,11 +520,32 @@ def parse_args() -> argparse.Namespace:
         "--verbose", "-v", action="store_true",
         help="Muestra progreso detallado.",
     )
+    parser.add_argument(
+        "--init-snapshot", action="store_true",
+        help="Graba estado.json desde el índice vivo (sin descargar). "
+             "Bootstrap del detector de deltas upstream.",
+    )
+    parser.add_argument(
+        "--check", action="store_true",
+        help="Diff read-only del índice vivo vs estado.json. "
+             "Exit 0=limpio, 10=hay deltas, 2=inconcluso. No escribe nada.",
+    )
+    parser.add_argument(
+        "--report", type=Path, default=None,
+        help="Con --check: escribe el reporte markdown de deltas a este archivo.",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+
+    # Subcomandos de detección: self-contained, NUNCA escriben catalogo.json.
+    if args.init_snapshot:
+        init_snapshot()
+        return
+    if args.check:
+        raise SystemExit(run_check(args.report))
 
     print("📡 Obteniendo catálogo de leyes desde diputados.gob.mx...", flush=True)
     laws = fetch_index()
@@ -379,6 +577,11 @@ def main() -> None:
         label = f"[{i}/{len(subset)}] {law['pdf_filename']}"
 
         if args.skip_existing and dest.exists():
+            # Aun saltando la descarga, registramos el sha256 del PDF local para
+            # preservar la procedencia (fix: antes el catálogo quedaba sin sha256
+            # al re-correr con --skip-existing).
+            law["sha256"] = _sha256_file(dest)
+            catalog_dirty = True
             if args.verbose:
                 print(f"  ⏭️  {label} (ya existe)")
             skipped += 1

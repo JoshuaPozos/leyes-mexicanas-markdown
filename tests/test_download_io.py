@@ -5,6 +5,7 @@ están cubiertas en tests/test_download_helpers.py."""
 
 from __future__ import annotations
 
+import hashlib
 import json
 import sys
 import urllib.error
@@ -60,6 +61,22 @@ class TestLeyesTableParser:
         assert ley1["ultima_reforma"] == "11/03/2024"
         assert "pdf/CPEUM.pdf" in ley1["links"]
         assert "pdf_mov/CPEUM_mov.pdf" in ley1["links"]
+
+    def test_captures_ref_link_from_title_cell(self) -> None:
+        # El link ref/<abrev>.htm vive en la celda del título (td 1), no en la
+        # de descargas (td 3): all_links debe acumular links de TODAS las celdas.
+        html = """
+        <table><tr>
+          <td>1</td>
+          <td><a href="ref/lce.htm">Ley</a></td>
+          <td>01/01/2024</td>
+          <td><a href="pdf/28.pdf">PDF</a></td>
+        </tr></table>
+        """
+        parser = dl.LeyesTableParser()
+        parser.feed(html)
+        assert "ref/lce.htm" in parser.rows[0]["all_links"]
+        assert "pdf/28.pdf" in parser.rows[0]["all_links"]
 
     def test_collapses_whitespace_in_text(self) -> None:
         html = """
@@ -184,6 +201,29 @@ class TestFetchIndex:
         laws = dl.fetch_index()
         assert len(laws) == 1
         assert laws[0]["numero"] == "2"
+
+    def test_extracts_ref_abbrev_from_title_cell(
+        self, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        # PDF con nombre numérico (28.pdf) pero ref acrónimo (lce.htm): la llave
+        # de estado debe salir del ref, no del stem numérico.
+        html = """
+        <table><tr>
+          <td>1</td>
+          <td><a href="ref/lce.htm">Ley de Comercio Exterior</a> DOF 01/01/2024</td>
+          <td>01/01/2024</td>
+          <td><a href="pdf/28.pdf">PDF</a></td>
+        </tr></table>
+        """
+
+        def fake_urlopen(req: object, timeout: int = 30) -> _FakeResponse:
+            return _FakeResponse(html.encode("latin-1"))
+
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        laws = dl.fetch_index()
+        assert len(laws) == 1
+        assert laws[0]["ref_abbrev"] == "lce"
+        assert dl._state_key(laws[0]) == "lce"
 
 
 # ---------------------------------------------------------------------------
@@ -451,6 +491,45 @@ class TestMain:
         assert "1 omitidos" in captured
         assert "ya existe" in captured
         assert called == []
+
+    def test_sha256_file_matches_hashlib(self, tmp_path: Path) -> None:
+        p = tmp_path / "f.bin"
+        data = b"abc123" * 1000  # > tamaño de bloque para ejercer el chunking
+        p.write_bytes(data)
+        assert dl._sha256_file(p) == hashlib.sha256(data).hexdigest()
+
+    def test_skip_existing_populates_sha256_from_local_file(
+        self,
+        fake_main_env: Path,
+        monkeypatch: pytest.MonkeyPatch,
+    ) -> None:
+        """Fix: --skip-existing ahora hashea el PDF local en vez de dejar el
+        catálogo sin sha256."""
+        laws = [_stub_law("1", "LA")]
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+
+        out_dir = fake_main_env / "origen-docs"
+        out_dir.mkdir()
+        content = b"%PDF-1.4 contenido local de prueba"
+        (out_dir / "LA.pdf").write_bytes(content)
+
+        monkeypatch.setattr(
+            dl,
+            "download_pdf",
+            lambda *a, **k: pytest.fail("no debe descargar con --skip-existing"),
+        )
+        monkeypatch.setattr(
+            sys,
+            "argv",
+            ["download_leyes.py", "--skip-existing", "-o", str(out_dir)],
+        )
+
+        dl.main()
+
+        catalog_data = json.loads(
+            (fake_main_env / "catalogo.json").read_text(encoding="utf-8")
+        )
+        assert catalog_data[0]["sha256"] == hashlib.sha256(content).hexdigest()
 
     def test_limit_truncates(
         self,
