@@ -81,6 +81,7 @@ class LeyesTableParser(HTMLParser):
         self._current_row: dict = {}
         self._current_text = ""
         self._current_links: list[str] = []
+        self._row_links: list[str] = []
         self._depth = 0
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
@@ -89,6 +90,7 @@ class LeyesTableParser(HTMLParser):
             self._in_tr = True
             self._td_index = 0
             self._current_row = {}
+            self._row_links = []
         elif tag == "td" and self._in_tr:
             self._in_td = True
             self._current_text = ""
@@ -97,6 +99,9 @@ class LeyesTableParser(HTMLParser):
             href = attrs_dict.get("href", "")
             if href:
                 self._current_links.append(href)
+                # Acumular links de TODAS las celdas: el link ref/<abrev>.htm
+                # vive en la celda del título (td 1), no en la de descargas (td 3).
+                self._row_links.append(href)
 
     def handle_endtag(self, tag: str) -> None:
         if tag == "td" and self._in_td:
@@ -115,6 +120,7 @@ class LeyesTableParser(HTMLParser):
             self._td_index += 1
         elif tag == "tr" and self._in_tr:
             self._in_tr = False
+            self._current_row["all_links"] = self._row_links[:]
             if "numero" in self._current_row and "links" in self._current_row:
                 self.rows.append(self._current_row)
 
@@ -230,6 +236,15 @@ def fetch_index() -> list[dict]:
         md_slug = compute_md_slug(pdf_stem, nombre, numero)
         pdf_filename = f"{md_slug}.pdf"
 
+        # ref/<abrev>.htm: id canónico del historial de reformas, estable ante
+        # renombrados del PDF (p.ej. el PDF pasa de 28_*.pdf a LCE.pdf pero el
+        # ref sigue siendo lce.htm). Llave de join semántica preferida.
+        ref_abbrev = ""
+        for link in row.get("all_links", []):
+            if link.startswith("ref/") and link.endswith(".htm"):
+                ref_abbrev = Path(link.split("/")[-1]).stem.lower()
+                break
+
         laws.append({
             "numero": numero,
             "nombre": nombre,
@@ -239,6 +254,7 @@ def fetch_index() -> list[dict]:
             "pdf_filename": pdf_filename,
             "pdf_filename_origen": pdf_filename_origen,
             "md_slug": md_slug,
+            "ref_abbrev": ref_abbrev,
         })
 
     return laws
@@ -249,10 +265,15 @@ def fetch_index() -> list[dict]:
 # ---------------------------------------------------------------------------
 
 def _state_key(law: dict) -> str:
-    """Llave de join estable: stem del filename de origen, sin sufijo numérico
-    de fecha/año (`LIF_2026`→`lif`, `LCEC_120419`→`lcec`) y en minúsculas.
-    Verificado único 315/315 sin colisiones; estable ante renombrados con nueva
-    fecha, así una reforma se ve como CAMBIADA, no como BAJA+ALTA."""
+    """Llave de join semántica: el `ref_abbrev` (id del historial ref/<abrev>.htm,
+    estable aun cuando el PDF se renombra de código numérico a acrónimo) cuando
+    existe; si no, fallback al stem del filename de origen. En ambos caminos se
+    quita el sufijo numérico de fecha/año (`ref lif_2026`→`lif`, `LIGIE_2022`→
+    `ligie`, `LCEC_120419`→`lcec`) para que las leyes anuales colapsen como
+    CAMBIADA y no como BAJA+ALTA. En minúsculas. Verificado único 317/317."""
+    ref = (law.get("ref_abbrev") or "").strip().lower()
+    if ref:
+        return _PDF_STEM_NUMERIC_SUFFIX_RE.sub('', ref)
     stem = _PDF_STEM_NUMERIC_SUFFIX_RE.sub('', Path(law["pdf_filename_origen"]).stem)
     return stem.lower()
 
@@ -269,6 +290,7 @@ def _law_to_state_entry(law: dict) -> dict:
     de snapshot, que añade el persistidor)."""
     return {
         "key": _state_key(law),
+        "ref_abbrev": (law.get("ref_abbrev") or "").strip().lower() or None,
         "pdf_filename_origen": law["pdf_filename_origen"],
         "md_slug": law["md_slug"],
         "pdf_url": law["pdf_url"],

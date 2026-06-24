@@ -59,6 +59,23 @@ class TestStateKey:
     def test_numeric_stem_with_date(self) -> None:
         assert dl._state_key(_law("10_270614.pdf", "X", "")) == "10"
 
+    def test_prefers_ref_abbrev_over_numeric_stem(self) -> None:
+        # PDF renombrado de código numérico a acrónimo: ref_abbrev gana.
+        law = _law("28.pdf", "X", "")
+        law["ref_abbrev"] = "lce"
+        assert dl._state_key(law) == "lce"
+
+    def test_strips_year_from_ref_abbrev(self) -> None:
+        # Anuales: el ref conserva el año (lif_2026) pero la llave lo colapsa.
+        law = _law("LIF_2026.pdf", "X", "")
+        law["ref_abbrev"] = "lif_2026"
+        assert dl._state_key(law) == "lif"
+
+    def test_falls_back_to_stem_without_ref(self) -> None:
+        law = _law("CPEUM.pdf", "X", "")
+        law["ref_abbrev"] = ""
+        assert dl._state_key(law) == "cpeum"
+
 
 # ---------------------------------------------------------------------------
 # diff_catalog

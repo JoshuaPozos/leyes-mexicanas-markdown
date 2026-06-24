@@ -62,6 +62,22 @@ class TestLeyesTableParser:
         assert "pdf/CPEUM.pdf" in ley1["links"]
         assert "pdf_mov/CPEUM_mov.pdf" in ley1["links"]
 
+    def test_captures_ref_link_from_title_cell(self) -> None:
+        # El link ref/<abrev>.htm vive en la celda del título (td 1), no en la
+        # de descargas (td 3): all_links debe acumular links de TODAS las celdas.
+        html = """
+        <table><tr>
+          <td>1</td>
+          <td><a href="ref/lce.htm">Ley</a></td>
+          <td>01/01/2024</td>
+          <td><a href="pdf/28.pdf">PDF</a></td>
+        </tr></table>
+        """
+        parser = dl.LeyesTableParser()
+        parser.feed(html)
+        assert "ref/lce.htm" in parser.rows[0]["all_links"]
+        assert "pdf/28.pdf" in parser.rows[0]["all_links"]
+
     def test_collapses_whitespace_in_text(self) -> None:
         html = """
         <table><tr>
@@ -185,6 +201,29 @@ class TestFetchIndex:
         laws = dl.fetch_index()
         assert len(laws) == 1
         assert laws[0]["numero"] == "2"
+
+    def test_extracts_ref_abbrev_from_title_cell(
+        self, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        # PDF con nombre numérico (28.pdf) pero ref acrónimo (lce.htm): la llave
+        # de estado debe salir del ref, no del stem numérico.
+        html = """
+        <table><tr>
+          <td>1</td>
+          <td><a href="ref/lce.htm">Ley de Comercio Exterior</a> DOF 01/01/2024</td>
+          <td>01/01/2024</td>
+          <td><a href="pdf/28.pdf">PDF</a></td>
+        </tr></table>
+        """
+
+        def fake_urlopen(req: object, timeout: int = 30) -> _FakeResponse:
+            return _FakeResponse(html.encode("latin-1"))
+
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        laws = dl.fetch_index()
+        assert len(laws) == 1
+        assert laws[0]["ref_abbrev"] == "lce"
+        assert dl._state_key(laws[0]) == "lce"
 
 
 # ---------------------------------------------------------------------------
