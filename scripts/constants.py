@@ -252,3 +252,16 @@ PDF_MAGIC_BYTES = b"%PDF-"
 #: indica un catálogo manipulado o un redirect malicioso. La tupla
 #: incluye la variante `www.` porque ambas se ven en el HTML.
 ALLOWED_DOWNLOAD_HOSTS = ("diputados.gob.mx", "www.diputados.gob.mx")
+
+
+# ---------------------------------------------------------------------------
+# Detección de deltas upstream (--check / --init-snapshot)
+# ---------------------------------------------------------------------------
+
+#: Mínimo de leyes que un parseo sano de index.htm debe devolver. El catálogo
+#: ronda las 315; si fetch_index() regresa menos que esto, asumimos que el
+#: parseo se rompió (cambio de markup upstream, fetch parcial) y abortamos
+#: --check como "inconcluso" (exit 2) en vez de interpretar el faltante como
+#: cientos de BAJAS falsas. 280 deja margen para bajas reales sin enmascarar
+#: una ruptura catastrófica del parser.
+MIN_SANE_LAW_COUNT = 280
