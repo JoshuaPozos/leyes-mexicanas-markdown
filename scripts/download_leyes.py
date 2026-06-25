@@ -49,6 +49,9 @@ ROOT = Path(__file__).parent.parent
 ORIGEN_DIR = ROOT / "origen-docs"
 CATALOG_PATH = ROOT / "catalogo.json"
 STATE_PATH = ROOT / "estado.json"
+MARKDOWN_DIR = ROOT / "markdown"
+CANONICAL_DIR = ROOT / "canonical"
+ARCHIVE_DIR = ROOT / "archive"  # leyes abrogadas / bajas (fuera del set vigente)
 
 
 # ---------------------------------------------------------------------------
@@ -246,6 +249,15 @@ def fetch_index() -> list[dict]:
                 ref_abbrev = Path(link.split("/")[-1]).stem.lower()
                 break
 
+        # Abrogación: diputados marca la ley con "Ley Abrogada" en la celda del
+        # nombre y/o numero == 'A' (p.ej. LFC, reemplazada por LFCA). No es una
+        # reforma: la ley deja de estar vigente → se archiva, no se actualiza, y su
+        # 'A' nunca debe escribirse como catalog_number. Señal EXPLÍCITA (no
+        # "not isdigit", que falsamente marcaría una ley vigente con numero glitcheado).
+        # Case-insensitive: el HTML de diputados es inconsistente y el limpiador de
+        # nombres (`_LAW_NAME_TRAILING_RE`) ya usa IGNORECASE — deben coincidir.
+        abrogated = ("ley abrogada" in row.get("nombre_raw", "").lower()) or (numero == "A")
+
         laws.append({
             "numero": numero,
             "nombre": nombre,
@@ -256,6 +268,7 @@ def fetch_index() -> list[dict]:
             "pdf_filename_origen": pdf_filename_origen,
             "md_slug": md_slug,
             "ref_abbrev": ref_abbrev,
+            "abrogated": abrogated,
         })
 
     return laws
@@ -427,13 +440,30 @@ def run_check(report_path: Path | None = None) -> int:
     return 10 if total else 0
 
 
+def _archive_law(md_slug: str) -> list[str]:
+    """Mueve los artefactos de una ley (markdown + canonical + su PDF) a archive/,
+    sacándola del set vigente SIN borrar (git history aparte). Devuelve las rutas
+    archivadas, relativas a la raíz."""
+    moved: list[str] = []
+    for src, dst in [
+        (MARKDOWN_DIR / f"{md_slug}.md", ARCHIVE_DIR / "markdown" / f"{md_slug}.md"),
+        (CANONICAL_DIR / f"{md_slug}.json", ARCHIVE_DIR / "canonical" / f"{md_slug}.json"),
+        (ORIGEN_DIR / f"{md_slug}.pdf", ARCHIVE_DIR / "origen-docs" / f"{md_slug}.pdf"),
+    ]:
+        if src.exists():
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            os.replace(src, dst)
+            moved.append(str(dst.relative_to(ROOT)))
+    return moved
+
+
 def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
-    """Descarga SOLO las leyes cambiadas+altas (diff vs estado.json), avanza el
-    estado Y el catálogo por ley descargada con éxito, y escribe `delta.txt`
+    """Aplica el delta upstream al corpus: descarga las cambiadas+altas (avanza
+    estado Y catálogo por ley), y ARCHIVA las abrogadas/bajas (las saca del set
+    vigente a archive/, las quita del catálogo+estado). Escribe `delta.txt`
     (md_slugs a reconvertir) + `expected_drift.txt`. NO reconvierte — eso lo hace
     `batch_convert.py --only-slugs delta.txt`. Refrescar el catálogo es clave:
-    gen_indice y pdf_to_md lo leen como fuente de verdad (índice + metadata).
-    Las BAJAS no se tocan aquí (F4). Exit 0/2/10."""
+    gen_indice y pdf_to_md lo leen como fuente de verdad. Exit 0/2/10."""
     state = load_state()
     if state is None:
         print(
@@ -467,37 +497,53 @@ def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
     new_entries = [_law_to_state_entry(law) for law in laws]
     new_by_key = {e["key"]: e for e in new_entries}
     diff = diff_catalog(state, new_entries)
+    state_by_key = {e["key"]: e for e in state}
 
-    # targets = cambiadas + altas (NO bajas: las maneja F4)
+    # Archivar: leyes nuestras que upstream marca ABROGADA, + BAJAS (quitadas del
+    # índice). Salen del set vigente a archive/, no se actualizan.
+    to_archive: list[tuple[str | None, str, str]] = [
+        (key, entry["md_slug"], "abrogada")
+        for key, entry in state_by_key.items()
+        if (law_by_key.get(key) or {}).get("abrogated")
+    ] + [(r["key"], r["md_slug"], "baja") for r in diff["removed"]]
+    archived_keys = {k for k, _, _ in to_archive}
+
+    # targets = cambiadas + altas, EXCLUYENDO abrogadas y altas-abrogadas.
     targets: list[tuple[str, str, str]] = [
-        (c["key"], c.get("from", ""), c.get("to", "")) for c in diff["changed"]
+        (c["key"], c.get("from", ""), c.get("to", ""))
+        for c in diff["changed"] if c["key"] not in archived_keys
     ] + [
-        (a["key"], "(alta)", a.get("ultima_reforma_raw", "")) for a in diff["added"]
+        (a["key"], "(alta)", a.get("ultima_reforma_raw", ""))
+        for a in diff["added"] if not law_by_key[a["key"]].get("abrogated")
     ]
 
-    if diff["removed"]:
+    if to_archive:
         print(
-            f"⚠️  {len(diff['removed'])} baja(s) detectada(s) — no se tocan en "
-            f"--apply (las maneja F4): {[r['key'] for r in diff['removed']]}"
+            f"🗄️  {len(to_archive)} ley(es) a archivar (abrogadas/bajas): "
+            f"{[(m, why) for _, m, why in to_archive]}"
         )
-    if diff["added"]:
+    n_altas = sum(1 for a in diff["added"] if not law_by_key[a["key"]].get("abrogated"))
+    if n_altas:
         print(
-            f"⚠️  {len(diff['added'])} alta(s) — se descargan, pero su golden "
-            f"requiere tu revisión visual antes de entrar al baseline (F4)."
+            f"⚠️  {n_altas} alta(s) — se descargan, pero su golden requiere tu "
+            f"revisión visual antes de entrar al baseline."
         )
-    if not targets:
+    if not targets and not to_archive:
         print("✅ Sin deltas que aplicar; el corpus está al día con la fuente.")
         return 0
 
-    print(f"📥 {len(targets)} leyes a actualizar (cambiadas + altas).")
-    if any("ligie" in new_by_key[k]["md_slug"].lower() for k, _, _ in targets):
-        print(
-            "⚠️  LIGIE está en el delta: al reconvertir usa "
-            "`batch_convert.py --only-slugs … --timeout 1200` o conviértela aparte."
-        )
+    if targets:
+        print(f"📥 {len(targets)} leyes a actualizar (cambiadas + altas).")
+        if any("ligie" in new_by_key[k]["md_slug"].lower() for k, _, _ in targets):
+            print(
+                "⚠️  LIGIE está en el delta: al reconvertir usa "
+                "`batch_convert.py --only-slugs … --timeout 1200` o conviértela aparte."
+            )
     if dry_run:
         for key, frm, to in targets:
-            print(f"   [dry-run] {new_by_key[key]['md_slug']}: {frm} → {to}")
+            print(f"   [dry-run] actualizar {new_by_key[key]['md_slug']}: {frm} → {to}")
+        for _, md, why in to_archive:
+            print(f"   [dry-run] archivar {md} ({why})")
         return 10
 
     # Resolver salida y fallar-rápido sobre el dir ANTES de tocar red/estado (B4):
@@ -507,7 +553,6 @@ def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
     if out.exists() and out.read_text(encoding="utf-8").strip():
         print(f"⚠️  {out.name} tenía un delta previo sin convertir; se sobreescribe.")
 
-    state_by_key = {e["key"]: e for e in state}
     cat_by_md = {c["md_slug"]: c for c in catalog}
     today = datetime.date.today().isoformat()
     delta_slugs: list[str] = []
@@ -527,15 +572,14 @@ def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
             continue
         print(" ✅")
         # B3: misma ley (mismo key) pero cambió su md_slug (renombrado de stem o
-        # reforma del nombre). Quitar la entrada vieja del catálogo y marcar el
-        # PDF viejo .orphan para que un batch_convert full no lo resucite.
+        # reforma del nombre). Quitar la entrada vieja del catálogo y archivar sus
+        # artefactos viejos (.md/.json/.pdf) para que no queden huérfanos ni un
+        # batch_convert full los resucite.
         old_md = state_by_key.get(key, {}).get("md_slug")
         if old_md and old_md != new_md:
             renamed.append((old_md, new_md))
             cat_by_md.pop(old_md, None)
-            old_pdf = ORIGEN_DIR / f"{old_md}.pdf"
-            if old_pdf.exists():
-                old_pdf.rename(old_pdf.with_suffix(".pdf.orphan"))
+            _archive_law(old_md)
         # Avanzar estado (proyección con ref_abbrev) + upsert del catálogo (B1)
         # con la entrada completa fresca (gen_indice/pdf_to_md la leen).
         state_by_key[key] = {**new_by_key[key], "pdf_sha256": sha, "snapshot_date": today}
@@ -550,6 +594,15 @@ def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
         drift_lines.append(f"{new_md}: {frm} -> {to}")
         time.sleep(BETWEEN_DOWNLOADS_SLEEP_SECS)
 
+    # Archivar abrogadas/bajas: mover artefactos + quitar de catálogo y estado.
+    archived: list[tuple[str, str]] = []
+    for akey, amd, why in to_archive:
+        _archive_law(amd)
+        cat_by_md.pop(amd, None)
+        if akey is not None:
+            state_by_key.pop(akey, None)
+        archived.append((amd, why))
+
     # Persistencia ATÓMICA de ambos ledgers (B2): si algo muere a media escritura
     # no quedan estado.json/catalogo.json truncados (no están en git).
     save_state(sorted(state_by_key.values(), key=lambda e: e["key"]))
@@ -559,29 +612,40 @@ def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
     drift = out.parent / "expected_drift.txt"
     header = (
         f"# Drift esperado tras --apply ({today})\n"
-        f"# {len(delta_slugs)} md_slug re-descargados por reforma upstream. Al\n"
-        f"# reconvertir, espera que SOLO su markdown/canonical cambie vs el baseline.\n"
+        f"# {len(delta_slugs)} actualizadas (espera que SOLO su markdown/canonical\n"
+        f"# cambie vs baseline) + {len(archived)} archivadas (salen del corpus).\n"
     )
+    archive_block = ""
+    if archived:
+        archive_block = (
+            "# ARCHIVADAS (abrogadas/bajas → archive/, fuera del baseline):\n"
+            + "".join(f"#   {m} ({why})\n" for m, why in archived)
+        )
     rename_block = ""
     if renamed:
         rename_block = (
-            "# RENOMBRADOS (md_slug cambió; archiva el .md/.json viejo, F4):\n"
+            "# RENOMBRADOS (md_slug cambió; artefactos viejos archivados):\n"
             + "".join(f"#   {o} -> {n}\n" for o, n in renamed)
         )
     drift.write_text(
-        header + rename_block + "\n".join(drift_lines) + ("\n" if drift_lines else ""),
+        header + archive_block + rename_block + "\n".join(drift_lines)
+        + ("\n" if drift_lines else ""),
         encoding="utf-8",
     )
 
+    if archived:
+        print(f"🗄️  {len(archived)} ley(es) archivadas a archive/: {archived}")
     if renamed:
         print(
-            f"⚠️  {len(renamed)} ley(es) cambiaron de md_slug: {renamed}. El PDF "
-            f"viejo se marcó .orphan y se quitó del catálogo; archiva su .md/.json (F4)."
+            f"⚠️  {len(renamed)} ley(es) cambiaron de md_slug "
+            f"(artefactos viejos archivados): {renamed}"
         )
-    print(f"\n📊 {len(delta_slugs)} descargadas, {failed} fallidas.")
+    print(f"\n📊 {len(delta_slugs)} actualizadas, {len(archived)} archivadas, {failed} fallidas.")
     print(f"📝 delta: {out}  |  manifest: {drift}")
     print(f"➡️  Ahora: python scripts/batch_convert.py --only-slugs {out} --timeout 1200")
-    return 10 if delta_slugs else (2 if failed else 0)
+    # Si TODAS las descargas fallaron (nada actualizado), señaliza inconcluso (2)
+    # aunque algo se haya archivado — el archivado no compensa el fallo de red.
+    return 2 if (failed and not delta_slugs) else (10 if (delta_slugs or archived) else 0)
 
 
 # ---------------------------------------------------------------------------
