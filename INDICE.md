@@ -1,18 +1,18 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **11/06/2026** — **315/315** Markdown, **315/315** JSON canónico — **37,917** artículos.
+> Última actualización: **25/06/2026** — **317/317** Markdown, **317/317** JSON canónico — **38,161** artículos.
 
 ---
 
 | No. | Ley | Última Reforma | Arts. | Markdown | JSON |
 |----:|-----|---------------|------:|:--------:|:----:|
-| 001 | CONSTITUCIÓN Política de los Estados Unidos Mexicanos | DOF 03/03/2026 | 146 | [`.md`](markdown/CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.md) | [`.json`](canonical/CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.json) |
+| 001 | CONSTITUCIÓN Política de los Estados Unidos Mexicanos | DOF 02/06/2026 | 146 | [`.md`](markdown/CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.md) | [`.json`](canonical/CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.json) |
 | 002 | CÓDIGO Civil Federal | DOF 14/11/2025 | 3,115 | [`.md`](markdown/CCF_codigo_civil_federal.md) | [`.json`](canonical/CCF_codigo_civil_federal.json) |
 | 003 | CÓDIGO de Comercio | DOF 18/02/2026 | 1,642 | [`.md`](markdown/CCom_codigo_de_comercio.md) | [`.json`](canonical/CCom_codigo_de_comercio.json) |
 | 004 | CÓDIGO de Justicia Militar | DOF 16/07/2025 | 954 | [`.md`](markdown/CJM_codigo_de_justicia_militar.md) | [`.json`](canonical/CJM_codigo_de_justicia_militar.json) |
 | 005 | CÓDIGO Federal de Procedimientos Civiles | Notificación 17/06/2025 Sentencia SCJN | 2 | [`.md`](markdown/CFPC_codigo_federal_de_procedimientos_civiles.md) | [`.json`](canonical/CFPC_codigo_federal_de_procedimientos_civiles.json) |
-| 006 | CÓDIGO Fiscal de la Federación | DOF 28/12/2025 | 428 | [`.md`](markdown/CFF_codigo_fiscal_de_la_federacion.md) | [`.json`](canonical/CFF_codigo_fiscal_de_la_federacion.json) |
+| 006 | CÓDIGO Fiscal de la Federación | DOF 09/04/2026 | 428 | [`.md`](markdown/CFF_codigo_fiscal_de_la_federacion.md) | [`.json`](canonical/CFF_codigo_fiscal_de_la_federacion.json) |
 | 007 | CÓDIGO Militar de Procedimientos Penales | DOF 14/11/2025 | 455 | [`.md`](markdown/CMPP_codigo_militar_de_procedimientos_penales.md) | [`.json`](canonical/CMPP_codigo_militar_de_procedimientos_penales.json) |
 | 008 | CÓDIGO Nacional de Procedimientos Civiles y Familiares | DOF 15/01/2026 | 1,212 | [`.md`](markdown/CNPCF_codigo_nacional_de_procedimientos_civiles_y_familiares.md) | [`.json`](canonical/CNPCF_codigo_nacional_de_procedimientos_civiles_y_familiares.json) |
 | 009 | CÓDIGO Nacional de Procedimientos Penales | DOF 28/11/2025 | 490 | [`.md`](markdown/CNPP_codigo_nacional_de_procedimientos_penales.md) | [`.json`](canonical/CNPP_codigo_nacional_de_procedimientos_penales.json) |
@@ -41,7 +41,7 @@
 | 032 | LEY de Caminos, Puentes y Autotransporte Federal | DOF 14/11/2025 | 93 | [`.md`](markdown/LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.md) | [`.json`](canonical/LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.json) |
 | 033 | LEY de Capitalización del Procampo | Sin reforma | 22 | [`.md`](markdown/LCP_ley_de_capitalizacion_del_procampo.md) | [`.json`](canonical/LCP_ley_de_capitalizacion_del_procampo.json) |
 | 034 | LEY de Carrera Judicial del Poder Judicial de la Federación | Sin reforma | 75 | [`.md`](markdown/LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion.md) | [`.json`](canonical/LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion.json) |
-| 035 | LEY de Comercio Exterior | DOF 21/12/2006 | 109 | [`.md`](markdown/LCE_ley_de_comercio_exterior.md) | [`.json`](canonical/LCE_ley_de_comercio_exterior.json) |
+| 035 | LEY de Comercio Exterior | DOF 01/05/2026 | 109 | [`.md`](markdown/LCE_ley_de_comercio_exterior.md) | [`.json`](canonical/LCE_ley_de_comercio_exterior.json) |
 | 036 | LEY de Concursos Mercantiles | DOF 16/01/2026 Sentencia SCJN | 357 | [`.md`](markdown/LCM_ley_de_concursos_mercantiles.md) | [`.json`](canonical/LCM_ley_de_concursos_mercantiles.json) |
 | 037 | LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | Sin reforma | 0 | [`.md`](markdown/LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes.md) | [`.json`](canonical/LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes.json) |
 | 038 | LEY de Cooperación Internacional para el Desarrollo | DOF 06/11/2020 | 42 | [`.md`](markdown/LCID_ley_de_cooperacion_internacional_para_el_desarrollo.md) | [`.json`](canonical/LCID_ley_de_cooperacion_internacional_para_el_desarrollo.json) |
@@ -58,7 +58,7 @@
 | 049 | LEY de Expropiación | DOF 27/01/2012 | 25 | [`.md`](markdown/LE_ley_de_expropiacion.md) | [`.json`](canonical/LE_ley_de_expropiacion.json) |
 | 050 | LEY de Extradición Internacional | DOF 20/05/2021 | 0 | [`.md`](markdown/LEI_ley_de_extradicion_internacional.md) | [`.json`](canonical/LEI_ley_de_extradicion_internacional.json) |
 | 051 | LEY de Firma Electrónica Avanzada | DOF 14/11/2025 | 32 | [`.md`](markdown/LFEA_ley_de_firma_electronica_avanzada.md) | [`.json`](canonical/LFEA_ley_de_firma_electronica_avanzada.json) |
-| 052 | LEY de Fiscalización y Rendición de Cuentas de la Federación | DOF 20/05/2021 | 116 | [`.md`](markdown/LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md) | [`.json`](canonical/LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.json) |
+| 052 | LEY de Fiscalización y Rendición de Cuentas de la Federación | DOF 15/05/2026 | 120 | [`.md`](markdown/LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md) | [`.json`](canonical/LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.json) |
 | 053 | LEY de Fomento a la Confianza Ciudadana | Sin reforma | 18 | [`.md`](markdown/LFCC_ley_de_fomento_a_la_confianza_ciudadana.md) | [`.json`](canonical/LFCC_ley_de_fomento_a_la_confianza_ciudadana.json) |
 | 054 | LEY de Fomento a la Industria Vitivinícola | Sin reforma | 36 | [`.md`](markdown/LFIV_ley_de_fomento_a_la_industria_vitivinicola.md) | [`.json`](canonical/LFIV_ley_de_fomento_a_la_industria_vitivinicola.json) |
 | 055 | LEY de Fomento para la Lectura y el Libro | DOF 29/11/2023 | 29 | [`.md`](markdown/LFLL_ley_de_fomento_para_la_lectura_y_el_libro.md) | [`.json`](canonical/LFLL_ley_de_fomento_para_la_lectura_y_el_libro.json) |
@@ -84,7 +84,7 @@
 | 075 | LEY de la Policía Federal | DOF 14/11/2025 | 55 | [`.md`](markdown/LPF_ley_de_la_policia_federal.md) | [`.json`](canonical/LPF_ley_de_la_policia_federal.json) |
 | 076 | LEY de los Derechos de las Personas Adultas Mayores | DOF 14/06/2024 | 52 | [`.md`](markdown/LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores.md) | [`.json`](canonical/LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores.json) |
 | 077 | LEY de los Husos Horarios en los Estados Unidos Mexicanos | DOF 29/11/2022 | 8 | [`.md`](markdown/LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos.md) | [`.json`](canonical/LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos.json) |
-| 078 | LEY de los Impuestos Generales de Importación y de Exportación | DOF 31/12/2025 | 3 | [`.md`](markdown/LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.md) | [`.json`](canonical/LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.json) |
+| 078 | LEY de los Impuestos Generales de Importación y de Exportación | DOF 23/04/2026 | 3 | [`.md`](markdown/LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.md) | [`.json`](canonical/LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.json) |
 | 079 | LEY de los Institutos Nacionales de Salud | DOF 11/05/2022 | 0 | [`.md`](markdown/LINS_ley_de_los_institutos_nacionales_de_salud.md) | [`.json`](canonical/LINS_ley_de_los_institutos_nacionales_de_salud.json) |
 | 080 | LEY de los Sistemas de Ahorro para el Retiro | DOF 14/11/2025 | 148 | [`.md`](markdown/LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro.md) | [`.json`](canonical/LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro.json) |
 | 081 | LEY de Migración | DOF 15/01/2026 | 163 | [`.md`](markdown/LMigra_ley_de_migracion.md) | [`.json`](canonical/LMigra_ley_de_migracion.json) |
@@ -114,7 +114,7 @@
 | 105 | LEY de Uniones de Crédito | DOF 14/11/2025 | 152 | [`.md`](markdown/LUC_ley_de_uniones_de_credito.md) | [`.json`](canonical/LUC_ley_de_uniones_de_credito.json) |
 | 106 | LEY de Vertimientos en las Zonas Marinas Mexicanas | DOF 14/11/2025 | 70 | [`.md`](markdown/LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas.md) | [`.json`](canonical/LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas.json) |
 | 107 | LEY de Vías Generales de Comunicación | DOF 14/11/2025 | 606 | [`.md`](markdown/LVGC_ley_de_vias_generales_de_comunicacion.md) | [`.json`](canonical/LVGC_ley_de_vias_generales_de_comunicacion.json) |
-| 108 | LEY de Vivienda | DOF 15/01/2026 | 1 | [`.md`](markdown/LViv_ley_de_vivienda.md) | [`.json`](canonical/LViv_ley_de_vivienda.json) |
+| 108 | LEY de Vivienda | DOF 29/04/2026 | 1 | [`.md`](markdown/LViv_ley_de_vivienda.md) | [`.json`](canonical/LViv_ley_de_vivienda.json) |
 | 109 | LEY del Banco de México | DOF 10/01/2014 | 0 | [`.md`](markdown/LBM_ley_del_banco_de_mexico.md) | [`.json`](canonical/LBM_ley_del_banco_de_mexico.json) |
 | 110 | LEY del Diario Oficial de la Federación y Gacetas Gubernamentales | DOF 10/06/2019 | 0 | [`.md`](markdown/LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales.md) | [`.json`](canonical/LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales.json) |
 | 111 | LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | DOF 18/03/2025 | 27 | [`.md`](markdown/LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr.md) | [`.json`](canonical/LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr.json) |
@@ -157,11 +157,11 @@
 | 148 | LEY Federal de las Entidades Paraestatales | DOF 16/07/2025 | 0 | [`.md`](markdown/LFEP_ley_federal_de_las_entidades_paraestatales.md) | [`.json`](canonical/LFEP_ley_federal_de_las_entidades_paraestatales.json) |
 | 149 | LEY Federal de los Derechos del Contribuyente | Sin reforma | 24 | [`.md`](markdown/LFDC_ley_federal_de_los_derechos_del_contribuyente.md) | [`.json`](canonical/LFDC_ley_federal_de_los_derechos_del_contribuyente.json) |
 | 150 | LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | DOF 15/01/2026 | 185 | [`.md`](markdown/LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d.md) | [`.json`](canonical/LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d.json) |
-| 151 | LEY Federal de Presupuesto y Responsabilidad Hacendaria | DOF 16/07/2025 | 123 | [`.md`](markdown/LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.md) | [`.json`](canonical/LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.json) |
+| 151 | LEY Federal de Presupuesto y Responsabilidad Hacendaria | DOF 09/04/2026 | 125 | [`.md`](markdown/LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.md) | [`.json`](canonical/LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.json) |
 | 152 | LEY Federal de Procedimiento Administrativo | DOF 14/11/2025 | 119 | [`.md`](markdown/LFPA_ley_federal_de_procedimiento_administrativo.md) | [`.json`](canonical/LFPA_ley_federal_de_procedimiento_administrativo.json) |
-| 153 | LEY Federal de Procedimiento Contencioso Administrativo | DOF 14/11/2025 | 2 | [`.md`](markdown/LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.md) | [`.json`](canonical/LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.json) |
+| 153 | LEY Federal de Procedimiento Contencioso Administrativo | DOF 09/06/2026 | 1 | [`.md`](markdown/LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.md) | [`.json`](canonical/LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.json) |
 | 154 | LEY Federal de Producción, Certificación y Comercio de Semillas | DOF 11/05/2018 | 43 | [`.md`](markdown/LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas.md) | [`.json`](canonical/LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas.json) |
-| 155 | LEY Federal de Protección a la Propiedad Industrial | DOF 15/01/2026 | 411 | [`.md`](markdown/LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.md) | [`.json`](canonical/LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.json) |
+| 155 | LEY Federal de Protección a la Propiedad Industrial | DOF 03/04/2026 | 422 | [`.md`](markdown/LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.md) | [`.json`](canonical/LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.json) |
 | 156 | LEY Federal de Protección al Consumidor | DOF 23/12/2025 | 0 | [`.md`](markdown/LFPC_ley_federal_de_proteccion_al_consumidor.md) | [`.json`](canonical/LFPC_ley_federal_de_proteccion_al_consumidor.json) |
 | 157 | LEY Federal de Protección de Datos Personales en Posesión de los Particulares | DOF 14/11/2025 | 67 | [`.md`](markdown/LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti.md) | [`.json`](canonical/LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti.json) |
 | 158 | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | DOF 14/11/2025 | 75 | [`.md`](markdown/LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com.md) | [`.json`](canonical/LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com.json) |
@@ -175,10 +175,10 @@
 | 166 | LEY Federal de Seguridad Privada | DOF 17/10/2011 | 51 | [`.md`](markdown/LFSP_ley_federal_de_seguridad_privada.md) | [`.json`](canonical/LFSP_ley_federal_de_seguridad_privada.json) |
 | 167 | LEY Federal de Variedades Vegetales | DOF 11/05/2022 | 48 | [`.md`](markdown/LFVV_ley_federal_de_variedades_vegetales.md) | [`.json`](canonical/LFVV_ley_federal_de_variedades_vegetales.json) |
 | 168 | LEY Federal de Zonas Económicas Especiales | DOF 01/04/2024 | 52 | [`.md`](markdown/LFZEE_ley_federal_de_zonas_economicas_especiales.md) | [`.json`](canonical/LFZEE_ley_federal_de_zonas_economicas_especiales.json) |
-| 169 | LEY Federal del Derecho de Autor | DOF 15/01/2026 | 254 | [`.md`](markdown/LFDA_ley_federal_del_derecho_de_autor.md) | [`.json`](canonical/LFDA_ley_federal_del_derecho_de_autor.json) |
+| 169 | LEY Federal del Derecho de Autor | DOF 14/05/2026 | 256 | [`.md`](markdown/LFDA_ley_federal_del_derecho_de_autor.md) | [`.json`](canonical/LFDA_ley_federal_del_derecho_de_autor.json) |
 | 170 | LEY Federal del Impuesto sobre Automóviles Nuevos | DOF 28/12/2025 | 73 | [`.md`](markdown/LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos.md) | [`.json`](canonical/LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos.json) |
 | 171 | LEY Federal del Mar | Sin reforma | 0 | [`.md`](markdown/LFM_ley_federal_del_mar.md) | [`.json`](canonical/LFM_ley_federal_del_mar.json) |
-| 172 | LEY Federal del Trabajo | DOF 15/01/2026 | 1,278 | [`.md`](markdown/LFT_ley_federal_del_trabajo.md) | [`.json`](canonical/LFT_ley_federal_del_trabajo.json) |
+| 172 | LEY Federal del Trabajo | DOF 14/05/2026 | 1,280 | [`.md`](markdown/LFT_ley_federal_del_trabajo.md) | [`.json`](canonical/LFT_ley_federal_del_trabajo.json) |
 | 173 | LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | DOF 03/05/2023 | 31 | [`.md`](markdown/LFCPQ_ley_federal_para_el_control_de_precursores_quimicos_productos_quimicos.md) | [`.json`](canonical/LFCPQ_ley_federal_para_el_control_de_precursores_quimicos_productos_quimicos.json) |
 | 174 | LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | DOF 14/11/2025 | 76 | [`.md`](markdown/LFCSQ_ley_federal_para_el_control_de_sustancias_quimicas_susceptibles_de_des.md) | [`.json`](canonical/LFCSQ_ley_federal_para_el_control_de_sustancias_quimicas_susceptibles_de_des.json) |
 | 175 | LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal | DOF 27/03/2023 | 2 | [`.md`](markdown/LFFMAA_ley_federal_para_el_fomento_de_la_microindustria_y_la_actividad_artesa.md) | [`.json`](canonical/LFFMAA_ley_federal_para_el_fomento_de_la_microindustria_y_la_actividad_artesa.json) |
@@ -197,7 +197,7 @@
 | 188 | LEY General de Bienes Nacionales | DOF 14/11/2025 | 1 | [`.md`](markdown/LGBN_ley_general_de_bienes_nacionales.md) | [`.json`](canonical/LGBN_ley_general_de_bienes_nacionales.json) |
 | 189 | LEY General de Cambio Climático | DOF 01/04/2024 | 128 | [`.md`](markdown/LGCC_ley_general_de_cambio_climatico.md) | [`.json`](canonical/LGCC_ley_general_de_cambio_climatico.json) |
 | 190 | LEY General de Comunicación Social | DOF 01/04/2024 | 46 | [`.md`](markdown/LGCS_ley_general_de_comunicacion_social.md) | [`.json`](canonical/LGCS_ley_general_de_comunicacion_social.json) |
-| 191 | LEY General de Contabilidad Gubernamental | DOF 16/07/2025 | 88 | [`.md`](markdown/LGCG_ley_general_de_contabilidad_gubernamental.md) | [`.json`](canonical/LGCG_ley_general_de_contabilidad_gubernamental.json) |
+| 191 | LEY General de Contabilidad Gubernamental | DOF 14/05/2026 | 88 | [`.md`](markdown/LGCG_ley_general_de_contabilidad_gubernamental.md) | [`.json`](canonical/LGCG_ley_general_de_contabilidad_gubernamental.json) |
 | 192 | LEY General de Cultura Física y Deporte | DOF 14/11/2025 | 157 | [`.md`](markdown/LGCFD_ley_general_de_cultura_fisica_y_deporte.md) | [`.json`](canonical/LGCFD_ley_general_de_cultura_fisica_y_deporte.json) |
 | 193 | LEY General de Cultura y Derechos Culturales | DOF 15/01/2026 | 43 | [`.md`](markdown/LGCDC_ley_general_de_cultura_y_derechos_culturales.md) | [`.json`](canonical/LGCDC_ley_general_de_cultura_y_derechos_culturales.json) |
 | 194 | LEY General de Derechos Lingüísticos de los Pueblos Indígenas | DOF 18/10/2023 | 2 | [`.md`](markdown/LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas.md) | [`.json`](canonical/LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas.json) |
@@ -206,7 +206,7 @@
 | 197 | LEY General de Economía Circular | Sin reforma | 51 | [`.md`](markdown/LGEC_ley_general_de_economia_circular.md) | [`.json`](canonical/LGEC_ley_general_de_economia_circular.json) |
 | 198 | LEY General de Educación | DOF 15/01/2026 | 184 | [`.md`](markdown/LGE_ley_general_de_educacion.md) | [`.json`](canonical/LGE_ley_general_de_educacion.json) |
 | 199 | LEY General de Educación Superior | Sin reforma | 78 | [`.md`](markdown/LGES_ley_general_de_educacion_superior.md) | [`.json`](canonical/LGES_ley_general_de_educacion_superior.json) |
-| 200 | LEY General de Instituciones y Procedimientos Electorales | DOF 14/10/2024 | 540 | [`.md`](markdown/LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.md) | [`.json`](canonical/LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.json) |
+| 200 | LEY General de Instituciones y Procedimientos Electorales | DOF 02/06/2026 | 543 | [`.md`](markdown/LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.md) | [`.json`](canonical/LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.json) |
 | 201 | LEY General de la Alimentación Adecuada y Sostenible | Sin reforma | 112 | [`.md`](markdown/LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible.md) | [`.json`](canonical/LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible.json) |
 | 202 | LEY General de los Derechos de Niñas, Niños y Adolescentes | DOF 15/01/2026 | 184 | [`.md`](markdown/LGDNNA_ley_general_de_los_derechos_de_ninas_ninos_y_adolescentes.md) | [`.json`](canonical/LGDNNA_ley_general_de_los_derechos_de_ninas_ninos_y_adolescentes.json) |
 | 203 | LEY General de los Medios de Impugnación en Materia Electoral | DOF 24/11/2023 Sentencia SCJN | 70 | [`.md`](markdown/LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral.md) | [`.json`](canonical/LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral.json) |
@@ -255,7 +255,7 @@
 | 246 | LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes | DOF 20/12/2022 | 267 | [`.md`](markdown/LNSIJPA_ley_nacional_del_sistema_integral_de_justicia_penal_para_adolescentes.md) | [`.json`](canonical/LNSIJPA_ley_nacional_del_sistema_integral_de_justicia_penal_para_adolescentes.json) |
 | 247 | LEY Nacional para Eliminar Trámites Burocráticos | Sin reforma | 115 | [`.md`](markdown/LNETB_ley_nacional_para_eliminar_tramites_burocraticos.md) | [`.json`](canonical/LNETB_ley_nacional_para_eliminar_tramites_burocraticos.json) |
 | 248 | LEY Nacional sobre el Uso de la Fuerza | DOF 24/01/2024 | 45 | [`.md`](markdown/LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.md) | [`.json`](canonical/LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.json) |
-| 249 | LEY Orgánica de la Administración Pública Federal | DOF 16/07/2025 | 77 | [`.md`](markdown/LOAPF_ley_organica_de_la_administracion_publica_federal.md) | [`.json`](canonical/LOAPF_ley_organica_de_la_administracion_publica_federal.json) |
+| 249 | LEY Orgánica de la Administración Pública Federal | DOF 07/05/2026 | 77 | [`.md`](markdown/LOAPF_ley_organica_de_la_administracion_publica_federal.md) | [`.json`](canonical/LOAPF_ley_organica_de_la_administracion_publica_federal.json) |
 | 250 | LEY Orgánica de la Armada de México | Sin reforma | 102 | [`.md`](markdown/LOAM_ley_organica_de_la_armada_de_mexico.md) | [`.json`](canonical/LOAM_ley_organica_de_la_armada_de_mexico.json) |
 | 251 | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | DOF 11/05/2022 | 29 | [`.md`](markdown/LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente.md) | [`.json`](canonical/LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente.json) |
 | 252 | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | DOF 24/02/2012 | 84 | [`.md`](markdown/LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder.md) | [`.json`](canonical/LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder.json) |
@@ -322,6 +322,8 @@
 | 313 | REGLAMENTO de la Cámara de Diputados | DOF 07/05/2025 | 322 | [`.md`](markdown/Reg_Diputados_reglamento_de_la_camara_de_diputados.md) | [`.json`](canonical/Reg_Diputados_reglamento_de_la_camara_de_diputados.json) |
 | 314 | REGLAMENTO del Senado de la República | DOF 06/12/2024 | 316 | [`.md`](markdown/Reg_Senado_reglamento_del_senado_de_la_republica.md) | [`.json`](canonical/Reg_Senado_reglamento_del_senado_de_la_republica.json) |
 | 315 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | DOF 24/12/2010 | 216 | [`.md`](markdown/RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad.md) | [`.json`](canonical/RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad.json) |
+| 138 | LEY Federal de Cine y el Audiovisual | Sin reforma | 69 | [`.md`](markdown/LFCA_ley_federal_de_cine_y_el_audiovisual.md) | [`.json`](canonical/LFCA_ley_federal_de_cine_y_el_audiovisual.json) |
+| 275 | LEY para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | Sin reforma | 152 | [`.md`](markdown/LFIIEDB_ley_para_el_fomento_de_la_inversion_en_infraestructura_estrategica_par.md) | [`.json`](canonical/LFIIEDB_ley_para_el_fomento_de_la_inversion_en_infraestructura_estrategica_par.json) |
 
 ---
 

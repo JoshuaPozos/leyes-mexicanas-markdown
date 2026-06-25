@@ -7,9 +7,9 @@
   "source": {
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
     "pdf_filename_origen": "LGIPE.pdf",
-    "dof_publication": "DOF23/05/2014",
-    "last_reform": "DOF 14/10/2024",
-    "captured_at": "2026-06-12T02:26:05.561470+00:00"
+    "dof_publication": "DOF23/05/2014 Nueva reforma",
+    "last_reform": "DOF 02/06/2026",
+    "captured_at": "2026-06-25T14:57:04.552544+00:00"
   },
   "preamble": [
     {
@@ -2136,7 +2136,7 @@
                     },
                     {
                       "type": "paragraph",
-                      "text": "2. [Independientemente de lo señalado en el párrafo anterior, las comisiones de: Capacitación Electoral y Educación Cívica; Organización Electoral; Prerrogativas y Partidos Políticos; Servicio Profesional Electoral Nacional; Registro Federal de Electores; Quejas y Denuncias; Fiscalización, y Vinculación con los Organismos Públicos Locales; e Igualdad de Género y no Discriminación, funcionarán permanentemente y se integrarán exclusivamente por Consejeras o Consejeros Electorales designados por el Consejo General. Las Consejeras y los Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.]"
+                      "text": "2. Independientemente de lo señalado en el párrafo anterior, las comisiones de: Capacitación Electoral y Educación Cívica; Organización Electoral; Prerrogativas y Partidos Políticos; Servicio Profesional Electoral Nacional; Registro Federal de Electores; Quejas y Denuncias; Fiscalización, y Vinculación con los Organismos Públicos Locales; Igualdad de Género y no Discriminación, y Verificación de Integridad en Candidaturas funcionarán permanentemente y se integrarán exclusivamente por Consejeras o Consejeros Electorales designados por el Consejo General. Las Consejeras y los Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes."
                     },
                     {
                       "type": "reform_note",
@@ -2146,7 +2146,17 @@
                     },
                     {
                       "type": "paragraph",
-                      "text": "Numeral declarado inválido y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023 3. [Para cada proceso electoral, se fusionarán las comisiones de Capacitación Electoral y Educación Cívica y de Organización Electoral, a fin de integrar la Comisión de Capacitación y Organización Electoral; el Consejo General designará, en septiembre del año previo al de la elección, a sus integrantes y al Consejero Electoral que la presidirá.]"
+                      "text": "Numeral declarado inválido y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023"
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Numeral reformado DOF 02-06-2026",
+                      "action": "reformado",
+                      "dof_date": "02-06-2026"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "3. [Para cada proceso electoral, se fusionarán las comisiones de Capacitación Electoral y Educación Cívica y de Organización Electoral, a fin de integrar la Comisión de Capacitación y Organización Electoral; el Consejo General designará, en septiembre del año previo al de la elección, a sus integrantes y al Consejero Electoral que la presidirá.]"
                     },
                     {
                       "type": "reform_note",
@@ -11185,6 +11195,134 @@
                 {
                   "type": "paragraph",
                   "text": "Artículo declarado inválido y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "TÍTULO SEGUNDO",
+      "descriptor": "BIS",
+      "ordinal": "SEGUNDO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "De la Integridad de las Candidaturas"
+        },
+        {
+          "type": "reform_note",
+          "text": "Título adicionado DOF 02-06-2026",
+          "action": "adicionado",
+          "dof_date": "02-06-2026"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": "De la Comisión de Verificación de Integridad en Candidaturas",
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "reform_note",
+              "text": "Capítulo adicionado DOF 02-06-2026",
+              "action": "adicionado",
+              "dof_date": "02-06-2026"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-200",
+              "heading": "Artículo 200",
+              "descriptor": null,
+              "ordinal": "200",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "Bis. 1. La Comisión de Verificación de Integridad en Candidaturas tiene por objeto recibir de los partidos políticos o de las personas que aspiren a una candidatura independiente, los listados de personas que pretendan postular como candidatas a un cargo de elección popular, ya sea federal o local, previo a su registro ante la autoridad electoral para que, en coordinación con las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera, se realice un análisis de riesgo sobre sus perfiles. 2. La entrega de la información a que se refiere el párrafo anterior podrá ser total o parcial, y se realizará de manera voluntaria por parte de los partidos políticos o de las personas que aspiren a una candidatura independiente. 3. Los partidos políticos establecerán mecanismos para que las personas que pretendan ser postuladas manifiesten su conformidad de que su perfil sea objeto de un análisis de riesgo, en los términos previstos en la ley. 4. Los partidos políticos, con base en la información que les sea proporcionada por la Comisión de Verificación de Integridad en Candidaturas, determinarán sobre la procedencia o no del registro de las personas evaluadas como candidatas por ese instituto político."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 02-06-2026",
+                  "action": "adicionado",
+                  "dof_date": "02-06-2026"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-200",
+              "heading": "Artículo 200",
+              "descriptor": null,
+              "ordinal": "200",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "Ter. 1. La Comisión de Verificación de Integridad en Candidaturas tiene las atribuciones siguientes:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Recibir de los partidos políticos y, en su caso, de las personas que aspiren a una candidatura independiente las listas de las personas que pretendan postular a fin de que se sometan a una evaluación de riesgo. La Comisión deberá garantizar la confidencialidad de la información que reciba en términos del presente artículo;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Remitir a las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera, la información a que se refiere el inciso anterior, a fin de que determinen la existencia o no de un riesgo razonable sobre posibles actividades delictivas respecto de las postulaciones propuestas por los partidos políticos o, en su caso, de las personas que aspiren a una candidatura independiente, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Recibir la información de las instancias competentes a que se refiere el inciso anterior donde se advierta la existencia o no de un riesgo razonable, sin señalar el asunto del que se derive el riesgo, y notificar a los partidos políticos o a las personas que aspiren a una candidatura independiente el número y las instancias competentes que, en su caso, hayan identificado la existencia de un riesgo razonable. 2. Con independencia de lo anterior, de encontrar información relevante, las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera, de acuerdo a sus atribuciones, iniciarán o continuarán con las investigaciones que correspondan."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 02-06-2026",
+                  "action": "adicionado",
+                  "dof_date": "02-06-2026"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-200",
+              "heading": "Artículo 200",
+              "descriptor": null,
+              "ordinal": "200",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "Quáter. 1. Para el funcionamiento de la Comisión de Verificación de Integridad en Candidaturas, se estará a las reglas siguientes:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Estará integrada por tres Consejeras o Consejeros Electorales;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Las Consejeras o Consejeros Electorales integrantes de la Comisión durarán en su encargo tres años, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "La presidencia de la Comisión es rotativa y será designada anualmente entre los integrantes de la Comisión."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 02-06-2026",
+                  "action": "adicionado",
+                  "dof_date": "02-06-2026"
                 }
               ],
               "children": []
@@ -26498,6 +26636,126 @@
             {
               "type": "paragraph",
               "text": "Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de octubre de 2024.- Claudia Sheinbaum Pardo.- Rúbrica.- La Secretaria de Gobernación, Lic. Rosa Icela Rodríguez Velázquez.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 2 de junio de 2026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 42, numeral 2, y se adicionan el Título Segundo Bis al Libro"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ", con los artículos 200 Bis, 200 Ter y 200 Quáter, de la Ley General de Instituciones y Procedimientos Electorales, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Comisión de Verificación de Integridad en Candidaturas deberá estar integrada, instalada y en funcionamiento antes del inicio del proceso electoral para el año 2027."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera que, de manera enunciativa, serán la Fiscalía General de la República, el Centro Nacional de Inteligencia, la Unidad de Inteligencia Financiera y la Comisión Nacional Bancaria y de Valores, establecerán la metodología y los criterios aplicables para realizar sus evaluaciones de riesgo; y, con base en ello, determinar la existencia de un riesgo razonable a partir del análisis de la información indiciaria con la que cuenten para presumir que la persona evaluada está relacionada con actividades delictivas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado al Instituto Nacional Electoral, por lo que no se autorizarán recursos adicionales para tales efectos ni en los ejercicios fiscales subsecuentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Instituto Nacional Electoral, en coordinación con las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y del sistema financiero, en el ámbito de sus respectivas competencias, emitirá los lineamientos que regulen, entre otros, el funcionamiento interno de la Comisión; los plazos, términos, criterios y procedimientos aplicables para la recepción, análisis, procesamiento y entrega de la información que corresponda; así como los mecanismos necesarios para salvaguardar la protección de datos personales y la confidencialidad de la información proporcionada en todas las etapas del proceso."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 28 de mayo de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 02 de junio de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
             }
           ],
           "children": []

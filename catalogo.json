@@ -2,13 +2,13 @@
   {
     "numero": "001",
     "nombre": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
-    "dof": "DOF05/02/1917 Nueva reforma",
-    "ultima_reforma": "DOF 03/03/2026",
+    "dof": "DOF05/02/1917 Nuevas reformas",
+    "ultima_reforma": "DOF 02/06/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
     "pdf_filename": "CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.pdf",
     "pdf_filename_origen": "CPEUM.pdf",
     "md_slug": "CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos",
-    "sha256": "e220eacc6ec0cd9e68fe9227ca5788e44b43bf0a8adf4eeb8eecef89c477cc80"
+    "sha256": "ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e"
   },
   {
     "numero": "002",
@@ -57,13 +57,13 @@
   {
     "numero": "006",
     "nombre": "CÓDIGO Fiscal de la Federación",
-    "dof": "DOF31/12/1981",
-    "ultima_reforma": "DOF 28/12/2025",
+    "dof": "DOF31/12/1981 Nueva reforma",
+    "ultima_reforma": "DOF 09/04/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
     "pdf_filename": "CFF_codigo_fiscal_de_la_federacion.pdf",
     "pdf_filename_origen": "CFF.pdf",
     "md_slug": "CFF_codigo_fiscal_de_la_federacion",
-    "sha256": "f82b4537229351ddabd2a47929eb6db9907d18a7c2be618a293d6e441eb99855"
+    "sha256": "be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d"
   },
   {
     "numero": "007",
@@ -376,13 +376,13 @@
   {
     "numero": "035",
     "nombre": "LEY de Comercio Exterior",
-    "dof": "DOF27/07/1993",
-    "ultima_reforma": "DOF 21/12/2006",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/28.pdf",
+    "dof": "DOF27/07/1993 Nueva reforma",
+    "ultima_reforma": "DOF 01/05/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf",
     "pdf_filename": "LCE_ley_de_comercio_exterior.pdf",
-    "pdf_filename_origen": "28.pdf",
+    "pdf_filename_origen": "LCE.pdf",
     "md_slug": "LCE_ley_de_comercio_exterior",
-    "sha256": "2e2bea278ef98d4b07ee64b4810b1adb0080be8c88ef305a059122a1a5be5923"
+    "sha256": "3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459"
   },
   {
     "numero": "036",
@@ -563,13 +563,13 @@
   {
     "numero": "052",
     "nombre": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
-    "dof": "DOF18/07/2016",
-    "ultima_reforma": "DOF 20/05/2021",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF_200521.pdf",
+    "dof": "DOF18/07/2016 Nueva fe de erratas",
+    "ultima_reforma": "DOF 15/05/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
     "pdf_filename": "LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.pdf",
-    "pdf_filename_origen": "LFRCF_200521.pdf",
+    "pdf_filename_origen": "LFRCF.pdf",
     "md_slug": "LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion",
-    "sha256": "57622d4ce41bd45eebefdddaa11bbfe4b7e33f039c6e23948da5525078fd1a2a"
+    "sha256": "cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c"
   },
   {
     "numero": "053",
@@ -849,13 +849,13 @@
   {
     "numero": "078",
     "nombre": "LEY de los Impuestos Generales de Importación y de Exportación",
-    "dof": "DOF07/06/2022",
-    "ultima_reforma": "DOF 31/12/2025",
+    "dof": "DOF07/06/2022 Nueva modificación",
+    "ultima_reforma": "DOF 23/04/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
     "pdf_filename": "LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.pdf",
     "pdf_filename_origen": "LIGIE_2022.pdf",
     "md_slug": "LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion",
-    "sha256": "b58bfe99716c592146f64f983fee882a2780fc03d0aaf6f31205dfb692aebd2b"
+    "sha256": "a7688a47c8283f327b943e06ed948782feba2f5a0e16fe796d50d8340ce40ece"
   },
   {
     "numero": "079",
@@ -1180,12 +1180,12 @@
     "numero": "108",
     "nombre": "LEY de Vivienda",
     "dof": "DOF27/06/2006",
-    "ultima_reforma": "DOF 15/01/2026",
+    "ultima_reforma": "DOF 29/04/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf",
     "pdf_filename": "LViv_ley_de_vivienda.pdf",
     "pdf_filename_origen": "LViv.pdf",
     "md_slug": "LViv_ley_de_vivienda",
-    "sha256": "03633d7ecf1c2f762ba86c3f3b670b71a445e7ef5206aaa931397c3f327f2ba6"
+    "sha256": "f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7"
   },
   {
     "numero": "109",
@@ -1652,13 +1652,13 @@
   {
     "numero": "151",
     "nombre": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
-    "dof": "DOF30/03/2006",
-    "ultima_reforma": "DOF 16/07/2025",
+    "dof": "DOF30/03/2006 Nueva reforma",
+    "ultima_reforma": "DOF 09/04/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf",
     "pdf_filename": "LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.pdf",
     "pdf_filename_origen": "LFPRH.pdf",
     "md_slug": "LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria",
-    "sha256": "29ceff3b3d7c593f7f4d5e2ac16eda3cf9a6246ebad506f3ed41b02647fff7bb"
+    "sha256": "ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741"
   },
   {
     "numero": "152",
@@ -1674,13 +1674,13 @@
   {
     "numero": "153",
     "nombre": "LEY Federal de Procedimiento Contencioso Administrativo",
-    "dof": "DOF01/12/2005",
-    "ultima_reforma": "DOF 14/11/2025",
+    "dof": "DOF01/12/2005 Nueva reforma",
+    "ultima_reforma": "DOF 09/06/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf",
     "pdf_filename": "LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.pdf",
     "pdf_filename_origen": "LFPCA.pdf",
     "md_slug": "LFPCA_ley_federal_de_procedimiento_contencioso_administrativo",
-    "sha256": "c99ea8ee22f1988c309d700f74532efdcd790f82cd3d6128a42a2f97ec2c4710"
+    "sha256": "d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e"
   },
   {
     "numero": "154",
@@ -1696,13 +1696,13 @@
   {
     "numero": "155",
     "nombre": "LEY Federal de Protección a la Propiedad Industrial",
-    "dof": "DOF01/07/2020",
-    "ultima_reforma": "DOF 15/01/2026",
+    "dof": "DOF01/07/2020 Nueva reforma",
+    "ultima_reforma": "DOF 03/04/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
     "pdf_filename": "LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.pdf",
     "pdf_filename_origen": "LFPPI.pdf",
     "md_slug": "LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial",
-    "sha256": "71259aa9333da7debab398009eb8a9869be9b0108b4072590299761000efe70a"
+    "sha256": "8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20"
   },
   {
     "numero": "156",
@@ -1850,13 +1850,13 @@
   {
     "numero": "169",
     "nombre": "LEY Federal del Derecho de Autor",
-    "dof": "DOF24/12/1996",
-    "ultima_reforma": "DOF 15/01/2026",
+    "dof": "DOF24/12/1996 Nueva reforma",
+    "ultima_reforma": "DOF 14/05/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
     "pdf_filename": "LFDA_ley_federal_del_derecho_de_autor.pdf",
     "pdf_filename_origen": "LFDA.pdf",
     "md_slug": "LFDA_ley_federal_del_derecho_de_autor",
-    "sha256": "86b5bb5b29665ccd9341abe6d6fc7db8f4ca88d196bc5cf8d2990c0f7b8b90c8"
+    "sha256": "1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5"
   },
   {
     "numero": "170",
@@ -1883,13 +1883,13 @@
   {
     "numero": "172",
     "nombre": "LEY Federal del Trabajo",
-    "dof": "DOF01/04/1970",
-    "ultima_reforma": "DOF 15/01/2026",
+    "dof": "DOF01/04/1970 Nueva reforma",
+    "ultima_reforma": "DOF 14/05/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
     "pdf_filename": "LFT_ley_federal_del_trabajo.pdf",
     "pdf_filename_origen": "LFT.pdf",
     "md_slug": "LFT_ley_federal_del_trabajo",
-    "sha256": "46cf7a7bd854c261545cc4a3e57c57e52f6ddd8fb06260af1628a26fa44f8ed3"
+    "sha256": "12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7"
   },
   {
     "numero": "173",
@@ -2092,13 +2092,13 @@
   {
     "numero": "191",
     "nombre": "LEY General de Contabilidad Gubernamental",
-    "dof": "DOF31/12/2008",
-    "ultima_reforma": "DOF 16/07/2025",
+    "dof": "DOF31/12/2008 Nueva reforma",
+    "ultima_reforma": "DOF 14/05/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
     "pdf_filename": "LGCG_ley_general_de_contabilidad_gubernamental.pdf",
     "pdf_filename_origen": "LGCG.pdf",
     "md_slug": "LGCG_ley_general_de_contabilidad_gubernamental",
-    "sha256": "64b4da1d8513aa0a5e7ffd8ae44099d365ee5cf8da45a1595d911d1fec9f088e"
+    "sha256": "cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815"
   },
   {
     "numero": "192",
@@ -2191,13 +2191,13 @@
   {
     "numero": "200",
     "nombre": "LEY General de Instituciones y Procedimientos Electorales",
-    "dof": "DOF23/05/2014",
-    "ultima_reforma": "DOF 14/10/2024",
+    "dof": "DOF23/05/2014 Nueva reforma",
+    "ultima_reforma": "DOF 02/06/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
     "pdf_filename": "LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.pdf",
     "pdf_filename_origen": "LGIPE.pdf",
     "md_slug": "LGIPE_ley_general_de_instituciones_y_procedimientos_electorales",
-    "sha256": "53699aa54e5e414a8418252e11ca061491eeed2d297cb68ef1518e48a0c7cde2"
+    "sha256": "8d6253c7ac28c654543484bac172ca12bbda8db41564b07f27ca5bbea0b4cf80"
   },
   {
     "numero": "201",
@@ -2730,13 +2730,13 @@
   {
     "numero": "249",
     "nombre": "LEY Orgánica de la Administración Pública Federal",
-    "dof": "DOF29/12/1976",
-    "ultima_reforma": "DOF 16/07/2025",
+    "dof": "DOF29/12/1976 Nueva reforma",
+    "ultima_reforma": "DOF 07/05/2026",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
     "pdf_filename": "LOAPF_ley_organica_de_la_administracion_publica_federal.pdf",
     "pdf_filename_origen": "LOAPF.pdf",
     "md_slug": "LOAPF_ley_organica_de_la_administracion_publica_federal",
-    "sha256": "52f611ae5e238c992de3ed2d382195cfbf2adb5f3f6afded1fd5595ad43bddab"
+    "sha256": "3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f"
   },
   {
     "numero": "250",
@@ -3463,5 +3463,27 @@
     "pdf_filename_origen": "219.pdf",
     "md_slug": "RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad",
     "sha256": "fff7e0e84270e4d5f9c103b0b792c5e05256d4c6957126d2a5c12509b6b383ec"
+  },
+  {
+    "numero": "138",
+    "nombre": "LEY Federal de Cine y el Audiovisual",
+    "dof": "DOF22/05/2026 Nueva Ley",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCA.pdf",
+    "pdf_filename": "LFCA_ley_federal_de_cine_y_el_audiovisual.pdf",
+    "pdf_filename_origen": "LFCA.pdf",
+    "md_slug": "LFCA_ley_federal_de_cine_y_el_audiovisual",
+    "sha256": "29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2"
+  },
+  {
+    "numero": "275",
+    "nombre": "LEY para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar",
+    "dof": "DOF09/04/2026 Nueva Ley",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIIEDB.pdf",
+    "pdf_filename": "LFIIEDB_ley_para_el_fomento_de_la_inversion_en_infraestructura_estrategica_par.pdf",
+    "pdf_filename_origen": "LFIIEDB.pdf",
+    "md_slug": "LFIIEDB_ley_para_el_fomento_de_la_inversion_en_infraestructura_estrategica_par",
+    "sha256": "fe2c431f650ba0c758bcfedf67155702c18a62cc941fbeb0e3a6db9206754eaa"
   }
 ]

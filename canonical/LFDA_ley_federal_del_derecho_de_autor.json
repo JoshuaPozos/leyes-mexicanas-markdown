@@ -7,9 +7,9 @@
   "source": {
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
     "pdf_filename_origen": "LFDA.pdf",
-    "dof_publication": "DOF24/12/1996",
-    "last_reform": "DOF 15/01/2026",
-    "captured_at": "2026-06-12T02:16:22.267261+00:00"
+    "dof_publication": "DOF24/12/1996 Nueva reforma",
+    "last_reform": "DOF 14/05/2026",
+    "captured_at": "2026-06-25T14:52:28.411005+00:00"
   },
   "preamble": [
     {
@@ -250,11 +250,43 @@
       "content": [
         {
           "type": "paragraph",
-          "text": ".- Todos los plazos establecidos para determinar la protección que otorga la presente Ley se computarán a partir del 1o. de enero del año siguiente al respectivo en que se hubiera realizado el hecho utilizado para iniciar el cómputo, salvo que este propio ordenamiento establezca una disposición en contrario. de Procedimiento Administrativo, el Código Nacional de Procedimientos Civiles y Familiares y el Código de Comercio."
+          "text": ".- Todos los plazos establecidos para determinar la protección que otorga la presente Ley se computarán a partir del 1o. de enero del año siguiente al respectivo en que se hubiera realizado el hecho utilizado para iniciar el cómputo, salvo que este propio ordenamiento establezca una disposición en contrario."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-9",
+      "heading": "Artículo 9o",
+      "descriptor": null,
+      "ordinal": "9o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Bis.- El Instituto podrá hacer del conocimiento de las personas interesadas actos administrativos; de manera personal, correo certificado con acuse de recibo, telefax o cualquier otro medio al alcance de la autoridad, por la cual, se pueda tener la certeza de que el particular conoció en su integridad los actos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las notificaciones personales podrán realizarse por correo electrónico o cualquier otro medio tecnológico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando no sea posible notificar el acto administrativo por ninguno de los medios previamente establecidos, la notificación podrá efectuarse mediante rotulón institucional."
         },
         {
           "type": "reform_note",
-          "text": "Artículo reformado DOF 01-07-2020, 14-11-2025",
+          "text": "Artículo adicionado DOF 14-05-2026",
+          "action": "adicionado",
+          "dof_date": "14-05-2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "de Procedimiento Administrativo, el Código Nacional de Procedimientos Civiles y Familiares, el Código de Comercio y la Ley General de Mecanismos Alternativos de Solución de Controversias."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 01-07-2020, 14-11-2025, 14-05-2026",
           "action": "reformado",
           "dof_date": "01-07-2020"
         },
@@ -1252,7 +1284,13 @@
             {
               "type": "fraccion",
               "ordinal": "I",
-              "text": "El número de ediciones o, en su caso, reimpresiones, que comprende;"
+              "text": "El número de ediciones o, en su caso, reimpresiones, que comprende, así como la versión y el formato;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "fraccion",
@@ -1772,7 +1810,13 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- Son contratos publicitarios los que tengan por finalidad la explotación de obras literarias o artísticas con fines de promoción o identificación en anuncios publicitarios o de propaganda a través de cualquier medio de comunicación."
+              "text": ".- Son contratos publicitarios los que tengan por finalidad la explotación de obras literarias o artísticas, con fines de promoción o identificación en anuncios publicitarios o de propaganda a través de cualquier forma o medio de comunicación."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -1786,7 +1830,17 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- Los anuncios publicitarios o de propaganda podrán ser difundidos hasta por un período máximo de seis meses a partir de la primera comunicación. Pasado este término, su comunicación deberá retribuirse, por cada período adicional de seis meses, aun cuando sólo se efectúe en fracciones de ese período, al menos con una cantidad igual a la contratada originalmente. Después de transcurridos tres años desde la primera comunicación, su uso requerirá la autorización de los autores y de los titulares de los derechos conexos de las obras utilizadas."
+              "text": ".- Los anuncios publicitarios o de propaganda podrán ser difundidos hasta por un período máximo de seis meses a partir de la primera comunicación. Concluido dicho plazo, su comunicación deberá retribuirse, por cada período adicional de seis meses, aun cuando sólo se efectúe en fracciones de ese período, al menos con una cantidad igual a la contratada originalmente. Después de transcurrido un año desde la primera comunicación, los autores y titulares de los derechos conexos deberán autorizar cualquier uso de los anuncios publicitarios o de propaganda y se actualizará el valor de la contraprestación, de conformidad con los indicadores de inflación y valores actuales del mercado al momento efectivo de la difusión de períodos adicionales."
+            },
+            {
+              "type": "paragraph",
+              "text": "En los contratos en los que se establezca una exclusividad o cláusula de no competencia, la misma no podrá ser mayor al término de vigencia del contrato."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -1800,7 +1854,17 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- En el caso de publicidad en medios impresos, el contrato deberá precisar el soporte o soportes materiales en los que se reproducirá la obra y, si se trata de folletos o medios distintos de las publicaciones periódicas, el número de ejemplares de que constará el tiraje. Cada tiraje adicional deberá ser objeto de un acuerdo expreso."
+              "text": ".- En el caso de publicidad en medios, ya sea digitales, impresos o la combinación de ambos, el contrato deberá precisar el soporte o soportes materiales en los que se reproducirá la obra, fonograma, videograma, interpretación o ejecución, dependiendo del medio que se trate, el número de ejemplares de que constará el tiraje, los canales y plataformas de difusión, la geolocalización de estos, la temporalidad y territorios en que se comunicará la obra, fonograma, videograma, interpretación o ejecución."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cualquier modificación a las condiciones del contrato será objeto de acuerdo libre, informado, remunerado y transparente entre las partes."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "paragraph",
@@ -2068,19 +2132,37 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- El retrato de una persona sólo puede ser usado o publicado, con su consentimiento expreso, o bien con el de sus representantes o los titulares de los derechos correspondientes. La autorización de usar o publicar el retrato podrá revocarse por quien la otorgó quién, en su caso, responderá por los daños y perjuicios que pudiera ocasionar dicha revocación."
+              "text": ".- La imagen, incluida la voz, de las personas artistas intérpretes o ejecutantes, así como de sus personajes, sólo puede ser usada o publicada, con su consentimiento expreso, o bien con el de sus representantes o los titulares de los derechos correspondientes."
             },
             {
               "type": "paragraph",
-              "text": "Cuando a cambio de una remuneración, una persona se dejare retratar, se presume que ha otorgado el consentimiento a que se refiere el párrafo anterior y no tendrá derecho a revocarlo, siempre que se utilice en los términos y para los fines pactados."
+              "text": "La protección a la que se refiere el párrafo anterior abarca los resultados generados por sistemas de inteligencia artificial o cualquier otra tecnología."
             },
             {
               "type": "paragraph",
-              "text": "No será necesario el consentimiento a que se refiere este artículo cuando se trate del retrato de una persona que forme parte menor de un conjunto o la fotografía sea tomada en un lugar público y con fines informativos o periodísticos."
+              "text": "La autorización podrá revocarse con causa justificada por quien la otorgó salvo que se haya agotado el derecho en términos del último párrafo del artículo 118 y, en su caso, responderá por los daños y perjuicios que pudiera ocasionar dicha revocación."
             },
             {
               "type": "paragraph",
-              "text": "Los derechos establecidos para las personas retratadas durarán 50 años después de su muerte."
+              "text": "Cuando una persona artista intérprete o ejecutante haya recibido una remuneración específica por el uso de su imagen, se presumirá que ha otorgado su consentimiento únicamente para los fines y modalidades expresamente pactados. Cualquier uso distinto requerirá una nueva autorización y remuneración."
+            },
+            {
+              "type": "paragraph",
+              "text": "No será necesario el consentimiento a que se refiere este artículo cuando se trate de la imagen de una persona artista intérprete o ejecutante que forme parte menor de un conjunto o la imagen sea captada en un lugar público o, con fines informativos o periodísticos."
+            },
+            {
+              "type": "paragraph",
+              "text": "No se considerará violación a los derechos reconocidos en este artículo, cuando el uso de la imagen o la voz de la persona intérprete o ejecutante se realice con fines de parodia, sátira o imitación creativa, o cuando el uso no constituya una clonación o suplantación que induzca a error al público o que tenga por objeto sustituir la prestación profesional del artista en el mercado mediante el uso de sistemas de inteligencia artificial o cualquier otra tecnología o de cualquier otra forma."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los derechos reconocidos en este artículo permanecerán vigentes de conformidad con lo previsto en el artículo 122 de esta Ley."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -2401,7 +2483,13 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- Los programas de computación se protegen en los mismos términos que las obras literarias. Dicha protección se extiende tanto a los programas operativos como a los programas aplicativos, ya sea en forma de código fuente o de código objeto. Se exceptúan aquellos programas de cómputo que tengan por objeto causar efectos nocivos a otros programas o equipos."
+              "text": ".- Los programas de computación, incluidos los de inteligencia artificial, se protegen en los mismos términos que las obras literarias. Dicha protección se extiende tanto a los programas operativos como a los programas aplicativos, ya sea en forma de código fuente o de código objeto. Se exceptúan aquellos programas de cómputo o inteligencia artificial, que tengan por objeto causar efectos nocivos a otros programas o equipos o que violen los derechos de terceros tutelados por esta Ley."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -3081,7 +3169,17 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- Los términos artista intérprete o ejecutante designan al actor, narrador, declamador, cantante, músico, bailarín, o a cualquiera otra persona que interprete o ejecute una obra literaria o artística o una expresión del folclor o que realice una actividad similar a las anteriores, aunque no haya un texto previo que norme su desarrollo. Los llamados extras y las participaciones eventuales no quedan incluidos en esta definición."
+              "text": ".- Los términos artista intérprete o ejecutante, designan al actor, narrador, declamador, locutor, locutor comercial, actor de doblaje, cantante, músico, bailarín, o a cualquiera otra persona que interprete o ejecute una obra literaria o artística o una expresión del folclor o que realice una actividad similar a las anteriores, aunque no haya un texto o sistema de notación previo que norme su desarrollo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los llamados extras y las participaciones eventuales no quedan incluidos en esta definición."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -3184,32 +3282,47 @@
             {
               "type": "fraccion",
               "ordinal": "V",
-              "text": "La comunicación pública de sus interpretaciones o ejecuciones fijadas, a través de señales o emisiones, así como la puesta a disposición del público, ya sea de forma alámbrica o inalámbrica, de tal forma que los miembros del público puedan acceder a ellas desde el lugar y en el momento que cada uno de ellos elija; salvo que se trate de la radiodifusión o la comunicación al público, ya sea por medios alámbricos o inalámbricos, de los sonidos o representaciones de sonidos fijados en un fonograma que estén incorporados a una obra audiovisual, y"
+              "text": "La comunicación pública de sus interpretaciones o ejecuciones fijadas, a través de señales o emisiones, así como la puesta a disposición del público, por medios alámbricos o inalámbricos, de forma que cualquier persona pueda acceder a ellas desde el lugar y en el momento que cada uno de ellos elija."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta facultad no será exigible cuando se trate de la radiodifusión o la comunicación al público, ya sea por medios alámbricos o inalámbricos, de sonidos o representaciones de sonidos fijados en un fonograma incorporado a una obra audiovisual;"
             },
             {
               "type": "reform_note",
-              "text": "Fracción adicionada DOF 01-07-2020",
+              "text": "Fracción adicionada DOF 01-07-2020. Reformada DOF 14-05-2026",
               "action": "adicionado",
-              "dof_date": "01-07-2020"
+              "dof_date": "14-05-2026"
             },
             {
               "type": "fraccion",
               "ordinal": "VI",
-              "text": "El arrendamiento comercial de sus interpretaciones o ejecuciones fijadas, así como de sus ejemplares, aún después de la venta o cualquier otro tipo de transferencia de la propiedad de los soportes materiales que las contengan."
+              "text": "El arrendamiento con fines comerciales de sus interpretaciones o ejecuciones fijadas, así como de sus ejemplares, incluso después de la venta u otra forma de transmisión de la propiedad de los soportes materiales que las contengan, y"
             },
             {
               "type": "reform_note",
-              "text": "Fracción adicionada DOF 01-07-2020",
+              "text": "Fracción adicionada DOF 01-07-2020. Reformada DOF 14-05-2026",
               "action": "adicionado",
-              "dof_date": "01-07-2020"
+              "dof_date": "14-05-2026"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "La suplantación de sus interpretaciones o ejecuciones por sistemas de inteligencia artificial o cualquier otra tecnología que resulten en generación de clones de sus interpretaciones o que simulen su voz de manera identificable, siempre que dicha conducta no se realice con fines de parodia, sátira o imitación creativa y no tenga por objeto o efecto sustituir la prestación profesional de la persona artista intérprete o ejecutante."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 14-05-2026",
+              "action": "adicionado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "paragraph",
-              "text": "Estos derechos se consideran agotados una vez que el artista intérprete o ejecutante haya autorizado la incorporación de su actuación o interpretación en una fijación visual, sonora o audiovisual, siempre y cuando los usuarios que utilicen con fines de lucro dichos soportes materiales, efectúen el pago correspondiente."
+              "text": "Estos derechos se consideran agotados una vez que el artista intérprete o ejecutante haya autorizado la incorporación de su actuación o interpretación en una fijación visual, sonora o audiovisual, cuando las personas usuarias, sobre las cuales se haya autorizado la fijación de la interpretación y que utilicen con fines de lucro dichos soportes materiales, efectúen el pago correspondiente previo a la primera comunicación pública, salvo en los casos de productores de fonogramas, videogramas o audiogramas, quienes podrán realizar el pago de conformidad a los acuerdos entre las partes."
             },
             {
               "type": "reform_note",
-              "text": "Párrafo reformado DOF 23-07-2003",
+              "text": "Párrafo reformado DOF 23-07-2003, 14-05-2026",
               "action": "reformado",
               "dof_date": "23-07-2003"
             }
@@ -3244,6 +3357,16 @@
             {
               "type": "paragraph",
               "text": ".- Los contratos de interpretación o ejecución deberán precisar los tiempos, períodos, contraprestaciones y demás términos y modalidades bajo los cuales se podrá fijar, reproducir y comunicar al público dicha interpretación o ejecución."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso de duda en las cláusulas contractuales, prevalecerá la interpretación más favorable al artista intérprete o ejecutante."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 14-05-2026",
+              "action": "adicionado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -3257,7 +3380,17 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- Salvo pacto en contrario, la celebración de un contrato entre un artista intérprete o ejecutante y un productor de obras audiovisuales para la producción de una obra audiovisual conlleva el derecho de fijar, reproducir y comunicar al público las actuaciones del artista. Lo anterior no incluye el derecho de utilizar en forma separada el sonido y las imágenes fijadas en la obra audiovisual, a menos que se acuerde expresamente."
+              "text": ".- Salvo pacto en contrario, la celebración de un contrato entre un artista intérprete o ejecutante y un productor de obras audiovisuales para la producción de una obra audiovisual conlleva el derecho de fijar, reproducir y comunicar al público las actuaciones del artista. Lo anterior no incluye el derecho de utilizar en forma separada el sonido y las imágenes fijadas en la obra audiovisual."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cualquier clonación o suplantación de la voz o imagen realizada con sistemas de inteligencia artificial o cualquier otra tecnología que resulten en generación de clones de sus interpretaciones o que simulen su voz de manera identificable, requerirá de un acuerdo previo y por escrito entre las partes."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -4474,7 +4607,13 @@
             {
               "type": "fraccion",
               "ordinal": "IX",
-              "text": "Los convenios o contratos de interpretación o ejecución que celebren los artistas intérpretes o ejecutantes, y"
+              "text": "Los convenios o contratos de interpretación, locución, locución comercial, actuación de doblaje o ejecución que celebren los artistas intérpretes o ejecutantes, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "fraccion",
@@ -4723,12 +4862,35 @@
             {
               "type": "fraccion",
               "ordinal": "IV",
-              "text": "Personas o grupos dedicados a actividades artísticas, y"
+              "text": "Personas o grupos dedicados a actividades artísticas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "fraccion",
               "ordinal": "V",
+              "text": "Eventos artísticos y culturales, tales como festivales, concursos, ferias o cualquier otro de similar naturaleza, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 14-05-2026",
+              "action": "adicionado",
+              "dof_date": "14-05-2026"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
               "text": "Promociones publicitarias: Contemplan un mecanismo novedoso y sin protección tendiente a promover y ofertar un bien o un servicio, con el incentivo adicional de brindar la posibilidad al público en general de obtener otro bien o servicio, en condiciones más favorables que en las que normalmente se encuentra en el comercio; se exceptúa el caso de los anuncios comerciales."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción recorrida DOF 14-05-2026",
+              "action": "recorrido",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -5091,7 +5253,13 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- La vigencia del certificado de la reserva de derechos otorgada a títulos de publicaciones o difusiones periódicas será de un año, contado a partir de la fecha de su expedición."
+              "text": ".- La vigencia del certificado de la reserva de derechos otorgada a títulos de publicaciones y difusiones periódicas, así como eventos artísticos y culturales, será de un año, contado a partir de la fecha de su expedición."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "paragraph",
@@ -6011,9 +6179,16 @@
       "type": "capitulo",
       "id": "capitulo-ii",
       "heading": "Capítulo II",
-      "descriptor": "Del Procedimiento de Avenencia",
+      "descriptor": "De los Mecanismos Alternativos de Solución de Controversias",
       "ordinal": "II",
-      "content": [],
+      "content": [
+        {
+          "type": "reform_note",
+          "text": "Denominación del Capítulo reformada DOF 14-05-2026",
+          "action": "reformado",
+          "dof_date": "14-05-2026"
+        }
+      ],
       "children": [
         {
           "type": "articulo",
@@ -6024,11 +6199,53 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- Las personas que consideren que son afectados en alguno de los derechos protegidos por esta Ley, podrán optar entre hacer valer las acciones judiciales que les correspondan o sujetarse al procedimiento de avenencia."
+              "text": ".- Las personas que se consideren afectadas en alguno de los derechos protegidos por esta Ley, podrán hacer valer las acciones judiciales que les correspondan u optar por algún Mecanismo Alternativo ante el Instituto."
             },
             {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-217",
+          "heading": "Artículo 217",
+          "descriptor": null,
+          "ordinal": "217",
+          "content": [
+            {
               "type": "paragraph",
-              "text": "El procedimiento administrativo de avenencia es el que se substancia ante el Instituto, a petición de alguna de las partes para dirimir de manera amigable un conflicto surgido con motivo de la interpretación o aplicación de esta Ley."
+              "text": "Bis.- Se podrán tramitar ante el Instituto, los Mecanismos Alternativos siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Avenencia: Procedimiento voluntario mediante el cual las partes, por sí o a través de sus representantes, acuerdan propuestas de solución para resolver o prevenir una controversia o conflicto, ante la presencia de la persona facilitadora;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Mediación: Procedimiento voluntario mediante el cual las partes acuerdan de manera pacífica resolver una controversia, en forma parcial o total, o prevenir una futura, con la asistencia, apoyo y conducción de una persona facilitadora;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Conciliación: Procedimiento voluntario mediante el cual las partes involucradas en una controversia o conflicto acuerdan de manera pacífica resolverla en forma parcial o total, o prevenir una futura, con la asistencia y participación activa de una persona facilitadora, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Arbitraje: Procedimiento voluntario mediante el cual las partes deciden por escrito, y a través de un acuerdo o cláusula arbitral, someter todas o ciertas controversias que puedan surgir en el futuro, o que ya hayan surgido entre ellas, ante un tercero denominado grupo arbitral, quien dicta un laudo arbitral, conforme a lo previsto en la presente Ley y el Reglamento."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 14-05-2026",
+              "action": "adicionado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -6042,61 +6259,32 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- El procedimiento administrativo de avenencia lo llevará a cabo el Instituto conforme a lo siguiente:"
+              "text": ".- Los Mecanismos Alternativos que se tramiten ante el Instituto, podrán realizarse a través de las siguientes modalidades:"
             },
             {
               "type": "fraccion",
               "ordinal": "I",
-              "text": "Se iniciará con la queja, que por escrito presente ante el Instituto quien se considere afectado en sus derechos de autor, derechos conexos y otros derechos tutelados por la presente Ley;"
+              "text": "Presencial, cuando ambas partes comparecen ante el Instituto;"
             },
             {
               "type": "fraccion",
               "ordinal": "II",
-              "text": "Con la queja y sus anexos se dará vista a la parte en contra de la que se interpone, para que la conteste dentro de los diez días siguientes a la notificación;"
+              "text": "En línea, por medios tecnológicos, y"
             },
             {
               "type": "fraccion",
               "ordinal": "III",
-              "text": "Se citará a las partes a una junta de avenencia, apercibiéndolas que de no asistir, se les impondrá una multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización."
+              "text": "Mixta, con audiencias presenciales y en línea, o personas que acuden presencialmente o en línea."
             },
             {
               "type": "paragraph",
-              "text": "Dicha junta se llevará a cabo dentro de los veinte días siguientes a la presentación de la queja;"
+              "text": "Los procedimientos relativos a los mecanismos alternativos se establecerán en el Reglamento, así como en las disposiciones que emita el Instituto."
             },
             {
               "type": "reform_note",
-              "text": "Fracción reformada DOF 10-06-2013, 01-07-2020",
+              "text": "Artículo reformado DOF 10-06-2013, 01-07-2020, 15-01-2026, 14-05-2026",
               "action": "reformado",
               "dof_date": "10-06-2013"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "IV",
-              "text": "En la junta respectiva el Instituto tratará de avenir a las partes para que lleguen a un arreglo. De aceptarlo ambas partes, la junta de avenencia puede diferirse las veces que sean necesarias a fin de lograr la conciliación. El convenio firmado por las partes y el Instituto tendrá el carácter de cosa juzgada y título ejecutivo;"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "V",
-              "text": "Durante la junta de avenencia, el Instituto no podrá hacer determinación alguna sobre el fondo del asunto, pero si podrá participar activamente en la conciliación;"
-            },
-            {
-              "type": "fraccion",
-              "ordinal": "VI",
-              "text": "En caso de no lograrse la avenencia, el Instituto exhortará a las partes para que se acojan al arbitraje establecido en el Capítulo III de este Título;"
-            },
-            {
-              "type": "paragraph",
-              "text": "Las actuaciones dentro de este procedimiento tendrán el carácter de confidenciales y, por lo tanto, las constancias de las mismas sólo serán enteradas a las partes del conflicto o a las autoridades competentes que las soliciten."
-            },
-            {
-              "type": "paragraph",
-              "text": "Dicho procedimiento se llevará a cabo asegurando condiciones equitativas entre las partes, con perspectiva de género y enfoque interseccional."
-            },
-            {
-              "type": "reform_note",
-              "text": "Párrafo adicionado DOF 15-01-2026",
-              "action": "adicionado",
-              "dof_date": "15-01-2026"
             }
           ],
           "children": []
@@ -6506,7 +6694,13 @@
             {
               "type": "fraccion",
               "ordinal": "II",
-              "text": "Utilizar la imagen de una persona sin su autorización o la de sus causahabientes;"
+              "text": "Contravenir lo dispuesto en los artículos 87, así como 118, fracción VII, de la presente Ley;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "fraccion",
@@ -6577,18 +6771,24 @@
             {
               "type": "fraccion",
               "ordinal": "I",
-              "text": "De cinco mil hasta cuarenta mil días de salario mínimo en los casos previstos en las fracciones I, III, IV, V, VII, VIII y IX del artículo anterior,"
+              "text": "De cinco mil hasta cuarenta mil días de salario mínimo en los casos previstos en las fracciones I, II, III, IV, V, VII, VIII y IX del artículo anterior;"
             },
             {
               "type": "reform_note",
-              "text": "Fracción reformada DOF 27-01-2012",
+              "text": "Fracción reformada DOF 27-01-2012, 14-05-2026",
               "action": "reformado",
               "dof_date": "27-01-2012"
             },
             {
               "type": "fraccion",
               "ordinal": "II",
-              "text": "De mil hasta cinco mil días de salario mínimo en los casos previstos en las fracciones II y VI del artículo anterior, y"
+              "text": "De mil hasta cinco mil días de salario mínimo en los casos previstos en la fracción VI del artículo anterior, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "fraccion",
@@ -9045,6 +9245,84 @@
             {
               "type": "paragraph",
               "text": "Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 14 de mayo de 2026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 10; 47, fracción I; 73; 74; 75; 87; 102; 116; 118, fracciones V, VI y su segundo párrafo; 121; 163, fracción IX; 189, primer párrafo; 217; 218; 231, fracción II; 232, fracciones I y II; y la denominación del Capítulo II del Título XI; y se adicionan los artículos 9o. Bis; 118, con una fracción VII; 120, con un segundo párrafo; 173, con una fracción V, recorriéndose la actual en su orden, y 217 Bis, de la Ley Federal del Derecho de Autor, para quedar como sigue: ……."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones que se opongan al presente Decreto. dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos administrativos de avenencia y arbitraje iniciados con anterioridad a la entrada en vigor del presente Decreto, en lo que no se opongan al mismo, continuarán hasta su conclusión conforme a los ordenamientos en vigor existentes al momento de su inicio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 15 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
             }
           ],
           "children": []

@@ -82,8 +82,8 @@ XXIII Bis. Fondo Mexicano del Petróleo: el Fondo Mexicano del Petróleo para la
 Fracción adicionada DOF 11-08-2014
 
 XXIV. Función Pública: la Secretaría de la Función Pública;
-XXIV Bis. Gasto corriente estructural: el monto correspondiente al gasto neto total, excluyendo los gastos por concepto de costo financiero, participaciones a las entidades federativas, a los municipios y demarcaciones territoriales del Distrito Federal, adeudos de ejercicios fiscales anteriores, combustibles utilizados para la generación de electricidad, pago de pensiones y jubilaciones del sector público, y la inversión física y financiera directa de la Administración Pública Federal;
-Fracción adicionada DOF 24-01-2014
+XXIV Bis. Gasto corriente estructural: el monto correspondiente al gasto neto total, excluyendo los gastos por concepto de costo financiero, participaciones a las entidades federativas, a los municipios y demarcaciones territoriales de la Ciudad de México, adeudos de ejercicios fiscales anteriores, combustibles utilizados para la generación de electricidad, pago de pensiones y jubilaciones del sector público, los programas sociales universales establecidos en la Constitución Política de los Estados Unidos Mexicanos, los servicios personales correspondientes a las funciones de gasto de Educación, Salud y Seguridad Pública, y la inversión física y financiera directa de la Administración Pública Federal;
+Fracción adicionada DOF 24-01-2014. Reformada DOF 09-04-2026
 
 XXV. Gasto neto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
@@ -120,6 +120,8 @@ XXXVII. Presupuesto regularizable de servicios personales: las erogaciones que c
 XXXVIII. Programas de inversión: las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura como a la adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
 
 XXXIX. Proyectos de inversión: las acciones que implican erogaciones de gasto de capital destinadas a obra pública en infraestructura;
+XXXIX Bis. Proyectos para el desarrollo con bienestar: los proyectos de infraestructura estratégica, prestación de servicios o adquisición de bienes o equipo a que se refiere la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar;
+Fracción adicionada DOF 09-04-2026
 
 XL. Ramo: la previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos;
 
@@ -258,6 +260,13 @@ La unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto s
 Los fideicomisos públicos que tengan como objeto principal financiar programas y proyectos de inversión deberán sujetarse a las disposiciones generales en la materia.
 Reforma DOF 06-11-2020: Derogó del artículo el entonces párrafo séptimo
 
+### Artículo 9
+Bis.- Las dependencias y entidades que suscriban contratos de infraestructura estratégica, o aquellos que por ley así se estipule, deberán presentar, con base en los criterios que establezca la Secretaría, aquella información que permita reflejar adecuadamente los registros presupuestarios y la valuación de los pasivos y activos financieros y no financieros, así como los riesgos y contingencias asociados, y que permitan la consolidación de la información financiera del sector público bajo el mismo marco de normatividad contable, asegurando que los efectos económicos reales de dichas operaciones sean transparentes y verificables.
+Para efectos de lo dispuesto en el párrafo anterior, las contrapartes, contratistas, desarrolladores o proveedores deberán proporcionar la información que les requieran las dependencias y entidades. Dicha obligación deberá establecerse en los contratos e instrumentos jurídicos correspondientes.
+Tratándose de los riesgos y contingencias asociados a los contratos descritos en el párrafo primero de este artículo, las contrapartes deberán presentar a la Secretaría la información que ésta les requiera.
+Dicha obligación deberá establecerse en los contratos e instrumentos jurídicos correspondientes.
+Artículo adicionado DOF 09-04-2026
+
 ### Artículo 10
 .- Las dependencias y entidades podrán otorgar subsidios o donativos, los cuales mantienen su naturaleza jurídica de recursos públicos federales para efectos de su fiscalización y transparencia, a los fideicomisos que constituyan las entidades federativas o los particulares, siempre y cuando cumplan con lo que a continuación se señala y lo dispuesto en el Reglamento:
 
@@ -330,8 +339,8 @@ Fracción adicionada DOF 24-01-2014
 VI. El límite máximo del gasto corriente estructural para el ejercicio fiscal, así como proyecciones de este límite para un periodo de 5 años adicionales.
 Fracción adicionada DOF 24-01-2014
 Los criterios generales de política económica explicarán las medidas de política fiscal que se utilizarán para el logro de los objetivos, las estrategias y metas, así como las acciones que correspondan a otras políticas que impacten directamente en el desempeño de la economía. Asimismo, se deberán exponer los costos fiscales futuros de las iniciativas de ley o decreto relacionadas con las líneas generales de política a que se refiere este artículo, acompañados de propuestas para enfrentarlos.
-En los criterios a que se refiere el párrafo anterior se expondrán también los riesgos más relevantes que enfrentan las finanzas públicas en el corto plazo, acompañados de propuestas de acción para enfrentarlos.
-Párrafo reformado DOF 24-01-2014
+En los criterios a que se refiere el párrafo anterior se expondrán también los riesgos más relevantes que enfrentan las finanzas públicas en el corto plazo, acompañados de propuestas de acción para enfrentarlos. Asimismo, se deberá presentar para el ejercicio fiscal presupuestado y los siguientes cinco años, los compromisos plurianuales de gasto.
+Párrafo reformado DOF 24-01-2014, 09-04-2026
 
 ### Artículo 17
 .- Los montos de ingreso previstos en la iniciativa y en la Ley de Ingresos, así como de gasto contenidos en el proyecto y en el Presupuesto de Egresos, y los que se ejerzan en el año fiscal por los ejecutores del gasto, deberán contribuir a alcanzar la meta anual de los requerimientos financieros del sector público.
@@ -347,10 +356,10 @@ III. El número de ejercicios fiscales y las acciones requeridas para que dicho 
 El déficit presupuestario deberá eliminarse durante el plazo que se establezca conforme a lo señalado en la fracción III de este artículo.
 El Ejecutivo Federal reportará en los informes trimestrales y la Cuenta Pública, el avance de las acciones, hasta en tanto no se recupere el equilibrio presupuestario.
 En caso de que el Congreso de la Unión modifique el déficit presupuestario en la Ley de Ingresos, deberá motivar su decisión sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del déficit a que se refiere este párrafo el Ejecutivo Federal deberá dar cumplimiento a los demás requisitos previstos en este artículo.
-El gasto en inversión de Petróleos Mexicanos y sus empresas productivas subsidiarias no se contabilizará para efectos del equilibrio presupuestario previsto en este artículo. Lo anterior, sin perjuicio de que los requerimientos financieros del sector público deberán contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público. Asimismo, el balance financiero de las empresas productivas del Estado deberá contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público.
-Párrafo reformado DOF 11-08-2014
-El gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos, aquél que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal, no podrá ser mayor al límite máximo del gasto corriente estructural. Para efectos de lo establecido en este párrafo, el gasto de las empresas productivas del Estado y sus empresas productivas subsidiarias no se contabilizará dentro del gasto corriente estructural que se utilice como base para el cálculo de dicho límite máximo, aquél que se incluya en el proyecto de Presupuesto de Egresos, así como el que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal.
-Párrafo reformado DOF 11-08-2014
+Los requerimientos financieros del sector público deberán contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público. Asimismo, el balance financiero de las empresas públicas del Estado deberá contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público.
+Párrafo reformado DOF 11-08-2014, 09-04-2026
+El gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos, aquél que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal, no podrá ser mayor al límite máximo del gasto corriente estructural. Para efectos de lo establecido en este párrafo, el gasto de las empresas públicas del Estado no se contabilizará dentro del gasto corriente estructural que se utilice como base para el cálculo de dicho límite máximo, aquél que se incluya en el proyecto de Presupuesto de Egresos, así como el que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal.
+Párrafo reformado DOF 11-08-2014, 09-04-2026
 Excepcionalmente, y debido a condiciones económicas y sociales que priven en el país, se podrá rebasar el límite máximo del gasto corriente estructural. En estos casos, el Ejecutivo Federal, por conducto de la Secretaría, al comparecer ante el Congreso de la Unión con motivo de la presentación de las iniciativas de Ley de Ingresos y de Presupuesto de Egresos, para efectos de su aprobación, deberá dar cuenta de las razones excepcionales que lo justifican, así como las acciones y el número de ejercicios fiscales que sean necesarios para mantener una trayectoria de crecimiento del gasto corriente estructural acorde con el crecimiento del Producto Interno Bruto Potencial.
 Los Poderes Legislativo y Judicial y los entes autónomos, en la programación y presupuestación de sus respectivos proyectos, así como en la ejecución de sus presupuestos aprobados deberán cumplir con el límite máximo del gasto corriente estructural.
 Artículo reformado DOF 13-11-2008, 24-01-2014
@@ -442,7 +451,8 @@ III. La disminución de los ingresos distintos a los que se refiere la fracción
 a) Los ajustes deberán realizarse en el siguiente orden:
 
 i) Los gastos de comunicación social; ii) El gasto administrativo no vinculado directamente a la atención de la población; iii) El gasto en servicios personales, prioritariamente las erogaciones por concepto de percepciones extraordinarias, y iv) Los ahorros y economías presupuestarios que se determinen con base en los calendarios de presupuesto autorizados a las dependencias y entidades.
-En caso de que los ajustes anteriores no sean factibles o suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto siempre y cuando se procure no afectar los programas sociales;
+En caso de que los ajustes anteriores no sean factibles o suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto siempre y cuando se procure no afectar los programas sociales y los gastos considerados en el presupuesto relacionados con los Proyectos para el desarrollo con bienestar;
+Párrafo reformado DOF 09-04-2026
 
 b) En el caso de que la contingencia represente una reducción equivalente de hasta el 3 por ciento de los ingresos por impuestos a que se refiera el calendario de la Ley de Ingresos, el Ejecutivo Federal enviará a la Cámara de Diputados en los siguientes 15 días hábiles a que se haya determinado la disminución de ingresos, un informe que contenga el monto de gasto programable a reducir y la composición de dicha reducción por dependencia y entidad;
 
@@ -605,19 +615,22 @@ Párrafo adicionado DOF 24-01-2014
 El Ejecutivo Federal, por conducto de la Secretaría, elaborará la iniciativa de Ley de Ingresos para el ejercicio fiscal correspondiente, con un precio que no exceda el precio de referencia que se prevé en este artículo.
 
 ### Artículo 32
-.- En el proyecto de Presupuesto de Egresos se deberán prever, en un capítulo específico, los compromisos plurianuales de gasto que se autoricen en los términos del artículo 50 de esta Ley, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios. En estos casos, los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual.
-En los proyectos de infraestructura productiva de largo plazo incluidos en programas prioritarios a los que se refiere el párrafo tercero del artículo 18 de la Ley General de Deuda Pública, en que la Secretaría, en los términos que establezca el Reglamento, haya otorgado su autorización por considerar que el esquema de financiamiento correspondiente fue el más recomendable de acuerdo a las condiciones imperantes, a la estructura del proyecto y al flujo de recursos que genere, el servicio de las obligaciones derivadas de los financiamientos correspondientes se considerará preferente respecto de nuevos financiamientos, para ser incluido en los Presupuestos de Egresos de los años posteriores hasta la total terminación de los pagos relativos, con el objeto de que las entidades adquieran en propiedad bienes de infraestructura productivos.
+.- En el proyecto de Presupuesto de Egresos se deberán prever, para el ejercicio fiscal presupuestado y los siguientes cinco años, en un capítulo específico, los compromisos plurianuales de gasto que se autoricen en los términos del artículo 50 de esta Ley, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios, así como de los contratos de inversión estratégica a que se refiere la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, para los cuales el registro presupuestario deberá realizarse conforme a los pagos asociados a los mismos, en términos de los plazos o periodos establecidos en los contratos de infraestructura estratégica. En estos casos, los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual.
+Párrafo reformado DOF 09-04-2026
+En los proyectos de infraestructura productiva de largo plazo incluidos en programas prioritarios a los que se refiere el párrafo tercero del artículo 18 de la Ley Federal de Deuda Pública, en que la Secretaría, en los términos que establezca el Reglamento, haya otorgado su autorización por considerar que el esquema de financiamiento correspondiente fue el más recomendable de acuerdo a las condiciones imperantes, a la estructura del proyecto y al flujo de recursos que genere, el servicio de las obligaciones derivadas de los financiamientos correspondientes se considerará preferente respecto de nuevos financiamientos, para ser incluido en los Presupuestos de Egresos de los años posteriores hasta la total terminación de los pagos relativos, con el objeto de que las entidades adquieran en propiedad bienes de infraestructura productivos.
+Párrafo reformado DOF 09-04-2026
 Los proyectos a que se refiere el párrafo anterior deberán cubrir los requisitos que, en los términos del Reglamento, establezca la Secretaría en materia de inversión. Dichos proyectos pueden ser considerados:
 
 I. Inversión directa, tratándose de proyectos en los que, por la naturaleza de los contratos, las entidades asumen una obligación de adquirir activos productivos construidos a su satisfacción, y
 
 II. Inversión condicionada, tratándose de proyectos en los que la adquisición de bienes no es el objeto principal del contrato, sin embargo, la obligación de adquirirlos se presenta como consecuencia del incumplimiento por parte de la entidad o por causas de fuerza mayor previstas en un contrato de suministro de bienes o servicios.
 La adquisición de los bienes productivos a que se refiere esta fracción tendrá el tratamiento de proyecto de infraestructura productiva de largo plazo, conforme a la fracción I de este artículo, sólo en el caso de que dichos bienes estén en condiciones de generar los ingresos que permitan cumplir con las obligaciones pactadas y los gastos asociados.
-Los ingresos que genere cada proyecto de infraestructura productiva de largo plazo, durante la vigencia de su financiamiento, sólo podrán destinarse al pago de las obligaciones fiscales atribuibles al propio proyecto, las de inversión física y costo financiero del mismo, así como de todos sus gastos de operación y mantenimiento y demás gastos asociados, de conformidad con lo dispuesto en el artículo 18 de la Ley General de Deuda Pública. Los remanentes serán destinados a programas y proyectos de inversión de las propias entidades, distintos a proyectos de infraestructura productiva de largo plazo o al gasto asociado de éstos.
-En coordinación con la Secretaría, las entidades que lleven a cabo proyectos de infraestructura productiva de largo plazo deberán establecer mecanismos para atenuar el efecto sobre las finanzas públicas derivado de los incrementos previstos en los pagos de amortizaciones e intereses en ejercicios fiscales subsecuentes, correspondientes a financiamientos derivados de dichos proyectos. Petróleos Mexicanos no podrá realizar los proyectos de infraestructura productiva de largo plazo a que se refieren este artículo y el 18, tercer párrafo, de la Ley General de Deuda Pública.
-Párrafo reformado DOF 13-11-2008
-En el proyecto de Presupuesto de Egresos se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión en infraestructura en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos hasta por el monto que, como porcentaje del gasto total en inversión del Presupuesto de Egresos, proponga el Ejecutivo Federal tomando en consideración los criterios generales de política económica para el año en cuestión y las erogaciones plurianuales aprobadas en ejercicios anteriores; en dicho apartado podrán incluirse los proyectos de infraestructura a que se refiere el párrafo segundo de este artículo. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el Presupuesto de Egresos.
-Párrafo adicionado DOF 01-10-2007
+Los ingresos que genere cada proyecto de infraestructura productiva de largo plazo, durante la vigencia de su financiamiento, sólo podrán destinarse al pago de las obligaciones fiscales atribuibles al propio proyecto, las de inversión física y costo financiero del mismo, así como de todos sus gastos de operación y mantenimiento y demás gastos asociados, de conformidad con lo dispuesto en el artículo 18 de la Ley Federal de Deuda Pública. Los remanentes serán destinados a programas y proyectos de inversión de las propias entidades, distintos a proyectos de infraestructura productiva de largo plazo o al gasto asociado de éstos.
+Párrafo reformado DOF 09-04-2026
+En coordinación con la Secretaría, las entidades que lleven a cabo proyectos de infraestructura productiva de largo plazo deberán establecer mecanismos para atenuar el efecto sobre las finanzas públicas derivado de los incrementos previstos en los pagos de amortizaciones e intereses en ejercicios fiscales subsecuentes, correspondientes a financiamientos derivados de dichos proyectos. Petróleos Mexicanos no podrá realizar los proyectos de infraestructura productiva de largo plazo a que se refieren este artículo y el 18, párrafo tercero, de la Ley Federal de Deuda Pública.
+Párrafo reformado DOF 13-11-2008, 09-04-2026
+En el proyecto de Presupuesto de Egresos se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión en infraestructura en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos hasta por el monto que, como porcentaje del gasto total en inversión del Presupuesto de Egresos, proponga el Ejecutivo Federal tomando en consideración los criterios generales de política económica para el año en cuestión y las erogaciones plurianuales aprobadas en ejercicios anteriores; en dicho apartado podrán incluirse los proyectos de infraestructura a que se refieren los párrafos primero y segundo de este artículo. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el Presupuesto de Egresos.
+Párrafo adicionado DOF 01-10-2007. Reformado DOF 09-04-2026
 
 ### Artículo 33
 .- En el proyecto de Presupuesto de Egresos se deberán presentar en una sección específica las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
@@ -661,6 +674,10 @@ Las dependencias y entidades, en los términos del Reglamento, podrán solicitar
 Los contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes.
 Las dependencias y entidades podrán obtener la autorización a que se refiere este artículo en relación con los contratos plurianuales a que se refiere el artículo 50 de esta Ley, conforme al procedimiento que establezca el Reglamento.
 Párrafo adicionado DOF 11-08-2014
+
+### Artículo 35
+Bis.- La Secretaría, en términos de las disposiciones aplicables, podrá autorizar, por excepción, a las dependencias y entidades, que convoquen o inicien los procedimientos de contratación, sin contar con la suficiencia presupuestaria. En caso de que otorgue dicha autorización la dependencia o entidad de que se trate debe tramitar las adecuaciones presupuestarias que correspondan para contar con la suficiencia presupuestaria previo a la emisión del fallo o a la adjudicación.
+Artículo adicionado DOF 09-04-2026
 
 ### Artículo 36
 .- Podrán contratarse créditos externos para financiar total o parcialmente programas y proyectos cuando cuenten con la autorización de la Secretaría y los montos para ejercerlos estén previstos en el Presupuesto de Egresos en los términos del Reglamento.
@@ -968,7 +985,8 @@ El ejercicio de estos recursos se sujetará a las disposiciones específicas que
 La adquisición de bienes destinados a las actividades de seguridad pública y nacional se entenderá devengada al momento en que se contraiga el compromiso de pago correspondiente.
 
 ### Artículo 50
-.- Los ejecutores de gasto podrán celebrar contratos plurianuales de obras públicas, adquisiciones, y arrendamientos o servicios durante el ejercicio fiscal siempre que:
+.- Los ejecutores de gasto podrán celebrar contratos plurianuales de obras públicas, adquisiciones, y arrendamientos o servicios durante el ejercicio fiscal, incluyendo los contratos de inversión estratégica a que hace referencia la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, siempre que:
+Párrafo reformado DOF 09-04-2026
 
 I. Justifiquen que su celebración representa ventajas económicas o que sus términos o condiciones son más favorables;
 
@@ -978,10 +996,13 @@ III. Identifiquen el gasto corriente o de inversión correspondiente; y
 
 IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
 Las dependencias requerirán la autorización presupuestaria de la Secretaría para la celebración de los contratos a que se refiere este artículo, en los términos del Reglamento. En el caso de las entidades, se sujetarán a la autorización de su titular conforme a las disposiciones generales aplicables.
-Las dependencias y entidades deberán informar a la Función Pública sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días posteriores a su formalización.
-En el caso de proyectos para prestación de servicios, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Función Pública.
+Las dependencias y entidades deberán informar a la Secretaría Anticorrupción y Buen Gobierno sobre la celebración de los contratos a que se refiere este artículo, dentro de los treinta días posteriores a su formalización.
+Párrafo reformado DOF 09-04-2026
+En el caso de proyectos para prestación de servicios, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Secretaría Anticorrupción y Buen Gobierno.
+Párrafo reformado DOF 09-04-2026
 Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus respectivas unidades de administración, podrán autorizar la celebración de contratos plurianuales siempre y cuando cumplan lo dispuesto en este artículo y emitan normas generales y para su justificación y autorización.
-Los ejecutores de gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal, en los términos de los artículos 32 y 41, fracción II, inciso g), de esta Ley.
+Los ejecutores de gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal, el monto total anual de los compromisos a lo largo de la vida del proyecto, en los términos de los artículos 32 y 41, fracción II, inciso g), de esta Ley.
+Párrafo reformado DOF 09-04-2026
 
 ## CAPÍTULO II — De la Ministración, el Pago y la Concentración de Recursos
 
@@ -1014,6 +1035,8 @@ III. En caso de presentarse incumplimiento a lo dispuesto en este artículo, la 
 Las erogaciones previstas en el Presupuesto de Egresos que no se encuentren devengadas al 31 de diciembre, no podrán ejercerse.
 Los Poderes Legislativo y Judicial, los entes autónomos, las dependencias, así como las entidades respecto de los subsidios o transferencias que reciban, que por cualquier motivo al 31 de diciembre conserven recursos, incluyendo los rendimientos obtenidos, deberán reintegrar el importe disponible a la Tesorería de la Federación dentro de los 15 días naturales siguientes al cierre del ejercicio.
 Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo.
+Los adeudos de ejercicios fiscales anteriores, previstos en el Proyecto de Presupuesto de Egresos podrán ser hasta por el monto de los diferimientos de pagos previstos en la Ley de Ingresos de la Federación aprobada en el ejercicio fiscal inmediato anterior a aquél en el que se deba realizar su pago.
+Párrafo adicionado DOF 09-04-2026
 Reforma DOF 24-01-2014: Derogó del artículo el entonces párrafo cuarto
 
 ### Artículo 55
@@ -1626,8 +1649,8 @@ Con el propósito de transparentar el monto y la composición de los pasivos fin
 Párrafo adicionado DOF 24-01-2014
 
 ### Artículo 108
-. La Secretaría, la Función Pública y el Banco de México, en el ámbito de sus respectivas competencias, establecerán los lineamientos relativos al funcionamiento, organización y requerimientos del sistema integral de información de los ingresos y gasto público. Las Comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados tendrán acceso a este sistema con las limitaciones que establecen las leyes y en términos de lo que establezcan los lineamientos del sistema.
-Párrafo reformado DOF 24-01-2014
+.- La Secretaría, la Secretaría Anticorrupción y Buen Gobierno y el Banco de México, en el ámbito de sus respectivas competencias, establecerán los lineamientos relativos al funcionamiento, organización y requerimientos del sistema integral de información de los ingresos y gasto público. Las Comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados tendrán acceso a este sistema con las limitaciones que establecen las leyes y en términos de lo que establezcan los lineamientos del sistema.
+Párrafo reformado DOF 24-01-2014, 09-04-2026
 Los servidores públicos de los ejecutores de gasto que, conforme al Reglamento, tengan acceso a la información de carácter reservado del sistema a que se refiere este artículo estarán obligados a guardar estricta confidencialidad sobre la misma; en caso de que no observen lo anterior, les serán impuestas las sanciones que procedan en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de las sanciones previstas en esta Ley y en las demás disposiciones generales aplicables.
 
 ### Artículo 109
@@ -2331,3 +2354,23 @@ Una vez concluido el plazo que se refiere el párrafo anterior, y en caso de exi
 **Décimo Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y subsecuentes de los ejecutores de gasto competentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dichos ejecutores de gasto.
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+DECRETO por el que se expide la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, y se reforman y adicionan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2026
+
+### Artículo Segundo
+Se reforman los artículos 2, párrafo primero, fracción XXIV Bis; 16, párrafo
+**tercero.-** ; 17, párrafos octavo y noveno; 21, párrafo primero, fracción III, inciso a), párrafo segundo; 32, párrafos primero, segundo, quinto, sexto y séptimo; 50, párrafos primero, tercero, cuarto y sexto, y 108, párrafo primero; y se adicionan los artículos 2, párrafo primero, con una fracción XXXIX Bis; 9 Bis; 35 Bis, y 54, con un párrafo quinto, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para quedar como sigue: …….
+
+## Transitorios
+
+**Primero.-** El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal emitirá el Reglamento de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+**Tercero.-** La Secretaría de Hacienda y Crédito Público, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, emitirá los lineamientos a los que se refiere el artículo 6 de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, los cuales deberán publicarse en el Diario Oficial de la Federación.
+**Cuarto.-** El Consejo de Planeación Estratégica para la Inversión en Infraestructura, deberá quedar instalado en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto.
+En la primera sesión del Consejo, se deberán aprobar las reglas de operación para su funcionamiento.
+**Quinto.-** Los proyectos de inversión iniciados en el ejercicio fiscal 2026, y con anterioridad a la entrada en vigor de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, podrán ser presentados al Consejo de Planeación Estratégica, quien determinará su acceso a los recursos provenientes de los Vehículos de Propósito Específico a que se refiere dicho ordenamiento.
+**Sexto.-** El Ejecutivo Federal en caso de así resultar necesario, realizará las reformas al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto.
+**Séptimo.-** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado a los ejecutores de gasto correspondientes, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal ni subsecuentes.
+En caso de alguna modificación a la estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no se incrementará su presupuesto regularizable de servicios personales ni el gasto de operación de los ejecutores de gasto.
+**Octavo.-** Los proyectos de inversión celebrados con anterioridad a la entrada en vigor de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar podrán migrar a los Esquemas de Participación Mixta, previo acuerdo de las partes y aprobación del Consejo, sin perjuicio de las facultades que correspondan a las Dependencias coordinadoras de sector y la normativa aplicable a cada Interesado.
+Ciudad de México, a 7 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
