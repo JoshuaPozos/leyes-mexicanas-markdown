@@ -48,6 +48,17 @@ def load_catalog() -> dict[str, dict]:
     return {law["pdf_filename"]: law for law in laws}
 
 
+def load_slug_filter(path: Path) -> set[str]:
+    """Lee un archivo de md_slugs (uno por línea; ignora vacíos y comentarios `#`).
+    Usado por --only-slugs para reconversión incremental tras download_leyes --apply."""
+    slugs: set[str] = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        stripped = line.strip()
+        if stripped and not stripped.startswith("#"):
+            slugs.add(stripped)
+    return slugs
+
+
 def convert_pdf(pdf_path: Path, output_path: Path, title: str, verbose: bool,
                 canonical_dir: Path | None = None, fmt: str = "both",
                 validate: bool = False,
@@ -169,6 +180,12 @@ def parse_args() -> argparse.Namespace:
         help=(f"Timeout (s) por PDF en el subprocess pdf_to_md.py "
               f"(default: {BATCH_CONVERT_TIMEOUT_SECS})."),
     )
+    parser.add_argument(
+        "--only-slugs", type=Path, default=None,
+        help=("Reconvierte SOLO los md_slugs listados en este archivo (uno por "
+              "línea), sin saltar por existencia (pdf_to_md sobreescribe en "
+              "éxito). Para regen incremental tras `download_leyes.py --apply`."),
+    )
     return parser.parse_args()
 
 
@@ -190,7 +207,10 @@ def main() -> None:
     skipped = 0
     failed = 0
 
-    # Fase 1 (serial): resolver metadatos y filtrar lo ya existente.
+    only_slugs = load_slug_filter(args.only_slugs) if args.only_slugs else None
+    seen_slugs: set[str] = set()
+
+    # Fase 1 (serial): resolver metadatos y filtrar.
     tasks: list[tuple[Path, Path, str]] = []
     for pdf_path in subset:
         info = catalog.get(pdf_path.name, {})
@@ -199,12 +219,26 @@ def main() -> None:
         json_path = CANONICAL_DIR / f"{md_slug}.json"
         title = info.get("nombre", pdf_path.stem.replace("_", " ").replace("-", " "))
 
-        if args.skip_existing and md_path.exists() and json_path.exists():
+        if only_slugs is not None:
+            # Modo incremental: solo los slugs del delta. Nunca aplica
+            # skip-by-existence → siempre reconvierte. NO pre-borra la salida:
+            # pdf_to_md sobreescribe en éxito y, si la conversión falla (p.ej.
+            # timeout de LIGIE), la salida vieja queda intacta (no se pierde dato).
+            if md_slug not in only_slugs:
+                continue
+            seen_slugs.add(md_slug)
+        elif args.skip_existing and md_path.exists() and json_path.exists():
             print(f"  ⏭️  {pdf_path.name} → ya existe")
             skipped += 1
             continue
 
         tasks.append((pdf_path, md_path, title))
+
+    if only_slugs is not None:
+        missing = only_slugs - seen_slugs
+        if missing:
+            print(f"  ⚠️  {len(missing)} slug(s) sin PDF en origen-docs "
+                  f"(no se reconvierten): {sorted(missing)}")
 
     # Fase 2 (paralela si workers>1): conversiones.
     max_workers = _resolve_workers(args.workers)
