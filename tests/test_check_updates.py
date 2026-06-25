@@ -137,9 +137,13 @@ def isolate_state(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> Path:
     monkeypatch.setattr(dl, "STATE_PATH", tmp_path / "estado.json")
     monkeypatch.setattr(dl, "CATALOG_PATH", tmp_path / "catalogo.json")
     monkeypatch.setattr(dl, "ORIGEN_DIR", tmp_path / "origen-docs")
+    monkeypatch.setattr(dl, "MARKDOWN_DIR", tmp_path / "markdown")
+    monkeypatch.setattr(dl, "CANONICAL_DIR", tmp_path / "canonical")
+    monkeypatch.setattr(dl, "ARCHIVE_DIR", tmp_path / "archive")
     monkeypatch.setattr(dl, "ROOT", tmp_path)
     monkeypatch.setattr(dl.time, "sleep", lambda _s: None)
-    (tmp_path / "origen-docs").mkdir()
+    for d in ("origen-docs", "markdown", "canonical"):
+        (tmp_path / d).mkdir()
     return tmp_path
 
 
@@ -328,15 +332,17 @@ class TestRunApply:
         assert entry["sha256"] == "b" * 64
         assert len(catalog) == len(_enough_laws())  # sin duplicar
 
-    def test_md_slug_rename_orphans_old_and_dedups_catalog(
+    def test_md_slug_rename_archives_old_and_dedups_catalog(
         self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
     ) -> None:
-        # 1ª ley cambia su md_slug (reforma de nombre): el PDF viejo existe.
+        # 1ª ley cambia su md_slug (reforma de nombre): los artefactos viejos existen.
         laws = _enough_laws()
         monkeypatch.setattr(dl, "fetch_index", lambda: laws)
         dl.init_snapshot()
         _seed_catalog(laws)
         (isolate_state / "origen-docs" / "L0.pdf").write_bytes(b"%PDF-viejo")
+        (isolate_state / "markdown" / "L0.md").write_text("viejo", encoding="utf-8")
+        (isolate_state / "canonical" / "L0.json").write_text("{}", encoding="utf-8")
 
         changed = [dict(law) for law in laws]
         changed[0] = {**changed[0], "md_slug": "L0_renombrada",
@@ -346,8 +352,9 @@ class TestRunApply:
         monkeypatch.setattr(dl, "download_pdf", _ok_download)
 
         dl.run_apply()
-        # el PDF viejo se marcó .orphan; el nuevo se descargó
-        assert (isolate_state / "origen-docs" / "L0.pdf.orphan").exists()
+        # los artefactos viejos se ARCHIVARON (F4); el nuevo PDF se descargó
+        assert (isolate_state / "archive" / "origen-docs" / "L0.pdf").exists()
+        assert (isolate_state / "archive" / "markdown" / "L0.md").exists()
         assert (isolate_state / "origen-docs" / "L0_renombrada.pdf").exists()
         # catálogo: sin la entrada vieja, con la nueva, sin duplicar el total
         catalog = json.loads((isolate_state / "catalogo.json").read_text(encoding="utf-8"))
@@ -383,6 +390,100 @@ class TestLedgerRobustness:
         assert dl.load_state() == entries
         # sin temporal residual
         assert not (isolate_state / "estado.json.tmp").exists()
+
+
+class TestArchival:
+    def test_archive_law_moves_artifacts(self, isolate_state: Path) -> None:
+        (isolate_state / "markdown" / "X.md").write_text("md", encoding="utf-8")
+        (isolate_state / "canonical" / "X.json").write_text("{}", encoding="utf-8")
+        (isolate_state / "origen-docs" / "X.pdf").write_bytes(b"%PDF")
+        moved = dl._archive_law("X")
+        assert (isolate_state / "archive" / "markdown" / "X.md").exists()
+        assert (isolate_state / "archive" / "canonical" / "X.json").exists()
+        assert (isolate_state / "archive" / "origen-docs" / "X.pdf").exists()
+        assert not (isolate_state / "markdown" / "X.md").exists()
+        assert len(moved) == 3
+
+    def test_apply_archives_abrogated_law(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        laws = _enough_laws()
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+        dl.init_snapshot()
+        _seed_catalog(laws)
+        (isolate_state / "markdown" / "L0.md").write_text("c", encoding="utf-8")
+        (isolate_state / "canonical" / "L0.json").write_text("{}", encoding="utf-8")
+        # upstream marca L0 abrogada (numero 'A' + flag)
+        fresh = [dict(law) for law in laws]
+        fresh[0] = {**fresh[0], "abrogated": True, "numero": "A",
+                    "ultima_reforma": "DOF 22/05/2026"}
+        monkeypatch.setattr(dl, "fetch_index", lambda: fresh)
+        monkeypatch.setattr(
+            dl, "download_pdf", lambda *a, **k: pytest.fail("no descarga abrogada")
+        )
+
+        assert dl.run_apply() == 10
+        assert (isolate_state / "archive" / "markdown" / "L0.md").exists()
+        assert not (isolate_state / "markdown" / "L0.md").exists()
+        catalog = json.loads((isolate_state / "catalogo.json").read_text(encoding="utf-8"))
+        assert "L0" not in [c["md_slug"] for c in catalog]
+        state = json.loads((isolate_state / "estado.json").read_text(encoding="utf-8"))
+        assert "l0" not in [e["key"] for e in state]
+        assert "L0" not in (isolate_state / "delta.txt").read_text(encoding="utf-8").split()
+
+    def test_apply_archives_baja(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        laws = _enough_laws(281)  # tras quitar 1 quedan 280 (>= MIN_SANE)
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+        dl.init_snapshot()
+        _seed_catalog(laws)
+        (isolate_state / "markdown" / "L0.md").write_text("c", encoding="utf-8")
+        (isolate_state / "canonical" / "L0.json").write_text("{}", encoding="utf-8")
+        fresh = [dict(law) for law in laws if law["md_slug"] != "L0"]
+        monkeypatch.setattr(dl, "fetch_index", lambda: fresh)
+        monkeypatch.setattr(
+            dl, "download_pdf", lambda *a, **k: pytest.fail("no descarga baja")
+        )
+
+        assert dl.run_apply() == 10
+        assert (isolate_state / "archive" / "markdown" / "L0.md").exists()
+        catalog = json.loads((isolate_state / "catalogo.json").read_text(encoding="utf-8"))
+        assert "L0" not in [c["md_slug"] for c in catalog]
+
+    def test_apply_skips_abrogated_alta(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        laws = _enough_laws()
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+        dl.init_snapshot()
+        _seed_catalog(laws)
+        fresh = [dict(law) for law in laws]
+        fresh.append({**_law("NUEVA.pdf", "NUEVA", "Sin reforma"),
+                      "abrogated": True, "numero": "A"})
+        monkeypatch.setattr(dl, "fetch_index", lambda: fresh)
+        monkeypatch.setattr(dl, "download_pdf", _ok_download)
+
+        dl.run_apply()
+        catalog = json.loads((isolate_state / "catalogo.json").read_text(encoding="utf-8"))
+        assert "NUEVA" not in [c["md_slug"] for c in catalog]
+
+    def test_all_downloads_failed_returns_2_even_with_archival(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        # #1: si TODAS las descargas fallan, el archivado no debe enmascarar el
+        # fallo de red devolviendo 10; debe señalizar inconcluso (2).
+        laws = _enough_laws()
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+        dl.init_snapshot()
+        _seed_catalog(laws)
+        fresh = [dict(law) for law in laws]
+        fresh[1]["ultima_reforma"] = "DOF 31/12/2025"          # cambiada (descarga falla)
+        fresh[0] = {**fresh[0], "abrogated": True}             # abrogada (se archiva)
+        monkeypatch.setattr(dl, "fetch_index", lambda: fresh)
+        monkeypatch.setattr(dl, "download_pdf", lambda *a, **k: None)  # toda descarga falla
+
+        assert dl.run_apply() == 2
 
     def test_dry_run_does_not_download(
         self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch

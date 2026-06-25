@@ -225,6 +225,48 @@ class TestFetchIndex:
         assert laws[0]["ref_abbrev"] == "lce"
         assert dl._state_key(laws[0]) == "lce"
 
+    def test_detects_abrogated_law(
+        self, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        # Ley abrogada: numero 'A' + "Ley Abrogada" en la celda del nombre.
+        html = """
+        <table><tr>
+          <td>A</td>
+          <td><a href="ref/lfc.htm">Ley Federal de Cinematografía</a> DOF 29/12/1992 Ley Abrogada</td>
+          <td>DOF 22/05/2026</td>
+          <td><a href="pdf/LFC.pdf">PDF</a></td>
+        </tr></table>
+        """
+
+        def fake_urlopen(req: object, timeout: int = 30) -> _FakeResponse:
+            return _FakeResponse(html.encode("latin-1"))
+
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        laws = dl.fetch_index()
+        assert len(laws) == 1
+        assert laws[0]["abrogated"] is True
+
+    def test_detects_abrogated_case_insensitive(
+        self, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        # Casing distinto ("LEY ABROGADA") + numero NUMÉRICO → igual detectada
+        # (el HTML de diputados es inconsistente; debe matchear como el limpiador).
+        html = """
+        <table><tr>
+          <td>42</td>
+          <td><a href="ref/x.htm">Ley X</a> DOF 01/01/2000 LEY ABROGADA</td>
+          <td>DOF 01/05/2026</td>
+          <td><a href="pdf/X.pdf">PDF</a></td>
+        </tr></table>
+        """
+
+        def fake_urlopen(req: object, timeout: int = 30) -> _FakeResponse:
+            return _FakeResponse(html.encode("latin-1"))
+
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        laws = dl.fetch_index()
+        assert laws[0]["abrogated"] is True
+
 
 # ---------------------------------------------------------------------------
 # download_pdf
