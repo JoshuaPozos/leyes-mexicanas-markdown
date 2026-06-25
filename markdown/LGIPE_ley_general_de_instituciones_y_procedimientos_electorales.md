@@ -559,9 +559,11 @@ Numeral declarado inválido y “recupera su vigencia con el texto que tenía al
 ### Artículo 42
 . 1. El Consejo General integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por una Consejera o Consejero Electoral.
 Numeral reformado DOF 13-04-2020
-2. [Independientemente de lo señalado en el párrafo anterior, las comisiones de: Capacitación Electoral y Educación Cívica; Organización Electoral; Prerrogativas y Partidos Políticos; Servicio Profesional Electoral Nacional; Registro Federal de Electores; Quejas y Denuncias; Fiscalización, y Vinculación con los Organismos Públicos Locales; e Igualdad de Género y no Discriminación, funcionarán permanentemente y se integrarán exclusivamente por Consejeras o Consejeros Electorales designados por el Consejo General. Las Consejeras y los Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.]
+2. Independientemente de lo señalado en el párrafo anterior, las comisiones de: Capacitación Electoral y Educación Cívica; Organización Electoral; Prerrogativas y Partidos Políticos; Servicio Profesional Electoral Nacional; Registro Federal de Electores; Quejas y Denuncias; Fiscalización, y Vinculación con los Organismos Públicos Locales; Igualdad de Género y no Discriminación, y Verificación de Integridad en Candidaturas funcionarán permanentemente y se integrarán exclusivamente por Consejeras o Consejeros Electorales designados por el Consejo General. Las Consejeras y los Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
 Numeral reformado DOF 13-04-2020, 02-03-2023
-Numeral declarado inválido y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023 3. [Para cada proceso electoral, se fusionarán las comisiones de Capacitación Electoral y Educación Cívica y de Organización Electoral, a fin de integrar la Comisión de Capacitación y Organización Electoral; el Consejo General designará, en septiembre del año previo al de la elección, a sus integrantes y al Consejero Electoral que la presidirá.]
+Numeral declarado inválido y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023
+Numeral reformado DOF 02-06-2026
+3. [Para cada proceso electoral, se fusionarán las comisiones de Capacitación Electoral y Educación Cívica y de Organización Electoral, a fin de integrar la Comisión de Capacitación y Organización Electoral; el Consejo General designará, en septiembre del año previo al de la elección, a sus integrantes y al Consejero Electoral que la presidirá.]
 Numeral derogado DOF 02-03-2023
 Derogación del numeral declarada inválida y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023 4. [Todas las comisiones se integrarán con un mínimo de tres y un máximo de cinco Consejeras y Consejeros Electorales bajo el principio de paridad de género; podrán participar en ellas, con voz pero sin voto, las Consejeras y los Consejeros del Poder Legislativo, así como las personas representantes de los partidos políticos, salvo las del Servicio Profesional Electoral Nacional, Quejas y Denuncias, y Fiscalización.]
 Numeral reformado DOF 13-04-2020, 02-03-2023
@@ -3009,6 +3011,39 @@ o) Proponer a la Comisión de Fiscalización las sanciones a imponer de acuerdo 
 . [1. Las autoridades y las instituciones públicas y privadas están obligadas a responder a la Unidad Técnica de Fiscalización, las solicitudes de información protegidas por el secreto bancario, fiduciario y fiscal, en un plazo máximo de cinco días después de realizada la solicitud. 2. De igual forma la Unidad Técnica de Fiscalización podrá requerir a los particulares, personas físicas y morales, le proporcionen la información y documentación necesaria para el cumplimiento de sus atribuciones, quienes deberán atender el requerimiento en los plazos señalados en el párrafo inmediato anterior.]
 Artículo reformado DOF 02-03-2023
 Artículo declarado inválido y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023
+
+## TÍTULO SEGUNDO — BIS
+
+De la Integridad de las Candidaturas
+Título adicionado DOF 02-06-2026
+
+## CAPÍTULO ÚNICO — De la Comisión de Verificación de Integridad en Candidaturas
+
+Capítulo adicionado DOF 02-06-2026
+
+### Artículo 200
+Bis. 1. La Comisión de Verificación de Integridad en Candidaturas tiene por objeto recibir de los partidos políticos o de las personas que aspiren a una candidatura independiente, los listados de personas que pretendan postular como candidatas a un cargo de elección popular, ya sea federal o local, previo a su registro ante la autoridad electoral para que, en coordinación con las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera, se realice un análisis de riesgo sobre sus perfiles. 2. La entrega de la información a que se refiere el párrafo anterior podrá ser total o parcial, y se realizará de manera voluntaria por parte de los partidos políticos o de las personas que aspiren a una candidatura independiente. 3. Los partidos políticos establecerán mecanismos para que las personas que pretendan ser postuladas manifiesten su conformidad de que su perfil sea objeto de un análisis de riesgo, en los términos previstos en la ley. 4. Los partidos políticos, con base en la información que les sea proporcionada por la Comisión de Verificación de Integridad en Candidaturas, determinarán sobre la procedencia o no del registro de las personas evaluadas como candidatas por ese instituto político.
+Artículo adicionado DOF 02-06-2026
+
+### Artículo 200
+Ter. 1. La Comisión de Verificación de Integridad en Candidaturas tiene las atribuciones siguientes:
+
+a) Recibir de los partidos políticos y, en su caso, de las personas que aspiren a una candidatura independiente las listas de las personas que pretendan postular a fin de que se sometan a una evaluación de riesgo. La Comisión deberá garantizar la confidencialidad de la información que reciba en términos del presente artículo;
+
+b) Remitir a las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera, la información a que se refiere el inciso anterior, a fin de que determinen la existencia o no de un riesgo razonable sobre posibles actividades delictivas respecto de las postulaciones propuestas por los partidos políticos o, en su caso, de las personas que aspiren a una candidatura independiente, y
+
+c) Recibir la información de las instancias competentes a que se refiere el inciso anterior donde se advierta la existencia o no de un riesgo razonable, sin señalar el asunto del que se derive el riesgo, y notificar a los partidos políticos o a las personas que aspiren a una candidatura independiente el número y las instancias competentes que, en su caso, hayan identificado la existencia de un riesgo razonable. 2. Con independencia de lo anterior, de encontrar información relevante, las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera, de acuerdo a sus atribuciones, iniciarán o continuarán con las investigaciones que correspondan.
+Artículo adicionado DOF 02-06-2026
+
+### Artículo 200
+Quáter. 1. Para el funcionamiento de la Comisión de Verificación de Integridad en Candidaturas, se estará a las reglas siguientes:
+
+a) Estará integrada por tres Consejeras o Consejeros Electorales;
+
+b) Las Consejeras o Consejeros Electorales integrantes de la Comisión durarán en su encargo tres años, y
+
+c) La presidencia de la Comisión es rotativa y será designada anualmente entre los integrantes de la Comisión.
+Artículo adicionado DOF 02-06-2026
 
 ## TÍTULO TERCERO — De las Bases para la Organización del Servicio Profesional Electoral Nacional
 
@@ -6932,3 +6967,18 @@ Para atender de manera adecuada los trabajos de entrega-recepción de los asunto
 Ciudad de México, a 14 de octubre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Julieta Andrea Ramírez Padilla, Secretaria.- Dip.
 Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de octubre de 2024.- Claudia Sheinbaum Pardo.- Rúbrica.- La Secretaria de Gobernación, Lic. Rosa Icela Rodríguez Velázquez.Rúbrica.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.
+Publicado en el Diario Oficial de la Federación el 2 de junio de 2026
+
+### Artículo Único
+Se reforma el artículo 42, numeral 2, y se adicionan el Título Segundo Bis al Libro
+**Cuarto.-** , con los artículos 200 Bis, 200 Ter y 200 Quáter, de la Ley General de Instituciones y Procedimientos Electorales, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Comisión de Verificación de Integridad en Candidaturas deberá estar integrada, instalada y en funcionamiento antes del inicio del proceso electoral para el año 2027.
+**Tercero.-** Las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera que, de manera enunciativa, serán la Fiscalía General de la República, el Centro Nacional de Inteligencia, la Unidad de Inteligencia Financiera y la Comisión Nacional Bancaria y de Valores, establecerán la metodología y los criterios aplicables para realizar sus evaluaciones de riesgo; y, con base en ello, determinar la existencia de un riesgo razonable a partir del análisis de la información indiciaria con la que cuenten para presumir que la persona evaluada está relacionada con actividades delictivas.
+**Cuarto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado al Instituto Nacional Electoral, por lo que no se autorizarán recursos adicionales para tales efectos ni en los ejercicios fiscales subsecuentes.
+**Quinto.-** El Instituto Nacional Electoral, en coordinación con las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y del sistema financiero, en el ámbito de sus respectivas competencias, emitirá los lineamientos que regulen, entre otros, el funcionamiento interno de la Comisión; los plazos, términos, criterios y procedimientos aplicables para la recepción, análisis, procesamiento y entrega de la información que corresponda; así como los mecanismos necesarios para salvaguardar la protección de datos personales y la confidencialidad de la información proporcionada en todas las etapas del proceso.
+Ciudad de México, a 28 de mayo de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 02 de junio de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

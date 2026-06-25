@@ -671,10 +671,12 @@ CAPITULO II Jornada de trabajo
 
 ### Artículo 58
 .- Jornada de trabajo es el tiempo durante el cual el trabajador está a disposición del patrón para prestar su trabajo.
+Esta podrá ser distribuida de común acuerdo por las personas empleadoras y trabajadoras.
+Párrafo adicionado DOF 01-05-2026
 
 ### Artículo 59
-.- El trabajador y el patrón fijarán la duración de la jornada de trabajo, sin que pueda exceder los máximos legales.
-Los trabajadores y el patrón podrán repartir las horas de trabajo, a fin de permitir a los primeros el reposo del sábado en la tarde o cualquier modalidad equivalente.
+.- La duración máxima de la jornada ordinaria de trabajo será de cuarenta horas semanales.
+Artículo reformado DOF 01-05-2026
 
 ### Artículo 60
 .- Jornada diurna es la comprendida entre las seis y las veinte horas.
@@ -682,7 +684,8 @@ Jornada nocturna es la comprendida entre las veinte y las seis horas.
 Jornada mixta es la que comprende períodos de tiempo de las jornadas diurna y nocturna, siempre que el período nocturno sea menor de tres horas y media, pues si comprende tres y media o más, se reputará jornada nocturna.
 
 ### Artículo 61
-.- La duración máxima de la jornada será: ocho horas la diurna, siete la nocturna y siete horas y media la mixta.
+.- La duración de la jornada diaria será de ocho horas la diurna, siete la nocturna y siete horas y media la mixta.
+Artículo reformado DOF 01-05-2026
 
 ### Artículo 62
 .- Para fijar la jornada de trabajo se observará lo dispuesto en el artículo 5o., fracción III.
@@ -697,26 +700,32 @@ Jornada mixta es la que comprende períodos de tiempo de las jornadas diurna y n
 .- En los casos de siniestro o riesgo inminente en que peligre la vida del trabajador, de sus compañeros o del patrón, o la existencia misma de la empresa, la jornada de trabajo podrá prolongarse por el tiempo estrictamente indispensable para evitar esos males.
 
 ### Artículo 66
-.- Podrá también prolongarse la jornada de trabajo por circunstancias extraordinarias, sin exceder nunca de tres horas diarias ni de tres veces en una semana.
+.- La jornada de trabajo podrá prolongarse por circunstancias extraordinarias.
+En estos casos, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo.
+Artículo reformado DOF 01-05-2026
 
 ### Artículo 67
 .- Las horas de trabajo a que se refiere el artículo 65, se retribuirán con una cantidad igual a la que corresponda a cada una de las horas de la jornada.
-Las horas de trabajo extraordinario se pagarán con un ciento por ciento más del salario que corresponda a las horas de la jornada.
+Reforma DOF 01-05-2026: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 68
-.- Los trabajadores no están obligados a prestar sus servicios por un tiempo mayor del permitido de este capítulo.
-La prolongación del tiempo extraordinario que exceda de nueve horas a la semana, obliga al patrón a pagar al trabajador el tiempo excedente con un doscientos por ciento más del salario que corresponda a las horas de la jornada, sin perjuicio de las sanciones establecidas en esta Ley.
+.- Las personas trabajadoras no están obligadas a prestar sus servicios por un tiempo mayor del permitido en este capítulo.
+La prolongación del tiempo extraordinario que supere lo establecido en el artículo 66 de esta Ley, no podrá ser mayor de cuatro horas a la semana y obliga a la persona empleadora a pagar un doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria.
+La suma de las jornadas ordinaria y extraordinaria, en ningún caso podrá ser mayor a doce horas diarias.
+Artículo reformado DOF 01-05-2026
 CAPITULO III Días de descanso
 
 ### Artículo 69
-.- Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, por lo menos, con goce de salario íntegro.
+.- Por cada seis días de trabajo se deberá otorgar, por lo menos, un día de descanso con goce de salario íntegro.
+Artículo reformado DOF 01-05-2026
 
 ### Artículo 70
 .- En los trabajos que requieran una labor continua, los trabajadores y el patrón fijarán de común acuerdo los días en que los trabajadores deban disfrutar de los de descanso semanal.
 
 ### Artículo 71
 .- En los reglamentos de esta Ley se procurará que el día de descanso semanal sea el domingo.
-Los trabajadores que presten servicio en día domingo tendrán derecho a una prima adicional de un veinticinco por ciento, por lo menos, sobre el salario de los días ordinarios de trabajo.
+Las personas que laboren en domingo tendrán derecho a una prima adicional de un veinticinco por ciento, por lo menos, sobre el salario de los días ordinarios de trabajo.
+Párrafo reformado DOF 01-05-2026
 
 ### Artículo 72
 .- Cuando el trabajador no preste sus servicios durante todos los días de trabajo de la semana, o cuando en el mismo día o en la misma semana preste sus servicios a varios patrones, tendrá derecho a que se le pague la parte proporcional del salario de los días de descanso, calculada sobre el salario de los días en que hubiese trabajado o sobre el que hubiese percibido de cada patrón.
@@ -1141,11 +1150,16 @@ Fracción adicionada DOF 01-05-2019
 XXXI. Implementar, en acuerdo con los trabajadores, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual, así como erradicar el trabajo forzoso e infantil;
 Fracción adicionada DOF 01-05-2019
 
-XXXII. Fijar y difundir en los lugares de mayor afluencia del centro de trabajo el texto fiel de la convocatoria y demás documentos que le solicite el Centro Federal de Conciliación y Registro Laboral para el desarrollo del procedimiento de consulta a que hacen referencia los artículos 390 Bis y 390 Ter, y
-Fracción adicionada DOF 01-05-2019
+XXXII. Fijar y difundir en los lugares de mayor afluencia del centro de trabajo el texto fiel de la convocatoria y demás documentos que le solicite el Centro Federal de Conciliación y Registro Laboral para el desarrollo del procedimiento de consulta a que hacen referencia los artículos 390 Bis y 390 Ter;
+Fracción adicionada DOF 01-05-2019. Reformada DOF 01-05-2026
 
-XXXIII. Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis.
-Fracción adicionada DOF 01-05-2019
+XXXIII. Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis, y
+Fracción adicionada DOF 01-05-2019. Reformada DOF 01-05-2026
+
+XXXIV. Registrar de manera electrónica la jornada laboral de cada persona trabajadora, incluyendo el horario de inicio y finalización; así como proporcionarlo a la autoridad cuando se le requiera.
+La Secretaría del Trabajo y Previsión Social expedirá las disposiciones de carácter general que determinen el ámbito de aplicación y excepción a la obligación establecida en el párrafo que antecede.
+El contenido del registro electrónico hará prueba plena si se acredita que fue acordado entre la persona trabajadora y empleadora.
+Fracción adicionada DOF 01-05-2026
 
 ### Artículo 133
 .- Queda prohibido a las personas empleadoras o a sus representantes:
@@ -2536,6 +2550,10 @@ La persona empleadora deberá respetar los descansos pre y postnatales de las tr
 La trabajadora del campo temporal tendrá estabilidad en su empleo durante la gestación y hasta el término del puerperio.
 Artículo adicionado DOF 24-01-2024
 
+### Artículo 283
+Quáter.- La Secretaría del Trabajo y Previsión Social podrá expedir un certificado de cumplimiento de obligaciones laborales y de seguridad social de conformidad con las disposiciones generales que al efecto emitan las autoridades competentes.
+Artículo adicionado DOF 01-05-2026
+
 ### Artículo 284
 .- Queda prohibido a las personas empleadoras:
 
@@ -2852,33 +2870,43 @@ II. Conceder a los trabajadores un día de descanso a la semana. No es aplicable
 I. La indisciplina grave o las faltas repetidas de indisciplina; y
 
 II. La pérdida de facultades.
-CAPITULO XI Trabajadores actores y músicos
+CAPITULO XI Personas trabajadoras artistas intérpretes o ejecutantes
+Denominación del Capítulo reformada DOF 14-05-2026
 
 ### Artículo 304
-.- Las disposiciones de este capítulo se aplican a los trabajadores actores y a los músicos que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje y grabación, o en cualquier otro local donde se transmita o fotografíe la imagen del actor o del músico o se transmita o quede grabada la voz o la música, cualquiera que sea el procedimiento que se use.
+.- Las disposiciones de este capítulo se aplican a las personas trabajadoras artistas intérpretes o ejecutantes, en términos del artículo 116 de la Ley Federal del Derecho de Autor, que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje o en cualquier otro lugar o entorno donde se lleve a cabo la interpretación y/o ejecución.
+Artículo reformado DOF 14-05-2026
 
 ### Artículo 305
 .- Las relaciones de trabajo pueden ser por tiempo determinado o por tiempo indeterminado, para varias temporadas o para la celebración de una o varias funciones, representaciones o actuaciones.
 No es aplicable la disposición contenida en el artículo 39.
 
+### Artículo 305
+Bis.- En los contratos que regulen la relación laboral de las personas trabajadoras artistas intérpretes o ejecutantes, se deberán estipular de manera específica las condiciones y la remuneración correspondiente para la utilización de su imagen o voz a través de sistemas de inteligencia artificial o cualquier otra tecnología.
+Artículo adicionado DOF 14-05-2026
+
 ### Artículo 306
 .- El salario podrá estipularse por unidad de tiempo, para una o varias temporadas o para una o varias funciones, representaciones o actuaciones.
 
 ### Artículo 307
-.- No es violatoria del principio de igualdad de salario, la disposición que estipule salarios distintos para trabajos iguales, por razón de la categoría de las funciones, representaciones o actuaciones, o de la de los trabajadores actores y músicos.
+.- No es violatoria del principio de igualdad de salario, la disposición que estipule salarios distintos para trabajos iguales, por razón de la categoría de las funciones, representaciones o actuaciones, o de las personas trabajadoras artistas intérpretes o ejecutantes.
+Artículo reformado DOF 14-05-2026
 
 ### Artículo 308
-.- Para la prestación de servicios de los trabajadores actores o músicos fuera de la República, se observarán, además de las normas contenidas en el artículo 28, las disposiciones siguientes:
+.- Para la prestación de servicios de las personas trabajadoras artistas intérpretes o ejecutantes fuera de la República, se observarán, además de las normas contenidas en el artículo 28, las disposiciones siguientes:
+Párrafo reformado DOF 14-05-2026
 
 I. Deberá hacerse un anticipo del salario por el tiempo contratado de un veinticinco por ciento, por lo menos; y
 
 II. Deberá garantizarse el pasaje de ida y regreso.
 
 ### Artículo 309
-.- La prestación de servicios dentro de la República, en lugar diverso de la residencia del trabajador actor o músico, se regirá por las disposiciones contenidas en el artículo anterior, en lo que sean aplicables.
+.- La prestación de servicios dentro de la República, en lugar diverso de la residencia de la persona trabajadora artista intérprete o ejecutante, se regirá por las disposiciones contenidas en el artículo anterior, en lo que sean aplicables.
+Artículo reformado DOF 14-05-2026
 
 ### Artículo 310
-.- Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
+.- Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a las personas trabajadoras artistas intérpretes o ejecutantes camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
+Artículo reformado DOF 14-05-2026
 CAPITULO XII Trabajo a domicilio
 
 ### Artículo 311
@@ -5038,7 +5066,10 @@ TABLA PARA LA VALUACIÓN DE INCAPACIDADES PERMANENTES RESULTANTES DE LOS RIESGOS
 | 2 | Por la pérdida parcial de la clavícula. | 20% |
 | 3 | Por la desarticulación del hombro. | 80% |
 | 4 | Por la amputación del brazo, entre el hombro y el codo. | 80% |
+
+
 | 5 | Por la desarticulación del codo. | 80% |
+| --- | --- | --- |
 | 6 | Por la amputación del antebrazo entre el codo y la muñeca. | 75% |
 | 7 | Por la pérdida total de la mano. | 75% |
 | 8 | Por la pérdida total o parcial de los 5 metacarpianos. | 75% |
@@ -5074,10 +5105,7 @@ TABLA PARA LA VALUACIÓN DE INCAPACIDADES PERMANENTES RESULTANTES DE LOS RIESGOS
 | 38 | Por la pérdida parcial de la falange distal del anular. | 2% |
 | 39 | Por la pérdida del dedo meñique con pérdida de su metacarpiano o parte de éste. | 15% |
 | 40 | Por la pérdida del dedo meñique. | 12% |
-
-
 | 41 | Por la pérdida parcial de la falange proximal del dedo meñique. | 10% |
-| --- | --- | --- |
 | 42 | Por la pérdida de la falange distal con mutilación o pérdida de la falange media del meñique. | 8% |
 | 43 | Por la pérdida de la falange distal del meñique. | 4% |
 | 44 | Por la pérdida parcial de la falange distal del meñique. | 2% |
@@ -5121,15 +5149,15 @@ Anquilosis Pérdida completa de la movilidad articular
 
 Rigideces articulares Disminución de los movimientos por lesiones articulares, tendinosas o musculares
 
-|  |  |  |
-| --- | --- | --- |
 | 78 | Del hombro, afectando principalmente la flexión y la abducción. | 10 a 30% |
-
-
-| 79 | Del codo, que no permite la extensión completa, con un ángulo de flexión de 90 a 140 grados. | 30% |
 | --- | --- | --- |
+| 79 | Del codo, que no permite la extensión completa, con un ángulo de flexión de 90 a 140 grados. | 30% |
 | 80 | Del codo, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados. | 20% |
-| 81 | Del codo, que permite la extensión completa, con un ángulo de flexión hasta 70 grados. | 10% |
+| 81 | Del codo, que permite la extensión completa, con un ángulo de flexión hasta | 10% |
+
+
+|  | 70 grados. |  |
+| --- | --- | --- |
 | 82 | Del codo, que permite la extensión completa, con un ángulo de flexión hasta 110 grados. | 5% |
 | 83 | De torsión, con limitación de los movimientos de pronación y supinación. | 5 a 15% |
 | 84 | De la muñeca. | 10 a 15% |
@@ -5174,7 +5202,11 @@ Cicatrices retráctiles que no puedan ser resueltas quirúrgicamente
 | 116 | De la axila, según el grado de limitación de los movimientos del brazo. | 20 a 50% |
 | --- | --- | --- |
 | 117 | Del codo, que no permite la extensión completa, con un ángulo de flexión de 90 a 140 grados. | 30% |
-| 118 | Del codo, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados. | 20% |
+| 118 | Del codo, que no permite la extensión completa, con un ángulo de flexión | 20% |
+
+
+|  | menor de 90 grados. |  |
+| --- | --- | --- |
 | 119 | Del codo, que permite la extensión completa, con un ángulo de flexión hasta 70 grados. | 10% |
 | 120 | Del codo, que permite la extensión completa, con un ángulo de flexión hasta 110 grados. | 5% |
 | 121 | De la aponeurosis palmar que afecten la flexión o extensión, la pronación, supinación, o que produzca rigideces combinadas. | 10 a 30% |
@@ -5210,11 +5242,7 @@ Secuelas de fracturas
 | 139 | Del olécranon que permite la extensión completa con un ángulo de flexión hasta 110 grados. | 5% |
 | 140 | Distal de los huesos del antebrazo, cuando produzcan rigidez de la muñeca. | 10 a 20% |
 | 141 | Proximal de los huesos del antebrazo, cuando produzcan rigidez de pronación y/o supinación. | 10 a 20% |
-| 142 | De los huesos del antebrazo, cuando produzcan rigidez de la muñeca y | 10 a 20% |
-
-
-|  | limitación para la pronación y/o supinación. |  |
-| --- | --- | --- |
+| 142 | De los huesos del antebrazo, cuando produzcan rigidez de la muñeca y limitación para la pronación y/o supinación. | 10 a 20% |
 | 143 | Del metacarpo, con desviación secundaria de la mano y rigidez de los dedos. | 10 a 20% |
 
 Parálisis completas e incompletas (paresias) por lesiones de nervios periféricos
@@ -5258,13 +5286,9 @@ Luxaciones que no puedan ser resueltas quirúrgicamente
 
 Músculos
 
-|  |  |  |
-| --- | --- | --- |
 | 175 | Amiotrofia del hombro mayor o igual a un centímetro, sin anquilosis ni rigidez articular. | 15% |
-
-
-| 176 | Amiotrofia del brazo o del antebrazo mayor o igual a un centímetro, sin anquilosis ni rigidez articular. | 10 a 15% |
 | --- | --- | --- |
+| 176 | Amiotrofia del brazo o del antebrazo mayor o igual a un centímetro, sin anquilosis ni rigidez articular. | 10 a 15% |
 | 177 | Amiotrofia de la mano mayor o igual a un centímetro, sin anquilosis ni rigidez articular. | 5 a 10% |
 
 Vasos
@@ -5302,7 +5326,10 @@ Anquilosis
 | 200 | Completa de la articulación coxofemoral, en rectitud. | 55% |
 | --- | --- | --- |
 | 201 | De la articulación coxofemoral en posición de flexión, aducción, abducción y/o rotación. | 65% |
+
+
 | 202 | De las dos articulaciones coxofemorales. | 100% |
+| --- | --- | --- |
 | 203 | De la rodilla en posición de flexión mayor de 45 grados y hasta 140 grados. | 65% |
 | 204 | De la rodilla en posición de flexión hasta 45 grados. | 40% |
 | 205 | De la rodilla en genu valgum o genu varum. | 50% |
@@ -5340,13 +5367,9 @@ Pseudoartrosis Atrófica, normotrófica o hipertrófica
 
 Cicatrices retráctiles que no puedan ser resueltas quirúrgicamente
 
-|  |  |  |
-| --- | --- | --- |
 | 229 | De la rodilla en posición de flexión mayor a 45 grados y hasta 140 grados. | 30 a 50% |
-
-
-| 230 | De la rodilla en posición de flexión de 10 grados hasta 45 grados. | 20 a 30% |
 | --- | --- | --- |
+| 230 | De la rodilla en posición de flexión de 10 grados hasta 45 grados. | 20 a 30% |
 | 231 | Del hueco poplíteo, que limiten la extensión a menos de 90 grados. | 50 a 60% |
 | 232 | De la planta del pie, con retracción de la punta hacia uno de sus bordes. | 20 a 40% |
 
@@ -5385,7 +5408,10 @@ Parálisis completas o incompletas (paresias) por lesiones de nervios periféric
 | 259 | Parálisis total del miembro inferior. | 70% |
 | --- | --- | --- |
 | 260 | Parálisis del nervio ciático mayor. | 60% |
+
+
 | 261 | Parálisis del ciático poplíteo externo o peroneo. | 35% |
+| --- | --- | --- |
 | 262 | Parálisis del ciático poplíteo interno o tibial. | 30% |
 | 263 | Parálisis combinada del ciático poplíteo interno y del ciático poplíteo externo. | 40% |
 | 264 | Parálisis del nervio crural o femoral. | 50% |
@@ -5418,9 +5444,8 @@ Vasos
 | 278 | Tromboflebitis crónica. | 15 a 25% |
 | 279 | Úlceras varicosas recidivantes con escasa respuesta a tratamiento, según su extensión. | 8 a 20% |
 | 280 | Varices con edema crónico, cambios tróficos de piel, no controlables y no susceptibles de tratamiento médico quirúrgico. | 8 a 20% |
-| 281 | En caso de lesiones bilaterales se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del | -- |
+| 281 | En caso de lesiones bilaterales se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del cien por ciento. | -- |
 
-cien por ciento.
 Cabeza Cráneo
 
 | 282 | Los trastornos mentales orgánicos y afectivos se valuarán conforme a la Tabla XV. | -- |
@@ -5456,10 +5481,7 @@ Cabeza Cráneo
 | 311 | Diabetes azucarada o insípida. | 10 a 40% |
 | 312 | Afasia discreta. | 20 a 30% |
 | 313 | Afasia acentuada, aislada. | 40 a 80% |
-
-
 | 314 | Afasia con hemiplejia. | 100% |
-| --- | --- | --- |
 | 315 | Agrafia. | 20 a 30% |
 
 Cara
@@ -5492,11 +5514,7 @@ Cara
 | 340 | Pérdida de la mitad de un arco dentario, prótesis no tolerada. | 15% |
 | 341 | Pérdida de la mitad de un arco dentario, prótesis tolerada. | 5% |
 | 342 | Bridas cicatrizales que limiten la abertura de la boca, impidiendo la higiene bucal, la pronunciación, la masticación o dejen escurrir la saliva. | 20 a 50% |
-| 343 | Luxación irreductible de la articulación temporomandibular, según el grado | 20 a 35% |
-
-
-|  | de entorpecimiento funcional. |  |
-| --- | --- | --- |
+| 343 | Luxación irreductible de la articulación temporomandibular, según el grado de entorpecimiento funcional. | 20 a 35% |
 | 344 | Amputaciones o mutilaciones de la lengua, según el entorpecimiento de la palabra y de la deglución. | 20 a 40% |
 | 345 | Fístula salival no resuelta quirúrgicamente. | 10 a 20% |
 
@@ -5532,19 +5550,23 @@ Ojos
 | 348 | Pérdida o disminución permanente de la agudeza visual en sujetos monóculos. Ceguera o visión inferior a 0.05 en el ojo contralateral (visión restante con corrección óptica). Ver Tabla II. |
 
 
-|  | Pérdida o disminución permanente de la agudeza visual en sujetos monóculos |  |  |
+|  | Tabla II |  |  |
 | --- | --- | --- | --- |
+|  | Pérdida o disminución permanente de la agudeza visual en sujetos monóculos |  |  |
 | Agudeza visual |  |  | Incapacidades en persona trabajadoras |
 |  |  |  | (%) |
 | 0.7 |  | 13 |  |
 | 0.6 |  | 19 |  |
-| 0.5 |  | 25 |  |
-| 0.4 |  | 31 |  |
-| 0.3 |  | 50 |  |
-| 0.2 |  | 70 |  |
-| 0.1 |  | 90 |  |
-| 0.05 |  | 100 |  |
-| 0 |  | 100 |  |
+
+
+| 0.5 | 25 |
+| --- | --- |
+| 0.4 | 31 |
+| 0.3 | 50 |
+| 0.2 | 70 |
+| 0.1 | 90 |
+| 0.05 | 100 |
+| 0 | 100 |
 
 
 |  |  |
@@ -5626,10 +5648,6 @@ Otras lesiones
 | 381 | Afaquia bilateral corregible con lentes de contacto o intraoculares. | 20% |
 | 382 | En las dos fracciones anteriores se les agregará la incapacidad que corresponda de acuerdo con la disminución de la agudeza visual no corregible, sin que la suma sobrepase el 100%, conforme a las estipulaciones del artículo 494 de la Ley Federal del Trabajo. | -- |
 | 383 | Midriasis, iridodiálisis o iridectomía en sector, cuando ocasionan trastornos funcionales, en un ojo. | 10% |
-
-
-|  |  |  |
-| --- | --- | --- |
 | 384 | Midriasis, iridodiálisis o iridectomía en sector, cuando ocasionan trastornos funcionales, en ambos ojos. | 20% |
 
 Ptosis palpebral o blefaroespasmo unilaterales, no resueltos quirúrgicamente, cuando cubren el área pupilar
@@ -5679,7 +5697,10 @@ Oídos
 | 407 | Pérdida o deformación total del pabellón auricular, unilateral, sin estenosis del conducto auditivo externo. | 10% |
 | --- | --- | --- |
 | 408 | Pérdida o deformación parcial del pabellón auricular, unilateral, sin estenosis del conducto auditivo externo. | 7% |
+
+
 | 409 | Pérdida o deformación total del pabellón auricular, bilateral, sin estenosis del conducto auditivo externo. | 20% |
+| --- | --- | --- |
 | 410 | Pérdida o deformación parcial del pabellón auricular, bilateral, sin estenosis del conducto auditivo externo. | 15% |
 | 411 | Pérdida o deformación total del pabellón auricular, unilateral, con estenosis del conducto auditivo externo. | 15% |
 | 412 | Pérdida o deformación parcial del pabellón auricular, unilateral, con estenosis del conducto auditivo externo. | 12% |
@@ -5701,18 +5722,19 @@ Oídos
 | 428 | Disfunción vestibular debidamente comprobada. Se valuará siguiendo las normas de la Tabla III. | -- |
 
 
-| Tabla III-A |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Disfunción vestibular |  |  |  |  |
-| Evaluación completa y | Pruebas de Gabinete con | Alteraciones en | Grado de | Porcentaje |
+| Tabla III-A |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Disfunción vestibular |  |  |  |  |  |
+| Evaluación completa y | Pruebas de Gabinete con | Alteraciones en las actividades de su puesto de trabajo | Grado de afección funcional | Porcentaje de incapacidad permanente | Porcentaje |
+| pruebas pertinentes | una vigencia de al menos |  |  |  | de |
+| para establecer el | 3 meses |  |  |  | incapacidad |
+| diagnóstico |  |  |  |  | permanente |
+|  | (contar con al menos una |  |  |  |  |
+| (contar con al menos | prueba alterada) |  |  |  |  |
 
 
-|  | pruebas pertinentes | una vigencia de al menos 3 meses (contar con al menos una prueba alterada) | las actividades de su puesto de trabajo |  | afección funcional | de incapacidad permanente |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | para establecer el |  |  |  |  |  |
-|  | diagnóstico |  |  |  |  |  |
-|  | (contar con al menos |  |  |  |  |  |
 |  | una prueba alterada) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 |  | Evaluación | - Pruebas bitérmicas con agua, y - Pruebas rotatorias con videonistagmografía o electronistagmografía. En la medida que se disponga; | Desequilibrio que interfiere de manera intermitente con las actividades laborales, al menos una vez cada 3 meses. |  | 1 Leve | 10-30% |
 |  | otoneurológica completa: |  |  |  |  |  |
 |  | - De la marcha; |  |  |  |  |  |
@@ -5758,13 +5780,9 @@ Oídos
 |  | actividades laborales pueda poner en riesgo su vida, la de terceros o el patrimonio. |  |  |  |  |  |
 
 
-|  |  |  |
-| --- | --- | --- |
 | 429 | Disfunción tubárica crónica bilateral, resistente a tratamiento. | 30 a 40% |
-
-
-| 430 | Disfunción tubárica crónica unilateral, resistente a tratamiento. | 15 a 20% |
 | --- | --- | --- |
+| 430 | Disfunción tubárica crónica unilateral, resistente a tratamiento. | 15 a 20% |
 | 431 | Acufeno bilateral debidamente comprobado. | 10% |
 | 432 | Sorderas e hipoacusias profesionales. Se valuarán siguiendo las normas de la Tabla III-B. | -- |
 
@@ -5785,9 +5803,8 @@ Oídos
 | 16 |  | 15 | 24 | 19 |  |
 | 17 |  | 15 | 25 | 20 |  |
 |  | Cálculo de Fletcher |  |  |  |  |
-| Cálculo de la incapacidad parcial permanente por obtención de la hipoacusia bilateral combinada de acuerdo a los umbrales obtenidos de la audiometría tonal y utilizando el procedimiento para la valuación de hipoacusias de: Fletcher, A.M.A. modificada por: De La Cruz Ávila, Gómez Cruz, Gutiérrez Farfán, Jiménez Ruiz, Rojo Ramírez, Toledo Ortiz, Torres Valenzuela, Velasco Reyna, Zarate Cabrera (octubre de 2016). Dependiendo del mecanismo de lesión y secuela se podrán utilizar uno de los siguientes rangos de frecuencia: a. Para lesiones que abarquen el umbral mínimo de audición en las frecuencias de 250, 500, 1,000 y 2,000 Hz. b. Para lesiones que abarquen el umbral mínimo de audición en las frecuencias de 2000, 3,000, 4,000, y 6,000 Hz. c. Para lesiones que tengan compromiso en las frecuencias de incisos A y B, se elegirá el rango de frecuencias que presente mayor pérdida auditiva. Primero. Si en el audiograma no aparecieran anotaciones de algún oído o los dos por anacusia, o no hubo respuesta en todas o en alguna de ellas, el valor que se le asignará a esas frecuencias será de 120 dB y si en el oído contralateral los niveles de audición para las frecuencias del área de lenguaje están en valores de 0 dB o menores, para efectos de valuación se considerará como promedio 5 dB. Segundo. Se suman y se obtiene el promedio aritmético para cada oído. Ejemplo: Oído derecho (OD) Oído izquierdo (OI) 2000 Hz 60 dB 2000 Hz 10 dB 3000 Hz 50 dB 3000 Hz 15 dB 4000 Hz 50 dB 4000 Hz 15 dB 6000 Hz 50 dB 6000 Hz 15 dB |  |  |  |  |  |
+| Cálculo de la incapacidad parcial permanente por obtención de la hipoacusia bilateral combinada de acuerdo a los umbrales obtenidos de la audiometría tonal y utilizando el procedimiento para la valuación de hipoacusias de: Fletcher, A.M.A. modificada por: De La Cruz Ávila, Gómez Cruz, Gutiérrez Farfán, Jiménez Ruiz, Rojo Ramírez, Toledo Ortiz, Torres Valenzuela, Velasco Reyna, Zarate Cabrera (octubre de 2016). Dependiendo del mecanismo de lesión y secuela se podrán utilizar uno de los siguientes rangos de frecuencia: a. Para lesiones que abarquen el umbral mínimo de audición en las frecuencias de 250, 500, 1,000 y 2,000 Hz. b. Para lesiones que abarquen el umbral mínimo de audición en las frecuencias de 2000, 3,000, 4,000, y 6,000 Hz. c. Para lesiones que tengan compromiso en las frecuencias de incisos A y B, se elegirá el rango de frecuencias que presente mayor pérdida auditiva. Primero. Si en el audiograma no aparecieran anotaciones de algún oído o los dos por anacusia, o no hubo respuesta en todas o en alguna de ellas, el valor que se le asignará a esas frecuencias será de 120 dB y si en el oído contralateral los niveles de audición para las frecuencias del área de lenguaje están en valores de 0 dB o menores, para efectos de valuación se considerará como promedio 5 dB. Segundo. Se suman y se obtiene el promedio aritmético para cada oído. Ejemplo: Oído derecho (OD) Oído izquierdo (OI) 2000 Hz 60 dB 2000 Hz 10 dB 3000 Hz 50 dB 3000 Hz 15 dB 4000 Hz 50 dB 4000 Hz 15 dB 6000 Hz 50 dB 6000 Hz 15 dB Suma: 210 / 4= 52.5 Suma: 55/ 4=13.7 Promedio aritmético para las frecuencias de la zona del lenguaje, para oído derecho 52.5, para oído izquierdo 13.7. |  |  |  |  |  |
 
-Suma: 210 / 4= 52.5 Suma: 55/ 4=13.7 Promedio aritmético para las frecuencias de la zona del lenguaje, para oído derecho 52.5, para oído izquierdo 13.7.
 Tercero. El promedio aritmético de cada oído se multiplica por 0.8 (constante de fletcher) y se obtiene el promedio de pérdida para cada oído o índice de fletcher.
 Ejemplo: OD: 52.5 x 0.8 =42 OI: 13.75 x 0.8=11 Cuarto. Se calcula la hipoacusia bilateral combinada, (H.B.C.) o por ciento de incapacidad auditiva biaural.
 Se multiplican los resultados anteriores: por 7 el oído menos sordo y por 1 el más sordo. Se suman y se divide entre 8. (% oído menos sordo x 7) + (% oído más sordo x 1) / 8 (11 x 7) + (42 x 1) = 77+42 = 119=14.8 (H.B.C.) Como el resultado de las operaciones aritméticas de este procedimiento con frecuencia traduce valores en fracciones decimales, se ha considerado conveniente suprimir estas fracciones y reportar números enteros (redondeo), de acuerdo al siguiente criterio:
@@ -5805,15 +5822,15 @@ Cuello
 | 435 | Estrechamientos cicatrizales de la laringe que produzcan disfonía. | 20% |
 | 436 | Que produzcan afonía o disfonía sin disnea. | 30 a 40% |
 | 437 | Cuando produzcan disnea de grandes esfuerzos. | 10% |
-
-
 | 438 | Cuando produzcan disnea de medianos o pequeños esfuerzos. | 20 a 70% |
-| --- | --- | --- |
 | 439 | Cuando produzcan disnea de reposo. | 70 a 80% |
 | 440 | Cuando por disnea se requiera el uso de cánula traqueal a permanencia. | 70 a 90% |
 | 441 | Cuando causen disfonía (o afonía) y disnea. | 25 a 80% |
 | 442 | Estrechamiento cicatrizal de la faringe con perturbación de la deglución. | 20 a 40% |
+
+
 | 443 | Pérdida de la glándula tiroides, incluyendo o no las paratiroides, con respuesta adecuada al tratamiento sustitutivo. | 20% |
+| --- | --- | --- |
 | 444 | Pérdida de la glándula tiroides, incluyendo o no las paratiroides, sin respuesta al tratamiento sustitutivo. | 26% |
 
 Trastornos de la voz
@@ -5839,13 +5856,14 @@ Trastornos de la voz
 
 Trastornos de deglución
 
-| Tabla V |  |  |
-| --- | --- | --- |
-| Trastornos de la deglución |  |  |
-| Categoría | Características | Valuación |
+|  | Tabla V |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Trastornos de la deglución |  |  |  |  |
+|  | Categoría |  | Características |  | Valuación |
+| Leve |  | - Presencia de sintomatología leve, con tos ocasional cuando se alimenta; - Sensación de atragantamiento; - Puede comer la mayoría de los alimentos sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta; |  | 20 al 27% |  |
 
 
-| Leve | - Presencia de sintomatología leve, con tos ocasional cuando se alimenta; - Sensación de atragantamiento; - Puede comer la mayoría de los alimentos sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta; - Los tiempos de comidas son prolongados; - Necesita tragar varias veces para pasar el alimento, y - Con aptitud para ejercer actividades de su profesión u oficio. | 20 al 27% |
+|  | - Los tiempos de comidas son prolongados; - Necesita tragar varias veces para pasar el alimento, y - Con aptitud para ejercer actividades de su profesión u oficio. |  |
 | --- | --- | --- |
 | Moderado | - Presencia de sintomatología moderada, tos frecuente con la ingesta de alimentos sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta; - Pérdida ponderal menor al 10% del peso en 6 meses; - Sólo puede comer trozos pequeños o cantidades menores de líquidos a los que estaba acostumbrado; - Incrementa el número de mordidas para la masticación; - Necesita varios tragos en seco para pasar el alimento, y - Con aptitud para ejercer actividades de su profesión u oficio con dificultad, pero las lleva a cabo. | 28 al 34% |
 | Severo | - Presencia de tos o sensación de ahogo importante con los alimentos, sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta, saliva o flemas espesas; - Pérdida ponderal igual o mayor al 10% del peso en 6 meses; - Debe comer pequeñas cantidades de alimentos por bocado; - Requiere varias degluciones en seco; - Presencia de cuadros respiratorios recurrentes y neumonía, y - Sin aptitud para ejercer actividades de su profesión u oficio. | 35 al 40% |
@@ -5862,25 +5880,27 @@ Tórax y contenido
 | 452 | Adherencias y retracciones cicatrizales pleurales. | 20 a 30% |
 | 453 | Secuelas con alteraciones broncopulmonares (asma bronquial, enfisema pulmonar, bronquitis crónica, neumonitis, fibrosis, lesiones postraumáticas, etc.), según el grado de alteración orgánica y funcional, se utilizará la Tabla VI. | -- |
 
-Tabla VI
 
-|  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Tabla VI |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Graduación de la deficiencia respiratoria en enfermedades pulmonares del trabajo |  |  |  |  |  |  |  |  |  |  |
-| Clínica |  |  | Ejercicio | Mecánica ventilatoria |  |  |  |  | Insuficiencia respiratoria |  | Valuación |
-|  |  |  | Cardio |  |  |  |  |  |  |  |  |
-|  |  |  | Pulmonar |  |  |  |  |  |  |  |  |
-|  | Disnea | VO2max ml/kg/min | VO2max | CVF % | FEV1 | Variabilidad del PEF% |  | FEF 25-75 | Hipoxemia | Hipercapnia | I.P.P.% |
-|  | clasificación Borg |  | ml/kg/min |  |  |  |  | FEF 75-85 |  |  |  |
-|  | modificada |  |  |  |  |  |  | (%) |  |  |  |
-| 0 |  | ≥ 25 |  | Normal | Normal | - 20 | Leve (59-20) |  | Normal | Normal | 0 |
-| 0 |  |  |  | Normal | Normal |  | Moderada (19-15) |  | Normal | Normal | 5 |
-| 0.5-1 |  | 20-24 |  | Leve (79-75) | Leve (79-70) | 21-29 |  |  | Leve (63-59) | Normal | 20-30 |
-| 2-3 |  |  |  | Moderada (74-70) | Moderada (69-51) |  | Grave (14-10) |  | Moderada (58-54) | Leve (35-36) | 31-40 |
-| 4-6 |  | 15-19 |  | Grave (69-65) | Grave (50-31) | 30-39 | Muy Grave (< 9) |  | Grave (53-49) | Moderada (37-39) | 41-60 |
-| 7-8 |  |  |  |  |  |  | - |  | Muy Grave (48-44) | Grave (40-44) | 61-80 |
-| 9-10 |  | <15 |  | Muy Grave (< 64) | Muy Grave (> 30) | >40 | - |  | - | Muy Grave (> 45) | 100 |
-| - Para poder determinar un índice de perfusión periférica (IPP) en los flujos periféricos mayor al 50%, se deberá valorar también el FEV1. - Para determinar un IPP mayor del 60% con los datos de hipoxemia censada por medio de oximetría de pulso, se deberá valorar además con hipercapnia determinada por la gasometría arterial. - La interpretación de la espirometría tendrá como punto cardinal, la utilización de valores obtenidos en población adulta mexicana sana. - El porcentaje de valuación lo determinan las pruebas de función respiratoria post broncodilatador con el valor más bajo encontrado. |  |  |  |  |  |  |  |  |  |  |  |
+| Clínica |  | Ejercicio | Mecánica ventilatoria |  |  |  |  | Insuficiencia respiratoria |  |  | Valuación |
+|  |  | Cardio |  |  |  |  |  |  |  |  |  |
+|  |  | Pulmonar |  |  |  |  |  |  |  |  |  |
+|  | Disnea | VO2max |  | CVF | FEV1 | Variabilidad | FEF 25-75 | Hipoxemia | Hipoxemia | Hipercapnia | I.P.P.% |
+|  | clasificación Borg | ml/kg/min |  | % |  | del PEF% | FEF 75-85 |  |  |  |  |
+
+
+|  | modificada |  |  |  |  |  | (%) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 |  | ≥ 25 | Normal | Normal | - 20 | Leve (59-20) |  | Normal | Normal | 0 |
+| 0 |  |  | Normal | Normal |  | Moderada (19-15) |  | Normal | Normal | 5 |
+| 0.5-1 |  | 20-24 | Leve (79-75) | Leve (79-70) | 21-29 |  |  | Leve (63-59) | Normal | 20-30 |
+| 2-3 |  |  | Moderada (74-70) | Moderada (69-51) |  | Grave (14-10) |  | Moderada (58-54) | Leve (35-36) | 31-40 |
+| 4-6 |  | 15-19 | Grave (69-65) | Grave (50-31) | 30-39 | Muy Grave (< 9) |  | Grave (53-49) | Moderada (37-39) | 41-60 |
+| 7-8 |  |  |  |  |  | - |  | Muy Grave (48-44) | Grave (40-44) | 61-80 |
+| 9-10 |  | <15 | Muy Grave (< 64) | Muy Grave (> 30) | >40 | - |  | - | Muy Grave (> 45) | 100 |
+| - Para poder determinar un índice de perfusión periférica (IPP) en los flujos periféricos mayor al 50%, se deberá valorar también el FEV1. - Para determinar un IPP mayor del 60% con los datos de hipoxemia censada por medio de oximetría de pulso, se deberá valorar además con hipercapnia determinada por la gasometría arterial. - La interpretación de la espirometría tendrá como punto cardinal, la utilización de valores obtenidos en población adulta mexicana sana. - El porcentaje de valuación lo determinan las pruebas de función respiratoria post broncodilatador con el valor más bajo encontrado. |  |  |  |  |  |  |  |  |  |  |
 
 
 | 454 | Fibrosis neumoconiótica complicada con tuberculosis pulmonar, clínica y bacteriológicamente sin remisión. Agregar 20% al monto de las incapacidades consignadas en la Tabla VI, sin exceder del cien por ciento. | -- |
@@ -5911,7 +5931,10 @@ Abdomen
 | 470 | Las mismas, reproducidas después de tratamiento quirúrgico (recurrente o recidivante). | 20 a 30% |
 | 471 | Cicatrices viciosas de la pared abdominal que produzcan alguna incapacidad. | 10 a 30% |
 | 472 | Cicatrices con eventración, inoperables o no resueltas quirúrgicamente. | 30 a 60% |
+
+
 | 473 | Fístulas del tubo digestivo o de sus anexos, inoperables o cuando produzcan alguna incapacidad. | 20 a 60% |
+| --- | --- | --- |
 | 474 | Pérdida total del estómago. | 60 a 80% |
 | 475 | Pérdida parcial del estómago. | 30 a 40% |
 | 476 | Pérdida del bazo. | 15% |
@@ -5944,14 +5967,19 @@ Abdomen
 | 486 | La insuficiencia hepática se evaluará conforme a las Tablas VIII y IX. | -- |
 
 
-|  | Clasificación de estadios de la insuficiencia hepática |  |  |  |  |  |
+|  | Tabla VIII |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  | Clasificación de estadios de la insuficiencia hepática |  |  |  |  |  |
 | Estadio |  | Descripción |  | Clasificación |  | Escala de |
 |  |  |  |  | Child-Pugh |  | MELD |
-| 1 |  | - Alteraciones persistentes de la bioquímica hepática (aminotransferasas, fosfatasas alcalinas, bilirrubinas, albumina, tiempos de coagulación). - Ausencia de varices esofágicas, y - Ausencia de ascitis. | -- |  | 0-9 |  |
-| 2 |  | - Cumple los criterios de la clase 1. - Presencia de varices esofágicas. - Ausencia de Ascitis. - Ausencia de hemorragia digestiva o historia de hemorragia digestiva. - Evidencia anatomopatológica o imagenológica de lesiones cirrógenas (hepatitis crónica activa, esteatohepatitis, fibrosis portal o fibrosis centrolobulillar). - Requiere tratamiento con corticoides inmunosupresores o con inmunomoduladores de manera continuada. | Clase A |  | 10-19 |  |
-| 3 |  | - Cumple los criterios de la clase 2. - Presencia de ascitis con o sin varices esofágicas. - Ausencia de hemorragia digestiva o historia de hemorragia digestiva. - Síntomas de insuficiencia hepática, de hipertensión portal, no desencadenados por proceso agudo intercurrente, en los últimos dos años. | Clase B |  | 20- 29 |  |
-| 4 |  | - Cumple los criterios de la clase 3. - Síntomas de insuficiencia hepática, de hipertensión portal en forma continua a pesar de recibir tratamiento. - Presencia de ascitis. - Presencia de varices esofágicas. - Presencia de hemorragia digestiva o historia de hemorragia digestiva. | Clase C |  | 30 o más |  |
+| 1 |  | - Alteraciones persistentes de la bioquímica hepática (aminotransferasas, fosfatasas alcalinas, | -- |  | 0-9 |  |
+
+
+|  | bilirrubinas, albumina, tiempos de coagulación). - Ausencia de varices esofágicas, y - Ausencia de ascitis. |  |  |
+| --- | --- | --- | --- |
+| 2 | - Cumple los criterios de la clase 1. - Presencia de varices esofágicas. - Ausencia de Ascitis. - Ausencia de hemorragia digestiva o historia de hemorragia digestiva. - Evidencia anatomopatológica o imagenológica de lesiones cirrógenas (hepatitis crónica activa, esteatohepatitis, fibrosis portal o fibrosis centrolobulillar). - Requiere tratamiento con corticoides inmunosupresores o con inmunomoduladores de manera continuada. | Clase A | 10-19 |
+| 3 | - Cumple los criterios de la clase 2. - Presencia de ascitis con o sin varices esofágicas. - Ausencia de hemorragia digestiva o historia de hemorragia digestiva. - Síntomas de insuficiencia hepática, de hipertensión portal, no desencadenados por proceso agudo intercurrente, en los últimos dos años. | Clase B | 20- 29 |
+| 4 | - Cumple los criterios de la clase 3. - Síntomas de insuficiencia hepática, de hipertensión portal en forma continua a pesar de recibir tratamiento. - Presencia de ascitis. - Presencia de varices esofágicas. - Presencia de hemorragia digestiva o historia de hemorragia digestiva. | Clase C | 30 o más |
 
 
 |  | La escala de Child-Pugh emplea 5 criterios clínicos de la enfermedad hepática. Cada criterio es |  |  |  |  |  |  |
@@ -6005,21 +6033,21 @@ Aparato genitourinario
 | 503 | La insuficiencia renal crónica se evaluará conforme a la Tabla X. |  |
 
 
-|  | Tabla X |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Clasificación de estadios de la enfermedad renal crónica |  |  |  |  |  |
-| Estadio | Estadio | Descripción | Filtrado glomerular | Albuminuria | Valuación | Valuación |
-|  |  |  | (mL/min/1.73m2) | cociente |  |  |
+|  | Tabla X |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Clasificación de estadios de la enfermedad renal crónica |  |  |  |  |  |  |
+| Estadio | Estadio | Descripción | Filtrado glomerular (mL/min/1.73m2) |  | Albuminuria | Valuación | Valuación |
+|  |  |  |  |  | cociente |  |  |
+|  |  |  |  |  | albúmina/creatinina |  |  |
+| 1 |  | Normal o alta. | Mayor a 90 | 0-30 mg/g, normal o levemente aumentada. |  | Sin valuación |  |
+| 2 |  | Levemente disminuida. | 60-89 |  |  | 10-20% |  |
 
 
-|  |  |  |  | albúmina/creatinina |  |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Normal o alta. | Mayor a 90 | 0-30 mg/g, normal o levemente aumentada. |  | Sin valuación |
-| 2 | Levemente disminuida. | 60-89 |  |  | 10-20% |
-| 3A | Leve a moderadamente disminuida. | 45-59 | 30-300 mg/g, moderadamente aumentada. |  | 20 a 40% |
-| 3B | Moderada a gravemente disminuida. | 30-44 |  |  | 41 a 60% |
-| 4 | Gravemente disminuida. | 15-29 | >300 mg/g, gravemente aumentada. |  | 61 a 90% |
-| 5 | Insuficiencia renal. | Menor a 15 |  |  | 91 a 100% |
+| 3A | Leve a moderadamente disminuida. | 45-59 | 30-300 mg/g, moderadamente aumentada. | 20 a 40% |
+| --- | --- | --- | --- | --- |
+| 3B | Moderada a gravemente disminuida. | 30-44 |  | 41 a 60% |
+| 4 | Gravemente disminuida. | 15-29 | >300 mg/g, gravemente aumentada. | 61 a 90% |
+| 5 | Insuficiencia renal. | Menor a 15 |  | 91 a 100% |
 
 
 | 504 | Incontinencia de orina permanente. | 30 a 40% |
@@ -6047,13 +6075,12 @@ Clasificaciones diversas
 
 | 515 | La pérdida de ambos ojos, ambos brazos arriba del codo, desarticulación de la cadera de ambos lados o de un brazo arriba del codo y de una pierna arriba de la rodilla del mismo lado, lesión medular por cualquier traumatismo que produzca parálisis completa de los miembros inferiores con trastornos esfinterianos, demencia, se considerarán como incapacidad permanente total. | 100% |
 | --- | --- | --- |
-| 516 | Las deformaciones puramente estéticas, según su carácter, serán indemnizadas a juicio del Tribunal del Poder Judicial de la Federación que corresponda, sólo en el caso de que de alguna forma disminuyan la capacidad de trabajo de la persona lesionada, teniendo en cuenta la | -- |
-
-
-|  | profesión a que se dedica. |  |
-| --- | --- | --- |
+| 516 | Las deformaciones puramente estéticas, según su carácter, serán indemnizadas a juicio del Tribunal del Poder Judicial de la Federación que corresponda, sólo en el caso de que de alguna forma disminuyan la capacidad de trabajo de la persona lesionada, teniendo en cuenta la profesión a que se dedica. | -- |
 | 517 | Las lesiones producidas por la acción de agentes físicos y químicos serán indemnizadas de acuerdo con las modalidades especiales de la incapacidad. | 20 a 100% |
+
+
 | 518 | Las cicatrices producidas por amplias quemaduras de los tegumentos serán indemnizadas tomando en cuenta la extensión y la profundidad de las zonas cicatrizales, independientemente de las perturbaciones funcionales que acarreen en los segmentos adyacentes. Tomándose como base para su valuación la regla de los nueves. | -- |
+| --- | --- | --- |
 | 519 | En caso de haberse otorgado con anterioridad la valuación de una secuela que involucre el mismo sitio anatómico, se otorgará únicamente la diferencia del porcentaje de la nueva fracción que aplique. | -- |
 | 520 | En caso de no encontrarse la fracción específica para la valuación de las secuelas que presenta la persona trabajadora, deberá hacerse uso del artículo 17 de la Ley Federal del Trabajo vigente y por similitud aplicar la fracción que más se asemeje. | -- |
 
@@ -6061,9 +6088,8 @@ Cánceres
 
 |  |  |  |
 | --- | --- | --- |
-| 521 | Cáncer secundario a agentes físicos, químicos, o biológicos se valuará con base a los siguientes criterios: para el cálculo de la incapacidad permanente parcial o total por motivo de los cánceres de origen laboral, el procedimiento para su obtención es realizando los pasos siguientes: Paso I: Identificar el cáncer que padece la persona trabajadora de acuerdo con el diagnóstico y sobrevida establecida por el especialista oncólogo, y verificar con la Tabla XI a qué tipo de categorización corresponde el cáncer de origen laboral. Esto es, el cáncer menos agresivo corresponde al numeral 1 y el más agresivo al numeral 5, con base a la sobrevida que pueda presentar la persona trabajadora a cinco años de su diagnóstico. Nota: En caso de que la neoplasia diagnosticada no se encuentre incluida en la Tabla XI, la agresividad se establecerá de acuerdo con la sobrevida determinada por el especialista oncólogo. Paso 2: Después de identificar a qué categorización pertenece el cáncer de origen laboral, establecer en qué categoría se ubica la persona trabajadora de acuerdo con la capacidad funcional en relación con el desempeño del puesto de trabajo, esto es, por ejemplo si tiene un cáncer de colon la categoría de la neoplasia se ubicaría en el numeral 3 de la Tabla XI y si se encuentra que la persona trabajadora tiene una valoración como restringida en sus capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media, se ubicaría en el numeral 1 de la Tabla XII. Paso 3: Posteriormente, se buscaría en la Tabla XIII en la columna de categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años, el numeral al que pertenece el cáncer diagnosticado a la persona trabajadora, y se buscaría también en la columna de categorización funcional de las neoplasias y sus secuelas derivadas del tratamiento o generadas por el propio tumor en relación con el | -- |
+| 521 | Cáncer secundario a agentes físicos, químicos, o biológicos se valuará con base a los siguientes criterios: para el cálculo de la incapacidad permanente parcial o total por motivo de los cánceres de origen laboral, el procedimiento para su obtención es realizando los pasos siguientes: Paso I: Identificar el cáncer que padece la persona trabajadora de acuerdo con el diagnóstico y sobrevida establecida por el especialista oncólogo, y verificar con la Tabla XI a qué tipo de categorización corresponde el cáncer de origen laboral. Esto es, el cáncer menos agresivo corresponde al numeral 1 y el más agresivo al numeral 5, con base a la sobrevida que pueda presentar la persona trabajadora a cinco años de su diagnóstico. Nota: En caso de que la neoplasia diagnosticada no se encuentre incluida en la Tabla XI, la agresividad se establecerá de acuerdo con la sobrevida determinada por el especialista oncólogo. Paso 2: Después de identificar a qué categorización pertenece el cáncer de origen laboral, establecer en qué categoría se ubica la persona trabajadora de acuerdo con la capacidad funcional en relación con el desempeño del puesto de trabajo, esto es, por ejemplo si tiene un cáncer de colon la categoría de la neoplasia se ubicaría en el numeral 3 de la Tabla XI y si se encuentra que la persona trabajadora tiene una valoración como restringida en sus capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media, se ubicaría en el numeral 1 de la Tabla XII. Paso 3: Posteriormente, se buscaría en la Tabla XIII en la columna de categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años, el numeral al que pertenece el cáncer diagnosticado a la persona trabajadora, y se buscaría también en la columna de categorización funcional de las neoplasias y sus secuelas derivadas del tratamiento o generadas por el propio tumor en relación con el desempeño de su trabajo, el numeral en que se ubica el resultado de la valoración de la persona trabajadora y se hace un ajuste entre ambas columnas para encontrar el porcentaje que le corresponde. | -- |
 
-desempeño de su trabajo, el numeral en que se ubica el resultado de la valoración de la persona trabajadora y se hace un ajuste entre ambas columnas para encontrar el porcentaje que le corresponde.
 En el ejemplo tenemos que según la Tabla XII, el cáncer de colon se ubica en el numeral 3, y de acuerdo con su valoración de la categorización funcional, se identifica que corresponde al numeral 1 de la Tabla XII, y haciendo la búsqueda de la intersección de ambos valores encontramos que el resultado sería de 70% de acuerdo con la Tabla XIII.
 
 |  | Tabla XI |  |  |  |  |
@@ -6082,10 +6108,10 @@ En el ejemplo tenemos que según la Tabla XII, el cáncer de colon se ubica en e
 |  | Categorías de capacidad funcional en relación con el desempeño del puesto de trabajo |  |
 | 0 |  | Completamente activo, capaz de realizar toda actividad física, previa a la enfermedad. |
 | 1 |  | Restringido en las capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media (actividades tales como empujar y jalar moderadamente, caminar a una velocidad moderada, levantar 5 kg 10 veces por minuto o 12 kg seis veces por minuto, por ejemplo: recolección de frutas y verduras (inclinado, en cuclillas), pintar con brocha, empujar o tirar de carros ligeros o carretillas, operar camiones, tractores o maquinaria de construcción en todo terreno, uso de martillo neumático, eliminar maleza y usar el azadón). Si previo a la enfermedad sus actividades laborales correspondían a naturaleza media, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las actividades de naturaleza media. |
-| 2 |  | Restringido en las capacidades funcionales pero es capaz de realizar el trabajo de naturaleza ligero (permanecer sentado, estar sentado haciendo trabajo manual ligero usando las manos y brazos, conducir un vehículo, estar de pie haciendo trabajo ligero con los brazos y caminando ocasionalmente, caminatas casuales sin exceder los 3 km por hora y levantar 5 kg menos de ocho veces por minuto 12 kg menos de cuatro veces por minuto, por ejemplo: participar en una reunión (sentado), leer instrucciones o llenar papeleo, ver un video de capacitación, uso de herramientas para mesa o pequeñas herramientas eléctricas, inspección y clasificación de productos, clasificación de materiales livianos, ensamblaje de piezas pequeñas, conducción de |
+| 2 |  | Restringido en las capacidades funcionales pero es capaz de realizar el trabajo de naturaleza ligero (permanecer sentado, estar sentado haciendo trabajo manual ligero usando las manos y brazos, conducir un vehículo, estar de pie haciendo trabajo ligero con los brazos y caminando ocasionalmente, caminatas casuales sin exceder los 3 km por hora y levantar 5 kg menos de ocho veces por minuto 12 kg menos de cuatro veces por minuto, por ejemplo: participar en una reunión (sentado), leer instrucciones o llenar papeleo, ver un video de capacitación, uso de herramientas para mesa o pequeñas herramientas eléctricas, inspección y clasificación de productos, clasificación de materiales livianos, ensamblaje de piezas pequeñas, conducción de vehículo en carretera y clavar. Si previo a la enfermedad sus actividades laborales correspondían a naturaleza ligera, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las |
 
 
-|  | vehículo en carretera y clavar. Si previo a la enfermedad sus actividades laborales correspondían a naturaleza ligera, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las actividades de naturaleza ligera. |
+|  | actividades de naturaleza ligera. |
 | --- | --- |
 | 3 | Incapaz de realizar cualquier actividad laboral. |
 
@@ -6136,15 +6162,15 @@ Virus de Inmunodeficiencia Humana
 |  |  |  | - Puede realizar las actividades de la vida diaria, |  |  |  |  |
 |  |  |  | con disminución de la capacidad para realizar |  |  |  |  |
 |  |  |  | actividades laborales. |  |  |  |  |
-|  | 4 |  | - Requiere tratamiento continuado; |  | C2 y C3 |  | 60 a 79% |
+| 4 |  |  | - Requiere tratamiento continuado; | C2 y C3 |  | 60 a 79% |  |
+|  |  |  | - Presenta más de seis episodios anuales de |  |  |  |  |
+|  |  |  | enfermedades relacionadas con su |  |  |  |  |
+|  |  |  | inmunodeficiencia que precisan atención |  |  |  |  |
+|  |  |  | médica hospitalaria; |  |  |  |  |
 
 
-|  | - Presenta más de seis episodios anuales de |  |  |
-| --- | --- | --- | --- |
-|  | enfermedades relacionadas con su |  |  |
-|  | inmunodeficiencia que precisan atención |  |  |
-|  | médica hospitalaria; |  |  |
 |  | - Requiere al menos 24 horas o durante más de |  |  |
+| --- | --- | --- | --- |
 |  | 60 días al año, y |  |  |
 |  | - Disminución de la capacidad para realizar las |  |  |
 |  | actividades de la vida diaria. |  |  |
@@ -6194,14 +6220,14 @@ Trastornos mentales
 |  |  | manejo terapéutico; |  |  |
 |  |  | - Tratamiento farmacológico especializado permanente; |  |  |
 |  |  | - Terapia médica, rehabilitatoria especializada; |  |  |
+|  |  | - Puede requerir atención médica complementaria de otras |  |  |
+|  |  | especialidades; |  |  |
+|  |  | - Con internamientos recurrentes mayores a una semana para |  |  |
+|  |  | manejo especializado; |  |  |
 
 
-|  | - Puede requerir atención médica complementaria de otras |  |
-| --- | --- | --- |
-|  | especialidades; |  |
-|  | - Con internamientos recurrentes mayores a una semana para |  |
-|  | manejo especializado; |  |
 |  | - Con aptitud limitada para ejercer actividades de su profesión u |  |
+| --- | --- | --- |
 |  | oficio, y |  |
 |  | - Sin afectación para realizar actividades de la vida diaria. |  |
 | Clase IV | - Con sintomatología severa especifica o derivada del manejo | 51 a 70% |
@@ -11166,6 +11192,8 @@ Fracción reformada DOF 01-05-2019, 04-04-2024
 
 IV. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132;
 Fracción reformada DOF 01-05-2019
+IV Bis. De 250 a 5000 Unidades de Medida y Actualización, a la persona empleadora obligada que incumpla con lo dispuesto por la fracción XXXIV del artículo 132 de esta Ley.
+Fracción adicionada DOF 01-05-2026
 
 V. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;
 Fracción reformada DOF 01-05-2019
@@ -11903,3 +11931,62 @@ Se reforman los artículos 2o., primer párrafo; 3o., primer párrafo y 56 y, se
 **Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
 **Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.
+Publicado en el Diario Oficial de la Federación el 1 de mayo de 2026
+
+### Artículo Único
+Se reforman los artículos 59; 61; 66; 68; 69 y 71, segundo párrafo; se adicionan un
+**segundo.-** párrafo al artículo 58; y la fracción XXXIV al artículo 132 y la fracción IV Bis al artículo 994; y se deroga el segundo párrafo del artículo 67, de la Ley Federal del Trabajo, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día 1 de mayo de 2026.
+**Segundo.-** La duración de la jornada laboral a que se refiere el artículo 59 de la Ley Federal del Trabajo se alcanzará de manera gradual, a partir del 1 de enero del año que corresponda, conforme a lo siguiente:
+
+|  | Año |  | Jornada Laboral |
+| --- | --- | --- | --- |
+| 2026 |  | 48 |  |
+| 2027 |  | 46 |  |
+| 2028 |  | 44 |  |
+| 2029 |  | 42 |  |
+| 2030 |  | 40 |  |
+
+**Tercero.-** El periodo que transcurra del 1 de mayo al 31 de diciembre de 2026 permitirá a las personas trabajadoras y empleadoras ajustar los procesos de trabajo a los términos de este Decreto.
+**Cuarto.-** La duración de la jornada extraordinaria a que se refiere el artículo 66 de la Ley Federal del Trabajo se alcanzará de manera gradual, a partir del 1 de enero del año correspondiente, conforme a lo siguiente:
+
+|  | Año |  | Horas Extras |
+| --- | --- | --- | --- |
+| 2026 |  | 9 |  |
+| 2027 |  | 9 |  |
+| 2028 |  | 10 |  |
+| 2029 |  | 11 |  |
+| 2030 |  | 12 |  |
+
+**Quinto.-** Las disposiciones de carácter general a que se refiere la fracción XXXIV del artículo 132 de la Ley Federal del Trabajo, entrarán en vigor a partir del 1 de enero de 2027.
+**Sexto.-** La Secretaría del Trabajo y Previsión Social instrumentará los mecanismos que correspondan para recopilar, procesar y evaluar datos relacionados con la implementación de la reducción de la jornada laboral.
+**Séptimo.-** En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras.
+Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 01 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+DECRETO por el que se reforman los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales.
+Publicado en el Diario Oficial de la Federación el 1 de mayo de 2026
+
+### Artículo Tercero
+Se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 01 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes.
+Publicado en el Diario Oficial de la Federación el 14 de mayo de 2026
+
+### Artículo Primero
+Se reforman los artículos 304; 307; 308, párrafo primero; 309; 310; y la denominación del Capítulo XI del Título Sexto; y se adiciona un artículo 305 Bis, de la Ley Federal del Trabajo, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan al presente Decreto. dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+**Cuarto.-** Los procedimientos administrativos de avenencia y arbitraje iniciados con anterioridad a la entrada en vigor del presente Decreto, en lo que no se opongan al mismo, continuarán hasta su conclusión conforme a los ordenamientos en vigor existentes al momento de su inicio.
+Ciudad de México, a 15 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

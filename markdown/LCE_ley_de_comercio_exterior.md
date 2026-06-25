@@ -163,11 +163,13 @@ II. Conforme a lo dispuesto en tratados o convenios internacionales de los que M
 
 III. Cuando se trate de productos cuya comercialización esté sujeta, por disposición constitucional, a restricciones específicas;
 
-IV. Cuando se trate de preservar la fauna y la flora en riesgo o peligro de extinción o de asegurar la conservación o aprovechamiento de especies;
+IV. Cuando se trate de preservar la fauna y la flora en riesgo o peligro de extinción; asegurar la conservación o el aprovechamiento de especies; o prevenir la deforestación y el cambio de uso de suelo en terrenos forestales sin la autorización correspondiente;
+Fracción reformada DOF 01-05-2026
 
 V. Cuando se requiera conservar los bienes de valor histórico, artístico o arqueológico, y
 
-VI. Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, de acuerdo a la legislación en la materia.
+VI. Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, así como trabajo y seguridad social, de acuerdo a la legislación en la materia.
+Fracción reformada DOF 01-05-2026
 
 ### Artículo 16
 .- Las medidas de regulación y restricción no arancelarias a la importación, circulación o tránsito de mercancías, a que se refieren las fracciones III y IV del artículo 4o., se podrán establecer en los siguientes casos:
@@ -967,3 +969,15 @@ Se reforman los artículos 53, último párrafo; 64, segundo párrafo en su enca
 México, D.F., a 12 de diciembre de 2006.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip.
 Jorge Zermeño Infante, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Ma.
 Mercedez Maciel Ortiz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+DECRETO por el que se reforman los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales.
+Publicado en el Diario Oficial de la Federación el 1 de mayo de 2026
+
+### Artículo Segundo
+Se reforma el artículo 15, fracciones IV y VI, de la Ley de Comercio Exterior, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 01 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

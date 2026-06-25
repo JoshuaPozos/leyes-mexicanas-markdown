@@ -1,15 +1,5 @@
 [
   {
-    "key": "cpeum",
-    "ref_abbrev": "cpeum",
-    "pdf_filename_origen": "CPEUM.pdf",
-    "md_slug": "CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
-    "ultima_reforma_raw": "DOF 03/03/2026",
-    "pdf_sha256": "e220eacc6ec0cd9e68fe9227ca5788e44b43bf0a8adf4eeb8eecef89c477cc80",
-    "snapshot_date": "2026-06-23"
-  },
-  {
     "key": "ccf",
     "ref_abbrev": "ccf",
     "pdf_filename_origen": "CCF.pdf",
@@ -30,14 +20,14 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "cjm",
-    "ref_abbrev": "cjm",
-    "pdf_filename_origen": "CJM.pdf",
-    "md_slug": "CJM_codigo_de_justicia_militar",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531",
-    "snapshot_date": "2026-06-23"
+    "key": "cff",
+    "ref_abbrev": "cff",
+    "pdf_filename_origen": "CFF.pdf",
+    "md_slug": "CFF_codigo_fiscal_de_la_federacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
+    "ultima_reforma_raw": "DOF 09/04/2026",
+    "pdf_sha256": "be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d",
+    "snapshot_date": "2026-06-25"
   },
   {
     "key": "cfpc",
@@ -50,13 +40,13 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "cff",
-    "ref_abbrev": "cff",
-    "pdf_filename_origen": "CFF.pdf",
-    "md_slug": "CFF_codigo_fiscal_de_la_federacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
-    "ultima_reforma_raw": "DOF 28/12/2025",
-    "pdf_sha256": "f82b4537229351ddabd2a47929eb6db9907d18a7c2be618a293d6e441eb99855",
+    "key": "cjm",
+    "ref_abbrev": "cjm",
+    "pdf_filename_origen": "CJM.pdf",
+    "md_slug": "CJM_codigo_de_justicia_militar",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
+    "ultima_reforma_raw": "DOF 16/07/2025",
+    "pdf_sha256": "b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -90,6 +80,16 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "cpeum",
+    "ref_abbrev": "cpeum",
+    "pdf_filename_origen": "CPEUM.pdf",
+    "md_slug": "CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+    "ultima_reforma_raw": "DOF 02/06/2026",
+    "pdf_sha256": "ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e",
+    "snapshot_date": "2026-06-25"
+  },
+  {
     "key": "cpf",
     "ref_abbrev": "cpf",
     "pdf_filename_origen": "CPF.pdf",
@@ -110,33 +110,13 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lisipl",
-    "ref_abbrev": "lisipl",
-    "pdf_filename_origen": "79.pdf",
-    "md_slug": "ISEDIPL_impuesto_sobre_servicios_expresamente_declarados_de_interes_publico_po",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ladua",
-    "ref_abbrev": "ladua",
-    "pdf_filename_origen": "LAdua.pdf",
-    "md_slug": "LAdua_ley_aduanera",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf",
-    "ultima_reforma_raw": "DOF 27/12/2025",
-    "pdf_sha256": "43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lagra",
-    "ref_abbrev": "lagra",
-    "pdf_filename_origen": "LAgra.pdf",
-    "md_slug": "LAgra_ley_agraria",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550",
+    "key": "laam",
+    "ref_abbrev": "laam",
+    "pdf_filename_origen": "LAAM.pdf",
+    "md_slug": "LAAM_ley_de_ascensos_de_la_armada_de_mexico",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAM.pdf",
+    "ultima_reforma_raw": "DOF 17/12/2025",
+    "pdf_sha256": "e69669aaa047e12ed8da8c0bbf403393ebe0d5f66c5b42b92681df2c11d4e7e8",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -150,23 +130,23 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "laero",
-    "ref_abbrev": "laero",
-    "pdf_filename_origen": "LAero.pdf",
-    "md_slug": "LAero_ley_de_aeropuertos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4",
+    "key": "laat",
+    "ref_abbrev": "laat",
+    "pdf_filename_origen": "LAAT.pdf",
+    "md_slug": "LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lan",
-    "ref_abbrev": "lan",
-    "pdf_filename_origen": "LAN.pdf",
-    "md_slug": "LAN_ley_de_aguas_nacionales",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
-    "ultima_reforma_raw": "DOF 11/12/2025",
-    "pdf_sha256": "4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d",
+    "key": "lac",
+    "ref_abbrev": "lac",
+    "pdf_filename_origen": "LAC.pdf",
+    "md_slug": "LAC_ley_de_aviacion_civil",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -177,6 +157,46 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf",
     "ultima_reforma_raw": "DOF 14/11/2025",
     "pdf_sha256": "d7c97f38c1dfe7dbf0ac5eba162d5fedb51dd132975912cf6e84aee9a614f348",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ladua",
+    "ref_abbrev": "ladua",
+    "pdf_filename_origen": "LAdua.pdf",
+    "md_slug": "LAdua_ley_aduanera",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf",
+    "ultima_reforma_raw": "DOF 27/12/2025",
+    "pdf_sha256": "43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "laem",
+    "ref_abbrev": "laem",
+    "pdf_filename_origen": "LAEM.pdf",
+    "md_slug": "LAEM_ley_que_crea_la_agencia_espacial_mexicana",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "laero",
+    "ref_abbrev": "laero",
+    "pdf_filename_origen": "LAero.pdf",
+    "md_slug": "LAero_ley_de_aeropuertos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lagra",
+    "ref_abbrev": "lagra",
+    "pdf_filename_origen": "LAgra.pdf",
+    "md_slug": "LAgra_ley_agraria",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -210,33 +230,23 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "laam",
-    "ref_abbrev": "laam",
-    "pdf_filename_origen": "LAAM.pdf",
-    "md_slug": "LAAM_ley_de_ascensos_de_la_armada_de_mexico",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAM.pdf",
-    "ultima_reforma_raw": "DOF 17/12/2025",
-    "pdf_sha256": "e69669aaa047e12ed8da8c0bbf403393ebe0d5f66c5b42b92681df2c11d4e7e8",
+    "key": "lan",
+    "ref_abbrev": "lan",
+    "pdf_filename_origen": "LAN.pdf",
+    "md_slug": "LAN_ley_de_aguas_nacionales",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
+    "ultima_reforma_raw": "DOF 11/12/2025",
+    "pdf_sha256": "4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "larefam",
-    "ref_abbrev": "larefam",
-    "pdf_filename_origen": "LAREFAGN.pdf",
-    "md_slug": "LAREFAGN_ley_de_ascensos_y_recompensas_del_ejercito_fuerza_aerea_y_guardia_naci",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lasoc",
-    "ref_abbrev": "lasoc",
-    "pdf_filename_origen": "LASoc.pdf",
-    "md_slug": "LASoc_ley_de_asistencia_social",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228",
+    "key": "lansi",
+    "ref_abbrev": "lansi",
+    "pdf_filename_origen": "LANSI.pdf",
+    "md_slug": "LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
+    "ultima_reforma_raw": "DOF 11/05/2022",
+    "pdf_sha256": "0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -260,23 +270,33 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lac",
-    "ref_abbrev": "lac",
-    "pdf_filename_origen": "LAC.pdf",
-    "md_slug": "LAC_ley_de_aviacion_civil",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae",
+    "key": "larefam",
+    "ref_abbrev": "larefam",
+    "pdf_filename_origen": "LAREFAGN.pdf",
+    "md_slug": "LAREFAGN_ley_de_ascensos_y_recompensas_del_ejercito_fuerza_aerea_y_guardia_naci",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf",
+    "ultima_reforma_raw": "DOF 16/07/2025",
+    "pdf_sha256": "9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "laat",
-    "ref_abbrev": "laat",
-    "pdf_filename_origen": "LAAT.pdf",
-    "md_slug": "LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf",
+    "key": "lasoc",
+    "ref_abbrev": "lasoc",
+    "pdf_filename_origen": "LASoc.pdf",
+    "md_slug": "LASoc_ley_de_asistencia_social",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "latime",
+    "ref_abbrev": "latime",
+    "pdf_filename_origen": "271.pdf",
+    "md_slug": "LATIME_ley_sobre_la_aprobacion_de_tratados_internacionales_en_materia_economi",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb",
+    "pdf_sha256": "2f9532986cf47aef5de1f50af5e758333d65b7fdab15489bb0c41c36bcb60133",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -290,6 +310,16 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "lbm",
+    "ref_abbrev": "lbm",
+    "pdf_filename_origen": "74.pdf",
+    "md_slug": "LBM_ley_del_banco_de_mexico",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf",
+    "ultima_reforma_raw": "DOF 10/01/2014",
+    "pdf_sha256": "14b84c537ed334d20f50824a46a9ce7fbbe826058b139daf112ab4087f566f71",
+    "snapshot_date": "2026-06-23"
+  },
+  {
     "key": "lbogm",
     "ref_abbrev": "lbogm",
     "pdf_filename_origen": "LBOGM.pdf",
@@ -300,6 +330,66 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "lcaaa",
+    "ref_abbrev": "lcaaa",
+    "pdf_filename_origen": "23.pdf",
+    "md_slug": "LCA_ley_sobre_camaras_agricolas_que_en_lo_sucesivo_se_denominaran_asociaci",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
+    "ultima_reforma_raw": "DOF 09/04/2012",
+    "pdf_sha256": "e893cded29ecee9a0b5ad3c4c07a33b6be520db6a73f89e837a32235b6167c84",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcacsam",
+    "ref_abbrev": "lcacsam",
+    "pdf_filename_origen": "268.pdf",
+    "md_slug": "LC_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_de_la_armada_de",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf",
+    "ultima_reforma_raw": "DOF 12/06/2009",
+    "pdf_sha256": "e56b3fe80514e68891aee1c7ad316374b7b6d21ab2b8ce55c53b3ae83a535248",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcacsefam",
+    "ref_abbrev": "lcacsefam",
+    "pdf_filename_origen": "LCACSEFAM.pdf",
+    "md_slug": "LCACSEFAM_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_en_el_ejercito",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+    "ultima_reforma_raw": "DOF 03/05/2024",
+    "pdf_sha256": "93f2f807af3fd78f9e7ffcc4b1b544b2c7eecca463efcd7adaa16a0f8716049f",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lccaif",
+    "ref_abbrev": "lccaif",
+    "pdf_filename_origen": "LCCAIF.pdf",
+    "md_slug": "LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf",
+    "ultima_reforma_raw": "DOF 06/06/2025",
+    "pdf_sha256": "0cfd6d7820098b2fa0a6388cbf69fb010bc2816951a1c80c52245dadbecd4eda",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lccbid",
+    "ref_abbrev": "lccbid",
+    "pdf_filename_origen": "200_291214.pdf",
+    "md_slug": "LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/200_291214.pdf",
+    "ultima_reforma_raw": "DOF 29/12/2014",
+    "pdf_sha256": "acd6dc67820b7cb3bfa7f1f5f35f25b94d0531fdd24aa1165344cab0a5dabec7",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lce",
+    "ref_abbrev": "lce",
+    "pdf_filename_origen": "LCE.pdf",
+    "md_slug": "LCE_ley_de_comercio_exterior",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf",
+    "ultima_reforma_raw": "DOF 01/05/2026",
+    "pdf_sha256": "3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459",
+    "snapshot_date": "2026-06-25"
+  },
+  {
     "key": "lcec",
     "ref_abbrev": "lcec",
     "pdf_filename_origen": "LCEC_120419.pdf",
@@ -307,6 +397,106 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf",
     "ultima_reforma_raw": "DOF 12/04/2019",
     "pdf_sha256": "e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcf",
+    "ref_abbrev": "lcf",
+    "pdf_filename_origen": "LCF.pdf",
+    "md_slug": "LCF_ley_de_coordinacion_fiscal",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf",
+    "ultima_reforma_raw": "DOF 03/01/2024",
+    "pdf_sha256": "5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcid",
+    "ref_abbrev": "lcid",
+    "pdf_filename_origen": "LCID_061120.pdf",
+    "md_slug": "LCID_ley_de_cooperacion_internacional_para_el_desarrollo",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf",
+    "ultima_reforma_raw": "DOF 06/11/2020",
+    "pdf_sha256": "1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcjpjf",
+    "ref_abbrev": "lcjpjf",
+    "pdf_filename_origen": "LCJPJF.pdf",
+    "md_slug": "LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcm",
+    "ref_abbrev": "lcm",
+    "pdf_filename_origen": "LCM.pdf",
+    "md_slug": "LCM_ley_de_concursos_mercantiles",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf",
+    "ultima_reforma_raw": "DOF 16/01/2026 Sentencia SCJN",
+    "pdf_sha256": "8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcmm",
+    "ref_abbrev": "lcmm",
+    "pdf_filename_origen": "LCMM.pdf",
+    "md_slug": "LCMM_ley_de_la_casa_de_moneda_de_mexico",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf",
+    "ultima_reforma_raw": "DOF 11/05/2022",
+    "pdf_sha256": "873553817446789f00863e9cbc4a25bfbbf762cafa2dafd504577eb897796954",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcmopfih",
+    "ref_abbrev": "lcmopfih",
+    "pdf_filename_origen": "30.pdf",
+    "md_slug": "LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcnbv",
+    "ref_abbrev": "lcnbv",
+    "pdf_filename_origen": "LCNBV.pdf",
+    "md_slug": "LCNBV_ley_de_la_comision_nacional_bancaria_y_de_valores",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+    "ultima_reforma_raw": "DOF 11/05/2022",
+    "pdf_sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcndh",
+    "ref_abbrev": "lcndh",
+    "pdf_filename_origen": "LCNDH.pdf",
+    "md_slug": "LCNDH_ley_de_la_comision_nacional_de_los_derechos_humanos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcne",
+    "ref_abbrev": "lcne",
+    "pdf_filename_origen": "LCNE.pdf",
+    "md_slug": "LCNE_ley_de_la_comision_nacional_de_energia",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf",
+    "ultima_reforma_raw": "DOF 26/12/2025 Sentencia SCJN",
+    "pdf_sha256": "7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lcnp",
+    "ref_abbrev": "lcnp",
+    "pdf_filename_origen": "176_210618.pdf",
+    "md_slug": "LCNP_ley_para_conservar_la_neutralidad_del_pais",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf",
+    "ultima_reforma_raw": "DOF 21/06/2018",
+    "pdf_sha256": "b1de107a982a73c02c12c952586d16063c9fc51c8e1e29594924f24d0107395a",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -330,63 +520,83 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lcjpjf",
-    "ref_abbrev": "lcjpjf",
-    "pdf_filename_origen": "LCJPJF.pdf",
-    "md_slug": "LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf",
+    "key": "lcs",
+    "ref_abbrev": "lcs",
+    "pdf_filename_origen": "211.pdf",
+    "md_slug": "LCS_ley_sobre_el_contrato_de_seguro",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf",
+    "ultima_reforma_raw": "DOF 04/04/2013",
+    "pdf_sha256": "8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ldcmpme",
+    "ref_abbrev": "ldcmpme",
+    "pdf_filename_origen": "LDCMPME.pdf",
+    "md_slug": "LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
+    "ultima_reforma_raw": "DOF 20/10/2023",
+    "pdf_sha256": "4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ldcpdch",
+    "ref_abbrev": "ldcpdch",
+    "pdf_filename_origen": "177.pdf",
+    "md_slug": "LD_ley_para_el_dialogo_la_conciliacion_y_la_paz_digna_en_chiapas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f",
+    "pdf_sha256": "d36aec42a42e48e3d457225ab337f67df31be47f04fd896068aba67cf669883a",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lce",
-    "ref_abbrev": "lce",
-    "pdf_filename_origen": "28.pdf",
-    "md_slug": "LCE_ley_de_comercio_exterior",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/28.pdf",
-    "ultima_reforma_raw": "DOF 21/12/2006",
-    "pdf_sha256": "2e2bea278ef98d4b07ee64b4810b1adb0080be8c88ef305a059122a1a5be5923",
+    "key": "ldefam",
+    "ref_abbrev": "ldefam",
+    "pdf_filename_origen": "LDEFAGN.pdf",
+    "md_slug": "LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
+    "ultima_reforma_raw": "DOF 16/07/2025",
+    "pdf_sha256": "3fe9742a4b38b3270a7f873cd839755785ee83b7ee2217d00af68bd9d76c0e38",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lcm",
-    "ref_abbrev": "lcm",
-    "pdf_filename_origen": "LCM.pdf",
-    "md_slug": "LCM_ley_de_concursos_mercantiles",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf",
-    "ultima_reforma_raw": "DOF 16/01/2026 Sentencia SCJN",
-    "pdf_sha256": "8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a",
+    "key": "ldfefm",
+    "ref_abbrev": "ldfefm",
+    "pdf_filename_origen": "LDFEFM.pdf",
+    "md_slug": "LDFEFM_ley_de_disciplina_financiera_de_las_entidades_federativas_y_los_munici",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf",
+    "ultima_reforma_raw": "DOF 10/05/2022",
+    "pdf_sha256": "04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lcmopfih",
-    "ref_abbrev": "lcmopfih",
-    "pdf_filename_origen": "30.pdf",
-    "md_slug": "LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+    "key": "ldofgg",
+    "ref_abbrev": "ldofgg",
+    "pdf_filename_origen": "75_100619.pdf",
+    "md_slug": "LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf",
+    "ultima_reforma_raw": "DOF 10/06/2019",
+    "pdf_sha256": "2fc2a18634f230fef75fe9a4e16ab6e6d3c6e20c0b29aa5929bd839b475e16f3",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ldpam",
+    "ref_abbrev": "ldpam",
+    "pdf_filename_origen": "LDPAM.pdf",
+    "md_slug": "LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf",
+    "ultima_reforma_raw": "DOF 14/06/2024",
+    "pdf_sha256": "e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ldparm",
+    "ref_abbrev": "ldparm",
+    "pdf_filename_origen": "252.pdf",
+    "md_slug": "LDPAM_ley_de_disciplina_para_el_personal_de_la_armada_de_mexico",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lcid",
-    "ref_abbrev": "lcid",
-    "pdf_filename_origen": "LCID_061120.pdf",
-    "md_slug": "LCID_ley_de_cooperacion_internacional_para_el_desarrollo",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf",
-    "ultima_reforma_raw": "DOF 06/11/2020",
-    "pdf_sha256": "1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lcf",
-    "ref_abbrev": "lcf",
-    "pdf_filename_origen": "LCF.pdf",
-    "md_slug": "LCF_ley_de_coordinacion_fiscal",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf",
-    "ultima_reforma_raw": "DOF 03/01/2024",
-    "pdf_sha256": "5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4",
+    "pdf_sha256": "e3cb7668dc68cdc73e7597def326cf185c392a77c7c9674772134831f4659179",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -420,33 +630,43 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "ldefam",
-    "ref_abbrev": "ldefam",
-    "pdf_filename_origen": "LDEFAGN.pdf",
-    "md_slug": "LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "3fe9742a4b38b3270a7f873cd839755785ee83b7ee2217d00af68bd9d76c0e38",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ldfefm",
-    "ref_abbrev": "ldfefm",
-    "pdf_filename_origen": "LDFEFM.pdf",
-    "md_slug": "LDFEFM_ley_de_disciplina_financiera_de_las_entidades_federativas_y_los_munici",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf",
-    "ultima_reforma_raw": "DOF 10/05/2022",
-    "pdf_sha256": "04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ldparm",
-    "ref_abbrev": "ldparm",
-    "pdf_filename_origen": "252.pdf",
-    "md_slug": "LDPAM_ley_de_disciplina_para_el_personal_de_la_armada_de_mexico",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf",
+    "key": "ldvuma",
+    "ref_abbrev": "ldvuma",
+    "pdf_filename_origen": "LDVUMA_301216.pdf",
+    "md_slug": "LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "e3cb7668dc68cdc73e7597def326cf185c392a77c7c9674772134831f4659179",
+    "pdf_sha256": "44f65ae5f6367e9a510790e5b10730bd179df1f48b9703485548c0add7dbacc4",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lebhn",
+    "ref_abbrev": "lebhn",
+    "pdf_filename_origen": "LEBHN.pdf",
+    "md_slug": "LEBHN_ley_sobre_el_escudo_la_bandera_y_el_himno_nacionales",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf",
+    "ultima_reforma_raw": "DOF 21/07/2025",
+    "pdf_sha256": "e117a1f2c91d31d7c478c7cf823501fb07f58e52d62ac53fdb43c888d8d4ac78",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lec",
+    "ref_abbrev": "lec",
+    "pdf_filename_origen": "246.pdf",
+    "md_slug": "LEC_ley_de_energia_para_el_campo",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
+    "ultima_reforma_raw": "DOF 28/12/2012",
+    "pdf_sha256": "71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lei",
+    "ref_abbrev": "lei",
+    "pdf_filename_origen": "36_200521.pdf",
+    "md_slug": "LEI_ley_de_extradicion_internacional",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf",
+    "ultima_reforma_raw": "DOF 20/05/2021",
+    "pdf_sha256": "8fa795db61b78c3f09ea810793c1b7bc569c8d7fe48cf6a9fabc0fe414457ae5",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -470,236 +690,6 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lec",
-    "ref_abbrev": "lec",
-    "pdf_filename_origen": "246.pdf",
-    "md_slug": "LEC_ley_de_energia_para_el_campo",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
-    "ultima_reforma_raw": "DOF 28/12/2012",
-    "pdf_sha256": "71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lexp",
-    "ref_abbrev": "lexp",
-    "pdf_filename_origen": "35.pdf",
-    "md_slug": "LE_ley_de_expropiacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
-    "ultima_reforma_raw": "DOF 27/01/2012",
-    "pdf_sha256": "40f5c7459f53df7a14ee5aaf70cbb819f8808b14691a63dfd773e36a9f5dd1cb",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lei",
-    "ref_abbrev": "lei",
-    "pdf_filename_origen": "36_200521.pdf",
-    "md_slug": "LEI_ley_de_extradicion_internacional",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf",
-    "ultima_reforma_raw": "DOF 20/05/2021",
-    "pdf_sha256": "8fa795db61b78c3f09ea810793c1b7bc569c8d7fe48cf6a9fabc0fe414457ae5",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfea",
-    "ref_abbrev": "lfea",
-    "pdf_filename_origen": "LFEA.pdf",
-    "md_slug": "LFEA_ley_de_firma_electronica_avanzada",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfrcf",
-    "ref_abbrev": "lfrcf",
-    "pdf_filename_origen": "LFRCF_200521.pdf",
-    "md_slug": "LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF_200521.pdf",
-    "ultima_reforma_raw": "DOF 20/05/2021",
-    "pdf_sha256": "57622d4ce41bd45eebefdddaa11bbfe4b7e33f039c6e23948da5525078fd1a2a",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfcc",
-    "ref_abbrev": "lfcc",
-    "pdf_filename_origen": "LFCC_200120.pdf",
-    "md_slug": "LFCC_ley_de_fomento_a_la_confianza_ciudadana",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfiv",
-    "ref_abbrev": "lfiv",
-    "pdf_filename_origen": "LFIV_230518.pdf",
-    "md_slug": "LFIV_ley_de_fomento_a_la_industria_vitivinicola",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfll",
-    "ref_abbrev": "lfll",
-    "pdf_filename_origen": "LFLL.pdf",
-    "md_slug": "LFLL_ley_de_fomento_para_la_lectura_y_el_libro",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf",
-    "ultima_reforma_raw": "DOF 29/11/2023",
-    "pdf_sha256": "1e1d42f23bc87d8b6c3d094e5b49b4a1cf14cb984956590f7d0b708485fef3fd",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfaar",
-    "ref_abbrev": "lfaar",
-    "pdf_filename_origen": "LFAAR.pdf",
-    "md_slug": "LFAAR_ley_de_fondos_de_aseguramiento_agropecuario_y_rural",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfi",
-    "ref_abbrev": "lfi",
-    "pdf_filename_origen": "LFI.pdf",
-    "md_slug": "LFI_ley_de_fondos_de_inversion_antes_ley_de_sociedades_de_inversion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgeo",
-    "ref_abbrev": "lgeo",
-    "pdf_filename_origen": "LGeo.pdf",
-    "md_slug": "LGeo_ley_de_geotermia",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lical",
-    "ref_abbrev": "lical",
-    "pdf_filename_origen": "LICal_010720.pdf",
-    "md_slug": "LICal_ley_de_infraestructura_de_la_calidad",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lif",
-    "ref_abbrev": "lif_2026",
-    "pdf_filename_origen": "LIF_2026.pdf",
-    "md_slug": "LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lih",
-    "ref_abbrev": "lih",
-    "pdf_filename_origen": "LIH.pdf",
-    "md_slug": "LIH_ley_de_ingresos_sobre_hidrocarburos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf",
-    "ultima_reforma_raw": "DOF 28/12/2025",
-    "pdf_sha256": "8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lic",
-    "ref_abbrev": "lic",
-    "pdf_filename_origen": "LIC.pdf",
-    "md_slug": "LIC_ley_de_instituciones_de_credito",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lisf",
-    "ref_abbrev": "lisf",
-    "pdf_filename_origen": "LISF.pdf",
-    "md_slug": "LISF_ley_de_instituciones_de_seguros_y_de_fianzas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lie",
-    "ref_abbrev": "lie",
-    "pdf_filename_origen": "LIE.pdf",
-    "md_slug": "LIE_ley_de_inversion_extranjera",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
-    "ultima_reforma_raw": "DOF 27/05/2024",
-    "pdf_sha256": "14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lansi",
-    "ref_abbrev": "lansi",
-    "pdf_filename_origen": "LANSI.pdf",
-    "md_slug": "LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
-    "ultima_reforma_raw": "DOF 11/05/2022",
-    "pdf_sha256": "0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lcmm",
-    "ref_abbrev": "lcmm",
-    "pdf_filename_origen": "LCMM.pdf",
-    "md_slug": "LCMM_ley_de_la_casa_de_moneda_de_mexico",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf",
-    "ultima_reforma_raw": "DOF 11/05/2022",
-    "pdf_sha256": "873553817446789f00863e9cbc4a25bfbbf762cafa2dafd504577eb897796954",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lcnbv",
-    "ref_abbrev": "lcnbv",
-    "pdf_filename_origen": "LCNBV.pdf",
-    "md_slug": "LCNBV_ley_de_la_comision_nacional_bancaria_y_de_valores",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
-    "ultima_reforma_raw": "DOF 11/05/2022",
-    "pdf_sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lcne",
-    "ref_abbrev": "lcne",
-    "pdf_filename_origen": "LCNE.pdf",
-    "md_slug": "LCNE_ley_de_la_comision_nacional_de_energia",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf",
-    "ultima_reforma_raw": "DOF 26/12/2025 Sentencia SCJN",
-    "pdf_sha256": "7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lcndh",
-    "ref_abbrev": "lcndh",
-    "pdf_filename_origen": "LCNDH.pdf",
-    "md_slug": "LCNDH_ley_de_la_comision_nacional_de_los_derechos_humanos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "less",
-    "ref_abbrev": "less",
-    "pdf_filename_origen": "LESS.pdf",
-    "md_slug": "LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
-    "ultima_reforma_raw": "DOF 16/04/2025",
-    "pdf_sha256": "74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb",
-    "snapshot_date": "2026-06-23"
-  },
-  {
     "key": "lepecfe",
     "ref_abbrev": "lepecfe",
     "pdf_filename_origen": "LEPECFE.pdf",
@@ -720,633 +710,43 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lfgr",
-    "ref_abbrev": "lfgr",
-    "pdf_filename_origen": "LFGR.pdf",
-    "md_slug": "LFGR_ley_de_la_fiscalia_general_de_la_republica",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf",
+    "key": "less",
+    "ref_abbrev": "less",
+    "pdf_filename_origen": "LESS.pdf",
+    "md_slug": "LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
+    "ultima_reforma_raw": "DOF 16/04/2025",
+    "pdf_sha256": "74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lexp",
+    "ref_abbrev": "lexp",
+    "pdf_filename_origen": "35.pdf",
+    "md_slug": "LE_ley_de_expropiacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
+    "ultima_reforma_raw": "DOF 27/01/2012",
+    "pdf_sha256": "40f5c7459f53df7a14ee5aaf70cbb819f8808b14691a63dfd773e36a9f5dd1cb",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfaar",
+    "ref_abbrev": "lfaar",
+    "pdf_filename_origen": "LFAAR.pdf",
+    "md_slug": "LFAAR_ley_de_fondos_de_aseguramiento_agropecuario_y_rural",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf",
     "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1",
+    "pdf_sha256": "c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgn",
-    "ref_abbrev": "lgn",
-    "pdf_filename_origen": "LGN.pdf",
-    "md_slug": "LGN_ley_de_la_guardia_nacional",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lpf",
-    "ref_abbrev": "lpf",
-    "pdf_filename_origen": "LPF.pdf",
-    "md_slug": "LPF_ley_de_la_policia_federal",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ldpam",
-    "ref_abbrev": "ldpam",
-    "pdf_filename_origen": "LDPAM.pdf",
-    "md_slug": "LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf",
-    "ultima_reforma_raw": "DOF 14/06/2024",
-    "pdf_sha256": "e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lhheum",
-    "ref_abbrev": "lhheum",
-    "pdf_filename_origen": "LHHEUM.pdf",
-    "md_slug": "LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
-    "ultima_reforma_raw": "DOF 29/11/2022",
-    "pdf_sha256": "ee7dcf952a44974e79227e9b8b8752899672827c1adfcabedc0739ceca51e49e",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ligie",
-    "ref_abbrev": "ligie_2022",
-    "pdf_filename_origen": "LIGIE_2022.pdf",
-    "md_slug": "LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
-    "ultima_reforma_raw": "DOF 31/12/2025",
-    "pdf_sha256": "b58bfe99716c592146f64f983fee882a2780fc03d0aaf6f31205dfb692aebd2b",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lins",
-    "ref_abbrev": "lins",
-    "pdf_filename_origen": "LINS.pdf",
-    "md_slug": "LINS_ley_de_los_institutos_nacionales_de_salud",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf",
-    "ultima_reforma_raw": "DOF 11/05/2022",
-    "pdf_sha256": "40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsar",
-    "ref_abbrev": "lsar",
-    "pdf_filename_origen": "LSAR.pdf",
-    "md_slug": "LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lmigra",
-    "ref_abbrev": "lmigra",
-    "pdf_filename_origen": "LMigra.pdf",
-    "md_slug": "LMigra_ley_de_migracion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lmin",
-    "ref_abbrev": "lmin",
-    "pdf_filename_origen": "LMin.pdf",
-    "md_slug": "LMin_ley_de_mineria_antes_ley_minera",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf",
-    "ultima_reforma_raw": "DOF 08/05/2023",
-    "pdf_sha256": "22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lnac",
-    "ref_abbrev": "lnac",
-    "pdf_filename_origen": "53.pdf",
-    "md_slug": "LN_ley_de_nacionalidad",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
-    "ultima_reforma_raw": "DOF 23/04/2012",
-    "pdf_sha256": "0d1600be2162e00dfec7505d7ce4c23ec2e29f43e298bc94e7301146eead38f7",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lncm",
-    "ref_abbrev": "lncm",
-    "pdf_filename_origen": "LNCM.pdf",
-    "md_slug": "LNCM_ley_de_navegacion_y_comercio_maritimos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lopsrm",
-    "ref_abbrev": "lopsrm",
-    "pdf_filename_origen": "LOPSRM.pdf",
-    "md_slug": "LOPSRM_ley_de_obras_publicas_y_servicios_relacionados_con_las_mismas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "log",
-    "ref_abbrev": "log",
-    "pdf_filename_origen": "57.pdf",
-    "md_slug": "LOG_ley_de_organizaciones_ganaderas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf",
-    "ultima_reforma_raw": "DOF 09/04/2012",
-    "pdf_sha256": "35e6323676758412d100ff5b3725985ebb07af19c74e1657f9e15151f3b21d8f",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lplan",
-    "ref_abbrev": "lplan",
-    "pdf_filename_origen": "LPlan.pdf",
-    "md_slug": "LPlan_ley_de_planeacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "5a909996d6ef791fa377611c040a212dcf838cbf54ba16a7d7d0baaa57ac9962",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lpte",
-    "ref_abbrev": "lpte",
-    "pdf_filename_origen": "LPTE.pdf",
-    "md_slug": "LPTE_ley_de_planeacion_y_transicion_energetica",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lperc",
-    "ref_abbrev": "lperc",
-    "pdf_filename_origen": "LPERC.pdf",
-    "md_slug": "LPERC_ley_de_premios_estimulos_y_recompensas_civiles",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "6916ade44cdc7b0820565cdc6225c6514b4b1131b1d08c70cf2abb190998f192",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lpo",
-    "ref_abbrev": "lpo",
-    "pdf_filename_origen": "LPO.pdf",
-    "md_slug": "LPO_ley_de_productos_organicos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lpab",
-    "ref_abbrev": "lpab",
-    "pdf_filename_origen": "LPAB.pdf",
-    "md_slug": "LPAB_ley_de_proteccion_al_ahorro_bancario",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf",
-    "ultima_reforma_raw": "DOF 11/05/2022",
-    "pdf_sha256": "40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lpcinecdi",
-    "ref_abbrev": "lpcinecdi",
-    "pdf_filename_origen": "63.pdf",
-    "md_slug": "LPCINECD_ley_de_proteccion_al_comercio_y_la_inversion_de_normas_extranjeras_que",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf",
-    "ultima_reforma_raw": "DOF 09/04/2012",
-    "pdf_sha256": "e969fde67d7c5adc1c78322e3309fe5a5ecc245489ce3ec259f16063eea0c1db",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lpeam",
-    "ref_abbrev": "lpeam",
-    "pdf_filename_origen": "LPEAM.pdf",
-    "md_slug": "LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lpdusf",
-    "ref_abbrev": "lpdusf",
-    "pdf_filename_origen": "LPDUSF.pdf",
-    "md_slug": "LPDUSF_ley_de_proteccion_y_defensa_al_usuario_de_servicios_financieros",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lpue",
-    "ref_abbrev": "lpue",
-    "pdf_filename_origen": "65_071220.pdf",
-    "md_slug": "LP_ley_de_puertos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf",
-    "ultima_reforma_raw": "DOF 07/12/2020",
-    "pdf_sha256": "36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lram",
-    "ref_abbrev": "lram",
-    "pdf_filename_origen": "LRAM.pdf",
-    "md_slug": "LRAM_ley_de_recompensas_de_la_armada_de_mexico",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf",
-    "ultima_reforma_raw": "DOF 22/11/2021",
-    "pdf_sha256": "d0b2beb3d2e66847880d4c4270b4af4df1db63b22d6e5ac93883eca832652d6c",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrcdn",
-    "ref_abbrev": "lrcdn",
-    "pdf_filename_origen": "LRCDN.pdf",
-    "md_slug": "LRCDN_ley_de_responsabilidad_civil_por_danos_nucleares",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "d505184709bf8fd04c4d24b188d1fa19f86acac51b462c6c4fb63482588ec40e",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsint",
-    "ref_abbrev": "lsint",
-    "pdf_filename_origen": "LSInt_300519.pdf",
-    "md_slug": "LSInt_ley_de_seguridad_interior",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf",
-    "ultima_reforma_raw": "DOF 30/05/2019 Sentencia SCJN",
-    "pdf_sha256": "d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsn",
-    "ref_abbrev": "lsn",
-    "pdf_filename_origen": "LSN.pdf",
-    "md_slug": "LSN_ley_de_seguridad_nacional",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsp",
-    "ref_abbrev": "lsp",
-    "pdf_filename_origen": "LSP.pdf",
-    "md_slug": "LSP_ley_de_sistemas_de_pagos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "43eeef86db897e9d52872f6d4cf2d1b8168936e0b0ce8486e24aa9f9b8b87508",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsrlip",
-    "ref_abbrev": "lsrlip",
-    "pdf_filename_origen": "70.pdf",
-    "md_slug": "LSRLIP_ley_de_sociedades_de_responsabilidad_limitada_de_interes_publico",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf",
-    "ultima_reforma_raw": "DOF 09/04/2012",
-    "pdf_sha256": "18a1d80243cd419c3ffc7173cf90b8509ab8d78b4b5f64de97025fb51a170613",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsss",
-    "ref_abbrev": "lsss",
-    "pdf_filename_origen": "71_240418.pdf",
-    "md_slug": "LSSS_ley_de_sociedades_de_solidaridad_social",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf",
-    "ultima_reforma_raw": "DOF 24/04/2018",
-    "pdf_sha256": "4618876b444def89a7cb2464b71019e0119288ebe6695d90b6a82ae8289b937e",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ltf",
-    "ref_abbrev": "ltf",
-    "pdf_filename_origen": "LTF.pdf",
-    "md_slug": "LTF_ley_de_tesoreria_de_la_federacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "ef712663724737ddfd8542c8104eeb983303f651b7cf8a76bba9d30539a7e6fa",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ltfccg",
-    "ref_abbrev": "ltfccg",
-    "pdf_filename_origen": "256.pdf",
-    "md_slug": "LTFCCG_ley_de_transparencia_y_de_fomento_a_la_competencia_en_el_credito_garan",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf",
-    "ultima_reforma_raw": "DOF 10/01/2014",
-    "pdf_sha256": "1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "luc",
-    "ref_abbrev": "luc",
-    "pdf_filename_origen": "LUC.pdf",
-    "md_slug": "LUC_ley_de_uniones_de_credito",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lvzmm",
-    "ref_abbrev": "lvzmm",
-    "pdf_filename_origen": "LVZMM.pdf",
-    "md_slug": "LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lvgc",
-    "ref_abbrev": "lvgc",
-    "pdf_filename_origen": "LVGC.pdf",
-    "md_slug": "LVGC_ley_de_vias_generales_de_comunicacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "a4becbaa8039573e226e916618697661f1294aa26dac434a01144ba65b13699e",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lviv",
-    "ref_abbrev": "lviv",
-    "pdf_filename_origen": "LViv.pdf",
-    "md_slug": "LViv_ley_de_vivienda",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "03633d7ecf1c2f762ba86c3f3b670b71a445e7ef5206aaa931397c3f327f2ba6",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lbm",
-    "ref_abbrev": "lbm",
-    "pdf_filename_origen": "74.pdf",
-    "md_slug": "LBM_ley_del_banco_de_mexico",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf",
-    "ultima_reforma_raw": "DOF 10/01/2014",
-    "pdf_sha256": "14b84c537ed334d20f50824a46a9ce7fbbe826058b139daf112ab4087f566f71",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ldofgg",
-    "ref_abbrev": "ldofgg",
-    "pdf_filename_origen": "75_100619.pdf",
-    "md_slug": "LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf",
-    "ultima_reforma_raw": "DOF 10/06/2019",
-    "pdf_sha256": "2fc2a18634f230fef75fe9a4e16ab6e6d3c6e20c0b29aa5929bd839b475e16f3",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfmped",
-    "ref_abbrev": "lfmped",
-    "pdf_filename_origen": "LFMPED.pdf",
-    "md_slug": "LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf",
-    "ultima_reforma_raw": "DOF 18/03/2025",
-    "pdf_sha256": "1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "liva",
-    "ref_abbrev": "liva",
-    "pdf_filename_origen": "LIVA.pdf",
-    "md_slug": "LIVA_ley_del_impuesto_al_valor_agregado",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
-    "ultima_reforma_raw": "DOF 12/11/2021",
-    "pdf_sha256": "f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lieps",
-    "ref_abbrev": "lieps",
-    "pdf_filename_origen": "LIEPS.pdf",
-    "md_slug": "LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf",
-    "ultima_reforma_raw": "DOF 22/12/2025",
-    "pdf_sha256": "32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lisr",
-    "ref_abbrev": "lisr",
-    "pdf_filename_origen": "LISR.pdf",
-    "md_slug": "LISR_ley_del_impuesto_sobre_la_renta",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lissfam",
-    "ref_abbrev": "lissfam",
-    "pdf_filename_origen": "LISSFAM.pdf",
-    "md_slug": "LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf",
-    "ultima_reforma_raw": "Notificación 15/01/2026 Sentencia SCJN",
-    "pdf_sha256": "35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lissste",
-    "ref_abbrev": "lissste",
-    "pdf_filename_origen": "LISSSTE.pdf",
-    "md_slug": "LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lifnvt",
-    "ref_abbrev": "lifnvt",
-    "pdf_filename_origen": "LIFNVT.pdf",
-    "md_slug": "LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf",
-    "ultima_reforma_raw": "DOF 21/02/2025",
-    "pdf_sha256": "9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lifnct",
-    "ref_abbrev": "lifnct",
-    "pdf_filename_origen": "LIFNCT.pdf",
-    "md_slug": "LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf",
-    "ultima_reforma_raw": "DOF 03/01/2024",
-    "pdf_sha256": "78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "limj",
-    "ref_abbrev": "limj",
-    "pdf_filename_origen": "LIMJ.pdf",
-    "md_slug": "LIMJ_ley_del_instituto_mexicano_de_la_juventud",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "326dc072878ee5db7b8e588c3abf36a993d286beadaf90c19c6bf88732d95db5",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "linpi",
-    "ref_abbrev": "linpi",
-    "pdf_filename_origen": "LINPI.pdf",
-    "md_slug": "LINPI_ley_del_instituto_nacional_de_los_pueblos_indigenas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf",
-    "ultima_reforma_raw": "DOF 29/12/2023",
-    "pdf_sha256": "f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lmv",
-    "ref_abbrev": "lmv",
-    "pdf_filename_origen": "LMV.pdf",
-    "md_slug": "LMV_ley_del_mercado_de_valores",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrpv",
-    "ref_abbrev": "lrpv",
-    "pdf_filename_origen": "269_200521.pdf",
-    "md_slug": "LRPV_ley_del_registro_publico_vehicular",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf",
-    "ultima_reforma_raw": "DOF 20/05/2021",
-    "pdf_sha256": "0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lse",
-    "ref_abbrev": "lse",
-    "pdf_filename_origen": "LSE.pdf",
-    "md_slug": "LSE_ley_del_sector_electrico",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsh",
-    "ref_abbrev": "lsh",
-    "pdf_filename_origen": "LSH.pdf",
-    "md_slug": "LSH_ley_del_sector_hidrocarburos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lss",
-    "ref_abbrev": "lss",
-    "pdf_filename_origen": "LSS.pdf",
-    "md_slug": "LSS_ley_del_seguro_social",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsat",
-    "ref_abbrev": "lsat",
-    "pdf_filename_origen": "93_041218.pdf",
-    "md_slug": "LSAT_ley_del_servicio_de_administracion_tributaria",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf",
-    "ultima_reforma_raw": "DOF 04/12/2018",
-    "pdf_sha256": "ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsem",
-    "ref_abbrev": "lsem",
-    "pdf_filename_origen": "96_190418.pdf",
-    "md_slug": "LSEM_ley_del_servicio_exterior_mexicano",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf",
-    "ultima_reforma_raw": "DOF 19/04/2018",
-    "pdf_sha256": "012a7b3a18d987229f48c98a36b9b9cf91f5227b5e888ff09f535fd609e31c21",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsm",
-    "ref_abbrev": "lsm",
-    "pdf_filename_origen": "LSM.pdf",
-    "md_slug": "LSM_ley_del_servicio_militar",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf",
-    "ultima_reforma_raw": "DOF 18/05/2022",
-    "pdf_sha256": "09cfa3f2c0feead6685bda1dd439f07db0a0d105acc1ef0e6669cf0df82ce3f0",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lspm",
-    "ref_abbrev": "lspm",
-    "pdf_filename_origen": "LSPM.pdf",
-    "md_slug": "LSPM_ley_del_servicio_postal_mexicano",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf",
-    "ultima_reforma_raw": "DOF 19/01/2023",
-    "pdf_sha256": "f8a66009368493d0c964c21f4cb165c39d5bb3b1236058511547f9c3cca6e5cc",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lspcapf",
-    "ref_abbrev": "lspcapf",
-    "pdf_filename_origen": "260.pdf",
-    "md_slug": "LSPCAPF_ley_del_servicio_profesional_de_carrera_en_la_administracion_publica_f",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf",
-    "ultima_reforma_raw": "DOF 09/01/2006",
-    "pdf_sha256": "d0e88848d94fbf70ee742e9e57a5ee9c34e060b21215f2c7f98a02e1f307e424",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsnieg",
-    "ref_abbrev": "lsnieg",
-    "pdf_filename_origen": "LSNIEG.pdf",
-    "md_slug": "LSNIEG_ley_del_sistema_nacional_de_informacion_estadistica_y_geografica",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsniimsp",
-    "ref_abbrev": "lsniimsp",
-    "pdf_filename_origen": "LSNIIMSP.pdf",
-    "md_slug": "LSNIIMSP_ley_del_sistema_nacional_de_investigacion_e_inteligencia_en_materia_de",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lsprem",
-    "ref_abbrev": "lsprem",
-    "pdf_filename_origen": "LSPREM.pdf",
-    "md_slug": "LSPREM_ley_del_sistema_publico_de_radiodifusion_del_estado_mexicano",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lmtr",
-    "ref_abbrev": "lmtr",
-    "pdf_filename_origen": "LMTR.pdf",
-    "md_slug": "LMTR_ley_en_materia_de_telecomunicaciones_y_radiodifusion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfcdo",
-    "ref_abbrev": "lfcdo",
-    "pdf_filename_origen": "LFCDO.pdf",
-    "md_slug": "LFCDO_ley_federal_contra_la_delincuencia_organizada",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf",
-    "ultima_reforma_raw": "DOF 28/11/2025",
-    "pdf_sha256": "6f9b44bd6bc8c19aad3747e9198f2c5543b0415afa4a3cd63b4bd995091932ad",
+    "key": "lfaebsp",
+    "ref_abbrev": "lfaebsp",
+    "pdf_filename_origen": "LFAEBSP.pdf",
+    "md_slug": "LFAEBSP_ley_federal_para_la_administracion_y_enajenacion_de_bienes_del_sector",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf",
+    "ultima_reforma_raw": "DOF 30/04/2024",
+    "pdf_sha256": "269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -1380,6 +780,36 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "lfca",
+    "ref_abbrev": "lfca",
+    "pdf_filename_origen": "LFCA.pdf",
+    "md_slug": "LFCA_ley_federal_de_cine_y_el_audiovisual",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCA.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lfcc",
+    "ref_abbrev": "lfcc",
+    "pdf_filename_origen": "LFCC_200120.pdf",
+    "md_slug": "LFCC_ley_de_fomento_a_la_confianza_ciudadana",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfcdo",
+    "ref_abbrev": "lfcdo",
+    "pdf_filename_origen": "LFCDO.pdf",
+    "md_slug": "LFCDO_ley_federal_contra_la_delincuencia_organizada",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf",
+    "ultima_reforma_raw": "DOF 28/11/2025",
+    "pdf_sha256": "6f9b44bd6bc8c19aad3747e9198f2c5543b0415afa4a3cd63b4bd995091932ad",
+    "snapshot_date": "2026-06-23"
+  },
+  {
     "key": "lfce",
     "ref_abbrev": "lfce",
     "pdf_filename_origen": "LFCE.pdf",
@@ -1387,16 +817,6 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf",
     "ultima_reforma_raw": "DOF 14/11/2025",
     "pdf_sha256": "d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfcpo",
-    "ref_abbrev": "lfcpo",
-    "pdf_filename_origen": "LFCPo_190521.pdf",
-    "md_slug": "LFCPo_ley_federal_de_consulta_popular",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf",
-    "ultima_reforma_raw": "DOF 19/05/2021",
-    "pdf_sha256": "f4b823e5581b0e3e9737fe4d96171be41941bd7cc512ca0cfaf186047c0a05c2",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -1410,313 +830,13 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lfdeapd",
-    "ref_abbrev": "lfdeapd",
-    "pdf_filename_origen": "LFDEAPD.pdf",
-    "md_slug": "LFDEAPD_ley_federal_de_declaracion_especial_de_ausencia_para_personas_desapare",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfdefp",
-    "ref_abbrev": "lfdefp",
-    "pdf_filename_origen": "LFDefP.pdf",
-    "md_slug": "LFDefP_ley_federal_de_defensoria_publica",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "603475aa11e46fa2fcf3b7e1c1ec111d4202070c309d1b355b834f011c226262",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfd",
-    "ref_abbrev": "lfd",
-    "pdf_filename_origen": "LFD.pdf",
-    "md_slug": "LFD_ley_federal_de_derechos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
-    "ultima_reforma_raw": "DOF 28/12/2025",
-    "pdf_sha256": "64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgdp",
-    "ref_abbrev": "lgdp",
-    "pdf_filename_origen": "136_300118.pdf",
-    "md_slug": "LFDP_ley_federal_de_deuda_publica_antes_ley_general_de_deuda_publica",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf",
-    "ultima_reforma_raw": "DOF 30/01/2018",
-    "pdf_sha256": "be4e1666f8a8b3dfdcbbc047aed6542b4982972d1297e2e04dee839e30cc0ce1",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lffaosc",
-    "ref_abbrev": "lffaosc",
-    "pdf_filename_origen": "LFFAOSC.pdf",
-    "md_slug": "LFFAOSC_ley_federal_de_fomento_a_las_actividades_realizadas_por_organizaciones",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "aee10d32a2a05da5520a51f1e5635befbec52622e71d4f4e7f618f953bb98d09",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfjs",
-    "ref_abbrev": "lfjs",
-    "pdf_filename_origen": "109.pdf",
-    "md_slug": "LFJS_ley_federal_de_juegos_y_sorteos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "5ae2f5245fba7e584da7b7912f7a25342b8af171b291f52befe753a9139ac277",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfep",
-    "ref_abbrev": "lfep",
-    "pdf_filename_origen": "LFEP.pdf",
-    "md_slug": "LFEP_ley_federal_de_las_entidades_paraestatales",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "c0f203a9c6ebb990db8a2a43559ecf19e904f7c0757d0f334f7f4fb044aa6a12",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfdc",
-    "ref_abbrev": "lfdc",
-    "pdf_filename_origen": "LFDC.pdf",
-    "md_slug": "LFDC_ley_federal_de_los_derechos_del_contribuyente",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "70f871ee9f8791063f9da9df9eab93b68efc1f2878f8024299bb5cd93b238658",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lftse",
-    "ref_abbrev": "lftse",
-    "pdf_filename_origen": "LFTSE.pdf",
-    "md_slug": "LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfprh",
-    "ref_abbrev": "lfprh",
-    "pdf_filename_origen": "LFPRH.pdf",
-    "md_slug": "LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "29ceff3b3d7c593f7f4d5e2ac16eda3cf9a6246ebad506f3ed41b02647fff7bb",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfpa",
-    "ref_abbrev": "lfpa",
-    "pdf_filename_origen": "LFPA.pdf",
-    "md_slug": "LFPA_ley_federal_de_procedimiento_administrativo",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "a8b8019ba04a815ff0b146856625b2342e4366067e763ae5140dee7245212861",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfpca",
-    "ref_abbrev": "lfpca",
-    "pdf_filename_origen": "LFPCA.pdf",
-    "md_slug": "LFPCA_ley_federal_de_procedimiento_contencioso_administrativo",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "c99ea8ee22f1988c309d700f74532efdcd790f82cd3d6128a42a2f97ec2c4710",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfpccs",
-    "ref_abbrev": "lfpccs",
-    "pdf_filename_origen": "LFPCCS_110518.pdf",
-    "md_slug": "LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf",
-    "ultima_reforma_raw": "DOF 11/05/2018",
-    "pdf_sha256": "ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfppi",
-    "ref_abbrev": "lfppi",
-    "pdf_filename_origen": "LFPPI.pdf",
-    "md_slug": "LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "71259aa9333da7debab398009eb8a9869be9b0108b4072590299761000efe70a",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfpc",
-    "ref_abbrev": "lfpc",
-    "pdf_filename_origen": "LFPC.pdf",
-    "md_slug": "LFPC_ley_federal_de_proteccion_al_consumidor",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
-    "ultima_reforma_raw": "DOF 23/12/2025",
-    "pdf_sha256": "7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfpdppp",
-    "ref_abbrev": "lfpdppp",
-    "pdf_filename_origen": "LFPDPPP.pdf",
-    "md_slug": "LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfppcpcia",
-    "ref_abbrev": "lfppcpcia",
-    "pdf_filename_origen": "LFPPCPCIA.pdf",
-    "md_slug": "LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfremsp",
-    "ref_abbrev": "lfremsp",
-    "pdf_filename_origen": "LFRemSP_190521.pdf",
-    "md_slug": "LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "1ae9c606fad4de72ca0d2379696b39adb17826fbb112f1ae46c9acb952fa7a5d",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfra",
-    "ref_abbrev": "lfra",
-    "pdf_filename_origen": "LFRA.pdf",
-    "md_slug": "LFRA_ley_federal_de_responsabilidad_ambiental",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfrpe",
-    "ref_abbrev": "lfrpe",
-    "pdf_filename_origen": "LFRPE.pdf",
-    "md_slug": "LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
-    "ultima_reforma_raw": "DOF 29/12/2023",
-    "pdf_sha256": "05390b6c1389b13c8004675b51e5da49bbdbba01c352e844ec1ccaf9b5abf1da",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfrsp",
-    "ref_abbrev": "lfrsp",
-    "pdf_filename_origen": "LFRSP.pdf",
-    "md_slug": "LFRSP_ley_federal_de_responsabilidades_de_los_servidores_publicos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "b377014351dbf3e21a9a031fa24fb97658db1d78f6d44d7b20efa1840d49d599",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfrm",
-    "ref_abbrev": "lfrm",
-    "pdf_filename_origen": "LFRM.pdf",
-    "md_slug": "LFRM_ley_federal_de_revocacion_de_mandato",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf",
-    "ultima_reforma_raw": "DOF 26/09/2022 Sentencia SCJN",
-    "pdf_sha256": "eddfcf458c46cacee55392a138412b0d014bcc306c455d92ed94250efce4904c",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfsa",
-    "ref_abbrev": "lfsa",
-    "pdf_filename_origen": "LFSA.pdf",
-    "md_slug": "LFSA_ley_federal_de_sanidad_animal",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf",
-    "ultima_reforma_raw": "DOF 21/05/2024",
-    "pdf_sha256": "199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfsv",
-    "ref_abbrev": "lfsv",
-    "pdf_filename_origen": "LFSV.pdf",
-    "md_slug": "LFSV_ley_federal_de_sanidad_vegetal",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf",
-    "ultima_reforma_raw": "DOF 11/05/2022",
-    "pdf_sha256": "ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfsp",
-    "ref_abbrev": "lfsp",
-    "pdf_filename_origen": "LFSP.pdf",
-    "md_slug": "LFSP_ley_federal_de_seguridad_privada",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf",
-    "ultima_reforma_raw": "DOF 17/10/2011",
-    "pdf_sha256": "08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfvv",
-    "ref_abbrev": "lfvv",
-    "pdf_filename_origen": "LFVV.pdf",
-    "md_slug": "LFVV_ley_federal_de_variedades_vegetales",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf",
-    "ultima_reforma_raw": "DOF 11/05/2022",
-    "pdf_sha256": "9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfzee",
-    "ref_abbrev": "lfzee",
-    "pdf_filename_origen": "LFZEE.pdf",
-    "md_slug": "LFZEE_ley_federal_de_zonas_economicas_especiales",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfda",
-    "ref_abbrev": "lfda",
-    "pdf_filename_origen": "LFDA.pdf",
-    "md_slug": "LFDA_ley_federal_del_derecho_de_autor",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "86b5bb5b29665ccd9341abe6d6fc7db8f4ca88d196bc5cf8d2990c0f7b8b90c8",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfisan",
-    "ref_abbrev": "lfisan",
-    "pdf_filename_origen": "LFISAN.pdf",
-    "md_slug": "LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf",
-    "ultima_reforma_raw": "DOF 28/12/2025",
-    "pdf_sha256": "ef658aa6a3b15e99a4d19edaa6713598a37523f4179ae69a4462bcb8ca870eb1",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfm",
-    "ref_abbrev": "lfm",
-    "pdf_filename_origen": "124.pdf",
-    "md_slug": "LFM_ley_federal_del_mar",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "8d9eac4d6509cf79f1755895a3e93d6268d423ab101ab08c6fd734f55a5a7818",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lft",
-    "ref_abbrev": "lft",
-    "pdf_filename_origen": "LFT.pdf",
-    "md_slug": "LFT_ley_federal_del_trabajo",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "46cf7a7bd854c261545cc4a3e57c57e52f6ddd8fb06260af1628a26fa44f8ed3",
+    "key": "lfcpo",
+    "ref_abbrev": "lfcpo",
+    "pdf_filename_origen": "LFCPo_190521.pdf",
+    "md_slug": "LFCPo_ley_federal_de_consulta_popular",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf",
+    "ultima_reforma_raw": "DOF 19/05/2021",
+    "pdf_sha256": "f4b823e5581b0e3e9737fe4d96171be41941bd7cc512ca0cfaf186047c0a05c2",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -1740,6 +860,86 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "lfd",
+    "ref_abbrev": "lfd",
+    "pdf_filename_origen": "LFD.pdf",
+    "md_slug": "LFD_ley_federal_de_derechos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+    "ultima_reforma_raw": "DOF 28/12/2025",
+    "pdf_sha256": "64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfda",
+    "ref_abbrev": "lfda",
+    "pdf_filename_origen": "LFDA.pdf",
+    "md_slug": "LFDA_ley_federal_del_derecho_de_autor",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+    "ultima_reforma_raw": "DOF 14/05/2026",
+    "pdf_sha256": "1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lfdc",
+    "ref_abbrev": "lfdc",
+    "pdf_filename_origen": "LFDC.pdf",
+    "md_slug": "LFDC_ley_federal_de_los_derechos_del_contribuyente",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "70f871ee9f8791063f9da9df9eab93b68efc1f2878f8024299bb5cd93b238658",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfdeapd",
+    "ref_abbrev": "lfdeapd",
+    "pdf_filename_origen": "LFDEAPD.pdf",
+    "md_slug": "LFDEAPD_ley_federal_de_declaracion_especial_de_ausencia_para_personas_desapare",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfdefp",
+    "ref_abbrev": "lfdefp",
+    "pdf_filename_origen": "LFDefP.pdf",
+    "md_slug": "LFDefP_ley_federal_de_defensoria_publica",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "603475aa11e46fa2fcf3b7e1c1ec111d4202070c309d1b355b834f011c226262",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfea",
+    "ref_abbrev": "lfea",
+    "pdf_filename_origen": "LFEA.pdf",
+    "md_slug": "LFEA_ley_de_firma_electronica_avanzada",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfep",
+    "ref_abbrev": "lfep",
+    "pdf_filename_origen": "LFEP.pdf",
+    "md_slug": "LFEP_ley_federal_de_las_entidades_paraestatales",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf",
+    "ultima_reforma_raw": "DOF 16/07/2025",
+    "pdf_sha256": "c0f203a9c6ebb990db8a2a43559ecf19e904f7c0757d0f334f7f4fb044aa6a12",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lffaosc",
+    "ref_abbrev": "lffaosc",
+    "pdf_filename_origen": "LFFAOSC.pdf",
+    "md_slug": "LFFAOSC_ley_federal_de_fomento_a_las_actividades_realizadas_por_organizaciones",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "aee10d32a2a05da5520a51f1e5635befbec52622e71d4f4e7f618f953bb98d09",
+    "snapshot_date": "2026-06-23"
+  },
+  {
     "key": "lffmaa",
     "ref_abbrev": "lffmaa",
     "pdf_filename_origen": "LFFMAA.pdf",
@@ -1760,53 +960,103 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lfaebsp",
-    "ref_abbrev": "lfaebsp",
-    "pdf_filename_origen": "LFAEBSP.pdf",
-    "md_slug": "LFAEBSP_ley_federal_para_la_administracion_y_enajenacion_de_bienes_del_sector",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf",
-    "ultima_reforma_raw": "DOF 30/04/2024",
-    "pdf_sha256": "269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059",
+    "key": "lfgfaga",
+    "ref_abbrev": "lfgfaga",
+    "pdf_filename_origen": "192.pdf",
+    "md_slug": "LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf",
+    "ultima_reforma_raw": "DOF 09/04/2012",
+    "pdf_sha256": "5ecf3ff973aa8817fdb63785bcf56d34826dabc130480ba3f1b344ce55ede363",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lfpiorpi",
-    "ref_abbrev": "lfpiorpi",
-    "pdf_filename_origen": "LFPIORPI.pdf",
-    "md_slug": "LFPIORPI_ley_federal_para_la_prevencion_e_identificacion_de_operaciones_con_rec",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfppipp",
-    "ref_abbrev": "lfppipp",
-    "pdf_filename_origen": "LFPPIPP_200521.pdf",
-    "md_slug": "LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf",
-    "ultima_reforma_raw": "DOF 20/05/2021",
-    "pdf_sha256": "2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfped",
-    "ref_abbrev": "lfped",
-    "pdf_filename_origen": "LFPED.pdf",
-    "md_slug": "LFPED_ley_federal_para_prevenir_y_eliminar_la_discriminacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+    "key": "lfgr",
+    "ref_abbrev": "lfgr",
+    "pdf_filename_origen": "LFGR.pdf",
+    "md_slug": "LFGR_ley_de_la_fiscalia_general_de_la_republica",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf",
     "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9",
+    "pdf_sha256": "cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lfpsdmh",
-    "ref_abbrev": "lfpsdmh",
-    "pdf_filename_origen": "LFPSDMH.pdf",
-    "md_slug": "LFPSDMH_ley_federal_para_prevenir_y_sancionar_los_delitos_cometidos_en_materia",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf",
-    "ultima_reforma_raw": "DOF 12/11/2021",
-    "pdf_sha256": "ace34ed71b587262c6c3a59657b3706960600744b170a830c4996e419e5abd1a",
+    "key": "lfi",
+    "ref_abbrev": "lfi",
+    "pdf_filename_origen": "LFI.pdf",
+    "md_slug": "LFI_ley_de_fondos_de_inversion_antes_ley_de_sociedades_de_inversion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfiiedb",
+    "ref_abbrev": "lfiiedb",
+    "pdf_filename_origen": "LFIIEDB.pdf",
+    "md_slug": "LFIIEDB_ley_para_el_fomento_de_la_inversion_en_infraestructura_estrategica_par",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIIEDB.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "fe2c431f650ba0c758bcfedf67155702c18a62cc941fbeb0e3a6db9206754eaa",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lfisan",
+    "ref_abbrev": "lfisan",
+    "pdf_filename_origen": "LFISAN.pdf",
+    "md_slug": "LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf",
+    "ultima_reforma_raw": "DOF 28/12/2025",
+    "pdf_sha256": "ef658aa6a3b15e99a4d19edaa6713598a37523f4179ae69a4462bcb8ca870eb1",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfiv",
+    "ref_abbrev": "lfiv",
+    "pdf_filename_origen": "LFIV_230518.pdf",
+    "md_slug": "LFIV_ley_de_fomento_a_la_industria_vitivinicola",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfjs",
+    "ref_abbrev": "lfjs",
+    "pdf_filename_origen": "109.pdf",
+    "md_slug": "LFJS_ley_federal_de_juegos_y_sorteos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "5ae2f5245fba7e584da7b7912f7a25342b8af171b291f52befe753a9139ac277",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfll",
+    "ref_abbrev": "lfll",
+    "pdf_filename_origen": "LFLL.pdf",
+    "md_slug": "LFLL_ley_de_fomento_para_la_lectura_y_el_libro",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf",
+    "ultima_reforma_raw": "DOF 29/11/2023",
+    "pdf_sha256": "1e1d42f23bc87d8b6c3d094e5b49b4a1cf14cb984956590f7d0b708485fef3fd",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfm",
+    "ref_abbrev": "lfm",
+    "pdf_filename_origen": "124.pdf",
+    "md_slug": "LFM_ley_federal_del_mar",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "8d9eac4d6509cf79f1755895a3e93d6268d423ab101ab08c6fd734f55a5a7818",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfmped",
+    "ref_abbrev": "lfmped",
+    "pdf_filename_origen": "LFMPED.pdf",
+    "md_slug": "LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf",
+    "ultima_reforma_raw": "DOF 18/03/2025",
+    "pdf_sha256": "1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -1820,23 +1070,253 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgamvlv",
-    "ref_abbrev": "lgamvlv",
-    "pdf_filename_origen": "LGAMVLV.pdf",
-    "md_slug": "LGAMVLV_ley_general_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencias_an",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535",
+    "key": "lfpa",
+    "ref_abbrev": "lfpa",
+    "pdf_filename_origen": "LFPA.pdf",
+    "md_slug": "LFPA_ley_federal_de_procedimiento_administrativo",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "a8b8019ba04a815ff0b146856625b2342e4366067e763ae5140dee7245212861",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgag",
-    "ref_abbrev": "lgag",
-    "pdf_filename_origen": "LGAg.pdf",
-    "md_slug": "LGAg_ley_general_de_aguas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
+    "key": "lfpc",
+    "ref_abbrev": "lfpc",
+    "pdf_filename_origen": "LFPC.pdf",
+    "md_slug": "LFPC_ley_federal_de_proteccion_al_consumidor",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
+    "ultima_reforma_raw": "DOF 23/12/2025",
+    "pdf_sha256": "7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfpca",
+    "ref_abbrev": "lfpca",
+    "pdf_filename_origen": "LFPCA.pdf",
+    "md_slug": "LFPCA_ley_federal_de_procedimiento_contencioso_administrativo",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf",
+    "ultima_reforma_raw": "DOF 09/06/2026",
+    "pdf_sha256": "d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lfpccs",
+    "ref_abbrev": "lfpccs",
+    "pdf_filename_origen": "LFPCCS_110518.pdf",
+    "md_slug": "LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf",
+    "ultima_reforma_raw": "DOF 11/05/2018",
+    "pdf_sha256": "ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfpdppp",
+    "ref_abbrev": "lfpdppp",
+    "pdf_filename_origen": "LFPDPPP.pdf",
+    "md_slug": "LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfped",
+    "ref_abbrev": "lfped",
+    "pdf_filename_origen": "LFPED.pdf",
+    "md_slug": "LFPED_ley_federal_para_prevenir_y_eliminar_la_discriminacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfpiorpi",
+    "ref_abbrev": "lfpiorpi",
+    "pdf_filename_origen": "LFPIORPI.pdf",
+    "md_slug": "LFPIORPI_ley_federal_para_la_prevencion_e_identificacion_de_operaciones_con_rec",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf",
+    "ultima_reforma_raw": "DOF 16/07/2025",
+    "pdf_sha256": "2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfppcpcia",
+    "ref_abbrev": "lfppcpcia",
+    "pdf_filename_origen": "LFPPCPCIA.pdf",
+    "md_slug": "LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfppi",
+    "ref_abbrev": "lfppi",
+    "pdf_filename_origen": "LFPPI.pdf",
+    "md_slug": "LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
+    "ultima_reforma_raw": "DOF 03/04/2026",
+    "pdf_sha256": "8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lfppipp",
+    "ref_abbrev": "lfppipp",
+    "pdf_filename_origen": "LFPPIPP_200521.pdf",
+    "md_slug": "LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf",
+    "ultima_reforma_raw": "DOF 20/05/2021",
+    "pdf_sha256": "2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfprh",
+    "ref_abbrev": "lfprh",
+    "pdf_filename_origen": "LFPRH.pdf",
+    "md_slug": "LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf",
+    "ultima_reforma_raw": "DOF 09/04/2026",
+    "pdf_sha256": "ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lfpsdmh",
+    "ref_abbrev": "lfpsdmh",
+    "pdf_filename_origen": "LFPSDMH.pdf",
+    "md_slug": "LFPSDMH_ley_federal_para_prevenir_y_sancionar_los_delitos_cometidos_en_materia",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf",
+    "ultima_reforma_raw": "DOF 12/11/2021",
+    "pdf_sha256": "ace34ed71b587262c6c3a59657b3706960600744b170a830c4996e419e5abd1a",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfra",
+    "ref_abbrev": "lfra",
+    "pdf_filename_origen": "LFRA.pdf",
+    "md_slug": "LFRA_ley_federal_de_responsabilidad_ambiental",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfrcf",
+    "ref_abbrev": "lfrcf",
+    "pdf_filename_origen": "LFRCF.pdf",
+    "md_slug": "LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
+    "ultima_reforma_raw": "DOF 15/05/2026",
+    "pdf_sha256": "cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lfremsp",
+    "ref_abbrev": "lfremsp",
+    "pdf_filename_origen": "LFRemSP_190521.pdf",
+    "md_slug": "LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409",
+    "pdf_sha256": "1ae9c606fad4de72ca0d2379696b39adb17826fbb112f1ae46c9acb952fa7a5d",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfrm",
+    "ref_abbrev": "lfrm",
+    "pdf_filename_origen": "LFRM.pdf",
+    "md_slug": "LFRM_ley_federal_de_revocacion_de_mandato",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf",
+    "ultima_reforma_raw": "DOF 26/09/2022 Sentencia SCJN",
+    "pdf_sha256": "eddfcf458c46cacee55392a138412b0d014bcc306c455d92ed94250efce4904c",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfrpe",
+    "ref_abbrev": "lfrpe",
+    "pdf_filename_origen": "LFRPE.pdf",
+    "md_slug": "LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
+    "ultima_reforma_raw": "DOF 29/12/2023",
+    "pdf_sha256": "05390b6c1389b13c8004675b51e5da49bbdbba01c352e844ec1ccaf9b5abf1da",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfrsp",
+    "ref_abbrev": "lfrsp",
+    "pdf_filename_origen": "LFRSP.pdf",
+    "md_slug": "LFRSP_ley_federal_de_responsabilidades_de_los_servidores_publicos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "b377014351dbf3e21a9a031fa24fb97658db1d78f6d44d7b20efa1840d49d599",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfsa",
+    "ref_abbrev": "lfsa",
+    "pdf_filename_origen": "LFSA.pdf",
+    "md_slug": "LFSA_ley_federal_de_sanidad_animal",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf",
+    "ultima_reforma_raw": "DOF 21/05/2024",
+    "pdf_sha256": "199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfsp",
+    "ref_abbrev": "lfsp",
+    "pdf_filename_origen": "LFSP.pdf",
+    "md_slug": "LFSP_ley_federal_de_seguridad_privada",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf",
+    "ultima_reforma_raw": "DOF 17/10/2011",
+    "pdf_sha256": "08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfsv",
+    "ref_abbrev": "lfsv",
+    "pdf_filename_origen": "LFSV.pdf",
+    "md_slug": "LFSV_ley_federal_de_sanidad_vegetal",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf",
+    "ultima_reforma_raw": "DOF 11/05/2022",
+    "pdf_sha256": "ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lft",
+    "ref_abbrev": "lft",
+    "pdf_filename_origen": "LFT.pdf",
+    "md_slug": "LFT_ley_federal_del_trabajo",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+    "ultima_reforma_raw": "DOF 14/05/2026",
+    "pdf_sha256": "12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lftse",
+    "ref_abbrev": "lftse",
+    "pdf_filename_origen": "LFTSE.pdf",
+    "md_slug": "LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfvv",
+    "ref_abbrev": "lfvv",
+    "pdf_filename_origen": "LFVV.pdf",
+    "md_slug": "LFVV_ley_federal_de_variedades_vegetales",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf",
+    "ultima_reforma_raw": "DOF 11/05/2022",
+    "pdf_sha256": "9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lfzee",
+    "ref_abbrev": "lfzee",
+    "pdf_filename_origen": "LFZEE.pdf",
+    "md_slug": "LFZEE_ley_federal_de_zonas_economicas_especiales",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -1850,6 +1330,26 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "lgaas",
+    "ref_abbrev": "lgaas",
+    "pdf_filename_origen": "LGAAS.pdf",
+    "md_slug": "LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgag",
+    "ref_abbrev": "lgag",
+    "pdf_filename_origen": "LGAg.pdf",
+    "md_slug": "LGAg_ley_general_de_aguas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409",
+    "snapshot_date": "2026-06-23"
+  },
+  {
     "key": "lgahotdu",
     "ref_abbrev": "lgahotdu",
     "pdf_filename_origen": "LGAHOTDU.pdf",
@@ -1857,6 +1357,26 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf",
     "ultima_reforma_raw": "DOF 01/04/2024",
     "pdf_sha256": "dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgamvlv",
+    "ref_abbrev": "lgamvlv",
+    "pdf_filename_origen": "LGAMVLV.pdf",
+    "md_slug": "LGAMVLV_ley_general_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencias_an",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgappcea",
+    "ref_abbrev": "lgappcea",
+    "pdf_filename_origen": "LGAPPCEA_270516.pdf",
+    "md_slug": "LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf",
+    "ultima_reforma_raw": "DOF 27/05/2016",
+    "pdf_sha256": "8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -1890,23 +1410,13 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgcs",
-    "ref_abbrev": "lgcs",
-    "pdf_filename_origen": "LGCS.pdf",
-    "md_slug": "LGCS_ley_general_de_comunicacion_social",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCS.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgcg",
-    "ref_abbrev": "lgcg",
-    "pdf_filename_origen": "LGCG.pdf",
-    "md_slug": "LGCG_ley_general_de_contabilidad_gubernamental",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "64b4da1d8513aa0a5e7ffd8ae44099d365ee5cf8da45a1595d911d1fec9f088e",
+    "key": "lgcdc",
+    "ref_abbrev": "lgcdc",
+    "pdf_filename_origen": "LGCDC.pdf",
+    "md_slug": "LGCDC_ley_general_de_cultura_y_derechos_culturales",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -1920,23 +1430,33 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgcdc",
-    "ref_abbrev": "lgcdc",
-    "pdf_filename_origen": "LGCDC.pdf",
-    "md_slug": "LGCDC_ley_general_de_cultura_y_derechos_culturales",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d",
+    "key": "lgcg",
+    "ref_abbrev": "lgcg",
+    "pdf_filename_origen": "LGCG.pdf",
+    "md_slug": "LGCG_ley_general_de_contabilidad_gubernamental",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
+    "ultima_reforma_raw": "DOF 14/05/2026",
+    "pdf_sha256": "cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lgcs",
+    "ref_abbrev": "lgcs",
+    "pdf_filename_origen": "LGCS.pdf",
+    "md_slug": "LGCS_ley_general_de_comunicacion_social",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCS.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgdlpi",
-    "ref_abbrev": "lgdlpi",
-    "pdf_filename_origen": "LGDLPI.pdf",
-    "md_slug": "LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
-    "ultima_reforma_raw": "DOF 18/10/2023",
-    "pdf_sha256": "c089e774b400c1922811859a6b867c7593120cbe61b4ba4f745321cf26e8b41d",
+    "key": "lgct",
+    "ref_abbrev": "lgct",
+    "pdf_filename_origen": "LGCT.pdf",
+    "md_slug": "LGCT_ley_general_para_el_control_del_tabaco",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf",
+    "ultima_reforma_raw": "DOF 17/02/2022",
+    "pdf_sha256": "9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -1950,63 +1470,13 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgds",
-    "ref_abbrev": "lgds",
-    "pdf_filename_origen": "LGDS.pdf",
-    "md_slug": "LGDS_ley_general_de_desarrollo_social",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgec",
-    "ref_abbrev": "lgec",
-    "pdf_filename_origen": "LGEC.pdf",
-    "md_slug": "LGEC_ley_general_de_economia_circular",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lge",
-    "ref_abbrev": "lge",
-    "pdf_filename_origen": "LGE.pdf",
-    "md_slug": "LGE_ley_general_de_educacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lges",
-    "ref_abbrev": "lges",
-    "pdf_filename_origen": "LGES_200421.pdf",
-    "md_slug": "LGES_ley_general_de_educacion_superior",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgipe",
-    "ref_abbrev": "lgipe",
-    "pdf_filename_origen": "LGIPE.pdf",
-    "md_slug": "LGIPE_ley_general_de_instituciones_y_procedimientos_electorales",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
-    "ultima_reforma_raw": "DOF 14/10/2024",
-    "pdf_sha256": "53699aa54e5e414a8418252e11ca061491eeed2d297cb68ef1518e48a0c7cde2",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgaas",
-    "ref_abbrev": "lgaas",
-    "pdf_filename_origen": "LGAAS.pdf",
-    "md_slug": "LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410",
+    "key": "lgdlpi",
+    "ref_abbrev": "lgdlpi",
+    "pdf_filename_origen": "LGDLPI.pdf",
+    "md_slug": "LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
+    "ultima_reforma_raw": "DOF 18/10/2023",
+    "pdf_sha256": "c089e774b400c1922811859a6b867c7593120cbe61b4ba4f745321cf26e8b41d",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2020,193 +1490,53 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgmime",
-    "ref_abbrev": "lgmime",
-    "pdf_filename_origen": "LGMIME.pdf",
-    "md_slug": "LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf",
-    "ultima_reforma_raw": "DOF 24/11/2023 Sentencia SCJN",
-    "pdf_sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgmasc",
-    "ref_abbrev": "lgmasc",
-    "pdf_filename_origen": "LGMASC.pdf",
-    "md_slug": "LGMASC_ley_general_de_mecanismos_alternativos_de_solucion_de_controversias",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf",
+    "key": "lgdocia",
+    "ref_abbrev": "lgdocia",
+    "pdf_filename_origen": "LGDOCIA_070121.pdf",
+    "md_slug": "LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a",
+    "pdf_sha256": "8403427f940274c9affce29b07d7522d3eb88e794dfdc0f703326b4907a14480",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgmsv",
-    "ref_abbrev": "lgmsv",
-    "pdf_filename_origen": "LGMSV.pdf",
-    "md_slug": "LGMSV_ley_general_de_movilidad_y_seguridad_vial",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf",
-    "ultima_reforma_raw": "DOF 29/12/2023",
-    "pdf_sha256": "79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03",
+    "key": "lgdp",
+    "ref_abbrev": "lgdp",
+    "pdf_filename_origen": "136_300118.pdf",
+    "md_slug": "LFDP_ley_federal_de_deuda_publica_antes_ley_general_de_deuda_publica",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf",
+    "ultima_reforma_raw": "DOF 30/01/2018",
+    "pdf_sha256": "be4e1666f8a8b3dfdcbbc047aed6542b4982972d1297e2e04dee839e30cc0ce1",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgoaac",
-    "ref_abbrev": "lgoaac",
-    "pdf_filename_origen": "LGOAAC.pdf",
-    "md_slug": "LGOAAC_ley_general_de_organizaciones_y_actividades_auxiliares_del_credito",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgpp",
-    "ref_abbrev": "lgpp",
-    "pdf_filename_origen": "LGPP.pdf",
-    "md_slug": "LGPP_ley_general_de_partidos_politicos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf",
-    "ultima_reforma_raw": "DOF 24/11/2023 Sentencia SCJN",
-    "pdf_sha256": "9163f0826f44c965b6d478e69c2bf0deb8795108104c3d7dddf6d11e511199b3",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgpas",
-    "ref_abbrev": "lgpas",
-    "pdf_filename_origen": "LGPAS.pdf",
-    "md_slug": "LGPAS_ley_general_de_pesca_y_acuacultura_sustentables",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgp",
-    "ref_abbrev": "lgp",
-    "pdf_filename_origen": "LGP.pdf",
-    "md_slug": "LGP_ley_general_de_poblacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "15e8cb5ca11592f331fca6a94784cce3dd58837397857f2d764476768d0ca780",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgpsacdii",
-    "ref_abbrev": "lgpsacdii",
-    "pdf_filename_origen": "LGPSACDII.pdf",
-    "md_slug": "LGPSACDII_ley_general_de_prestacion_de_servicios_para_la_atencion_cuidado_y_desa",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgpc",
-    "ref_abbrev": "lgpc",
-    "pdf_filename_origen": "LGPC.pdf",
-    "md_slug": "LGPC_ley_general_de_proteccion_civil",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
-    "ultima_reforma_raw": "DOF 21/12/2023",
-    "pdf_sha256": "d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgpdppso",
-    "ref_abbrev": "lgpdppso",
-    "pdf_filename_origen": "LGPDPPSO.pdf",
-    "md_slug": "LGPDPPSO_ley_general_de_proteccion_de_datos_personales_en_posesion_de_sujetos_o",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "a184d451e59d0c5663e14a41c8211d6f5309b15f82d0a6a2e45ed599c44364b9",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgra",
-    "ref_abbrev": "lgra",
-    "pdf_filename_origen": "LGRA.pdf",
-    "md_slug": "LGRA_ley_general_de_responsabilidades_administrativas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
-    "ultima_reforma_raw": "DOF 15/12/2025",
-    "pdf_sha256": "1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgs",
-    "ref_abbrev": "lgs",
-    "pdf_filename_origen": "LGS.pdf",
-    "md_slug": "LGS_ley_general_de_salud",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
+    "key": "lgds",
+    "ref_abbrev": "lgds",
+    "pdf_filename_origen": "LGDS.pdf",
+    "md_slug": "LGDS_ley_general_de_desarrollo_social",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf",
     "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c",
+    "pdf_sha256": "32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgsc",
-    "ref_abbrev": "lgsc",
-    "pdf_filename_origen": "LGSC.pdf",
-    "md_slug": "LGSC_ley_general_de_sociedades_cooperativas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf",
-    "ultima_reforma_raw": "DOF 16/04/2025",
-    "pdf_sha256": "7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f",
+    "key": "lge",
+    "ref_abbrev": "lge",
+    "pdf_filename_origen": "LGE.pdf",
+    "md_slug": "LGE_ley_general_de_educacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgsm",
-    "ref_abbrev": "lgsm",
-    "pdf_filename_origen": "LGSM.pdf",
-    "md_slug": "LGSM_ley_general_de_sociedades_mercantiles",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
-    "ultima_reforma_raw": "DOF 26/12/2025",
-    "pdf_sha256": "72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgtoc",
-    "ref_abbrev": "lgtoc",
-    "pdf_filename_origen": "LGTOC.pdf",
-    "md_slug": "LGTOC_ley_general_de_titulos_y_operaciones_de_credito",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
-    "ultima_reforma_raw": "DOF 26/03/2024",
-    "pdf_sha256": "cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgtaip",
-    "ref_abbrev": "lgtaip",
-    "pdf_filename_origen": "LGTAIP.pdf",
-    "md_slug": "LGTAIP_ley_general_de_transparencia_y_acceso_a_la_informacion_publica",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+    "key": "lgec",
+    "ref_abbrev": "lgec",
+    "pdf_filename_origen": "LGEC.pdf",
+    "md_slug": "LGEC_ley_general_de_economia_circular",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgt",
-    "ref_abbrev": "lgt",
-    "pdf_filename_origen": "LGT.pdf",
-    "md_slug": "LGT_ley_general_de_turismo",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "266023204bad762583d7837b0359d869c41704fcaff52b9da6bb67071cee0ef3",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgv",
-    "ref_abbrev": "lgv",
-    "pdf_filename_origen": "LGV.pdf",
-    "md_slug": "LGV_ley_general_de_victimas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgvs",
-    "ref_abbrev": "lgvs",
-    "pdf_filename_origen": "LGVS.pdf",
-    "md_slug": "LGVS_ley_general_de_vida_silvestre",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911",
+    "pdf_sha256": "89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2220,43 +1550,63 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgsmime",
-    "ref_abbrev": "lgsmime",
-    "pdf_filename_origen": "LGSMIME.pdf",
-    "md_slug": "LGSMIME_ley_general_del_sistema_de_medios_de_impugnacion_en_materia_electoral",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "fd6621adcf78becb507ef18cdf04d7ea043bf4e55a4f2c31833389c797898fc9",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgsna",
-    "ref_abbrev": "lgsna",
-    "pdf_filename_origen": "LGSNA_200521.pdf",
-    "md_slug": "LGSNA_ley_general_del_sistema_nacional_anticorrupcion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf",
-    "ultima_reforma_raw": "DOF 20/05/2021",
-    "pdf_sha256": "5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lgsnsp",
-    "ref_abbrev": "lgsnsp",
-    "pdf_filename_origen": "LGSNSP.pdf",
-    "md_slug": "LGSNSP_ley_general_del_sistema_nacional_de_seguridad_publica",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf",
+    "key": "lgeo",
+    "ref_abbrev": "lgeo",
+    "pdf_filename_origen": "LGeo.pdf",
+    "md_slug": "LGeo_ley_de_geotermia",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0",
+    "pdf_sha256": "67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgscmm",
-    "ref_abbrev": "lgscmm",
-    "pdf_filename_origen": "LGSCMM_300919.pdf",
-    "md_slug": "LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf",
+    "key": "lges",
+    "ref_abbrev": "lges",
+    "pdf_filename_origen": "LGES_200421.pdf",
+    "md_slug": "LGES_ley_general_de_educacion_superior",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87",
+    "pdf_sha256": "eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgimh",
+    "ref_abbrev": "lgimh",
+    "pdf_filename_origen": "LGISMH.pdf",
+    "md_slug": "LGISMH_ley_general_para_la_igualdad_sustantiva_entre_mujeres_y_hombres_antes",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgipd",
+    "ref_abbrev": "lgipd",
+    "pdf_filename_origen": "LGIPD.pdf",
+    "md_slug": "LGIPD_ley_general_para_la_inclusion_de_las_personas_con_discapacidad",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf",
+    "ultima_reforma_raw": "DOF 14/06/2024",
+    "pdf_sha256": "952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgipe",
+    "ref_abbrev": "lgipe",
+    "pdf_filename_origen": "LGIPE.pdf",
+    "md_slug": "LGIPE_ley_general_de_instituciones_y_procedimientos_electorales",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
+    "ultima_reforma_raw": "DOF 02/06/2026",
+    "pdf_sha256": "8d6253c7ac28c654543484bac172ca12bbda8db41564b07f27ca5bbea0b4cf80",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lgmasc",
+    "ref_abbrev": "lgmasc",
+    "pdf_filename_origen": "LGMASC.pdf",
+    "md_slug": "LGMASC_ley_general_de_mecanismos_alternativos_de_solucion_de_controversias",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2290,63 +1640,83 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgct",
-    "ref_abbrev": "lgct",
-    "pdf_filename_origen": "LGCT.pdf",
-    "md_slug": "LGCT_ley_general_para_el_control_del_tabaco",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf",
-    "ultima_reforma_raw": "DOF 17/02/2022",
-    "pdf_sha256": "9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e",
+    "key": "lgmime",
+    "ref_abbrev": "lgmime",
+    "pdf_filename_origen": "LGMIME.pdf",
+    "md_slug": "LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf",
+    "ultima_reforma_raw": "DOF 24/11/2023 Sentencia SCJN",
+    "pdf_sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgappcea",
-    "ref_abbrev": "lgappcea",
-    "pdf_filename_origen": "LGAPPCEA_270516.pdf",
-    "md_slug": "LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf",
-    "ultima_reforma_raw": "DOF 27/05/2016",
-    "pdf_sha256": "8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37",
+    "key": "lgmsv",
+    "ref_abbrev": "lgmsv",
+    "pdf_filename_origen": "LGMSV.pdf",
+    "md_slug": "LGMSV_ley_general_de_movilidad_y_seguridad_vial",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf",
+    "ultima_reforma_raw": "DOF 29/12/2023",
+    "pdf_sha256": "79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgdocia",
-    "ref_abbrev": "lgdocia",
-    "pdf_filename_origen": "LGDOCIA_070121.pdf",
-    "md_slug": "LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
+    "key": "lgn",
+    "ref_abbrev": "lgn",
+    "pdf_filename_origen": "LGN.pdf",
+    "md_slug": "LGN_ley_de_la_guardia_nacional",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "8403427f940274c9affce29b07d7522d3eb88e794dfdc0f703326b4907a14480",
+    "pdf_sha256": "dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgimh",
-    "ref_abbrev": "lgimh",
-    "pdf_filename_origen": "LGISMH.pdf",
-    "md_slug": "LGISMH_ley_general_para_la_igualdad_sustantiva_entre_mujeres_y_hombres_antes",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
-    "ultima_reforma_raw": "DOF 15/01/2026",
-    "pdf_sha256": "51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44",
+    "key": "lgoaac",
+    "ref_abbrev": "lgoaac",
+    "pdf_filename_origen": "LGOAAC.pdf",
+    "md_slug": "LGOAAC_ley_general_de_organizaciones_y_actividades_auxiliares_del_credito",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgipd",
-    "ref_abbrev": "lgipd",
-    "pdf_filename_origen": "LGIPD.pdf",
-    "md_slug": "LGIPD_ley_general_para_la_inclusion_de_las_personas_con_discapacidad",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf",
-    "ultima_reforma_raw": "DOF 14/06/2024",
-    "pdf_sha256": "952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f",
+    "key": "lgp",
+    "ref_abbrev": "lgp",
+    "pdf_filename_origen": "LGP.pdf",
+    "md_slug": "LGP_ley_general_de_poblacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf",
+    "ultima_reforma_raw": "DOF 16/07/2025",
+    "pdf_sha256": "15e8cb5ca11592f331fca6a94784cce3dd58837397857f2d764476768d0ca780",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgpsvd",
-    "ref_abbrev": "lgpsvd",
-    "pdf_filename_origen": "LGPSVD_040521.pdf",
-    "md_slug": "LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf",
-    "ultima_reforma_raw": "DOF 04/05/2021",
-    "pdf_sha256": "2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab",
+    "key": "lgpas",
+    "ref_abbrev": "lgpas",
+    "pdf_filename_origen": "LGPAS.pdf",
+    "md_slug": "LGPAS_ley_general_de_pesca_y_acuacultura_sustentables",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgpc",
+    "ref_abbrev": "lgpc",
+    "pdf_filename_origen": "LGPC.pdf",
+    "md_slug": "LGPC_ley_general_de_proteccion_civil",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
+    "ultima_reforma_raw": "DOF 21/12/2023",
+    "pdf_sha256": "d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgpdppso",
+    "ref_abbrev": "lgpdppso",
+    "pdf_filename_origen": "LGPDPPSO.pdf",
+    "md_slug": "LGPDPPSO_ley_general_de_proteccion_de_datos_personales_en_posesion_de_sujetos_o",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "a184d451e59d0c5663e14a41c8211d6f5309b15f82d0a6a2e45ed599c44364b9",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2360,16 +1730,6 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgpist",
-    "ref_abbrev": "lgpist",
-    "pdf_filename_origen": "LGPIST.pdf",
-    "md_slug": "LGPIST_ley_general_para_prevenir_investigar_y_sancionar_la_tortura_y_otros_tr",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf",
-    "ultima_reforma_raw": "DOF 28/04/2022",
-    "pdf_sha256": "1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41",
-    "snapshot_date": "2026-06-23"
-  },
-  {
     "key": "lgpisdme",
     "ref_abbrev": "lgpisdme",
     "pdf_filename_origen": "LGPISDME.pdf",
@@ -2380,13 +1740,33 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lgpsedmtp",
-    "ref_abbrev": "lgpsedmtp",
-    "pdf_filename_origen": "LGPSEDMTP.pdf",
-    "md_slug": "LGPSEDMTP_ley_general_para_prevenir_sancionar_y_erradicar_los_delitos_en_materia",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32",
+    "key": "lgpist",
+    "ref_abbrev": "lgpist",
+    "pdf_filename_origen": "LGPIST.pdf",
+    "md_slug": "LGPIST_ley_general_para_prevenir_investigar_y_sancionar_la_tortura_y_otros_tr",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf",
+    "ultima_reforma_raw": "DOF 28/04/2022",
+    "pdf_sha256": "1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgpp",
+    "ref_abbrev": "lgpp",
+    "pdf_filename_origen": "LGPP.pdf",
+    "md_slug": "LGPP_ley_general_de_partidos_politicos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf",
+    "ultima_reforma_raw": "DOF 24/11/2023 Sentencia SCJN",
+    "pdf_sha256": "9163f0826f44c965b6d478e69c2bf0deb8795108104c3d7dddf6d11e511199b3",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgpsacdii",
+    "ref_abbrev": "lgpsacdii",
+    "pdf_filename_origen": "LGPSACDII.pdf",
+    "md_slug": "LGPSACDII_ley_general_de_prestacion_de_servicios_para_la_atencion_cuidado_y_desa",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2400,6 +1780,376 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "lgpsedmtp",
+    "ref_abbrev": "lgpsedmtp",
+    "pdf_filename_origen": "LGPSEDMTP.pdf",
+    "md_slug": "LGPSEDMTP_ley_general_para_prevenir_sancionar_y_erradicar_los_delitos_en_materia",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgpsvd",
+    "ref_abbrev": "lgpsvd",
+    "pdf_filename_origen": "LGPSVD_040521.pdf",
+    "md_slug": "LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf",
+    "ultima_reforma_raw": "DOF 04/05/2021",
+    "pdf_sha256": "2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgra",
+    "ref_abbrev": "lgra",
+    "pdf_filename_origen": "LGRA.pdf",
+    "md_slug": "LGRA_ley_general_de_responsabilidades_administrativas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
+    "ultima_reforma_raw": "DOF 15/12/2025",
+    "pdf_sha256": "1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgs",
+    "ref_abbrev": "lgs",
+    "pdf_filename_origen": "LGS.pdf",
+    "md_slug": "LGS_ley_general_de_salud",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgsc",
+    "ref_abbrev": "lgsc",
+    "pdf_filename_origen": "LGSC.pdf",
+    "md_slug": "LGSC_ley_general_de_sociedades_cooperativas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf",
+    "ultima_reforma_raw": "DOF 16/04/2025",
+    "pdf_sha256": "7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgscmm",
+    "ref_abbrev": "lgscmm",
+    "pdf_filename_origen": "LGSCMM_300919.pdf",
+    "md_slug": "LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgsm",
+    "ref_abbrev": "lgsm",
+    "pdf_filename_origen": "LGSM.pdf",
+    "md_slug": "LGSM_ley_general_de_sociedades_mercantiles",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
+    "ultima_reforma_raw": "DOF 26/12/2025",
+    "pdf_sha256": "72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgsmime",
+    "ref_abbrev": "lgsmime",
+    "pdf_filename_origen": "LGSMIME.pdf",
+    "md_slug": "LGSMIME_ley_general_del_sistema_de_medios_de_impugnacion_en_materia_electoral",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "fd6621adcf78becb507ef18cdf04d7ea043bf4e55a4f2c31833389c797898fc9",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgsna",
+    "ref_abbrev": "lgsna",
+    "pdf_filename_origen": "LGSNA_200521.pdf",
+    "md_slug": "LGSNA_ley_general_del_sistema_nacional_anticorrupcion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf",
+    "ultima_reforma_raw": "DOF 20/05/2021",
+    "pdf_sha256": "5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgsnsp",
+    "ref_abbrev": "lgsnsp",
+    "pdf_filename_origen": "LGSNSP.pdf",
+    "md_slug": "LGSNSP_ley_general_del_sistema_nacional_de_seguridad_publica",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgt",
+    "ref_abbrev": "lgt",
+    "pdf_filename_origen": "LGT.pdf",
+    "md_slug": "LGT_ley_general_de_turismo",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "266023204bad762583d7837b0359d869c41704fcaff52b9da6bb67071cee0ef3",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgtaip",
+    "ref_abbrev": "lgtaip",
+    "pdf_filename_origen": "LGTAIP.pdf",
+    "md_slug": "LGTAIP_ley_general_de_transparencia_y_acceso_a_la_informacion_publica",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgtoc",
+    "ref_abbrev": "lgtoc",
+    "pdf_filename_origen": "LGTOC.pdf",
+    "md_slug": "LGTOC_ley_general_de_titulos_y_operaciones_de_credito",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
+    "ultima_reforma_raw": "DOF 26/03/2024",
+    "pdf_sha256": "cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgv",
+    "ref_abbrev": "lgv",
+    "pdf_filename_origen": "LGV.pdf",
+    "md_slug": "LGV_ley_general_de_victimas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lgvs",
+    "ref_abbrev": "lgvs",
+    "pdf_filename_origen": "LGVS.pdf",
+    "md_slug": "LGVS_ley_general_de_vida_silvestre",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf",
+    "ultima_reforma_raw": "DOF 16/07/2025",
+    "pdf_sha256": "b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lhheum",
+    "ref_abbrev": "lhheum",
+    "pdf_filename_origen": "LHHEUM.pdf",
+    "md_slug": "LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+    "ultima_reforma_raw": "DOF 29/11/2022",
+    "pdf_sha256": "ee7dcf952a44974e79227e9b8b8752899672827c1adfcabedc0739ceca51e49e",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lic",
+    "ref_abbrev": "lic",
+    "pdf_filename_origen": "LIC.pdf",
+    "md_slug": "LIC_ley_de_instituciones_de_credito",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lical",
+    "ref_abbrev": "lical",
+    "pdf_filename_origen": "LICal_010720.pdf",
+    "md_slug": "LICal_ley_de_infraestructura_de_la_calidad",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lie",
+    "ref_abbrev": "lie",
+    "pdf_filename_origen": "LIE.pdf",
+    "md_slug": "LIE_ley_de_inversion_extranjera",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
+    "ultima_reforma_raw": "DOF 27/05/2024",
+    "pdf_sha256": "14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lieps",
+    "ref_abbrev": "lieps",
+    "pdf_filename_origen": "LIEPS.pdf",
+    "md_slug": "LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf",
+    "ultima_reforma_raw": "DOF 22/12/2025",
+    "pdf_sha256": "32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lif",
+    "ref_abbrev": "lif_2026",
+    "pdf_filename_origen": "LIF_2026.pdf",
+    "md_slug": "LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lifnct",
+    "ref_abbrev": "lifnct",
+    "pdf_filename_origen": "LIFNCT.pdf",
+    "md_slug": "LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf",
+    "ultima_reforma_raw": "DOF 03/01/2024",
+    "pdf_sha256": "78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lifnvt",
+    "ref_abbrev": "lifnvt",
+    "pdf_filename_origen": "LIFNVT.pdf",
+    "md_slug": "LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf",
+    "ultima_reforma_raw": "DOF 21/02/2025",
+    "pdf_sha256": "9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ligie",
+    "ref_abbrev": "ligie_2022",
+    "pdf_filename_origen": "LIGIE_2022.pdf",
+    "md_slug": "LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
+    "ultima_reforma_raw": "DOF 23/04/2026",
+    "pdf_sha256": "a7688a47c8283f327b943e06ed948782feba2f5a0e16fe796d50d8340ce40ece",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lih",
+    "ref_abbrev": "lih",
+    "pdf_filename_origen": "LIH.pdf",
+    "md_slug": "LIH_ley_de_ingresos_sobre_hidrocarburos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf",
+    "ultima_reforma_raw": "DOF 28/12/2025",
+    "pdf_sha256": "8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "liispcen",
+    "ref_abbrev": "liispcen",
+    "pdf_filename_origen": "LIISPCEN.pdf",
+    "md_slug": "LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
+    "ultima_reforma_raw": "DOF 17/04/2024",
+    "pdf_sha256": "1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "limj",
+    "ref_abbrev": "limj",
+    "pdf_filename_origen": "LIMJ.pdf",
+    "md_slug": "LIMJ_ley_del_instituto_mexicano_de_la_juventud",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "326dc072878ee5db7b8e588c3abf36a993d286beadaf90c19c6bf88732d95db5",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "linbal",
+    "ref_abbrev": "linbal",
+    "pdf_filename_origen": "193_171215.pdf",
+    "md_slug": "LCINBAL_ley_que_crea_el_instituto_nacional_de_bellas_artes_y_literatura",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/193_171215.pdf",
+    "ultima_reforma_raw": "DOF 17/12/2015",
+    "pdf_sha256": "a4ac552c999c8fac29280eab8483bfec7ffd04fe5b8edcd3b699e39c4cdaafd2",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "linpi",
+    "ref_abbrev": "linpi",
+    "pdf_filename_origen": "LINPI.pdf",
+    "md_slug": "LINPI_ley_del_instituto_nacional_de_los_pueblos_indigenas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf",
+    "ultima_reforma_raw": "DOF 29/12/2023",
+    "pdf_sha256": "f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lins",
+    "ref_abbrev": "lins",
+    "pdf_filename_origen": "LINS.pdf",
+    "md_slug": "LINS_ley_de_los_institutos_nacionales_de_salud",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf",
+    "ultima_reforma_raw": "DOF 11/05/2022",
+    "pdf_sha256": "40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lisf",
+    "ref_abbrev": "lisf",
+    "pdf_filename_origen": "LISF.pdf",
+    "md_slug": "LISF_ley_de_instituciones_de_seguros_y_de_fianzas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lisipl",
+    "ref_abbrev": "lisipl",
+    "pdf_filename_origen": "79.pdf",
+    "md_slug": "ISEDIPL_impuesto_sobre_servicios_expresamente_declarados_de_interes_publico_po",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lisr",
+    "ref_abbrev": "lisr",
+    "pdf_filename_origen": "LISR.pdf",
+    "md_slug": "LISR_ley_del_impuesto_sobre_la_renta",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lissfam",
+    "ref_abbrev": "lissfam",
+    "pdf_filename_origen": "LISSFAM.pdf",
+    "md_slug": "LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf",
+    "ultima_reforma_raw": "Notificación 15/01/2026 Sentencia SCJN",
+    "pdf_sha256": "35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lissste",
+    "ref_abbrev": "lissste",
+    "pdf_filename_origen": "LISSSTE.pdf",
+    "md_slug": "LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "liva",
+    "ref_abbrev": "liva",
+    "pdf_filename_origen": "LIVA.pdf",
+    "md_slug": "LIVA_ley_del_impuesto_al_valor_agregado",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
+    "ultima_reforma_raw": "DOF 12/11/2021",
+    "pdf_sha256": "f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lmccbdc",
+    "ref_abbrev": "lmccbdc",
+    "pdf_filename_origen": "187_291214.pdf",
+    "md_slug": "LAAMCCBD_ley_que_aprueba_la_adhesion_de_mexico_al_convenio_constitutivo_del_ban",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf",
+    "ultima_reforma_raw": "DOF 29/12/2014",
+    "pdf_sha256": "2f11746efbe37cbc7bf8f9448f5d9050c4deee13184bbe78c4e958d017bebece",
+    "snapshot_date": "2026-06-23"
+  },
+  {
     "key": "lmeum",
     "ref_abbrev": "lmeum",
     "pdf_filename_origen": "LMEUM.pdf",
@@ -2407,6 +2157,76 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf",
     "ultima_reforma_raw": "DOF 19/01/2026",
     "pdf_sha256": "0ba3f805964135cf2eac4cd05888a7c63c4c116657f25039d3d93af9102264be",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lmigra",
+    "ref_abbrev": "lmigra",
+    "pdf_filename_origen": "LMigra.pdf",
+    "md_slug": "LMigra_ley_de_migracion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lmin",
+    "ref_abbrev": "lmin",
+    "pdf_filename_origen": "LMin.pdf",
+    "md_slug": "LMin_ley_de_mineria_antes_ley_minera",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf",
+    "ultima_reforma_raw": "DOF 08/05/2023",
+    "pdf_sha256": "22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lmtr",
+    "ref_abbrev": "lmtr",
+    "pdf_filename_origen": "LMTR.pdf",
+    "md_slug": "LMTR_ley_en_materia_de_telecomunicaciones_y_radiodifusion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lmv",
+    "ref_abbrev": "lmv",
+    "pdf_filename_origen": "LMV.pdf",
+    "md_slug": "LMV_ley_del_mercado_de_valores",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lnac",
+    "ref_abbrev": "lnac",
+    "pdf_filename_origen": "53.pdf",
+    "md_slug": "LN_ley_de_nacionalidad",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
+    "ultima_reforma_raw": "DOF 23/04/2012",
+    "pdf_sha256": "0d1600be2162e00dfec7505d7ce4c23ec2e29f43e298bc94e7301146eead38f7",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lncm",
+    "ref_abbrev": "lncm",
+    "pdf_filename_origen": "LNCM.pdf",
+    "md_slug": "LNCM_ley_de_navegacion_y_comercio_maritimos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lned",
+    "ref_abbrev": "lned",
+    "pdf_filename_origen": "LNED.pdf",
+    "md_slug": "LNED_ley_nacional_de_extincion_de_dominio",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf",
+    "ultima_reforma_raw": "DOF 28/11/2025",
+    "pdf_sha256": "e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2420,13 +2240,13 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lned",
-    "ref_abbrev": "lned",
-    "pdf_filename_origen": "LNED.pdf",
-    "md_slug": "LNED_ley_nacional_de_extincion_de_dominio",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf",
-    "ultima_reforma_raw": "DOF 28/11/2025",
-    "pdf_sha256": "e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68",
+    "key": "lnetb",
+    "ref_abbrev": "lnetb",
+    "pdf_filename_origen": "LNETB.pdf",
+    "md_slug": "LNETB_ley_nacional_para_eliminar_tramites_burocraticos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2460,16 +2280,6 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lnetb",
-    "ref_abbrev": "lnetb",
-    "pdf_filename_origen": "LNETB.pdf",
-    "md_slug": "LNETB_ley_nacional_para_eliminar_tramites_burocraticos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839",
-    "snapshot_date": "2026-06-23"
-  },
-  {
     "key": "lnuf",
     "ref_abbrev": "lnuf",
     "pdf_filename_origen": "LNUF.pdf",
@@ -2477,16 +2287,6 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf",
     "ultima_reforma_raw": "DOF 24/01/2024",
     "pdf_sha256": "0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "loapf",
-    "ref_abbrev": "loapf",
-    "pdf_filename_origen": "LOAPF.pdf",
-    "md_slug": "LOAPF_ley_organica_de_la_administracion_publica_federal",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
-    "ultima_reforma_raw": "DOF 16/07/2025",
-    "pdf_sha256": "52f611ae5e238c992de3ed2d382195cfbf2adb5f3f6afded1fd5595ad43bddab",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2500,84 +2300,14 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lopdc",
-    "ref_abbrev": "lopdc",
-    "pdf_filename_origen": "LOPDC.pdf",
-    "md_slug": "LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf",
-    "ultima_reforma_raw": "DOF 11/05/2022",
-    "pdf_sha256": "7dc8f2201fdeb8039371254e3b2606c158f4cd480e29ce074a65eb375a19475c",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lopgjdf",
-    "ref_abbrev": "lopgjdf",
-    "pdf_filename_origen": "LOPGJDF.pdf",
-    "md_slug": "LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf",
-    "ultima_reforma_raw": "DOF 24/02/2012",
-    "pdf_sha256": "9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "louaaan",
-    "ref_abbrev": "louaaan",
-    "pdf_filename_origen": "LOUAAAN.pdf",
-    "md_slug": "LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "0684841d80e27cadbc489695f617c672fe74cb5510970a0b2d0c762cf648ed27",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "louam",
-    "ref_abbrev": "louam",
-    "pdf_filename_origen": "157.pdf",
-    "md_slug": "LOUAM_ley_organica_de_la_universidad_autonoma_metropolitana",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lounam",
-    "ref_abbrev": "lounam",
-    "pdf_filename_origen": "158.pdf",
-    "md_slug": "LOUNAM_ley_organica_de_la_universidad_nacional_autonoma_de_mexico",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "06af411aa75ed36bd698842d9c2d7f04c7a72e5797718d3aabbd0f89a1d25f9b",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lota",
-    "ref_abbrev": "lota",
-    "pdf_filename_origen": "159.pdf",
-    "md_slug": "LOTA_ley_organica_de_los_tribunales_agrarios",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf",
-    "ultima_reforma_raw": "DOF 23/01/1998",
-    "pdf_sha256": "dd4e6e24f201a4e6b37919dc0461523bdb4f74e7c4852815f51bfd576c990296",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lonf",
-    "ref_abbrev": "lonf",
-    "pdf_filename_origen": "162.pdf",
-    "md_slug": "LONF_ley_organica_de_nacional_financiera",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf",
-    "ultima_reforma_raw": "DOF 10/01/2014",
-    "pdf_sha256": "99d3d61b8abaa6f0c20427466c41a7f236feda5772e49a6aec7f677b29e14880",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "loshf",
-    "ref_abbrev": "loshf",
-    "pdf_filename_origen": "LOSHF.pdf",
-    "md_slug": "LOSHF_ley_organica_de_sociedad_hipotecaria_federal",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "00a876c2b691175df0253958b3f337e05d3610e11b79336ad1570539013d2865",
-    "snapshot_date": "2026-06-23"
+    "key": "loapf",
+    "ref_abbrev": "loapf",
+    "pdf_filename_origen": "LOAPF.pdf",
+    "md_slug": "LOAPF_ley_organica_de_la_administracion_publica_federal",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
+    "ultima_reforma_raw": "DOF 07/05/2026",
+    "pdf_sha256": "3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f",
+    "snapshot_date": "2026-06-25"
   },
   {
     "key": "lobb",
@@ -2600,16 +2330,6 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lobnosp",
-    "ref_abbrev": "lobnosp",
-    "pdf_filename_origen": "LOBNOSP.pdf",
-    "md_slug": "LOBNOSP_ley_organica_del_banco_nacional_de_obras_y_servicios_publicos",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf",
-    "ultima_reforma_raw": "DOF 01/04/2024",
-    "pdf_sha256": "7ab6cfd5861e9fc87502494fbcea4174806d253a715a80003b120f208c10214f",
-    "snapshot_date": "2026-06-23"
-  },
-  {
     "key": "lobnefaa",
     "ref_abbrev": "lobnefaa",
     "pdf_filename_origen": "167.pdf",
@@ -2617,6 +2337,16 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf",
     "ultima_reforma_raw": "DOF 10/01/2014",
     "pdf_sha256": "163f7d66aa47a07798c155bd7f39f065c7fd0103c098a31b6db3401ac5f01caf",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lobnosp",
+    "ref_abbrev": "lobnosp",
+    "pdf_filename_origen": "LOBNOSP.pdf",
+    "md_slug": "LOBNOSP_ley_organica_del_banco_nacional_de_obras_y_servicios_publicos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "7ab6cfd5861e9fc87502494fbcea4174806d253a715a80003b120f208c10214f",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2650,6 +2380,16 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "log",
+    "ref_abbrev": "log",
+    "pdf_filename_origen": "57.pdf",
+    "md_slug": "LOG_ley_de_organizaciones_ganaderas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf",
+    "ultima_reforma_raw": "DOF 09/04/2012",
+    "pdf_sha256": "35e6323676758412d100ff5b3725985ebb07af19c74e1657f9e15151f3b21d8f",
+    "snapshot_date": "2026-06-23"
+  },
+  {
     "key": "loinah",
     "ref_abbrev": "loinah",
     "pdf_filename_origen": "170_171215.pdf",
@@ -2670,6 +2410,36 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "lonf",
+    "ref_abbrev": "lonf",
+    "pdf_filename_origen": "162.pdf",
+    "md_slug": "LONF_ley_organica_de_nacional_financiera",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf",
+    "ultima_reforma_raw": "DOF 10/01/2014",
+    "pdf_sha256": "99d3d61b8abaa6f0c20427466c41a7f236feda5772e49a6aec7f677b29e14880",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lopdc",
+    "ref_abbrev": "lopdc",
+    "pdf_filename_origen": "LOPDC.pdf",
+    "md_slug": "LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf",
+    "ultima_reforma_raw": "DOF 11/05/2022",
+    "pdf_sha256": "7dc8f2201fdeb8039371254e3b2606c158f4cd480e29ce074a65eb375a19475c",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lopgjdf",
+    "ref_abbrev": "lopgjdf",
+    "pdf_filename_origen": "LOPGJDF.pdf",
+    "md_slug": "LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf",
+    "ultima_reforma_raw": "DOF 24/02/2012",
+    "pdf_sha256": "9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58",
+    "snapshot_date": "2026-06-23"
+  },
+  {
     "key": "lopjf",
     "ref_abbrev": "lopjf",
     "pdf_filename_origen": "LOPJF.pdf",
@@ -2677,6 +2447,16 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
     "ultima_reforma_raw": "DOF 28/11/2025",
     "pdf_sha256": "6569965cdfc64e4c223fc12d5a8ac885b7fad6cb432a0370d70f4dd7b8343fd1",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lopsrm",
+    "ref_abbrev": "lopsrm",
+    "pdf_filename_origen": "LOPSRM.pdf",
+    "md_slug": "LOPSRM_ley_de_obras_publicas_y_servicios_relacionados_con_las_mismas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2690,6 +2470,26 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "loshf",
+    "ref_abbrev": "loshf",
+    "pdf_filename_origen": "LOSHF.pdf",
+    "md_slug": "LOSHF_ley_organica_de_sociedad_hipotecaria_federal",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "00a876c2b691175df0253958b3f337e05d3610e11b79336ad1570539013d2865",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lota",
+    "ref_abbrev": "lota",
+    "pdf_filename_origen": "159.pdf",
+    "md_slug": "LOTA_ley_organica_de_los_tribunales_agrarios",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf",
+    "ultima_reforma_raw": "DOF 23/01/1998",
+    "pdf_sha256": "dd4e6e24f201a4e6b37919dc0461523bdb4f74e7c4852815f51bfd576c990296",
+    "snapshot_date": "2026-06-23"
+  },
+  {
     "key": "lotfja",
     "ref_abbrev": "lotfja",
     "pdf_filename_origen": "LOTFJA.pdf",
@@ -2700,83 +2500,113 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lcnp",
-    "ref_abbrev": "lcnp",
-    "pdf_filename_origen": "176_210618.pdf",
-    "md_slug": "LCNP_ley_para_conservar_la_neutralidad_del_pais",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf",
-    "ultima_reforma_raw": "DOF 21/06/2018",
-    "pdf_sha256": "b1de107a982a73c02c12c952586d16063c9fc51c8e1e29594924f24d0107395a",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ldvuma",
-    "ref_abbrev": "ldvuma",
-    "pdf_filename_origen": "LDVUMA_301216.pdf",
-    "md_slug": "LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
+    "key": "louaaan",
+    "ref_abbrev": "louaaan",
+    "pdf_filename_origen": "LOUAAAN.pdf",
+    "md_slug": "LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "44f65ae5f6367e9a510790e5b10730bd179df1f48b9703485548c0add7dbacc4",
+    "pdf_sha256": "0684841d80e27cadbc489695f617c672fe74cb5510970a0b2d0c762cf648ed27",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "ldcmpme",
-    "ref_abbrev": "ldcmpme",
-    "pdf_filename_origen": "LDCMPME.pdf",
-    "md_slug": "LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
-    "ultima_reforma_raw": "DOF 20/10/2023",
-    "pdf_sha256": "4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "ldcpdch",
-    "ref_abbrev": "ldcpdch",
-    "pdf_filename_origen": "177.pdf",
-    "md_slug": "LD_ley_para_el_dialogo_la_conciliacion_y_la_paz_digna_en_chiapas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf",
+    "key": "louam",
+    "ref_abbrev": "louam",
+    "pdf_filename_origen": "157.pdf",
+    "md_slug": "LOUAM_ley_organica_de_la_universidad_autonoma_metropolitana",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "d36aec42a42e48e3d457225ab337f67df31be47f04fd896068aba67cf669883a",
+    "pdf_sha256": "8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lupdecr",
-    "ref_abbrev": "lupdecr",
-    "pdf_filename_origen": "LUPDECR.pdf",
-    "md_slug": "LUPDECR_ley_para_el_uso_y_proteccion_de_la_denominacion_y_del_emblema_de_la_cr",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf",
+    "key": "lounam",
+    "ref_abbrev": "lounam",
+    "pdf_filename_origen": "158.pdf",
+    "md_slug": "LOUNAM_ley_organica_de_la_universidad_nacional_autonoma_de_mexico",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf",
     "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88",
+    "pdf_sha256": "06af411aa75ed36bd698842d9c2d7f04c7a72e5797718d3aabbd0f89a1d25f9b",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "liispcen",
-    "ref_abbrev": "liispcen",
-    "pdf_filename_origen": "LIISPCEN.pdf",
-    "md_slug": "LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
-    "ultima_reforma_raw": "DOF 17/04/2024",
-    "pdf_sha256": "1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c",
+    "key": "lpab",
+    "ref_abbrev": "lpab",
+    "pdf_filename_origen": "LPAB.pdf",
+    "md_slug": "LPAB_ley_de_proteccion_al_ahorro_bancario",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf",
+    "ultima_reforma_raw": "DOF 11/05/2022",
+    "pdf_sha256": "40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lcacsam",
-    "ref_abbrev": "lcacsam",
-    "pdf_filename_origen": "268.pdf",
-    "md_slug": "LC_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_de_la_armada_de",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf",
-    "ultima_reforma_raw": "DOF 12/06/2009",
-    "pdf_sha256": "e56b3fe80514e68891aee1c7ad316374b7b6d21ab2b8ce55c53b3ae83a535248",
+    "key": "lpcinecdi",
+    "ref_abbrev": "lpcinecdi",
+    "pdf_filename_origen": "63.pdf",
+    "md_slug": "LPCINECD_ley_de_proteccion_al_comercio_y_la_inversion_de_normas_extranjeras_que",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf",
+    "ultima_reforma_raw": "DOF 09/04/2012",
+    "pdf_sha256": "e969fde67d7c5adc1c78322e3309fe5a5ecc245489ce3ec259f16063eea0c1db",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lcacsefam",
-    "ref_abbrev": "lcacsefam",
-    "pdf_filename_origen": "LCACSEFAM.pdf",
-    "md_slug": "LCACSEFAM_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_en_el_ejercito",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
-    "ultima_reforma_raw": "DOF 03/05/2024",
-    "pdf_sha256": "93f2f807af3fd78f9e7ffcc4b1b544b2c7eecca463efcd7adaa16a0f8716049f",
+    "key": "lpdusf",
+    "ref_abbrev": "lpdusf",
+    "pdf_filename_origen": "LPDUSF.pdf",
+    "md_slug": "LPDUSF_ley_de_proteccion_y_defensa_al_usuario_de_servicios_financieros",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lpeam",
+    "ref_abbrev": "lpeam",
+    "pdf_filename_origen": "LPEAM.pdf",
+    "md_slug": "LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lperc",
+    "ref_abbrev": "lperc",
+    "pdf_filename_origen": "LPERC.pdf",
+    "md_slug": "LPERC_ley_de_premios_estimulos_y_recompensas_civiles",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf",
+    "ultima_reforma_raw": "DOF 01/04/2024",
+    "pdf_sha256": "6916ade44cdc7b0820565cdc6225c6514b4b1131b1d08c70cf2abb190998f192",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lpf",
+    "ref_abbrev": "lpf",
+    "pdf_filename_origen": "LPF.pdf",
+    "md_slug": "LPF_ley_de_la_policia_federal",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lplan",
+    "ref_abbrev": "lplan",
+    "pdf_filename_origen": "LPlan.pdf",
+    "md_slug": "LPlan_ley_de_planeacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "5a909996d6ef791fa377611c040a212dcf838cbf54ba16a7d7d0baaa57ac9962",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lpo",
+    "ref_abbrev": "lpo",
+    "pdf_filename_origen": "LPO.pdf",
+    "md_slug": "LPO_ley_de_productos_organicos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2790,33 +2620,23 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "ltpcpimcp",
-    "ref_abbrev": "ltpcpimcp",
-    "pdf_filename_origen": "LTPCPIMCP.pdf",
-    "md_slug": "LTPCPIMCP_ley_para_la_transparencia_prevencion_y_combate_de_practicas_indebidas",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf",
-    "ultima_reforma_raw": "DOF 22/12/2023 Sentencia SCJN",
-    "pdf_sha256": "55fcd61a87cfde80f0699f50bb45d3ee0a79c461dcb0fc374b9a846125cb491d",
+    "key": "lpte",
+    "ref_abbrev": "lpte",
+    "pdf_filename_origen": "LPTE.pdf",
+    "md_slug": "LPTE_ley_de_planeacion_y_transicion_energetica",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "ltosf",
-    "ref_abbrev": "ltosf",
-    "pdf_filename_origen": "LTOSF.pdf",
-    "md_slug": "LTOSF_ley_para_la_transparencia_y_ordenamiento_de_los_servicios_financieros",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrascap",
-    "ref_abbrev": "lrascap",
-    "pdf_filename_origen": "LRASCAP.pdf",
-    "md_slug": "LRASCAP_ley_para_regular_las_actividades_de_las_sociedades_cooperativas_de_aho",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644",
+    "key": "lpue",
+    "ref_abbrev": "lpue",
+    "pdf_filename_origen": "65_071220.pdf",
+    "md_slug": "LP_ley_de_puertos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf",
+    "ultima_reforma_raw": "DOF 07/12/2020",
+    "pdf_sha256": "36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -2830,163 +2650,13 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lritf",
-    "ref_abbrev": "lritf",
-    "pdf_filename_origen": "LRITF.pdf",
-    "md_slug": "LRITF_ley_para_regular_las_instituciones_de_tecnologia_financiera",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrsic",
-    "ref_abbrev": "lrsic",
-    "pdf_filename_origen": "LRSIC.pdf",
-    "md_slug": "LRSIC_ley_para_regular_las_sociedades_de_informacion_crediticia",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf",
-    "ultima_reforma_raw": "DOF 24/01/2024",
-    "pdf_sha256": "25be325eba8804157a7b094dd11c861740241434d433a9cd69c53d4fe9e30b91",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lmccbdc",
-    "ref_abbrev": "lmccbdc",
-    "pdf_filename_origen": "187_291214.pdf",
-    "md_slug": "LAAMCCBD_ley_que_aprueba_la_adhesion_de_mexico_al_convenio_constitutivo_del_ban",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf",
-    "ultima_reforma_raw": "DOF 29/12/2014",
-    "pdf_sha256": "2f11746efbe37cbc7bf8f9448f5d9050c4deee13184bbe78c4e958d017bebece",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lfgfaga",
-    "ref_abbrev": "lfgfaga",
-    "pdf_filename_origen": "192.pdf",
-    "md_slug": "LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf",
-    "ultima_reforma_raw": "DOF 09/04/2012",
-    "pdf_sha256": "5ecf3ff973aa8817fdb63785bcf56d34826dabc130480ba3f1b344ce55ede363",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "linbal",
-    "ref_abbrev": "linbal",
-    "pdf_filename_origen": "193_171215.pdf",
-    "md_slug": "LCINBAL_ley_que_crea_el_instituto_nacional_de_bellas_artes_y_literatura",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/193_171215.pdf",
-    "ultima_reforma_raw": "DOF 17/12/2015",
-    "pdf_sha256": "a4ac552c999c8fac29280eab8483bfec7ffd04fe5b8edcd3b699e39c4cdaafd2",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "laem",
-    "ref_abbrev": "laem",
-    "pdf_filename_origen": "LAEM.pdf",
-    "md_slug": "LAEM_ley_que_crea_la_agencia_espacial_mexicana",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "luach",
-    "ref_abbrev": "luach",
-    "pdf_filename_origen": "195.pdf",
-    "md_slug": "LCUAC_ley_que_crea_la_universidad_autonoma_chapingo",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf",
-    "ultima_reforma_raw": "DOF 30/12/1977",
-    "pdf_sha256": "eaf46ed3247dddcc29d15d16c73bd64684685dc7540b8318f743ce000f7bbff5",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "luefa",
-    "ref_abbrev": "luefa",
-    "pdf_filename_origen": "196.pdf",
-    "md_slug": "LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "1735a62b3987ad5c4c07d876dbab5080edeca171b482098aa17b4c647cb11fdf",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrmnyut",
-    "ref_abbrev": "lrmnyut",
-    "pdf_filename_origen": "197.pdf",
-    "md_slug": "LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf",
-    "ultima_reforma_raw": "DOF 12/01/1972",
-    "pdf_sha256": "6e3f13a2ca4c875228dcbd57a62c04bd991e1540b851c56f320c8aaf2016d7c0",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lccaif",
-    "ref_abbrev": "lccaif",
-    "pdf_filename_origen": "LCCAIF.pdf",
-    "md_slug": "LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf",
-    "ultima_reforma_raw": "DOF 06/06/2025",
-    "pdf_sha256": "0cfd6d7820098b2fa0a6388cbf69fb010bc2816951a1c80c52245dadbecd4eda",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lccbid",
-    "ref_abbrev": "lccbid",
-    "pdf_filename_origen": "200_291214.pdf",
-    "md_slug": "LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/200_291214.pdf",
-    "ultima_reforma_raw": "DOF 29/12/2014",
-    "pdf_sha256": "acd6dc67820b7cb3bfa7f1f5f35f25b94d0531fdd24aa1165344cab0a5dabec7",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrfv_art76",
-    "ref_abbrev": "lrfv_art76",
-    "pdf_filename_origen": "202.pdf",
-    "md_slug": "LRFVACGR_ley_reglamentaria_de_la_fraccion_v_del_articulo_76_de_la_constitucion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "89ae4eeddd5a5d6f2100bc85e9348f6f1fdc5f1acb92ef074c6a742a5cd2aad3",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrart76_fracvi",
-    "ref_abbrev": "lrart76_fracvi",
-    "pdf_filename_origen": "LRArt76_fracVI.pdf",
-    "md_slug": "LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrfxiiib_art123",
-    "ref_abbrev": "lrfxiiib_art123",
-    "pdf_filename_origen": "LRFXIIIB_Art123.pdf",
-    "md_slug": "LRFXIIIB_Art123_ley_reglamentaria_de_la_fraccion_xiii_bis_del_apartado_b_del_articulo",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "57ec1adca9a93f6403430d9a0e202d49216fa2c83997706c08d93b88cdd46dea",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrfxviii_art73",
-    "ref_abbrev": "lrfxviii_art73",
-    "pdf_filename_origen": "204.pdf",
-    "md_slug": "LRFXAC_ley_reglamentaria_de_la_fraccion_xviii_del_articulo_73_constitucional",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "d946e7696c01236d288d0b36d4fa8a0ac61a937c6c4a1280a0913389852ec30b",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "lrfiyii_art105",
-    "ref_abbrev": "lrfiyii_art105",
-    "pdf_filename_origen": "LRFIyII_Art105.pdf",
-    "md_slug": "LRFIyII_Art105_ley_reglamentaria_de_las_fracciones_i_y_ii_del_articulo_105_de_la_cons",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf",
-    "ultima_reforma_raw": "DOF 14/11/2025",
-    "pdf_sha256": "b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb",
+    "key": "lram",
+    "ref_abbrev": "lram",
+    "pdf_filename_origen": "LRAM.pdf",
+    "md_slug": "LRAM_ley_de_recompensas_de_la_armada_de_mexico",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf",
+    "ultima_reforma_raw": "DOF 22/11/2021",
+    "pdf_sha256": "d0b2beb3d2e66847880d4c4270b4af4df1db63b22d6e5ac93883eca832652d6c",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -3030,6 +2700,116 @@
     "snapshot_date": "2026-06-23"
   },
   {
+    "key": "lrart76_fracvi",
+    "ref_abbrev": "lrart76_fracvi",
+    "pdf_filename_origen": "LRArt76_fracVI.pdf",
+    "md_slug": "LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lrascap",
+    "ref_abbrev": "lrascap",
+    "pdf_filename_origen": "LRASCAP.pdf",
+    "md_slug": "LRASCAP_ley_para_regular_las_actividades_de_las_sociedades_cooperativas_de_aho",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lrcdn",
+    "ref_abbrev": "lrcdn",
+    "pdf_filename_origen": "LRCDN.pdf",
+    "md_slug": "LRCDN_ley_de_responsabilidad_civil_por_danos_nucleares",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "d505184709bf8fd04c4d24b188d1fa19f86acac51b462c6c4fb63482588ec40e",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lrfiyii_art105",
+    "ref_abbrev": "lrfiyii_art105",
+    "pdf_filename_origen": "LRFIyII_Art105.pdf",
+    "md_slug": "LRFIyII_Art105_ley_reglamentaria_de_las_fracciones_i_y_ii_del_articulo_105_de_la_cons",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lrfv_art76",
+    "ref_abbrev": "lrfv_art76",
+    "pdf_filename_origen": "202.pdf",
+    "md_slug": "LRFVACGR_ley_reglamentaria_de_la_fraccion_v_del_articulo_76_de_la_constitucion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "89ae4eeddd5a5d6f2100bc85e9348f6f1fdc5f1acb92ef074c6a742a5cd2aad3",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lrfxiiib_art123",
+    "ref_abbrev": "lrfxiiib_art123",
+    "pdf_filename_origen": "LRFXIIIB_Art123.pdf",
+    "md_slug": "LRFXIIIB_Art123_ley_reglamentaria_de_la_fraccion_xiii_bis_del_apartado_b_del_articulo",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "57ec1adca9a93f6403430d9a0e202d49216fa2c83997706c08d93b88cdd46dea",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lrfxviii_art73",
+    "ref_abbrev": "lrfxviii_art73",
+    "pdf_filename_origen": "204.pdf",
+    "md_slug": "LRFXAC_ley_reglamentaria_de_la_fraccion_xviii_del_articulo_73_constitucional",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "d946e7696c01236d288d0b36d4fa8a0ac61a937c6c4a1280a0913389852ec30b",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lritf",
+    "ref_abbrev": "lritf",
+    "pdf_filename_origen": "LRITF.pdf",
+    "md_slug": "LRITF_ley_para_regular_las_instituciones_de_tecnologia_financiera",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lrmnyut",
+    "ref_abbrev": "lrmnyut",
+    "pdf_filename_origen": "197.pdf",
+    "md_slug": "LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf",
+    "ultima_reforma_raw": "DOF 12/01/1972",
+    "pdf_sha256": "6e3f13a2ca4c875228dcbd57a62c04bd991e1540b851c56f320c8aaf2016d7c0",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lrpcap",
+    "ref_abbrev": "lrpcap",
+    "pdf_filename_origen": "LRPCAP.pdf",
+    "md_slug": "LRPCAP_ley_sobre_refugiados_proteccion_complementaria_y_asilo_politico_antes",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf",
+    "ultima_reforma_raw": "DOF 18/02/2022",
+    "pdf_sha256": "cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lrpv",
+    "ref_abbrev": "lrpv",
+    "pdf_filename_origen": "269_200521.pdf",
+    "md_slug": "LRPV_ley_del_registro_publico_vehicular",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf",
+    "ultima_reforma_raw": "DOF 20/05/2021",
+    "pdf_sha256": "0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba",
+    "snapshot_date": "2026-06-23"
+  },
+  {
     "key": "lrsf",
     "ref_abbrev": "lrsf",
     "pdf_filename_origen": "LRSF.pdf",
@@ -3040,43 +2820,33 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lcaaa",
-    "ref_abbrev": "lcaaa",
-    "pdf_filename_origen": "23.pdf",
-    "md_slug": "LCA_ley_sobre_camaras_agricolas_que_en_lo_sucesivo_se_denominaran_asociaci",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
-    "ultima_reforma_raw": "DOF 09/04/2012",
-    "pdf_sha256": "e893cded29ecee9a0b5ad3c4c07a33b6be520db6a73f89e837a32235b6167c84",
+    "key": "lrsic",
+    "ref_abbrev": "lrsic",
+    "pdf_filename_origen": "LRSIC.pdf",
+    "md_slug": "LRSIC_ley_para_regular_las_sociedades_de_informacion_crediticia",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf",
+    "ultima_reforma_raw": "DOF 24/01/2024",
+    "pdf_sha256": "25be325eba8804157a7b094dd11c861740241434d433a9cd69c53d4fe9e30b91",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lcs",
-    "ref_abbrev": "lcs",
-    "pdf_filename_origen": "211.pdf",
-    "md_slug": "LCS_ley_sobre_el_contrato_de_seguro",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf",
-    "ultima_reforma_raw": "DOF 04/04/2013",
-    "pdf_sha256": "8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06",
+    "key": "lsar",
+    "ref_abbrev": "lsar",
+    "pdf_filename_origen": "LSAR.pdf",
+    "md_slug": "LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1",
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lebhn",
-    "ref_abbrev": "lebhn",
-    "pdf_filename_origen": "LEBHN.pdf",
-    "md_slug": "LEBHN_ley_sobre_el_escudo_la_bandera_y_el_himno_nacionales",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf",
-    "ultima_reforma_raw": "DOF 21/07/2025",
-    "pdf_sha256": "e117a1f2c91d31d7c478c7cf823501fb07f58e52d62ac53fdb43c888d8d4ac78",
-    "snapshot_date": "2026-06-23"
-  },
-  {
-    "key": "latime",
-    "ref_abbrev": "latime",
-    "pdf_filename_origen": "271.pdf",
-    "md_slug": "LATIME_ley_sobre_la_aprobacion_de_tratados_internacionales_en_materia_economi",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf",
-    "ultima_reforma_raw": "Sin reforma",
-    "pdf_sha256": "2f9532986cf47aef5de1f50af5e758333d65b7fdab15489bb0c41c36bcb60133",
+    "key": "lsat",
+    "ref_abbrev": "lsat",
+    "pdf_filename_origen": "93_041218.pdf",
+    "md_slug": "LSAT_ley_del_servicio_de_administracion_tributaria",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf",
+    "ultima_reforma_raw": "DOF 04/12/2018",
+    "pdf_sha256": "ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5",
     "snapshot_date": "2026-06-23"
   },
   {
@@ -3090,13 +2860,263 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lrpcap",
-    "ref_abbrev": "lrpcap",
-    "pdf_filename_origen": "LRPCAP.pdf",
-    "md_slug": "LRPCAP_ley_sobre_refugiados_proteccion_complementaria_y_asilo_politico_antes",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf",
-    "ultima_reforma_raw": "DOF 18/02/2022",
-    "pdf_sha256": "cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a",
+    "key": "lse",
+    "ref_abbrev": "lse",
+    "pdf_filename_origen": "LSE.pdf",
+    "md_slug": "LSE_ley_del_sector_electrico",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsem",
+    "ref_abbrev": "lsem",
+    "pdf_filename_origen": "96_190418.pdf",
+    "md_slug": "LSEM_ley_del_servicio_exterior_mexicano",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf",
+    "ultima_reforma_raw": "DOF 19/04/2018",
+    "pdf_sha256": "012a7b3a18d987229f48c98a36b9b9cf91f5227b5e888ff09f535fd609e31c21",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsh",
+    "ref_abbrev": "lsh",
+    "pdf_filename_origen": "LSH.pdf",
+    "md_slug": "LSH_ley_del_sector_hidrocarburos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsint",
+    "ref_abbrev": "lsint",
+    "pdf_filename_origen": "LSInt_300519.pdf",
+    "md_slug": "LSInt_ley_de_seguridad_interior",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf",
+    "ultima_reforma_raw": "DOF 30/05/2019 Sentencia SCJN",
+    "pdf_sha256": "d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsm",
+    "ref_abbrev": "lsm",
+    "pdf_filename_origen": "LSM.pdf",
+    "md_slug": "LSM_ley_del_servicio_militar",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf",
+    "ultima_reforma_raw": "DOF 18/05/2022",
+    "pdf_sha256": "09cfa3f2c0feead6685bda1dd439f07db0a0d105acc1ef0e6669cf0df82ce3f0",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsn",
+    "ref_abbrev": "lsn",
+    "pdf_filename_origen": "LSN.pdf",
+    "md_slug": "LSN_ley_de_seguridad_nacional",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsnieg",
+    "ref_abbrev": "lsnieg",
+    "pdf_filename_origen": "LSNIEG.pdf",
+    "md_slug": "LSNIEG_ley_del_sistema_nacional_de_informacion_estadistica_y_geografica",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsniimsp",
+    "ref_abbrev": "lsniimsp",
+    "pdf_filename_origen": "LSNIIMSP.pdf",
+    "md_slug": "LSNIIMSP_ley_del_sistema_nacional_de_investigacion_e_inteligencia_en_materia_de",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsp",
+    "ref_abbrev": "lsp",
+    "pdf_filename_origen": "LSP.pdf",
+    "md_slug": "LSP_ley_de_sistemas_de_pagos",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "43eeef86db897e9d52872f6d4cf2d1b8168936e0b0ce8486e24aa9f9b8b87508",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lspcapf",
+    "ref_abbrev": "lspcapf",
+    "pdf_filename_origen": "260.pdf",
+    "md_slug": "LSPCAPF_ley_del_servicio_profesional_de_carrera_en_la_administracion_publica_f",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf",
+    "ultima_reforma_raw": "DOF 09/01/2006",
+    "pdf_sha256": "d0e88848d94fbf70ee742e9e57a5ee9c34e060b21215f2c7f98a02e1f307e424",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lspm",
+    "ref_abbrev": "lspm",
+    "pdf_filename_origen": "LSPM.pdf",
+    "md_slug": "LSPM_ley_del_servicio_postal_mexicano",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf",
+    "ultima_reforma_raw": "DOF 19/01/2023",
+    "pdf_sha256": "f8a66009368493d0c964c21f4cb165c39d5bb3b1236058511547f9c3cca6e5cc",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsprem",
+    "ref_abbrev": "lsprem",
+    "pdf_filename_origen": "LSPREM.pdf",
+    "md_slug": "LSPREM_ley_del_sistema_publico_de_radiodifusion_del_estado_mexicano",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsrlip",
+    "ref_abbrev": "lsrlip",
+    "pdf_filename_origen": "70.pdf",
+    "md_slug": "LSRLIP_ley_de_sociedades_de_responsabilidad_limitada_de_interes_publico",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf",
+    "ultima_reforma_raw": "DOF 09/04/2012",
+    "pdf_sha256": "18a1d80243cd419c3ffc7173cf90b8509ab8d78b4b5f64de97025fb51a170613",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lss",
+    "ref_abbrev": "lss",
+    "pdf_filename_origen": "LSS.pdf",
+    "md_slug": "LSS_ley_del_seguro_social",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
+    "ultima_reforma_raw": "DOF 15/01/2026",
+    "pdf_sha256": "8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lsss",
+    "ref_abbrev": "lsss",
+    "pdf_filename_origen": "71_240418.pdf",
+    "md_slug": "LSSS_ley_de_sociedades_de_solidaridad_social",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf",
+    "ultima_reforma_raw": "DOF 24/04/2018",
+    "pdf_sha256": "4618876b444def89a7cb2464b71019e0119288ebe6695d90b6a82ae8289b937e",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ltf",
+    "ref_abbrev": "ltf",
+    "pdf_filename_origen": "LTF.pdf",
+    "md_slug": "LTF_ley_de_tesoreria_de_la_federacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "ef712663724737ddfd8542c8104eeb983303f651b7cf8a76bba9d30539a7e6fa",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ltfccg",
+    "ref_abbrev": "ltfccg",
+    "pdf_filename_origen": "256.pdf",
+    "md_slug": "LTFCCG_ley_de_transparencia_y_de_fomento_a_la_competencia_en_el_credito_garan",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf",
+    "ultima_reforma_raw": "DOF 10/01/2014",
+    "pdf_sha256": "1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ltosf",
+    "ref_abbrev": "ltosf",
+    "pdf_filename_origen": "LTOSF.pdf",
+    "md_slug": "LTOSF_ley_para_la_transparencia_y_ordenamiento_de_los_servicios_financieros",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "ltpcpimcp",
+    "ref_abbrev": "ltpcpimcp",
+    "pdf_filename_origen": "LTPCPIMCP.pdf",
+    "md_slug": "LTPCPIMCP_ley_para_la_transparencia_prevencion_y_combate_de_practicas_indebidas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf",
+    "ultima_reforma_raw": "DOF 22/12/2023 Sentencia SCJN",
+    "pdf_sha256": "55fcd61a87cfde80f0699f50bb45d3ee0a79c461dcb0fc374b9a846125cb491d",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "luach",
+    "ref_abbrev": "luach",
+    "pdf_filename_origen": "195.pdf",
+    "md_slug": "LCUAC_ley_que_crea_la_universidad_autonoma_chapingo",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf",
+    "ultima_reforma_raw": "DOF 30/12/1977",
+    "pdf_sha256": "eaf46ed3247dddcc29d15d16c73bd64684685dc7540b8318f743ce000f7bbff5",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "luc",
+    "ref_abbrev": "luc",
+    "pdf_filename_origen": "LUC.pdf",
+    "md_slug": "LUC_ley_de_uniones_de_credito",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "luefa",
+    "ref_abbrev": "luefa",
+    "pdf_filename_origen": "196.pdf",
+    "md_slug": "LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "1735a62b3987ad5c4c07d876dbab5080edeca171b482098aa17b4c647cb11fdf",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lupdecr",
+    "ref_abbrev": "lupdecr",
+    "pdf_filename_origen": "LUPDECR.pdf",
+    "md_slug": "LUPDECR_ley_para_el_uso_y_proteccion_de_la_denominacion_y_del_emblema_de_la_cr",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf",
+    "ultima_reforma_raw": "Sin reforma",
+    "pdf_sha256": "add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lvgc",
+    "ref_abbrev": "lvgc",
+    "pdf_filename_origen": "LVGC.pdf",
+    "md_slug": "LVGC_ley_de_vias_generales_de_comunicacion",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "a4becbaa8039573e226e916618697661f1294aa26dac434a01144ba65b13699e",
+    "snapshot_date": "2026-06-23"
+  },
+  {
+    "key": "lviv",
+    "ref_abbrev": "lviv",
+    "pdf_filename_origen": "LViv.pdf",
+    "md_slug": "LViv_ley_de_vivienda",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf",
+    "ultima_reforma_raw": "DOF 29/04/2026",
+    "pdf_sha256": "f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7",
+    "snapshot_date": "2026-06-25"
+  },
+  {
+    "key": "lvzmm",
+    "ref_abbrev": "lvzmm",
+    "pdf_filename_origen": "LVZMM.pdf",
+    "md_slug": "LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf",
+    "ultima_reforma_raw": "DOF 14/11/2025",
+    "pdf_sha256": "d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70",
     "snapshot_date": "2026-06-23"
   },
   {

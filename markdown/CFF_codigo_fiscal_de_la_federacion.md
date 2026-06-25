@@ -5,7 +5,7 @@
 
 ---
 
-Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1981 TEXTO VIGENTE Cantidades actualizadas y compiladas por Resolución Miscelánea Fiscal DOF 28-12-2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1981 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO:
 El Congreso de los Estados Unidos Mexicanos, Decreta:
@@ -4436,7 +4436,8 @@ Las publicaciones a que se refiere este artículo contendrán un extracto de los
 Se tendrá como fecha de notificación la de la última publicación.
 
 ### Artículo 141
-. Los contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos establecidos en los artículos 74 y 142 de este Código, conforme al siguiente orden obligatorio:
+. Las personas contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos establecidos en los artículos 74 y 142 de este Código, en alguna de las formas siguientes:
+Párrafo reformado DOF 09-04-2026
 
 I. Billete de depósito, emitido por institución autorizada.
 
@@ -4450,8 +4451,8 @@ Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en d
 V. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
 
 VI. Embargo en la vía administrativa de negociaciones, bienes muebles tangibles e inmuebles, excepto aquellos con características de predios rústicos. Mediante reglas de carácter general, el Servicio de Administración Tributaria podrá establecer las características y demás tipo de bienes que se podrán ofrecer en esta modalidad.
-Párrafo con fracciones reformado DOF 07-11-2025 Los contribuyentes deberán ofrecer como garantía, en todos los casos, la modalidad señalada en la fracción I, hasta por el importe máximo de su capacidad económica, aun y cuando no sea suficiente para garantizar el interés fiscal y, en la misma solicitud, combinarse con alguna de las formas y en el orden que al efecto establece este artículo, en ese caso, los contribuyentes deberán demostrar la imposibilidad para garantizar sus adeudos fiscales bajo las modalidades establecidas en las fracciones I, II, III, IV, V y VI, en ese orden, presentando la documentación que acredite dicha situación. La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
-Párrafo reformado DOF 07-11-2025
+Párrafo con fracciones reformado DOF 07-11-2025 La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este periodo y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+Párrafo reformado DOF 07-11-2025, 09-04-2026
 El Reglamento de este Código establecerá los requisitos que deberán reunir las garantías. La autoridad fiscal vigilará que sean suficientes tanto en el momento de su ofrecimiento como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, ésta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
 Párrafo reformado DOF 07-11-2025
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
@@ -6866,3 +6867,15 @@ B. Compilación de cantidades establecidas en el CFF.
 Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación. …….
 Atentamente.
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
+DECRETO por el que se reforma el artículo 141 del Código Fiscal de la Federación.
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2026
+
+### Artículo Único
+Se reforma el artículo 141, párrafos primero y segundo, del Código Fiscal de la Federación, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los procedimientos de garantía del interés fiscal iniciados entre el 1 de enero de 2026 y la entrada en vigor del presente Decreto, así como las garantías constituidas durante dicho periodo conforme al orden establecido en el artículo 141 vigente en el citado periodo, se podrán sujetar a lo establecido en dicho artículo en su texto reformado mediante el presente Decreto, siempre que la persona contribuyente lo solicite expresamente ante la autoridad exactora dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto. En el caso de garantías ya constituidas, la sustitución no interrumpirá la suspensión del procedimiento administrativo de ejecución ni generará requerimiento adicional. La autoridad exactora resolverá la solicitud en un plazo no mayor a veinte días hábiles. Los actos ya consumados y no impugnados al momento de la solicitud conservarán sus efectos.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo a los presupuestos aprobados a los ejecutores de gasto que intervienen en el mismo, sin que se autoricen ampliaciones liquidas a dichos presupuestos.
+Ciudad de México, a 7 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

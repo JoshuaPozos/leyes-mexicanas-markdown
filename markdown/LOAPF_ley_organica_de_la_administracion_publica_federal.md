@@ -5,7 +5,7 @@
 
 ---
 
-Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de 1976 TEXTO VIGENTE Últimas reformas publicadas DOF 16-07-2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de 1976 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO El Congreso de los Estados Unidos Mexicanos, decreta:
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL TITULO PRIMERO De la Administración Pública Federal CAPITULO UNICO De la Administración Pública Federal
@@ -1259,6 +1259,8 @@ I Quáter. Construir, equipar, restaurar, reforzar, reconstruir y rehabilitar in
 Fracción adicionada DOF 28-11-2024
 I Quinquies. Construir, equipar, rehabilitar, reforzar, reconstruir y habilitar la infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
 Fracción adicionada DOF 28-11-2024
+I Sexies. Participar, a solicitud de las autoridades federales competentes, en la construcción, equipamiento, rehabilitación, reforzamiento, reconstrucción, sustitución, ampliación y habilitación de obras públicas asociadas a proyectos de infraestructura, incluyendo establecimientos destinados a la prestación de servicios de salud, en coordinación con los tres órdenes de gobierno;
+Fracción adicionada DOF 07-05-2026
 
 II. Se deroga.
 Fracción reformada DOF 24-12-1986, 14-07-2014. Derogada DOF 28-11-2024
@@ -1687,7 +1689,9 @@ Fracción recorrida DOF 29-12-1982. Reformada y recorrida DOF 28-12-1994, 30-11-
 
 ### Artículo 40
 .- A la Secretaría del Trabajo y Previsión Social corresponde el despacho de los siguientes asuntos:
-I.- Vigilar la observancia y aplicación de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
+
+I. Vigilar la observancia y aplicación de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos; así como expedir certificaciones de conformidad con la normativa aplicable;
+Fracción reformada DOF 01-05-2026
 II.- Procurar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales relativas;
 III.- Intervenir en los contratos de trabajo de los nacionales que vayan a prestar sus servicios en el extranjero, en cooperación con las Secretarías de Gobernación, de Economía y de Relaciones Exteriores;
 Fracción reformada DOF 30-11-2000
@@ -3608,3 +3612,27 @@ Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entr
 **Sexto.-** El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+DECRETO por el que se reforman los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales.
+Publicado en el Diario Oficial de la Federación el 1 de mayo de 2026
+
+### Artículo Primero
+Se reforma el artículo 40, fracción I, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 01 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+DECRETO por el que se adiciona una fracción I Sexies al artículo 36 de la Ley Orgánica de la Administración Pública Federal.
+Publicado en el Diario Oficial de la Federación el 7 de mayo de 2026
+
+### Artículo Único
+Se adiciona una fracción I Sexies al artículo 36 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado para la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales ni se incrementará su presupuesto regularizable para el presente ejercicio fiscal y subsecuentes.
+**Tercero.-** El Ejecutivo Federal contará con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones reglamentarias y normativas que resulten necesarias para su debida implementación.
+Ciudad de México, a 21 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 04 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

@@ -7,9 +7,9 @@
   "source": {
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
     "pdf_filename_origen": "LFT.pdf",
-    "dof_publication": "DOF01/04/1970",
-    "last_reform": "DOF 15/01/2026",
-    "captured_at": "2026-06-12T02:24:50.099236+00:00"
+    "dof_publication": "DOF01/04/1970 Nueva reforma",
+    "last_reform": "DOF 14/05/2026",
+    "captured_at": "2026-06-25T14:57:28.521446+00:00"
   },
   "preamble": [
     {
@@ -2584,6 +2584,16 @@
         {
           "type": "paragraph",
           "text": ".- Jornada de trabajo es el tiempo durante el cual el trabajador está a disposición del patrón para prestar su trabajo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esta podrá ser distribuida de común acuerdo por las personas empleadoras y trabajadoras."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 01-05-2026",
+          "action": "adicionado",
+          "dof_date": "01-05-2026"
         }
       ],
       "children": []
@@ -2597,11 +2607,13 @@
       "content": [
         {
           "type": "paragraph",
-          "text": ".- El trabajador y el patrón fijarán la duración de la jornada de trabajo, sin que pueda exceder los máximos legales."
+          "text": ".- La duración máxima de la jornada ordinaria de trabajo será de cuarenta horas semanales."
         },
         {
-          "type": "paragraph",
-          "text": "Los trabajadores y el patrón podrán repartir las horas de trabajo, a fin de permitir a los primeros el reposo del sábado en la tarde o cualquier modalidad equivalente."
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 01-05-2026",
+          "action": "reformado",
+          "dof_date": "01-05-2026"
         }
       ],
       "children": []
@@ -2637,7 +2649,13 @@
       "content": [
         {
           "type": "paragraph",
-          "text": ".- La duración máxima de la jornada será: ocho horas la diurna, siete la nocturna y siete horas y media la mixta."
+          "text": ".- La duración de la jornada diaria será de ocho horas la diurna, siete la nocturna y siete horas y media la mixta."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 01-05-2026",
+          "action": "reformado",
+          "dof_date": "01-05-2026"
         }
       ],
       "children": []
@@ -2707,7 +2725,17 @@
       "content": [
         {
           "type": "paragraph",
-          "text": ".- Podrá también prolongarse la jornada de trabajo por circunstancias extraordinarias, sin exceder nunca de tres horas diarias ni de tres veces en una semana."
+          "text": ".- La jornada de trabajo podrá prolongarse por circunstancias extraordinarias."
+        },
+        {
+          "type": "paragraph",
+          "text": "En estos casos, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 01-05-2026",
+          "action": "reformado",
+          "dof_date": "01-05-2026"
         }
       ],
       "children": []
@@ -2725,7 +2753,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Las horas de trabajo extraordinario se pagarán con un ciento por ciento más del salario que corresponda a las horas de la jornada."
+          "text": "Reforma DOF 01-05-2026: Derogó del artículo el entonces párrafo segundo"
         }
       ],
       "children": []
@@ -2739,11 +2767,21 @@
       "content": [
         {
           "type": "paragraph",
-          "text": ".- Los trabajadores no están obligados a prestar sus servicios por un tiempo mayor del permitido de este capítulo."
+          "text": ".- Las personas trabajadoras no están obligadas a prestar sus servicios por un tiempo mayor del permitido en este capítulo."
         },
         {
           "type": "paragraph",
-          "text": "La prolongación del tiempo extraordinario que exceda de nueve horas a la semana, obliga al patrón a pagar al trabajador el tiempo excedente con un doscientos por ciento más del salario que corresponda a las horas de la jornada, sin perjuicio de las sanciones establecidas en esta Ley."
+          "text": "La prolongación del tiempo extraordinario que supere lo establecido en el artículo 66 de esta Ley, no podrá ser mayor de cuatro horas a la semana y obliga a la persona empleadora a pagar un doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria."
+        },
+        {
+          "type": "paragraph",
+          "text": "La suma de las jornadas ordinaria y extraordinaria, en ningún caso podrá ser mayor a doce horas diarias."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 01-05-2026",
+          "action": "reformado",
+          "dof_date": "01-05-2026"
         },
         {
           "type": "paragraph",
@@ -2761,7 +2799,13 @@
       "content": [
         {
           "type": "paragraph",
-          "text": ".- Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, por lo menos, con goce de salario íntegro."
+          "text": ".- Por cada seis días de trabajo se deberá otorgar, por lo menos, un día de descanso con goce de salario íntegro."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 01-05-2026",
+          "action": "reformado",
+          "dof_date": "01-05-2026"
         }
       ],
       "children": []
@@ -2793,7 +2837,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Los trabajadores que presten servicio en día domingo tendrán derecho a una prima adicional de un veinticinco por ciento, por lo menos, sobre el salario de los días ordinarios de trabajo."
+          "text": "Las personas que laboren en domingo tendrán derecho a una prima adicional de un veinticinco por ciento, por lo menos, sobre el salario de los días ordinarios de trabajo."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 01-05-2026",
+          "action": "reformado",
+          "dof_date": "01-05-2026"
         }
       ],
       "children": []
@@ -4571,24 +4621,43 @@
         {
           "type": "fraccion",
           "ordinal": "XXXII",
-          "text": "Fijar y difundir en los lugares de mayor afluencia del centro de trabajo el texto fiel de la convocatoria y demás documentos que le solicite el Centro Federal de Conciliación y Registro Laboral para el desarrollo del procedimiento de consulta a que hacen referencia los artículos 390 Bis y 390 Ter, y"
+          "text": "Fijar y difundir en los lugares de mayor afluencia del centro de trabajo el texto fiel de la convocatoria y demás documentos que le solicite el Centro Federal de Conciliación y Registro Laboral para el desarrollo del procedimiento de consulta a que hacen referencia los artículos 390 Bis y 390 Ter;"
         },
         {
           "type": "reform_note",
-          "text": "Fracción adicionada DOF 01-05-2019",
+          "text": "Fracción adicionada DOF 01-05-2019. Reformada DOF 01-05-2026",
           "action": "adicionado",
-          "dof_date": "01-05-2019"
+          "dof_date": "01-05-2026"
         },
         {
           "type": "fraccion",
           "ordinal": "XXXIII",
-          "text": "Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis."
+          "text": "Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis, y"
         },
         {
           "type": "reform_note",
-          "text": "Fracción adicionada DOF 01-05-2019",
+          "text": "Fracción adicionada DOF 01-05-2019. Reformada DOF 01-05-2026",
           "action": "adicionado",
-          "dof_date": "01-05-2019"
+          "dof_date": "01-05-2026"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XXXIV",
+          "text": "Registrar de manera electrónica la jornada laboral de cada persona trabajadora, incluyendo el horario de inicio y finalización; así como proporcionarlo a la autoridad cuando se le requiera."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría del Trabajo y Previsión Social expedirá las disposiciones de carácter general que determinen el ámbito de aplicación y excepción a la obligación establecida en el párrafo que antecede."
+        },
+        {
+          "type": "paragraph",
+          "text": "El contenido del registro electrónico hará prueba plena si se acredita que fue acordado entre la persona trabajadora y empleadora."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 01-05-2026",
+          "action": "adicionado",
+          "dof_date": "01-05-2026"
         }
       ],
       "children": []
@@ -10066,6 +10135,26 @@
         },
         {
           "type": "articulo",
+          "id": "capitulo-iii-bis.articulo-283",
+          "heading": "Artículo 283",
+          "descriptor": null,
+          "ordinal": "283",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quáter.- La Secretaría del Trabajo y Previsión Social podrá expedir un certificado de cumplimiento de obligaciones laborales y de seguridad social de conformidad con las disposiciones generales que al efecto emitan las autoridades competentes."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 01-05-2026",
+              "action": "adicionado",
+              "dof_date": "01-05-2026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
           "id": "capitulo-iii-bis.articulo-284",
           "heading": "Artículo 284",
           "descriptor": null,
@@ -11249,7 +11338,13 @@
             },
             {
               "type": "paragraph",
-              "text": "CAPITULO XI Trabajadores actores y músicos"
+              "text": "CAPITULO XI Personas trabajadoras artistas intérpretes o ejecutantes"
+            },
+            {
+              "type": "reform_note",
+              "text": "Denominación del Capítulo reformada DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -11263,7 +11358,13 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- Las disposiciones de este capítulo se aplican a los trabajadores actores y a los músicos que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje y grabación, o en cualquier otro local donde se transmita o fotografíe la imagen del actor o del músico o se transmita o quede grabada la voz o la música, cualquiera que sea el procedimiento que se use."
+              "text": ".- Las disposiciones de este capítulo se aplican a las personas trabajadoras artistas intérpretes o ejecutantes, en términos del artículo 116 de la Ley Federal del Derecho de Autor, que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje o en cualquier otro lugar o entorno donde se lleve a cabo la interpretación y/o ejecución."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -11282,6 +11383,26 @@
             {
               "type": "paragraph",
               "text": "No es aplicable la disposición contenida en el artículo 39."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii-bis.articulo-305",
+          "heading": "Artículo 305",
+          "descriptor": null,
+          "ordinal": "305",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis.- En los contratos que regulen la relación laboral de las personas trabajadoras artistas intérpretes o ejecutantes, se deberán estipular de manera específica las condiciones y la remuneración correspondiente para la utilización de su imagen o voz a través de sistemas de inteligencia artificial o cualquier otra tecnología."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 14-05-2026",
+              "action": "adicionado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -11309,7 +11430,13 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- No es violatoria del principio de igualdad de salario, la disposición que estipule salarios distintos para trabajos iguales, por razón de la categoría de las funciones, representaciones o actuaciones, o de la de los trabajadores actores y músicos."
+              "text": ".- No es violatoria del principio de igualdad de salario, la disposición que estipule salarios distintos para trabajos iguales, por razón de la categoría de las funciones, representaciones o actuaciones, o de las personas trabajadoras artistas intérpretes o ejecutantes."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -11323,7 +11450,13 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- Para la prestación de servicios de los trabajadores actores o músicos fuera de la República, se observarán, además de las normas contenidas en el artículo 28, las disposiciones siguientes:"
+              "text": ".- Para la prestación de servicios de las personas trabajadoras artistas intérpretes o ejecutantes fuera de la República, se observarán, además de las normas contenidas en el artículo 28, las disposiciones siguientes:"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "fraccion",
@@ -11347,7 +11480,13 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- La prestación de servicios dentro de la República, en lugar diverso de la residencia del trabajador actor o músico, se regirá por las disposiciones contenidas en el artículo anterior, en lo que sean aplicables."
+              "text": ".- La prestación de servicios dentro de la República, en lugar diverso de la residencia de la persona trabajadora artista intérprete o ejecutante, se regirá por las disposiciones contenidas en el artículo anterior, en lo que sean aplicables."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             }
           ],
           "children": []
@@ -11361,7 +11500,13 @@
           "content": [
             {
               "type": "paragraph",
-              "text": ".- Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio."
+              "text": ".- Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a las personas trabajadoras artistas intérpretes o ejecutantes camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-05-2026",
+              "action": "reformado",
+              "dof_date": "14-05-2026"
             },
             {
               "type": "paragraph",
@@ -19806,12 +19951,20 @@
                   "4",
                   "Por la amputación del brazo, entre el hombro y el codo.",
                   "80%"
-                ],
-                [
-                  "5",
-                  "Por la desarticulación del codo.",
-                  "80%"
-                ],
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 229
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "5",
+                "Por la desarticulación del codo.",
+                "80%"
+              ],
+              "rows": [
                 [
                   "6",
                   "Por la amputación del antebrazo entre el codo y la muñeca.",
@@ -19986,20 +20139,12 @@
                   "40",
                   "Por la pérdida del dedo meñique.",
                   "12%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 229
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "41",
-                "Por la pérdida parcial de la falange proximal del dedo meñique.",
-                "10%"
-              ],
-              "rows": [
+                ],
+                [
+                  "41",
+                  "Por la pérdida parcial de la falange proximal del dedo meñique.",
+                  "10%"
+                ],
                 [
                   "42",
                   "Por la pérdida de la falange distal con mutilación o pérdida de la falange media del meñique.",
@@ -20194,7 +20339,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 230
+              "source_page": 231
             },
             {
               "type": "paragraph",
@@ -20204,29 +20349,16 @@
               "type": "table",
               "title": null,
               "headers": [
-                "",
-                "",
-                ""
+                "78",
+                "Del hombro, afectando principalmente la flexión y la abducción.",
+                "10 a 30%"
               ],
               "rows": [
                 [
-                  "78",
-                  "Del hombro, afectando principalmente la flexión y la abducción.",
-                  "10 a 30%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 230
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "79",
-                "Del codo, que no permite la extensión completa, con un ángulo de flexión de 90 a 140 grados.",
-                "30%"
-              ],
-              "rows": [
+                  "79",
+                  "Del codo, que no permite la extensión completa, con un ángulo de flexión de 90 a 140 grados.",
+                  "30%"
+                ],
                 [
                   "80",
                   "Del codo, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados.",
@@ -20234,9 +20366,22 @@
                 ],
                 [
                   "81",
-                  "Del codo, que permite la extensión completa, con un ángulo de flexión hasta 70 grados.",
+                  "Del codo, que permite la extensión completa, con un ángulo de flexión hasta",
                   "10%"
-                ],
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 231
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "",
+                "70 grados.",
+                ""
+              ],
+              "rows": [
                 [
                   "82",
                   "Del codo, que permite la extensión completa, con un ángulo de flexión hasta 110 grados.",
@@ -20334,7 +20479,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 231
+              "source_page": 232
             },
             {
               "type": "paragraph",
@@ -20421,7 +20566,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 231
+              "source_page": 232
             },
             {
               "type": "paragraph",
@@ -20443,9 +20588,22 @@
                 ],
                 [
                   "118",
-                  "Del codo, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados.",
+                  "Del codo, que no permite la extensión completa, con un ángulo de flexión",
                   "20%"
-                ],
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 232
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "",
+                "menor de 90 grados.",
+                ""
+              ],
+              "rows": [
                 [
                   "119",
                   "Del codo, que permite la extensión completa, con un ángulo de flexión hasta 70 grados.",
@@ -20463,7 +20621,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 232
+              "source_page": 233
             },
             {
               "type": "paragraph",
@@ -20500,7 +20658,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 232
+              "source_page": 233
             },
             {
               "type": "paragraph",
@@ -20542,7 +20700,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 232
+              "source_page": 233
             },
             {
               "type": "paragraph",
@@ -20599,22 +20757,9 @@
                 ],
                 [
                   "142",
-                  "De los huesos del antebrazo, cuando produzcan rigidez de la muñeca y",
+                  "De los huesos del antebrazo, cuando produzcan rigidez de la muñeca y limitación para la pronación y/o supinación.",
                   "10 a 20%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 232
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "",
-                "limitación para la pronación y/o supinación.",
-                ""
-              ],
-              "rows": [
+                ],
                 [
                   "143",
                   "Del metacarpo, con desviación secundaria de la mano y rigidez de los dedos.",
@@ -20724,7 +20869,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 233
+              "source_page": 234
             },
             {
               "type": "paragraph",
@@ -20801,7 +20946,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 233
+              "source_page": 234
             },
             {
               "type": "paragraph",
@@ -20811,29 +20956,16 @@
               "type": "table",
               "title": null,
               "headers": [
-                "",
-                "",
-                ""
+                "175",
+                "Amiotrofia del hombro mayor o igual a un centímetro, sin anquilosis ni rigidez articular.",
+                "15%"
               ],
               "rows": [
                 [
-                  "175",
-                  "Amiotrofia del hombro mayor o igual a un centímetro, sin anquilosis ni rigidez articular.",
-                  "15%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 233
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "176",
-                "Amiotrofia del brazo o del antebrazo mayor o igual a un centímetro, sin anquilosis ni rigidez articular.",
-                "10 a 15%"
-              ],
-              "rows": [
+                  "176",
+                  "Amiotrofia del brazo o del antebrazo mayor o igual a un centímetro, sin anquilosis ni rigidez articular.",
+                  "10 a 15%"
+                ],
                 [
                   "177",
                   "Amiotrofia de la mano mayor o igual a un centímetro, sin anquilosis ni rigidez articular.",
@@ -20863,7 +20995,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 234
+              "source_page": 235
             },
             {
               "type": "paragraph",
@@ -20975,7 +21107,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 234
+              "source_page": 235
             },
             {
               "type": "paragraph",
@@ -20994,12 +21126,20 @@
                   "201",
                   "De la articulación coxofemoral en posición de flexión, aducción, abducción y/o rotación.",
                   "65%"
-                ],
-                [
-                  "202",
-                  "De las dos articulaciones coxofemorales.",
-                  "100%"
-                ],
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 235
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "202",
+                "De las dos articulaciones coxofemorales.",
+                "100%"
+              ],
+              "rows": [
                 [
                   "203",
                   "De la rodilla en posición de flexión mayor de 45 grados y hasta 140 grados.",
@@ -21042,7 +21182,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 235
+              "source_page": 236
             },
             {
               "type": "paragraph",
@@ -21089,7 +21229,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 235
+              "source_page": 236
             },
             {
               "type": "paragraph",
@@ -21156,7 +21296,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 235
+              "source_page": 236
             },
             {
               "type": "paragraph",
@@ -21166,29 +21306,16 @@
               "type": "table",
               "title": null,
               "headers": [
-                "",
-                "",
-                ""
+                "229",
+                "De la rodilla en posición de flexión mayor a 45 grados y hasta 140 grados.",
+                "30 a 50%"
               ],
               "rows": [
                 [
-                  "229",
-                  "De la rodilla en posición de flexión mayor a 45 grados y hasta 140 grados.",
-                  "30 a 50%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 235
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "230",
-                "De la rodilla en posición de flexión de 10 grados hasta 45 grados.",
-                "20 a 30%"
-              ],
-              "rows": [
+                  "230",
+                  "De la rodilla en posición de flexión de 10 grados hasta 45 grados.",
+                  "20 a 30%"
+                ],
                 [
                   "231",
                   "Del hueco poplíteo, que limiten la extensión a menos de 90 grados.",
@@ -21343,7 +21470,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 236
+              "source_page": 237
             },
             {
               "type": "paragraph",
@@ -21362,12 +21489,20 @@
                   "260",
                   "Parálisis del nervio ciático mayor.",
                   "60%"
-                ],
-                [
-                  "261",
-                  "Parálisis del ciático poplíteo externo o peroneo.",
-                  "35%"
-                ],
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 237
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "261",
+                "Parálisis del ciático poplíteo externo o peroneo.",
+                "35%"
+              ],
+              "rows": [
                 [
                   "262",
                   "Parálisis del ciático poplíteo interno o tibial.",
@@ -21415,7 +21550,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 237
+              "source_page": 238
             },
             {
               "type": "paragraph",
@@ -21437,7 +21572,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 237
+              "source_page": 238
             },
             {
               "type": "paragraph",
@@ -21474,7 +21609,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 237
+              "source_page": 238
             },
             {
               "type": "paragraph",
@@ -21506,16 +21641,12 @@
                 ],
                 [
                   "281",
-                  "En caso de lesiones bilaterales se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del",
+                  "En caso de lesiones bilaterales se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del cien por ciento.",
                   "--"
                 ]
               ],
               "source_method": "text",
-              "source_page": 237
-            },
-            {
-              "type": "paragraph",
-              "text": "cien por ciento."
+              "source_page": 238
             },
             {
               "type": "paragraph",
@@ -21684,20 +21815,12 @@
                   "313",
                   "Afasia acentuada, aislada.",
                   "40 a 80%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 238
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "314",
-                "Afasia con hemiplejia.",
-                "100%"
-              ],
-              "rows": [
+                ],
+                [
+                  "314",
+                  "Afasia con hemiplejia.",
+                  "100%"
+                ],
                 [
                   "315",
                   "Agrafia.",
@@ -21852,22 +21975,9 @@
                 ],
                 [
                   "343",
-                  "Luxación irreductible de la articulación temporomandibular, según el grado",
+                  "Luxación irreductible de la articulación temporomandibular, según el grado de entorpecimiento funcional.",
                   "20 a 35%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 239
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "",
-                "de entorpecimiento funcional.",
-                ""
-              ],
-              "rows": [
+                ],
                 [
                   "344",
                   "Amputaciones o mutilaciones de la lengua, según el entorpecimiento de la palabra y de la deglución.",
@@ -21902,7 +22012,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 240
+              "source_page": 241
             },
             {
               "type": "paragraph",
@@ -22334,7 +22444,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 240
+              "source_page": 241
             },
             {
               "type": "paragraph",
@@ -22354,18 +22464,24 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 240
+              "source_page": 241
             },
             {
               "type": "table",
               "title": null,
               "headers": [
                 "",
-                "Pérdida o disminución permanente de la agudeza visual en sujetos monóculos",
+                "Tabla II",
                 "",
                 ""
               ],
               "rows": [
+                [
+                  "",
+                  "Pérdida o disminución permanente de la agudeza visual en sujetos monóculos",
+                  "",
+                  ""
+                ],
                 [
                   "Agudeza visual",
                   "",
@@ -22389,52 +22505,46 @@
                   "",
                   "19",
                   ""
-                ],
-                [
-                  "0.5",
-                  "",
-                  "25",
-                  ""
-                ],
-                [
-                  "0.4",
-                  "",
-                  "31",
-                  ""
-                ],
-                [
-                  "0.3",
-                  "",
-                  "50",
-                  ""
-                ],
-                [
-                  "0.2",
-                  "",
-                  "70",
-                  ""
-                ],
-                [
-                  "0.1",
-                  "",
-                  "90",
-                  ""
-                ],
-                [
-                  "0.05",
-                  "",
-                  "100",
-                  ""
-                ],
-                [
-                  "0",
-                  "",
-                  "100",
-                  ""
                 ]
               ],
               "source_method": "text",
               "source_page": 241
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "0.5",
+                "25"
+              ],
+              "rows": [
+                [
+                  "0.4",
+                  "31"
+                ],
+                [
+                  "0.3",
+                  "50"
+                ],
+                [
+                  "0.2",
+                  "70"
+                ],
+                [
+                  "0.1",
+                  "90"
+                ],
+                [
+                  "0.05",
+                  "100"
+                ],
+                [
+                  "0",
+                  "100"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 242
             },
             {
               "type": "table",
@@ -22450,7 +22560,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 241
+              "source_page": 242
             },
             {
               "type": "paragraph",
@@ -22476,7 +22586,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 241
+              "source_page": 242
             },
             {
               "type": "paragraph",
@@ -22513,7 +22623,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 241
+              "source_page": 242
             },
             {
               "type": "paragraph",
@@ -22550,7 +22660,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 241
+              "source_page": 242
             },
             {
               "type": "paragraph",
@@ -22577,7 +22687,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 241
+              "source_page": 242
             },
             {
               "type": "paragraph",
@@ -22631,7 +22741,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 242
+              "source_page": 243
             },
             {
               "type": "paragraph",
@@ -22653,7 +22763,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 242
+              "source_page": 243
             },
             {
               "type": "paragraph",
@@ -22695,7 +22805,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 242
+              "source_page": 243
             },
             {
               "type": "paragraph",
@@ -22717,7 +22827,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 242
+              "source_page": 243
             },
             {
               "type": "paragraph",
@@ -22746,20 +22856,7 @@
                   "383",
                   "Midriasis, iridodiálisis o iridectomía en sector, cuando ocasionan trastornos funcionales, en un ojo.",
                   "10%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 242
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "",
-                "",
-                ""
-              ],
-              "rows": [
+                ],
                 [
                   "384",
                   "Midriasis, iridodiálisis o iridectomía en sector, cuando ocasionan trastornos funcionales, en ambos ojos.",
@@ -22804,7 +22901,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 243
+              "source_page": 244
             },
             {
               "type": "paragraph",
@@ -22841,7 +22938,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 243
+              "source_page": 244
             },
             {
               "type": "paragraph",
@@ -22863,7 +22960,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 243
+              "source_page": 244
             },
             {
               "type": "paragraph",
@@ -22905,7 +23002,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 243
+              "source_page": 244
             },
             {
               "type": "paragraph",
@@ -22937,7 +23034,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 243
+              "source_page": 244
             },
             {
               "type": "paragraph",
@@ -22956,12 +23053,20 @@
                   "408",
                   "Pérdida o deformación parcial del pabellón auricular, unilateral, sin estenosis del conducto auditivo externo.",
                   "7%"
-                ],
-                [
-                  "409",
-                  "Pérdida o deformación total del pabellón auricular, bilateral, sin estenosis del conducto auditivo externo.",
-                  "20%"
-                ],
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 244
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "409",
+                "Pérdida o deformación total del pabellón auricular, bilateral, sin estenosis del conducto auditivo externo.",
+                "20%"
+              ],
+              "rows": [
                 [
                   "410",
                   "Pérdida o deformación parcial del pabellón auricular, bilateral, sin estenosis del conducto auditivo externo.",
@@ -23059,13 +23164,14 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 244
+              "source_page": 245
             },
             {
               "type": "table",
               "title": null,
               "headers": [
                 "Tabla III-A",
+                "",
                 "",
                 "",
                 "",
@@ -23077,68 +23183,74 @@
                   "",
                   "",
                   "",
+                  "",
                   ""
                 ],
                 [
                   "Evaluación completa y",
                   "Pruebas de Gabinete con",
-                  "Alteraciones en",
-                  "Grado de",
+                  "Alteraciones en las actividades de su puesto de trabajo",
+                  "Grado de afección funcional",
+                  "Porcentaje de incapacidad permanente",
                   "Porcentaje"
+                ],
+                [
+                  "pruebas pertinentes",
+                  "una vigencia de al menos",
+                  "",
+                  "",
+                  "",
+                  "de"
+                ],
+                [
+                  "para establecer el",
+                  "3 meses",
+                  "",
+                  "",
+                  "",
+                  "incapacidad"
+                ],
+                [
+                  "diagnóstico",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "permanente"
+                ],
+                [
+                  "",
+                  "(contar con al menos una",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "(contar con al menos",
+                  "prueba alterada)",
+                  "",
+                  "",
+                  "",
+                  ""
                 ]
               ],
               "source_method": "text",
-              "source_page": 244
+              "source_page": 245
             },
             {
               "type": "table",
               "title": null,
               "headers": [
                 "",
-                "pruebas pertinentes",
-                "una vigencia de al menos 3 meses (contar con al menos una prueba alterada)",
-                "las actividades de su puesto de trabajo",
+                "una prueba alterada)",
                 "",
-                "afección funcional",
-                "de incapacidad permanente"
+                "",
+                "",
+                "",
+                ""
               ],
               "rows": [
-                [
-                  "",
-                  "para establecer el",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
-                ],
-                [
-                  "",
-                  "diagnóstico",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
-                ],
-                [
-                  "",
-                  "(contar con al menos",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
-                ],
-                [
-                  "",
-                  "una prueba alterada)",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
-                ],
                 [
                   "",
                   "Evaluación",
@@ -23528,35 +23640,22 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 245
+              "source_page": 246
             },
             {
               "type": "table",
               "title": null,
               "headers": [
-                "",
-                "",
-                ""
+                "429",
+                "Disfunción tubárica crónica bilateral, resistente a tratamiento.",
+                "30 a 40%"
               ],
               "rows": [
                 [
-                  "429",
-                  "Disfunción tubárica crónica bilateral, resistente a tratamiento.",
-                  "30 a 40%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 245
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "430",
-                "Disfunción tubárica crónica unilateral, resistente a tratamiento.",
-                "15 a 20%"
-              ],
-              "rows": [
+                  "430",
+                  "Disfunción tubárica crónica unilateral, resistente a tratamiento.",
+                  "15 a 20%"
+                ],
                 [
                   "431",
                   "Acufeno bilateral debidamente comprobado.",
@@ -23696,7 +23795,7 @@
                   ""
                 ],
                 [
-                  "Cálculo de la incapacidad parcial permanente por obtención de la hipoacusia bilateral combinada de acuerdo a los umbrales obtenidos de la audiometría tonal y utilizando el procedimiento para la valuación de hipoacusias de: Fletcher, A.M.A. modificada por: De La Cruz Ávila, Gómez Cruz, Gutiérrez Farfán, Jiménez Ruiz, Rojo Ramírez, Toledo Ortiz, Torres Valenzuela, Velasco Reyna, Zarate Cabrera (octubre de 2016). Dependiendo del mecanismo de lesión y secuela se podrán utilizar uno de los siguientes rangos de frecuencia: a. Para lesiones que abarquen el umbral mínimo de audición en las frecuencias de 250, 500, 1,000 y 2,000 Hz. b. Para lesiones que abarquen el umbral mínimo de audición en las frecuencias de 2000, 3,000, 4,000, y 6,000 Hz. c. Para lesiones que tengan compromiso en las frecuencias de incisos A y B, se elegirá el rango de frecuencias que presente mayor pérdida auditiva. Primero. Si en el audiograma no aparecieran anotaciones de algún oído o los dos por anacusia, o no hubo respuesta en todas o en alguna de ellas, el valor que se le asignará a esas frecuencias será de 120 dB y si en el oído contralateral los niveles de audición para las frecuencias del área de lenguaje están en valores de 0 dB o menores, para efectos de valuación se considerará como promedio 5 dB. Segundo. Se suman y se obtiene el promedio aritmético para cada oído. Ejemplo: Oído derecho (OD) Oído izquierdo (OI) 2000 Hz 60 dB 2000 Hz 10 dB 3000 Hz 50 dB 3000 Hz 15 dB 4000 Hz 50 dB 4000 Hz 15 dB 6000 Hz 50 dB 6000 Hz 15 dB",
+                  "Cálculo de la incapacidad parcial permanente por obtención de la hipoacusia bilateral combinada de acuerdo a los umbrales obtenidos de la audiometría tonal y utilizando el procedimiento para la valuación de hipoacusias de: Fletcher, A.M.A. modificada por: De La Cruz Ávila, Gómez Cruz, Gutiérrez Farfán, Jiménez Ruiz, Rojo Ramírez, Toledo Ortiz, Torres Valenzuela, Velasco Reyna, Zarate Cabrera (octubre de 2016). Dependiendo del mecanismo de lesión y secuela se podrán utilizar uno de los siguientes rangos de frecuencia: a. Para lesiones que abarquen el umbral mínimo de audición en las frecuencias de 250, 500, 1,000 y 2,000 Hz. b. Para lesiones que abarquen el umbral mínimo de audición en las frecuencias de 2000, 3,000, 4,000, y 6,000 Hz. c. Para lesiones que tengan compromiso en las frecuencias de incisos A y B, se elegirá el rango de frecuencias que presente mayor pérdida auditiva. Primero. Si en el audiograma no aparecieran anotaciones de algún oído o los dos por anacusia, o no hubo respuesta en todas o en alguna de ellas, el valor que se le asignará a esas frecuencias será de 120 dB y si en el oído contralateral los niveles de audición para las frecuencias del área de lenguaje están en valores de 0 dB o menores, para efectos de valuación se considerará como promedio 5 dB. Segundo. Se suman y se obtiene el promedio aritmético para cada oído. Ejemplo: Oído derecho (OD) Oído izquierdo (OI) 2000 Hz 60 dB 2000 Hz 10 dB 3000 Hz 50 dB 3000 Hz 15 dB 4000 Hz 50 dB 4000 Hz 15 dB 6000 Hz 50 dB 6000 Hz 15 dB Suma: 210 / 4= 52.5 Suma: 55/ 4=13.7 Promedio aritmético para las frecuencias de la zona del lenguaje, para oído derecho 52.5, para oído izquierdo 13.7.",
                   "",
                   "",
                   "",
@@ -23705,11 +23804,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 246
-            },
-            {
-              "type": "paragraph",
-              "text": "Suma: 210 / 4= 52.5 Suma: 55/ 4=13.7 Promedio aritmético para las frecuencias de la zona del lenguaje, para oído derecho 52.5, para oído izquierdo 13.7."
+              "source_page": 247
             },
             {
               "type": "paragraph",
@@ -23779,20 +23874,12 @@
                   "437",
                   "Cuando produzcan disnea de grandes esfuerzos.",
                   "10%"
-                ]
-              ],
-              "source_method": "text",
-              "source_page": 247
-            },
-            {
-              "type": "table",
-              "title": null,
-              "headers": [
-                "438",
-                "Cuando produzcan disnea de medianos o pequeños esfuerzos.",
-                "20 a 70%"
-              ],
-              "rows": [
+                ],
+                [
+                  "438",
+                  "Cuando produzcan disnea de medianos o pequeños esfuerzos.",
+                  "20 a 70%"
+                ],
                 [
                   "439",
                   "Cuando produzcan disnea de reposo.",
@@ -23812,12 +23899,20 @@
                   "442",
                   "Estrechamiento cicatrizal de la faringe con perturbación de la deglución.",
                   "20 a 40%"
-                ],
-                [
-                  "443",
-                  "Pérdida de la glándula tiroides, incluyendo o no las paratiroides, con respuesta adecuada al tratamiento sustitutivo.",
-                  "20%"
-                ],
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 248
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "443",
+                "Pérdida de la glándula tiroides, incluyendo o no las paratiroides, con respuesta adecuada al tratamiento sustitutivo.",
+                "20%"
+              ],
+              "rows": [
                 [
                   "444",
                   "Pérdida de la glándula tiroides, incluyendo o no las paratiroides, sin respuesta al tratamiento sustitutivo.",
@@ -23825,7 +23920,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 248
+              "source_page": 249
             },
             {
               "type": "paragraph",
@@ -23845,7 +23940,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 248
+              "source_page": 249
             },
             {
               "type": "table",
@@ -23909,7 +24004,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 248
+              "source_page": 249
             },
             {
               "type": "table",
@@ -23925,7 +24020,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 248
+              "source_page": 249
             },
             {
               "type": "paragraph",
@@ -23935,32 +24030,49 @@
               "type": "table",
               "title": null,
               "headers": [
+                "",
                 "Tabla V",
+                "",
+                "",
                 "",
                 ""
               ],
               "rows": [
                 [
+                  "",
                   "Trastornos de la deglución",
+                  "",
+                  "",
                   "",
                   ""
                 ],
                 [
+                  "",
                   "Categoría",
+                  "",
                   "Características",
+                  "",
                   "Valuación"
+                ],
+                [
+                  "Leve",
+                  "",
+                  "- Presencia de sintomatología leve, con tos ocasional cuando se alimenta; - Sensación de atragantamiento; - Puede comer la mayoría de los alimentos sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta;",
+                  "",
+                  "20 al 27%",
+                  ""
                 ]
               ],
               "source_method": "text",
-              "source_page": 248
+              "source_page": 249
             },
             {
               "type": "table",
               "title": null,
               "headers": [
-                "Leve",
-                "- Presencia de sintomatología leve, con tos ocasional cuando se alimenta; - Sensación de atragantamiento; - Puede comer la mayoría de los alimentos sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta; - Los tiempos de comidas son prolongados; - Necesita tragar varias veces para pasar el alimento, y - Con aptitud para ejercer actividades de su profesión u oficio.",
-                "20 al 27%"
+                "",
+                "- Los tiempos de comidas son prolongados; - Necesita tragar varias veces para pasar el alimento, y - Con aptitud para ejercer actividades de su profesión u oficio.",
+                ""
               ],
               "rows": [
                 [
@@ -23980,7 +24092,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 249
+              "source_page": 250
             },
             {
               "type": "paragraph",
@@ -24027,18 +24139,14 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 249
-            },
-            {
-              "type": "paragraph",
-              "text": "Tabla VI"
+              "source_page": 250
             },
             {
               "type": "table",
               "title": null,
               "headers": [
                 "",
-                "",
+                "Tabla VI",
                 "",
                 "",
                 "",
@@ -24068,7 +24176,6 @@
                 [
                   "Clínica",
                   "",
-                  "",
                   "Ejercicio",
                   "Mecánica ventilatoria",
                   "",
@@ -24077,13 +24184,14 @@
                   "",
                   "Insuficiencia respiratoria",
                   "",
+                  "",
                   "Valuación"
                 ],
                 [
                   "",
                   "",
-                  "",
                   "Cardio",
+                  "",
                   "",
                   "",
                   "",
@@ -24096,8 +24204,8 @@
                 [
                   "",
                   "",
-                  "",
                   "Pulmonar",
+                  "",
                   "",
                   "",
                   "",
@@ -24110,13 +24218,13 @@
                 [
                   "",
                   "Disnea",
-                  "VO2max ml/kg/min",
                   "VO2max",
-                  "CVF %",
-                  "FEV1",
-                  "Variabilidad del PEF%",
                   "",
+                  "CVF",
+                  "FEV1",
+                  "Variabilidad",
                   "FEF 25-75",
+                  "Hipoxemia",
                   "Hipoxemia",
                   "Hipercapnia",
                   "I.P.P.%"
@@ -24124,36 +24232,42 @@
                 [
                   "",
                   "clasificación Borg",
-                  "",
                   "ml/kg/min",
                   "",
+                  "%",
                   "",
-                  "",
-                  "",
+                  "del PEF%",
                   "FEF 75-85",
                   "",
                   "",
-                  ""
-                ],
-                [
-                  "",
-                  "modificada",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "(%)",
-                  "",
                   "",
                   ""
-                ],
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 250
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "",
+                "modificada",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "(%)",
+                "",
+                "",
+                ""
+              ],
+              "rows": [
                 [
                   "0",
                   "",
                   "≥ 25",
-                  "",
                   "Normal",
                   "Normal",
                   "- 20",
@@ -24165,7 +24279,6 @@
                 ],
                 [
                   "0",
-                  "",
                   "",
                   "",
                   "Normal",
@@ -24181,7 +24294,6 @@
                   "0.5-1",
                   "",
                   "20-24",
-                  "",
                   "Leve (79-75)",
                   "Leve (79-70)",
                   "21-29",
@@ -24193,7 +24305,6 @@
                 ],
                 [
                   "2-3",
-                  "",
                   "",
                   "",
                   "Moderada (74-70)",
@@ -24209,7 +24320,6 @@
                   "4-6",
                   "",
                   "15-19",
-                  "",
                   "Grave (69-65)",
                   "Grave (50-31)",
                   "30-39",
@@ -24226,7 +24336,6 @@
                   "",
                   "",
                   "",
-                  "",
                   "-",
                   "",
                   "Muy Grave (48-44)",
@@ -24237,7 +24346,6 @@
                   "9-10",
                   "",
                   "<15",
-                  "",
                   "Muy Grave (< 64)",
                   "Muy Grave (> 30)",
                   ">40",
@@ -24258,12 +24366,11 @@
                   "",
                   "",
                   "",
-                  "",
                   ""
                 ]
               ],
               "source_method": "text",
-              "source_page": 250
+              "source_page": 251
             },
             {
               "type": "table",
@@ -24286,7 +24393,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 250
+              "source_page": 251
             },
             {
               "type": "paragraph",
@@ -24358,7 +24465,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 250
+              "source_page": 251
             },
             {
               "type": "paragraph",
@@ -24387,12 +24494,20 @@
                   "472",
                   "Cicatrices con eventración, inoperables o no resueltas quirúrgicamente.",
                   "30 a 60%"
-                ],
-                [
-                  "473",
-                  "Fístulas del tubo digestivo o de sus anexos, inoperables o cuando produzcan alguna incapacidad.",
-                  "20 a 60%"
-                ],
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 251
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "473",
+                "Fístulas del tubo digestivo o de sus anexos, inoperables o cuando produzcan alguna incapacidad.",
+                "20 a 60%"
+              ],
+              "rows": [
                 [
                   "474",
                   "Pérdida total del estómago.",
@@ -24440,7 +24555,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 251
+              "source_page": 252
             },
             {
               "type": "table",
@@ -24525,7 +24640,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 251
+              "source_page": 252
             },
             {
               "type": "table",
@@ -24553,14 +24668,14 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 251
+              "source_page": 252
             },
             {
               "type": "table",
               "title": null,
               "headers": [
                 "",
-                "Clasificación de estadios de la insuficiencia hepática",
+                "Tabla VIII",
                 "",
                 "",
                 "",
@@ -24568,6 +24683,15 @@
                 ""
               ],
               "rows": [
+                [
+                  "",
+                  "Clasificación de estadios de la insuficiencia hepática",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
                 [
                   "Estadio",
                   "",
@@ -24589,42 +24713,47 @@
                 [
                   "1",
                   "",
-                  "- Alteraciones persistentes de la bioquímica hepática (aminotransferasas, fosfatasas alcalinas, bilirrubinas, albumina, tiempos de coagulación). - Ausencia de varices esofágicas, y - Ausencia de ascitis.",
+                  "- Alteraciones persistentes de la bioquímica hepática (aminotransferasas, fosfatasas alcalinas,",
                   "--",
                   "",
                   "0-9",
-                  ""
-                ],
-                [
-                  "2",
-                  "",
-                  "- Cumple los criterios de la clase 1. - Presencia de varices esofágicas. - Ausencia de Ascitis. - Ausencia de hemorragia digestiva o historia de hemorragia digestiva. - Evidencia anatomopatológica o imagenológica de lesiones cirrógenas (hepatitis crónica activa, esteatohepatitis, fibrosis portal o fibrosis centrolobulillar). - Requiere tratamiento con corticoides inmunosupresores o con inmunomoduladores de manera continuada.",
-                  "Clase A",
-                  "",
-                  "10-19",
-                  ""
-                ],
-                [
-                  "3",
-                  "",
-                  "- Cumple los criterios de la clase 2. - Presencia de ascitis con o sin varices esofágicas. - Ausencia de hemorragia digestiva o historia de hemorragia digestiva. - Síntomas de insuficiencia hepática, de hipertensión portal, no desencadenados por proceso agudo intercurrente, en los últimos dos años.",
-                  "Clase B",
-                  "",
-                  "20- 29",
-                  ""
-                ],
-                [
-                  "4",
-                  "",
-                  "- Cumple los criterios de la clase 3. - Síntomas de insuficiencia hepática, de hipertensión portal en forma continua a pesar de recibir tratamiento. - Presencia de ascitis. - Presencia de varices esofágicas. - Presencia de hemorragia digestiva o historia de hemorragia digestiva.",
-                  "Clase C",
-                  "",
-                  "30 o más",
                   ""
                 ]
               ],
               "source_method": "text",
               "source_page": 252
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "",
+                "bilirrubinas, albumina, tiempos de coagulación). - Ausencia de varices esofágicas, y - Ausencia de ascitis.",
+                "",
+                ""
+              ],
+              "rows": [
+                [
+                  "2",
+                  "- Cumple los criterios de la clase 1. - Presencia de varices esofágicas. - Ausencia de Ascitis. - Ausencia de hemorragia digestiva o historia de hemorragia digestiva. - Evidencia anatomopatológica o imagenológica de lesiones cirrógenas (hepatitis crónica activa, esteatohepatitis, fibrosis portal o fibrosis centrolobulillar). - Requiere tratamiento con corticoides inmunosupresores o con inmunomoduladores de manera continuada.",
+                  "Clase A",
+                  "10-19"
+                ],
+                [
+                  "3",
+                  "- Cumple los criterios de la clase 2. - Presencia de ascitis con o sin varices esofágicas. - Ausencia de hemorragia digestiva o historia de hemorragia digestiva. - Síntomas de insuficiencia hepática, de hipertensión portal, no desencadenados por proceso agudo intercurrente, en los últimos dos años.",
+                  "Clase B",
+                  "20- 29"
+                ],
+                [
+                  "4",
+                  "- Cumple los criterios de la clase 3. - Síntomas de insuficiencia hepática, de hipertensión portal en forma continua a pesar de recibir tratamiento. - Presencia de ascitis. - Presencia de varices esofágicas. - Presencia de hemorragia digestiva o historia de hemorragia digestiva.",
+                  "Clase C",
+                  "30 o más"
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 253
             },
             {
               "type": "table",
@@ -24742,7 +24871,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 252
+              "source_page": 253
             },
             {
               "type": "paragraph",
@@ -24882,7 +25011,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 253
+              "source_page": 254
             },
             {
               "type": "paragraph",
@@ -24979,7 +25108,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 253
+              "source_page": 254
             },
             {
               "type": "table",
@@ -24987,6 +25116,7 @@
               "headers": [
                 "",
                 "Tabla X",
+                "",
                 "",
                 "",
                 "",
@@ -25001,13 +25131,15 @@
                   "",
                   "",
                   "",
+                  "",
                   ""
                 ],
                 [
                   "Estadio",
                   "Estadio",
                   "Descripción",
-                  "Filtrado glomerular",
+                  "Filtrado glomerular (mL/min/1.73m2)",
+                  "",
                   "Albuminuria",
                   "Valuación",
                   "Valuación"
@@ -25016,56 +25148,61 @@
                   "",
                   "",
                   "",
-                  "(mL/min/1.73m2)",
+                  "",
+                  "",
                   "cociente",
                   "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "albúmina/creatinina",
+                  "",
+                  ""
+                ],
+                [
+                  "1",
+                  "",
+                  "Normal o alta.",
+                  "Mayor a 90",
+                  "0-30 mg/g, normal o levemente aumentada.",
+                  "",
+                  "Sin valuación",
+                  ""
+                ],
+                [
+                  "2",
+                  "",
+                  "Levemente disminuida.",
+                  "60-89",
+                  "",
+                  "",
+                  "10-20%",
                   ""
                 ]
               ],
               "source_method": "text",
-              "source_page": 253
+              "source_page": 254
             },
             {
               "type": "table",
               "title": null,
               "headers": [
-                "",
-                "",
-                "",
-                "",
-                "albúmina/creatinina",
-                ""
+                "3A",
+                "Leve a moderadamente disminuida.",
+                "45-59",
+                "30-300 mg/g, moderadamente aumentada.",
+                "20 a 40%"
               ],
               "rows": [
-                [
-                  "1",
-                  "Normal o alta.",
-                  "Mayor a 90",
-                  "0-30 mg/g, normal o levemente aumentada.",
-                  "",
-                  "Sin valuación"
-                ],
-                [
-                  "2",
-                  "Levemente disminuida.",
-                  "60-89",
-                  "",
-                  "",
-                  "10-20%"
-                ],
-                [
-                  "3A",
-                  "Leve a moderadamente disminuida.",
-                  "45-59",
-                  "30-300 mg/g, moderadamente aumentada.",
-                  "",
-                  "20 a 40%"
-                ],
                 [
                   "3B",
                   "Moderada a gravemente disminuida.",
                   "30-44",
-                  "",
                   "",
                   "41 a 60%"
                 ],
@@ -25074,7 +25211,6 @@
                   "Gravemente disminuida.",
                   "15-29",
                   ">300 mg/g, gravemente aumentada.",
-                  "",
                   "61 a 90%"
                 ],
                 [
@@ -25082,12 +25218,11 @@
                   "Insuficiencia renal.",
                   "Menor a 15",
                   "",
-                  "",
                   "91 a 100%"
                 ]
               ],
               "source_method": "text",
-              "source_page": 254
+              "source_page": 255
             },
             {
               "type": "table",
@@ -25115,7 +25250,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 254
+              "source_page": 255
             },
             {
               "type": "paragraph",
@@ -25147,7 +25282,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 254
+              "source_page": 255
             },
             {
               "type": "paragraph",
@@ -25174,7 +25309,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 254
+              "source_page": 255
             },
             {
               "type": "paragraph",
@@ -25191,32 +25326,27 @@
               "rows": [
                 [
                   "516",
-                  "Las deformaciones puramente estéticas, según su carácter, serán indemnizadas a juicio del Tribunal del Poder Judicial de la Federación que corresponda, sólo en el caso de que de alguna forma disminuyan la capacidad de trabajo de la persona lesionada, teniendo en cuenta la",
+                  "Las deformaciones puramente estéticas, según su carácter, serán indemnizadas a juicio del Tribunal del Poder Judicial de la Federación que corresponda, sólo en el caso de que de alguna forma disminuyan la capacidad de trabajo de la persona lesionada, teniendo en cuenta la profesión a que se dedica.",
                   "--"
+                ],
+                [
+                  "517",
+                  "Las lesiones producidas por la acción de agentes físicos y químicos serán indemnizadas de acuerdo con las modalidades especiales de la incapacidad.",
+                  "20 a 100%"
                 ]
               ],
               "source_method": "text",
-              "source_page": 254
+              "source_page": 255
             },
             {
               "type": "table",
               "title": null,
               "headers": [
-                "",
-                "profesión a que se dedica.",
-                ""
+                "518",
+                "Las cicatrices producidas por amplias quemaduras de los tegumentos serán indemnizadas tomando en cuenta la extensión y la profundidad de las zonas cicatrizales, independientemente de las perturbaciones funcionales que acarreen en los segmentos adyacentes. Tomándose como base para su valuación la regla de los nueves.",
+                "--"
               ],
               "rows": [
-                [
-                  "517",
-                  "Las lesiones producidas por la acción de agentes físicos y químicos serán indemnizadas de acuerdo con las modalidades especiales de la incapacidad.",
-                  "20 a 100%"
-                ],
-                [
-                  "518",
-                  "Las cicatrices producidas por amplias quemaduras de los tegumentos serán indemnizadas tomando en cuenta la extensión y la profundidad de las zonas cicatrizales, independientemente de las perturbaciones funcionales que acarreen en los segmentos adyacentes. Tomándose como base para su valuación la regla de los nueves.",
-                  "--"
-                ],
                 [
                   "519",
                   "En caso de haberse otorgado con anterioridad la valuación de una secuela que involucre el mismo sitio anatómico, se otorgará únicamente la diferencia del porcentaje de la nueva fracción que aplique.",
@@ -25229,7 +25359,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 255
+              "source_page": 256
             },
             {
               "type": "paragraph",
@@ -25246,16 +25376,12 @@
               "rows": [
                 [
                   "521",
-                  "Cáncer secundario a agentes físicos, químicos, o biológicos se valuará con base a los siguientes criterios: para el cálculo de la incapacidad permanente parcial o total por motivo de los cánceres de origen laboral, el procedimiento para su obtención es realizando los pasos siguientes: Paso I: Identificar el cáncer que padece la persona trabajadora de acuerdo con el diagnóstico y sobrevida establecida por el especialista oncólogo, y verificar con la Tabla XI a qué tipo de categorización corresponde el cáncer de origen laboral. Esto es, el cáncer menos agresivo corresponde al numeral 1 y el más agresivo al numeral 5, con base a la sobrevida que pueda presentar la persona trabajadora a cinco años de su diagnóstico. Nota: En caso de que la neoplasia diagnosticada no se encuentre incluida en la Tabla XI, la agresividad se establecerá de acuerdo con la sobrevida determinada por el especialista oncólogo. Paso 2: Después de identificar a qué categorización pertenece el cáncer de origen laboral, establecer en qué categoría se ubica la persona trabajadora de acuerdo con la capacidad funcional en relación con el desempeño del puesto de trabajo, esto es, por ejemplo si tiene un cáncer de colon la categoría de la neoplasia se ubicaría en el numeral 3 de la Tabla XI y si se encuentra que la persona trabajadora tiene una valoración como restringida en sus capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media, se ubicaría en el numeral 1 de la Tabla XII. Paso 3: Posteriormente, se buscaría en la Tabla XIII en la columna de categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años, el numeral al que pertenece el cáncer diagnosticado a la persona trabajadora, y se buscaría también en la columna de categorización funcional de las neoplasias y sus secuelas derivadas del tratamiento o generadas por el propio tumor en relación con el",
+                  "Cáncer secundario a agentes físicos, químicos, o biológicos se valuará con base a los siguientes criterios: para el cálculo de la incapacidad permanente parcial o total por motivo de los cánceres de origen laboral, el procedimiento para su obtención es realizando los pasos siguientes: Paso I: Identificar el cáncer que padece la persona trabajadora de acuerdo con el diagnóstico y sobrevida establecida por el especialista oncólogo, y verificar con la Tabla XI a qué tipo de categorización corresponde el cáncer de origen laboral. Esto es, el cáncer menos agresivo corresponde al numeral 1 y el más agresivo al numeral 5, con base a la sobrevida que pueda presentar la persona trabajadora a cinco años de su diagnóstico. Nota: En caso de que la neoplasia diagnosticada no se encuentre incluida en la Tabla XI, la agresividad se establecerá de acuerdo con la sobrevida determinada por el especialista oncólogo. Paso 2: Después de identificar a qué categorización pertenece el cáncer de origen laboral, establecer en qué categoría se ubica la persona trabajadora de acuerdo con la capacidad funcional en relación con el desempeño del puesto de trabajo, esto es, por ejemplo si tiene un cáncer de colon la categoría de la neoplasia se ubicaría en el numeral 3 de la Tabla XI y si se encuentra que la persona trabajadora tiene una valoración como restringida en sus capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media, se ubicaría en el numeral 1 de la Tabla XII. Paso 3: Posteriormente, se buscaría en la Tabla XIII en la columna de categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años, el numeral al que pertenece el cáncer diagnosticado a la persona trabajadora, y se buscaría también en la columna de categorización funcional de las neoplasias y sus secuelas derivadas del tratamiento o generadas por el propio tumor en relación con el desempeño de su trabajo, el numeral en que se ubica el resultado de la valoración de la persona trabajadora y se hace un ajuste entre ambas columnas para encontrar el porcentaje que le corresponde.",
                   "--"
                 ]
               ],
               "source_method": "text",
-              "source_page": 255
-            },
-            {
-              "type": "paragraph",
-              "text": "desempeño de su trabajo, el numeral en que se ubica el resultado de la valoración de la persona trabajadora y se hace un ajuste entre ambas columnas para encontrar el porcentaje que le corresponde."
+              "source_page": 256
             },
             {
               "type": "paragraph",
@@ -25331,7 +25457,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 256
+              "source_page": 257
             },
             {
               "type": "table",
@@ -25360,18 +25486,18 @@
                 [
                   "2",
                   "",
-                  "Restringido en las capacidades funcionales pero es capaz de realizar el trabajo de naturaleza ligero (permanecer sentado, estar sentado haciendo trabajo manual ligero usando las manos y brazos, conducir un vehículo, estar de pie haciendo trabajo ligero con los brazos y caminando ocasionalmente, caminatas casuales sin exceder los 3 km por hora y levantar 5 kg menos de ocho veces por minuto 12 kg menos de cuatro veces por minuto, por ejemplo: participar en una reunión (sentado), leer instrucciones o llenar papeleo, ver un video de capacitación, uso de herramientas para mesa o pequeñas herramientas eléctricas, inspección y clasificación de productos, clasificación de materiales livianos, ensamblaje de piezas pequeñas, conducción de"
+                  "Restringido en las capacidades funcionales pero es capaz de realizar el trabajo de naturaleza ligero (permanecer sentado, estar sentado haciendo trabajo manual ligero usando las manos y brazos, conducir un vehículo, estar de pie haciendo trabajo ligero con los brazos y caminando ocasionalmente, caminatas casuales sin exceder los 3 km por hora y levantar 5 kg menos de ocho veces por minuto 12 kg menos de cuatro veces por minuto, por ejemplo: participar en una reunión (sentado), leer instrucciones o llenar papeleo, ver un video de capacitación, uso de herramientas para mesa o pequeñas herramientas eléctricas, inspección y clasificación de productos, clasificación de materiales livianos, ensamblaje de piezas pequeñas, conducción de vehículo en carretera y clavar. Si previo a la enfermedad sus actividades laborales correspondían a naturaleza ligera, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las"
                 ]
               ],
               "source_method": "text",
-              "source_page": 256
+              "source_page": 257
             },
             {
               "type": "table",
               "title": null,
               "headers": [
                 "",
-                "vehículo en carretera y clavar. Si previo a la enfermedad sus actividades laborales correspondían a naturaleza ligera, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las actividades de naturaleza ligera."
+                "actividades de naturaleza ligera."
               ],
               "rows": [
                 [
@@ -25380,7 +25506,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 257
+              "source_page": 258
             },
             {
               "type": "table",
@@ -25496,7 +25622,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 257
+              "source_page": 258
             },
             {
               "type": "paragraph",
@@ -25516,7 +25642,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 257
+              "source_page": 258
             },
             {
               "type": "table",
@@ -25763,53 +25889,69 @@
                   ""
                 ],
                 [
-                  "",
                   "4",
                   "",
-                  "- Requiere tratamiento continuado;",
                   "",
+                  "- Requiere tratamiento continuado;",
                   "C2 y C3",
                   "",
-                  "60 a 79%"
+                  "60 a 79%",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "- Presenta más de seis episodios anuales de",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "enfermedades relacionadas con su",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "inmunodeficiencia que precisan atención",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "médica hospitalaria;",
+                  "",
+                  "",
+                  "",
+                  ""
                 ]
               ],
               "source_method": "text",
-              "source_page": 257
+              "source_page": 258
             },
             {
               "type": "table",
               "title": null,
               "headers": [
                 "",
-                "- Presenta más de seis episodios anuales de",
+                "- Requiere al menos 24 horas o durante más de",
                 "",
                 ""
               ],
               "rows": [
-                [
-                  "",
-                  "enfermedades relacionadas con su",
-                  "",
-                  ""
-                ],
-                [
-                  "",
-                  "inmunodeficiencia que precisan atención",
-                  "",
-                  ""
-                ],
-                [
-                  "",
-                  "médica hospitalaria;",
-                  "",
-                  ""
-                ],
-                [
-                  "",
-                  "- Requiere al menos 24 horas o durante más de",
-                  "",
-                  ""
-                ],
                 [
                   "",
                   "60 días al año, y",
@@ -25854,7 +25996,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 258
+              "source_page": 259
             },
             {
               "type": "paragraph",
@@ -25874,7 +26016,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 258
+              "source_page": 259
             },
             {
               "type": "table",
@@ -26110,40 +26252,48 @@
                   "- Terapia médica, rehabilitatoria especializada;",
                   "",
                   ""
+                ],
+                [
+                  "",
+                  "",
+                  "- Puede requerir atención médica complementaria de otras",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "especialidades;",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "- Con internamientos recurrentes mayores a una semana para",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "manejo especializado;",
+                  "",
+                  ""
                 ]
               ],
               "source_method": "text",
-              "source_page": 258
+              "source_page": 259
             },
             {
               "type": "table",
               "title": null,
               "headers": [
                 "",
-                "- Puede requerir atención médica complementaria de otras",
+                "- Con aptitud limitada para ejercer actividades de su profesión u",
                 ""
               ],
               "rows": [
-                [
-                  "",
-                  "especialidades;",
-                  ""
-                ],
-                [
-                  "",
-                  "- Con internamientos recurrentes mayores a una semana para",
-                  ""
-                ],
-                [
-                  "",
-                  "manejo especializado;",
-                  ""
-                ],
-                [
-                  "",
-                  "- Con aptitud limitada para ejercer actividades de su profesión u",
-                  ""
-                ],
                 [
                   "",
                   "oficio, y",
@@ -26301,7 +26451,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 259
+              "source_page": 260
             },
             {
               "type": "paragraph",
@@ -26323,7 +26473,7 @@
                 ]
               ],
               "source_method": "text",
-              "source_page": 259
+              "source_page": 260
             },
             {
               "type": "reform_note",
@@ -46262,6 +46412,16 @@
                       "dof_date": "01-05-2019"
                     },
                     {
+                      "type": "paragraph",
+                      "text": "IV Bis. De 250 a 5000 Unidades de Medida y Actualización, a la persona empleadora obligada que incumpla con lo dispuesto por la fracción XXXIV del artículo 132 de esta Ley."
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Fracción adicionada DOF 01-05-2026",
+                      "action": "adicionado",
+                      "dof_date": "01-05-2026"
+                    },
+                    {
                       "type": "fraccion",
                       "ordinal": "V",
                       "text": "De 250 a 5000 Unidades de Medida y Actualización, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;"
@@ -50686,6 +50846,398 @@
             {
               "type": "paragraph",
               "text": "Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 1 de mayo de 2026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 59; 61; 66; 68; 69 y 71, segundo párrafo; se adicionan un"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "segundo",
+          "descriptor": null,
+          "ordinal": "segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "párrafo al artículo 58; y la fracción XXXIV al artículo 132 y la fracción IV Bis al artículo 994; y se deroga el segundo párrafo del artículo 67, de la Ley Federal del Trabajo, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día 1 de mayo de 2026."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La duración de la jornada laboral a que se refiere el artículo 59 de la Ley Federal del Trabajo se alcanzará de manera gradual, a partir del 1 de enero del año que corresponda, conforme a lo siguiente:"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "",
+                "Año",
+                "",
+                "Jornada Laboral"
+              ],
+              "rows": [
+                [
+                  "2026",
+                  "",
+                  "48",
+                  ""
+                ],
+                [
+                  "2027",
+                  "",
+                  "46",
+                  ""
+                ],
+                [
+                  "2028",
+                  "",
+                  "44",
+                  ""
+                ],
+                [
+                  "2029",
+                  "",
+                  "42",
+                  ""
+                ],
+                [
+                  "2030",
+                  "",
+                  "40",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 454
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El periodo que transcurra del 1 de mayo al 31 de diciembre de 2026 permitirá a las personas trabajadoras y empleadoras ajustar los procesos de trabajo a los términos de este Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La duración de la jornada extraordinaria a que se refiere el artículo 66 de la Ley Federal del Trabajo se alcanzará de manera gradual, a partir del 1 de enero del año correspondiente, conforme a lo siguiente:"
+            },
+            {
+              "type": "table",
+              "title": null,
+              "headers": [
+                "",
+                "Año",
+                "",
+                "Horas Extras"
+              ],
+              "rows": [
+                [
+                  "2026",
+                  "",
+                  "9",
+                  ""
+                ],
+                [
+                  "2027",
+                  "",
+                  "9",
+                  ""
+                ],
+                [
+                  "2028",
+                  "",
+                  "10",
+                  ""
+                ],
+                [
+                  "2029",
+                  "",
+                  "11",
+                  ""
+                ],
+                [
+                  "2030",
+                  "",
+                  "12",
+                  ""
+                ]
+              ],
+              "source_method": "text",
+              "source_page": 454
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las disposiciones de carácter general a que se refiere la fracción XXXIV del artículo 132 de la Ley Federal del Trabajo, entrarán en vigor a partir del 1 de enero de 2027."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría del Trabajo y Previsión Social instrumentará los mecanismos que correspondan para recopilar, procesar y evaluar datos relacionados con la implementación de la reducción de la jornada laboral."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 01 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 1 de mayo de 2026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "Artículo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 01 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 14 de mayo de 2026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 304; 307; 308, párrafo primero; 309; 310; y la denominación del Capítulo XI del Título Sexto; y se adiciona un artículo 305 Bis, de la Ley Federal del Trabajo, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones que se opongan al presente Decreto. dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos administrativos de avenencia y arbitraje iniciados con anterioridad a la entrada en vigor del presente Decreto, en lo que no se opongan al mismo, continuarán hasta su conclusión conforme a los ordenamientos en vigor existentes al momento de su inicio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 15 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
             }
           ],
           "children": []

@@ -673,6 +673,8 @@ Artículo adicionado DOF 12-11-2012
 
 ### Artículo 67
 .- Los entes públicos deberán registrar en los sistemas respectivos, los documentos justificativos y comprobatorios que correspondan y demás información asociada a los momentos contables del gasto comprometido y devengado, en términos de las disposiciones que emita el consejo.
+Los entes públicos tendrán la obligatoriedad de requisitar los formularios respecto a los datos identificativos, así como de los diversos momentos contables y de beneficiarios respecto al uso de los recursos de origen federal, incluyendo las participaciones federales, en el registro de información y datos relacionados en los términos que para tal efecto, establezca la Auditoría Superior de la Federación, de conformidad con las disposiciones aplicables en materia de contabilidad gubernamental y armonización contable.
+Párrafo adicionado DOF 14-05-2026
 Los entes públicos implementarán programas para que los pagos se hagan directamente en forma electrónica, mediante abono en cuenta de los beneficiarios, salvo en las localidades donde no haya disponibilidad de servicios bancarios.
 Los entes públicos publicarán en Internet la información sobre los montos pagados durante el periodo por concepto de ayudas y subsidios a los sectores económicos y sociales, identificando el nombre del beneficiario, y en lo posible la Clave Única de Registro de Población cuando el beneficiario sea persona física o el Registro Federal de Contribuyentes con Homoclave cuando sea persona moral o persona física con actividad empresarial y profesional, y el monto recibido.
 Artículo adicionado DOF 12-11-2012
@@ -1198,3 +1200,16 @@ Una vez concluido el plazo que se refiere el párrafo anterior, y en caso de exi
 **Décimo Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y subsecuentes de los ejecutores de gasto competentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dichos ejecutores de gasto.
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación y de la Ley General de Contabilidad Gubernamental.
+Publicado en el Diario Oficial de la Federación el 14 de mayo de 2026
+
+### Artículo Segundo
+Se adiciona un párrafo segundo, recorriéndose los subsecuentes, al artículo 67 de la Ley General de Contabilidad Gubernamental, para quedar como sigue: …….
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Auditoría Superior de la Federación realizará y adecuará las disposiciones reglamentarias correspondientes dentro del plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**Tercero.-** La Auditoría Superior de la Federación emitirá los lineamientos e instruirá la implementación y operación del Registro de Información y Datos Relacionados con los Recursos Federales en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto. Para su funcionamiento deberá establecer los mecanismos de identificación y control de acceso que observarán los entes públicos.
+**Cuarto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto correspondientes para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+Ciudad de México, a 21 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Laura Irais Ballesteros Mancilla, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
