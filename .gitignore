@@ -21,6 +21,8 @@ htmlcov/
 
 # PDFs fuente (pueden ser grandes; descárgalos desde diputados.gob.mx)
 origen-docs/*.pdf
+# PDFs de leyes archivadas (abrogadas/bajas): el .md/.json sí se versiona, el PDF no.
+archive/origen-docs/*.pdf
 
 # Archivos de sistema
 .DS_Store

@@ -770,16 +770,6 @@
     "snapshot_date": "2026-06-23"
   },
   {
-    "key": "lfc",
-    "ref_abbrev": "lfc",
-    "pdf_filename_origen": "LFC.pdf",
-    "md_slug": "LFC_ley_federal_de_cinematografia",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf",
-    "ultima_reforma_raw": "Notificación 01/09/2025 Sentencia SCJN",
-    "pdf_sha256": "0eede83f8f84e6d12074963f84dd94d8e3ab5a2b38ce11e789e6afd54b77606e",
-    "snapshot_date": "2026-06-23"
-  },
-  {
     "key": "lfca",
     "ref_abbrev": "lfca",
     "pdf_filename_origen": "LFCA.pdf",

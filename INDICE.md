@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **25/06/2026** — **317/317** Markdown, **317/317** JSON canónico — **38,161** artículos.
+> Última actualización: **25/06/2026** — **316/316** Markdown, **316/316** JSON canónico — **38,161** artículos.
 
 ---
 
@@ -144,7 +144,6 @@
 | 135 | LEY Federal contra la Delincuencia Organizada | DOF 28/11/2025 | 57 | [`.md`](markdown/LFCDO_ley_federal_contra_la_delincuencia_organizada.md) | [`.json`](canonical/LFCDO_ley_federal_contra_la_delincuencia_organizada.json) |
 | 136 | LEY Federal de Armas de Fuego y Explosivos | DOF 29/05/2025 | 124 | [`.md`](markdown/LFAFE_ley_federal_de_armas_de_fuego_y_explosivos.md) | [`.json`](canonical/LFAFE_ley_federal_de_armas_de_fuego_y_explosivos.json) |
 | 137 | LEY Federal de Austeridad Republicana | DOF 16/04/2025 | 33 | [`.md`](markdown/LFAR_ley_federal_de_austeridad_republicana.md) | [`.json`](canonical/LFAR_ley_federal_de_austeridad_republicana.json) |
-| 138 | LEY Federal de Cinematografía | Notificación 01/09/2025 Sentencia SCJN | 0 | [`.md`](markdown/LFC_ley_federal_de_cinematografia.md) | [`.json`](canonical/LFC_ley_federal_de_cinematografia.json) |
 | 139 | LEY Federal de Competencia Económica | DOF 14/11/2025 | 155 | [`.md`](markdown/LFCE_ley_federal_de_competencia_economica.md) | [`.json`](canonical/LFCE_ley_federal_de_competencia_economica.json) |
 | 140 | LEY Federal de Consulta Popular | DOF 19/05/2021 | 66 | [`.md`](markdown/LFCPo_ley_federal_de_consulta_popular.md) | [`.json`](canonical/LFCPo_ley_federal_de_consulta_popular.json) |
 | 141 | LEY Federal de Correduría Pública | DOF 09/04/2012 | 0 | [`.md`](markdown/LFCP_ley_federal_de_correduria_publica.md) | [`.json`](canonical/LFCP_ley_federal_de_correduria_publica.json) |
