@@ -204,6 +204,20 @@ class TestRunCheck:
         monkeypatch.setattr(dl, "fetch_index", lambda: _enough_laws(3))
         assert dl.run_check() == 2
 
+    def test_ignores_abrogated_not_in_state(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        # Una ley abrogada en el índice vivo pero ausente del estado (ya archivada,
+        # p.ej. LFC) NO debe contar como alta → sin deltas.
+        laws = _enough_laws()
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+        dl.init_snapshot()
+        fresh = laws + [
+            {**_law("ABRO.pdf", "ABRO", "Sin reforma"), "abrogated": True, "numero": "A"}
+        ]
+        monkeypatch.setattr(dl, "fetch_index", lambda: fresh)
+        assert dl.run_check() == 0
+
     def test_does_not_mutate_state_or_create_catalog(
         self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
     ) -> None:

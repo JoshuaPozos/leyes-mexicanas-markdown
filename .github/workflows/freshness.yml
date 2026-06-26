@@ -1,0 +1,73 @@
+name: Freshness — leyes desactualizadas vs upstream
+
+# Corre `download_leyes.py --check` (read-only, 1 GET a diputados.gob.mx) y abre/
+# actualiza un issue cuando hay leyes desactualizadas. Aislado de ci.yml.
+#
+# ⚠ Riesgo conocido: los runners cloud de GitHub pueden ser bloqueados por sitios
+# gov. Si el fetch falla, --check devuelve 2 (inconcluso) y NO se abre issue —
+# corre el check desde tu máquina (o vía workflow_dispatch local) si se observa bloqueo.
+
+on:
+  schedule:
+    - cron: '17 12 * * 1'   # lunes 12:17 UTC (minuto no-redondo: evita el pico de cron)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: freshness
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      # download_leyes.py es stdlib puro + módulos locales: no requiere instalar deps.
+      - name: Correr --check
+        id: check
+        run: |
+          set +e
+          PYTHONPATH=scripts python scripts/download_leyes.py --check --report freshness_report.md
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Mostrar reporte
+        if: always()
+        run: cat freshness_report.md 2>/dev/null || echo "(sin reporte)"
+
+      - name: Abrir/actualizar issue si hay deltas (exit 10)
+        if: steps.check.outputs.code == '10'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create freshness --color FBCA04 \
+            --description "Leyes desactualizadas vs diputados.gob.mx" 2>/dev/null || true
+          body="$(cat freshness_report.md)"
+          existing="$(gh issue list --label freshness --state open --json number --jq '.[0].number')"
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+            echo "Issue #$existing actualizado."
+          else
+            gh issue create --title "🔔 Leyes desactualizadas vs upstream" \
+              --label freshness --body "$body"
+          fi
+
+      - name: Inconcluso (exit 2)
+        if: steps.check.outputs.code == '2'
+        run: |
+          echo "::warning::--check inconcluso (exit 2): el fetch falló o el parseo es \
+          sospechoso. Probable bloqueo de la IP del runner por diputados.gob.mx — corre \
+          el check desde tu máquina. No se abre issue."
+
+      - name: Código inesperado → fallar
+        if: steps.check.outputs.code != '0' && steps.check.outputs.code != '10' && steps.check.outputs.code != '2'
+        run: |
+          echo "::error::--check devolvió un código inesperado: ${{ steps.check.outputs.code }}"
+          exit 1
