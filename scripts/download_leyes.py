@@ -432,6 +432,12 @@ def run_check(report_path: Path | None = None) -> int:
         )
         return 2
     diff = diff_catalog(state, [_law_to_state_entry(law) for law in laws])
+    # Ignorar leyes ABROGADAS que ya no están en nuestro estado (p.ej. LFC, ya
+    # archivada): siguen en el índice marcadas 'A' pero NO son altas reales. (Una
+    # abrogada que SÍ sigue en estado aparece como "cambiada" — eso sí es accionable:
+    # `--apply` la archiva.)
+    abrogated_keys = {_state_key(law) for law in laws if law.get("abrogated")}
+    diff["added"] = [a for a in diff["added"] if a["key"] not in abrogated_keys]
     report = _format_delta_report(diff)
     print(report)
     if report_path is not None:
