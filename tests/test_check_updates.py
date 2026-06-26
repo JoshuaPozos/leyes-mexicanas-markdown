@@ -485,6 +485,38 @@ class TestArchival:
 
         assert dl.run_apply() == 2
 
+    def test_archive_law_versions_instead_of_overwriting(
+        self, isolate_state: Path
+    ) -> None:
+        # #4: ya hay una versión archivada del mismo slug → no se pisa, se versiona.
+        (isolate_state / "markdown" / "Y.md").write_text("nuevo", encoding="utf-8")
+        (isolate_state / "archive" / "markdown").mkdir(parents=True)
+        (isolate_state / "archive" / "markdown" / "Y.md").write_text(
+            "viejo archivado", encoding="utf-8"
+        )
+        dl._archive_law("Y")
+        # el archivado previo se conserva intacto; el nuevo entra como Y.1.md
+        assert (isolate_state / "archive" / "markdown" / "Y.md").read_text(
+            encoding="utf-8"
+        ) == "viejo archivado"
+        assert (isolate_state / "archive" / "markdown" / "Y.1.md").read_text(
+            encoding="utf-8"
+        ) == "nuevo"
+
+    def test_archive_law_falls_back_to_move_on_exdev(
+        self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        # #5: si os.replace falla (EXDEV cross-FS), cae a shutil.move.
+        (isolate_state / "markdown" / "Z.md").write_text("z", encoding="utf-8")
+
+        def fake_replace(src: object, dst: object) -> None:
+            raise OSError("simulando EXDEV cross-device")
+
+        monkeypatch.setattr(dl.os, "replace", fake_replace)
+        dl._archive_law("Z")
+        assert (isolate_state / "archive" / "markdown" / "Z.md").exists()
+        assert not (isolate_state / "markdown" / "Z.md").exists()
+
     def test_dry_run_does_not_download(
         self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
     ) -> None:

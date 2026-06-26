@@ -16,6 +16,7 @@ import hashlib
 import json
 import os
 import re
+import shutil
 import sys
 import time
 import unicodedata
@@ -450,10 +451,23 @@ def _archive_law(md_slug: str) -> list[str]:
         (CANONICAL_DIR / f"{md_slug}.json", ARCHIVE_DIR / "canonical" / f"{md_slug}.json"),
         (ORIGEN_DIR / f"{md_slug}.pdf", ARCHIVE_DIR / "origen-docs" / f"{md_slug}.pdf"),
     ]:
-        if src.exists():
-            dst.parent.mkdir(parents=True, exist_ok=True)
-            os.replace(src, dst)
-            moved.append(str(dst.relative_to(ROOT)))
+        if not src.exists():
+            continue
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        # #4: nunca pisar una versión ya archivada (un overwrite silencioso sería un
+        # borrado encubierto, contra la filosofía "no borrar" de archive/). Versiona.
+        final = dst
+        n = 1
+        while final.exists():
+            final = dst.with_name(f"{dst.stem}.{n}{dst.suffix}")
+            n += 1
+        # #5: os.replace es atómico en el mismo FS; si archive/ cae en otro FS
+        # (OSError EXDEV) cae a shutil.move (copia+borra, no atómico pero robusto).
+        try:
+            os.replace(src, final)
+        except OSError:
+            shutil.move(str(src), str(final))
+        moved.append(str(final.relative_to(ROOT)))
     return moved
 
 
@@ -480,6 +494,16 @@ def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
     except (json.JSONDecodeError, OSError) as e:
         print(f"❌ {CATALOG_PATH.name} ilegible/corrupto ({e}).", file=sys.stderr)
         return 2
+    # #2: estado.json y catalogo.json deben listar las MISMAS leyes — run_apply los
+    # mantiene en sync. Una divergencia indica que se corrió el path legacy de
+    # download (reescribe catálogo sin tocar estado); avisar para no archivar a ciegas.
+    desync = {e["md_slug"] for e in state} ^ {c["md_slug"] for c in catalog}
+    if desync:
+        print(
+            f"⚠️  estado.json y catalogo.json divergen en {len(desync)} md_slug(s) "
+            f"— posible desync (¿se corrió el download full?). Revisa con cuidado.",
+            file=sys.stderr,
+        )
     try:
         laws = fetch_index()
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError) as e:
@@ -558,6 +582,7 @@ def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
     delta_slugs: list[str] = []
     drift_lines: list[str] = []
     renamed: list[tuple[str, str]] = []
+    archive_after: list[str] = []  # #3: artefactos a mover DESPUÉS de persistir ledgers
     failed = 0
     for key, frm, to in targets:
         law = law_by_key[key]
@@ -579,7 +604,7 @@ def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
         if old_md and old_md != new_md:
             renamed.append((old_md, new_md))
             cat_by_md.pop(old_md, None)
-            _archive_law(old_md)
+            archive_after.append(old_md)  # #3: mover tras persistir
         # Avanzar estado (proyección con ref_abbrev) + upsert del catálogo (B1)
         # con la entrada completa fresca (gen_indice/pdf_to_md la leen).
         state_by_key[key] = {**new_by_key[key], "pdf_sha256": sha, "snapshot_date": today}
@@ -594,19 +619,27 @@ def run_apply(dry_run: bool = False, delta_path: Path | None = None) -> int:
         drift_lines.append(f"{new_md}: {frm} -> {to}")
         time.sleep(BETWEEN_DOWNLOADS_SLEEP_SECS)
 
-    # Archivar abrogadas/bajas: mover artefactos + quitar de catálogo y estado.
+    # Archivar abrogadas/bajas: quitar de catálogo y estado AHORA; el move de
+    # artefactos se difiere a después de persistir (#3).
     archived: list[tuple[str, str]] = []
     for akey, amd, why in to_archive:
-        _archive_law(amd)
         cat_by_md.pop(amd, None)
         if akey is not None:
             state_by_key.pop(akey, None)
         archived.append((amd, why))
+        archive_after.append(amd)
 
     # Persistencia ATÓMICA de ambos ledgers (B2): si algo muere a media escritura
     # no quedan estado.json/catalogo.json truncados (no están en git).
     save_state(sorted(state_by_key.values(), key=lambda e: e["key"]))
     _atomic_write_json(CATALOG_PATH, list(cat_by_md.values()))
+
+    # #3: mover los artefactos a archive/ DESPUÉS de persistir los ledgers. Si algo
+    # muere aquí, a lo sumo quedan .md/.json en su sitio sin entrada en el catálogo
+    # (huérfanos que gen_indice ignora, re-archivables), nunca el catálogo apuntando
+    # a archivos ya movidos.
+    for slug in archive_after:
+        _archive_law(slug)
 
     out.write_text(("\n".join(delta_slugs) + "\n") if delta_slugs else "", encoding="utf-8")
     drift = out.parent / "expected_drift.txt"
