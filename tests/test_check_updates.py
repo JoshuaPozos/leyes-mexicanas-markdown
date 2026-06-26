@@ -218,6 +218,18 @@ class TestRunCheck:
         monkeypatch.setattr(dl, "fetch_index", lambda: fresh)
         assert dl.run_check() == 0
 
+    def test_report_includes_ref_link_for_changed(self) -> None:
+        # Enriquecimiento (costo cero): el reporte linkea al historial ref/<abrev>.htm.
+        diff = {
+            "changed": [{"key": "cff", "md_slug": "CFF_x", "from": "a",
+                         "to": "b", "ref_abbrev": "cff"}],
+            "added": [],
+            "removed": [],
+        }
+        report = dl._format_delta_report(diff)
+        assert "ref/cff.htm" in report
+        assert "historial" in report
+
     def test_does_not_mutate_state_or_create_catalog(
         self, isolate_state: Path, monkeypatch: pytest.MonkeyPatch
     ) -> None:

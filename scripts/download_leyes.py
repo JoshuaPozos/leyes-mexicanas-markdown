@@ -339,6 +339,7 @@ def diff_catalog(old_entries: list[dict], new_entries: list[dict]) -> dict:
                 "from": old_e.get("ultima_reforma_raw", ""),
                 "to": new_e.get("ultima_reforma_raw", ""),
                 "pdf_url": new_e.get("pdf_url"),
+                "ref_abbrev": new_e.get("ref_abbrev"),
             })
     return {"changed": changed, "added": added, "removed": removed}
 
@@ -374,6 +375,14 @@ def save_state(entries: list[dict]) -> None:
     _atomic_write_json(STATE_PATH, entries)
 
 
+def _ref_link(entry: dict) -> str:
+    """Enriquecimiento: link al historial de reformas (ref/<abrev>.htm) de la ley
+    — un clic para ver QUÉ artículos cambiaron. Costo cero (no fetchea). '' si no
+    hay ref_abbrev."""
+    ref = entry.get("ref_abbrev")
+    return f" · [historial]({BASE_URL}ref/{ref}.htm)" if ref else ""
+
+
 def _format_delta_report(diff: dict) -> str:
     """Reporte markdown legible del diff de deltas."""
     changed, added, removed = diff["changed"], diff["added"], diff["removed"]
@@ -388,13 +397,16 @@ def _format_delta_report(diff: dict) -> str:
     )
     if changed:
         lines += ["", f"## Cambiadas ({len(changed)})"]
-        lines += [f"- `{c['key']}` ({c['md_slug']}): «{c['from']}» → «{c['to']}»" for c in changed]
+        lines += [
+            f"- `{c['key']}` ({c['md_slug']}): «{c['from']}» → «{c['to']}»{_ref_link(c)}"
+            for c in changed
+        ]
     if added:
         lines += ["", f"## Altas ({len(added)})"]
-        lines += [f"- `{a['key']}` ({a['md_slug']})" for a in added]
+        lines += [f"- `{a['key']}` ({a['md_slug']}){_ref_link(a)}" for a in added]
     if removed:
         lines += ["", f"## Bajas ({len(removed)})"]
-        lines += [f"- `{r['key']}` ({r['md_slug']})" for r in removed]
+        lines += [f"- `{r['key']}` ({r['md_slug']}){_ref_link(r)}" for r in removed]
     return "\n".join(lines)
 
 

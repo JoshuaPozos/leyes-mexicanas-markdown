@@ -2,6 +2,30 @@
 
 ---
 
+## Detección de deltas upstream — F0-F5 ✅ (cerrado 2026-06-26)
+
+El corpus se mantiene al día solo: detecta · descarga · reconvierte · archiva abrogadas.
+
+- [x] **F0** — fix persistencia sha256 + backfill catálogo (316/316).
+- [x] **F1** — `estado.json` + `diff_catalog()` + `--init-snapshot`/`--check` (exit 0/10/2).
+- [x] **F2** — `ref_abbrev` como llave de join semántica (strip de año).
+- [x] **F3** — `--apply` (descarga+avanza estado/catálogo) + `batch_convert --only-slugs`.
+- [x] **F4** — detección de abrogación + archivado a `archive/` + hardening (atomicidad/overwrite/EXDEV).
+- [x] **F5** — watchdog CI (`freshness.yml`, verificado que alcanza diputados) + enriquecimiento (link a historial) + docs.
+- [x] 1ª corrida real: corpus 315 → 316 (14 reformas + 2 altas + 1 abrogada archivada).
+
+### Pendientes del detector (diferidos, no bloqueantes)
+
+- [ ] Parser completo de `ref/<abrev>.htm` (artículos/tipo de acción) — marginal vs carga al server gov.
+- [ ] Continuación multi-página de tablas (LIGIE: 87 % headers no-semánticos), merge de filas-fragmento.
+
+### Resultado
+
+- Suite: 351 → **407 tests**. ruff + mypy clean. Baseline de regresión: 316/316.
+- Cada fase corpus-mutante pasó por revisión adversarial (workflows de agentes).
+
+---
+
 ## Sprint 3.0 — Tablas vectoriales y honestidad OCR ✅ (cerrado 2026-06-23)
 
 ### 3.0 — Tablas vectoriales nativas ✅

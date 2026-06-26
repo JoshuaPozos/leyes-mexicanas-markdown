@@ -1,8 +1,9 @@
 # 🇲🇽 mx-md — Leyes mexicanas en Markdown y JSON canónico
 
-Las **315 leyes federales vigentes** de México en **Markdown estructurado** y **JSON canónico (AST)**, listas para agentes de IA, RAG, búsqueda semántica, APIs legales o cualquier herramienta que consuma texto o datos estructurados.
+Las **316 leyes federales vigentes** de México en **Markdown estructurado** y **JSON canónico (AST)**, listas para agentes de IA, RAG, búsqueda semántica, APIs legales o cualquier herramienta que consuma texto o datos estructurados.
 
-- **37,939 artículos** · **58,310 fracciones** · **35,176 notas de reforma** · **1,258 tablas vectoriales** (+ OCR honesto)
+- **38,161 artículos** · estructura completa (Títulos, Capítulos, fracciones, incisos, notas de reforma) · **tablas vectoriales nativas** (+ OCR honesto)
+- **Se mantiene al día** con un detector de deltas que vigila la fuente y actualiza solo las leyes reformadas — ver [Mantener el corpus al día](#-mantener-el-corpus-al-día-detección-de-deltas).
 - Fuente oficial: [Cámara de Diputados — Leyes Federales Vigentes](https://www.diputados.gob.mx/LeyesBiblio/index.htm)
 
 👉 **[Ver índice completo de leyes](INDICE.md)**
@@ -28,7 +29,7 @@ El **JSON es la fuente de verdad**; el Markdown es una de sus vistas.
 
 ## 📊 Progreso
 
-**315/315 leyes** — catálogo completo.
+**316 leyes vigentes** — catálogo completo y **mantenido al día** vía el detector de deltas (las abrogadas se mueven a `archive/`).
 
 Consulta el [CHANGELOG](CHANGELOG.md) y el [INDICE](INDICE.md) para el estado actualizado ley por ley.
 
@@ -41,24 +42,29 @@ mx-md/
 ├── canonical/              # JSON canónico (AST) — fuente de verdad
 │   ├── CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.json
 │   ├── LISR_ley_del_impuesto_sobre_la_renta.json
-│   └── ...                 # 315 archivos, uno por ley
+│   └── ...                 # 316 archivos, uno por ley vigente
 ├── markdown/               # Markdown renderizado desde el JSON
 │   ├── CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.md
 │   ├── LISR_ley_del_impuesto_sobre_la_renta.md
 │   └── ...                 # Convención: {ABREV}_{nombre_snake_case}.md
+├── archive/                # Leyes abrogadas / bajas (markdown + canonical), fuera del set vigente
 ├── schema/
 │   ├── law_ast.schema.json # JSON Schema del AST canónico
 │   └── example_cpeum_fragment.json
 ├── scripts/
-│   ├── download_leyes.py   # Descarga todos los PDFs desde diputados.gob.mx
-│   ├── batch_convert.py    # Convierte todos los PDFs a JSON + Markdown (paralelo)
+│   ├── download_leyes.py   # Descarga PDFs + detección de deltas (--check/--apply/--init-snapshot)
+│   ├── batch_convert.py    # Convierte PDFs a JSON + Markdown (paralelo; --only-slugs incremental)
 │   ├── pdf_to_md.py        # Conversión individual (CLI)
 │   ├── gen_indice.py       # Genera INDICE.md con stats por ley
 │   ├── constants.py        # Constantes operativas con docstrings (umbrales, timeouts)
 │   └── _log.py             # Logging estructurado (MX_MD_LOG_LEVEL)
-├── tests/                  # Suite de pytest (351 tests, cobertura 48 %)
+├── .github/workflows/
+│   ├── ci.yml              # CI: ruff + mypy + pytest (Py 3.10-3.12)
+│   └── freshness.yml       # Watchdog: --check semanal, abre issue si hay leyes desactualizadas
+├── tests/                  # Suite de pytest (407 tests, cobertura 48 %)
 ├── origen-docs/            # PDFs descargados (no versionados)
-├── catalogo.json           # Catálogo de leyes con SHA-256 por PDF
+├── catalogo.json           # Catálogo de leyes vigentes con SHA-256 por PDF
+├── estado.json             # Ledger de frescura del detector de deltas (última reforma + sha por ley)
 ├── INDICE.md               # Índice navegable con conteo de artículos
 ├── CHANGELOG.md            # Historial de cambios
 ├── pyproject.toml          # Empaquetado y dependencias (extras: [dev])
@@ -154,6 +160,36 @@ no CPU puro).
 ```bash
 python scripts/gen_indice.py
 ```
+
+---
+
+## 🔄 Mantener el corpus al día (detección de deltas)
+
+Las leyes se reforman constantemente. En vez de regenerar las 316 leyes cada vez, un **detector de deltas** compara el índice vivo de diputados contra un ledger versionado (`estado.json`) y actualiza **solo lo que cambió**.
+
+```bash
+# Una vez: graba el ledger de frescura desde el índice vivo (sin descargar PDFs)
+python scripts/download_leyes.py --init-snapshot
+
+# Read-only: ¿qué leyes cambiaron, se agregaron o se abrogaron? (exit 0=limpio, 10=hay deltas, 2=inconcluso)
+python scripts/download_leyes.py --check
+
+# Aplica: descarga SOLO las leyes cambiadas+altas, archiva las abrogadas, y escribe delta.txt
+python scripts/download_leyes.py --apply
+
+# Reconvierte SOLO las leyes del delta (force overwrite); LIGIE necesita timeout amplio
+python scripts/batch_convert.py --only-slugs delta.txt --timeout 1200
+```
+
+- **`estado.json`** es el ledger: por ley guarda su última reforma cruda, su `ref_abbrev` (id del historial de reformas) y su `sha256`. Es la línea base contra la que se diffea.
+- **Leyes abrogadas** (marcadas `Ley Abrogada` / `numero=A` upstream, p.ej. una ley reemplazada por otra) se mueven a **`archive/`** — salen del set vigente sin borrarse.
+- **Watchdog automático**: `.github/workflows/freshness.yml` corre `--check` cada semana y abre/actualiza un *issue* (label `freshness`) cuando hay leyes desactualizadas.
+
+### Notas operativas
+
+- **LIGIE** (ley de aranceles) tarda ~8 min en convertir y puede exceder timeouts cortos → usa `--timeout 1200` o conviértela aparte.
+- **`--apply` muta el corpus** (markdown/canonical/catálogo/estado). Tras correrlo, revisa el diff y regenera el baseline de regresión antes de commitear.
+- El detector es **read-only y resumible**: `--check` nunca escribe; un `--apply` interrumpido se re-corre sin daño (los ledgers se persisten atómicamente, antes de mover archivos).
 
 ---
 
@@ -260,7 +296,7 @@ pip install -e ".[dev]"     # incluye pytest, pytest-cov, ruff, mypy
 ### Tests
 
 ```bash
-pytest tests/ -q             # suite completa (~8 s, 351 tests)
+pytest tests/ -q             # suite completa (~10 s, 407 tests)
 pytest tests/ --cov=scripts  # con cobertura (48 % global)
 ```
 

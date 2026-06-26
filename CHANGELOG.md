@@ -2,6 +2,53 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Detección de deltas upstream — F0-F5] — 2026-06-26
+
+El corpus se **mantiene al día solo**: detecta qué leyes cambiaron upstream,
+re-descarga y re-convierte únicamente los deltas, y archiva las abrogadas — en vez
+de regenerar las 316 leyes. Suite 351 → 407 tests. Cada fase corpus-mutante pasó
+por revisión adversarial (workflows de agentes) que atrapó bugs reales antes de
+producción.
+
+### F0-F2 — fundamentos del detector
+
+- Fix de persistencia de `sha256` + backfill del catálogo (316/316).
+- Nuevo ledger versionado **`estado.json`** + función pura `diff_catalog()`
+  (señal = última reforma cruda, robusta para casos no-DOF: SCJN, "Sin reforma").
+- Subcomandos **`--init-snapshot`** (bootstrap del ledger) y **`--check`**
+  (read-only; exit 0=limpio / 10=deltas / 2=inconcluso; guardia de cordura).
+- Llave de join semántica `ref_abbrev` (id del historial `ref/<abrev>.htm`,
+  estable ante renombrados del PDF), con strip de sufijo de año.
+
+### F3 — actualización incremental
+
+- **`--apply`**: descarga SOLO cambiadas+altas, avanza estado **y catálogo**
+  (fuente de verdad de `gen_indice` y `pdf_to_md`), escribe `delta.txt` +
+  `expected_drift.txt`.
+- **`batch_convert.py --only-slugs FILE`**: reconvierte solo los slugs del delta
+  (sin saltar por existencia, sin pre-borrar → no pierde datos si la conversión falla).
+- Escritura **atómica** de los ledgers; manejo de renombrados de `md_slug`.
+
+### F4 — abrogación + archivado
+
+- Detección de abrogación (`Ley Abrogada` case-insensitive o `numero=A`); las
+  leyes abrogadas/bajas se mueven a **`archive/`** (sin borrar) y salen del catálogo
+  y el estado. Resolvió el caso real de LFC (Cinematografía), reemplazada por LFCA.
+- Hardening: persistir ledgers **antes** de mover artefactos, versionado en `archive/`
+  en vez de sobrescribir, fallback `shutil.move` cross-FS.
+
+### F5 — automatización + enriquecimiento
+
+- **Watchdog** `.github/workflows/freshness.yml`: cron semanal corre `--check`
+  y abre/actualiza un *issue* (label `freshness`) cuando hay leyes desactualizadas.
+  Verificado: GitHub Actions alcanza diputados.gob.mx.
+- Reportes enriquecidos con link al historial de reformas (`ref/<abrev>.htm`) por ley.
+
+### Actualización del corpus (1ª corrida real)
+
+- 14 reformas aplicadas (CPEUM, CFF, LFT, LIGIE, …) + 2 altas (LFCA, LFIIEDB) +
+  1 abrogada archivada (LFC). **Corpus 315 → 316 leyes vigentes.**
+
 ## [Sprint 3.0 — Tablas vectoriales y honestidad OCR] — 2026-06-23
 
 Rescate de las tablas que el pipeline perdía y reemplazo de la basura OCR por
